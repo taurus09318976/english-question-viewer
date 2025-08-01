@@ -213,20 +213,20 @@ class EnglishQuestionViewer {
             
             // 이미지 정보 가져오기
             const imageInfo = this.getImageInfo(item.imageIds, data.images);
-            const imageInfoHtml = imageInfo.length > 0 
-                ? `<div class="image-info" style="margin-top: 5px; font-size: 0.85rem; color: #666;">
-                     📄 ${imageInfo.map(img => img.file_name).join(', ')}
-                   </div>`
-                : '';
+            console.log('Debug - Item:', item.id, 'ImageIds:', item.imageIds, 'Found Images:', imageInfo);
+            
+            // 임시 테스트: 항상 표시되는 고정 텍스트
+            const imageInfoHtml = `<div style="margin-top: 5px; font-size: 0.85rem; color: #666; background: #f0f4ff; padding: 5px; border-radius: 3px;">
+                📄 테스트: ENG_3353111026223547757_PAGE_0000.png (고정값)
+                <br>실제 데이터: ${imageInfo.length > 0 ? imageInfo.map(img => img.file_name).join(', ') : '없음'}
+            </div>`;
             
             questionHeader.innerHTML = `
-                <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-                    <div>
-                        <span class="question-number">문항 ${item.id || index + 1}</span>
-                        ${imageInfoHtml}
-                    </div>
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 5px;">
+                    <span class="question-number">문항 ${item.id || index + 1}</span>
                     <span class="question-type">${item.answerType || 'Unknown'}</span>
                 </div>
+                ${imageInfoHtml}
             `;
             
             questionContainer.appendChild(questionHeader);
@@ -293,12 +293,21 @@ class EnglishQuestionViewer {
 
     // 이미지 정보 가져오기
     getImageInfo(imageIds, images) {
-        if (!imageIds || !images || imageIds.length === 0) return [];
+        console.log('getImageInfo called with:', { imageIds, imagesLength: images?.length });
         
-        return imageIds.map(imageId => {
+        if (!imageIds || !images || imageIds.length === 0) {
+            console.log('Early return: missing data');
+            return [];
+        }
+        
+        const result = imageIds.map(imageId => {
             const image = images.find(img => img.id === imageId);
+            console.log(`Looking for imageId ${imageId}:`, image ? `found ${image.file_name}` : 'not found');
             return image || null;
         }).filter(img => img !== null);
+        
+        console.log('getImageInfo result:', result);
+        return result;
     }
 
     // Annotation 콘텐츠 생성
