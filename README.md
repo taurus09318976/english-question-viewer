@@ -22,7 +22,10 @@
 ### 온라인 버전 (권장)
 
 배포된 웹사이트에 직접 접속하세요:
-[https://english-question-viewer.pages.dev](https://english-question-viewer.pages.dev)
+
+🌐 **[https://taurus09318976.github.io/english-question-viewer/](https://taurus09318976.github.io/english-question-viewer/)**
+
+> ⚠️ **참고**: 첫 배포 후 5-10분 정도 소요될 수 있습니다.
 
 ### 로컬 실행
 
