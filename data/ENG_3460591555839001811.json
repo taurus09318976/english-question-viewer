@@ -1,0 +1,3802 @@
+{
+    "info": {
+        "html_url": "",
+        "provider": "crowdworks"
+    },
+    "items": [
+        {
+            "id": 1,
+            "imageIds": [
+                0
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -1
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    0,
+                    1,
+                    2,
+                    3
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -2
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "imageIds": [
+                0
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -3
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -4
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "imageIds": [
+                1
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -5
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    8,
+                    9,
+                    10,
+                    11
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -6
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "imageIds": [
+                1
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -7
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    12,
+                    13,
+                    14,
+                    15
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -8
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "imageIds": [
+                2
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -9
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    16,
+                    17,
+                    18,
+                    19
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -10
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "imageIds": [
+                2
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -11
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    20,
+                    21,
+                    22,
+                    23
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -12
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "imageIds": [
+                3
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -13
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    24,
+                    25,
+                    26,
+                    27
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -14
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "imageIds": [
+                3
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -15
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    28,
+                    29,
+                    30,
+                    31
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -16
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "imageIds": [
+                4
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -17
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    32,
+                    33,
+                    34,
+                    35
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -18
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "imageIds": [
+                4
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -19
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    36,
+                    37,
+                    38,
+                    39
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -20
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "imageIds": [
+                5
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -21
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    40,
+                    41,
+                    42,
+                    43
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -22
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "imageIds": [
+                5
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -23
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    44,
+                    45,
+                    46,
+                    47
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -24
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "imageIds": [
+                6
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -25
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    48,
+                    49,
+                    50,
+                    51
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -26
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "imageIds": [
+                6
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -27
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    52,
+                    53,
+                    54,
+                    55
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -28
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "imageIds": [
+                7
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -29
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    56,
+                    57,
+                    58,
+                    59
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -30
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "imageIds": [
+                7
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -31
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    60,
+                    61,
+                    62,
+                    63
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -32
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "imageIds": [
+                8
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -33
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    64,
+                    65,
+                    66,
+                    67
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -34
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "imageIds": [
+                8
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -35
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    68,
+                    69,
+                    70,
+                    71
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -36
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "imageIds": [
+                9
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -37
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    72,
+                    73,
+                    74,
+                    75
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -38
+                ]
+            }
+        }
+    ],
+    "images": [
+        {
+            "id": 0,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3460591555839001811/ENG_3460591555839001811_PAGE_0000.png",
+            "file_name": "ENG_3460591555839001811_PAGE_0000.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 1,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3460591555839001811/ENG_3460591555839001811_PAGE_0001.png",
+            "file_name": "ENG_3460591555839001811_PAGE_0001.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 2,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3460591555839001811/ENG_3460591555839001811_PAGE_0002.png",
+            "file_name": "ENG_3460591555839001811_PAGE_0002.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 3,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3460591555839001811/ENG_3460591555839001811_PAGE_0003.png",
+            "file_name": "ENG_3460591555839001811_PAGE_0003.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 4,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3460591555839001811/ENG_3460591555839001811_PAGE_0004.png",
+            "file_name": "ENG_3460591555839001811_PAGE_0004.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 5,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3460591555839001811/ENG_3460591555839001811_PAGE_0005.png",
+            "file_name": "ENG_3460591555839001811_PAGE_0005.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 6,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3460591555839001811/ENG_3460591555839001811_PAGE_0006.png",
+            "file_name": "ENG_3460591555839001811_PAGE_0006.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 7,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3460591555839001811/ENG_3460591555839001811_PAGE_0007.png",
+            "file_name": "ENG_3460591555839001811_PAGE_0007.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 8,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3460591555839001811/ENG_3460591555839001811_PAGE_0008.png",
+            "file_name": "ENG_3460591555839001811_PAGE_0008.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 9,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3460591555839001811/ENG_3460591555839001811_PAGE_0009.png",
+            "file_name": "ENG_3460591555839001811_PAGE_0009.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 10,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3460591555839001811/ENG_3460591555839001811_PAGE_0010.png",
+            "file_name": "ENG_3460591555839001811_PAGE_0010.png",
+            "page_type": "정답지",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 11,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3460591555839001811/ENG_3460591555839001811_PAGE_0011.png",
+            "file_name": "ENG_3460591555839001811_PAGE_0011.png",
+            "page_type": "정답지",
+            "bboxCheckStatus": true
+        }
+    ],
+    "licenses": [],
+    "categories": [
+        {
+            "id": 0,
+            "name": "[공통] 발문",
+            "objectColor": "#FF9700",
+            "supercategory": "layout"
+        },
+        {
+            "id": 1,
+            "name": "[그룹] 공통 본문",
+            "objectColor": "#875000",
+            "supercategory": "layout"
+        },
+        {
+            "id": 2,
+            "name": "[단일] 지시문",
+            "objectColor": "#FF0000",
+            "supercategory": "layout"
+        },
+        {
+            "id": 3,
+            "name": "[단일] 본문",
+            "objectColor": "#B62828",
+            "supercategory": "layout"
+        },
+        {
+            "id": 4,
+            "name": "[공통] 보기",
+            "objectColor": "#2E00FF",
+            "supercategory": "layout"
+        },
+        {
+            "id": 5,
+            "name": "[공통] 조건",
+            "objectColor": "#00DE22",
+            "supercategory": "layout"
+        },
+        {
+            "id": 6,
+            "name": "[답안] 객관식",
+            "objectColor": "#BD00FF",
+            "supercategory": "layout"
+        },
+        {
+            "id": 7,
+            "name": "[답안] 주관식",
+            "objectColor": "#FF00A2",
+            "supercategory": "layout"
+        },
+        {
+            "id": 8,
+            "name": "[답안] 공백 선지",
+            "objectColor": "#6A7500",
+            "supercategory": "layout"
+        },
+        {
+            "id": 9,
+            "name": "[정답] 정답/해설",
+            "objectColor": "#DE00CA",
+            "supercategory": "layout"
+        },
+        {
+            "id": 10,
+            "name": "[공통] 도표",
+            "objectColor": "#00D8FF",
+            "supercategory": "layout"
+        },
+        {
+            "id": 11,
+            "name": "[공통] 그림",
+            "objectColor": "#005C6D",
+            "supercategory": "layout"
+        },
+        {
+            "id": 12,
+            "name": "[그룹] 공백 지시문",
+            "objectColor": "#C6AC62",
+            "supercategory": "layout"
+        },
+        {
+            "id": 13,
+            "name": "[단일] 공백 지시문",
+            "objectColor": "#FFCBA5",
+            "supercategory": "layout"
+        },
+        {
+            "id": 14,
+            "name": "[각주] 단어",
+            "objectColor": "#00FFD5",
+            "supercategory": "layout"
+        },
+        {
+            "id": 99,
+            "name": "[그룹] 문항 구분",
+            "objectColor": "#7A3245",
+            "supercategory": "layout"
+        },
+        {
+            "id": 100,
+            "name": "[단일] 문항 구분",
+            "objectColor": "#32517A",
+            "supercategory": "layout"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "area": 36431.252,
+            "bbox": [
+                344.55915916542267,
+                400.1124642753951,
+                741.6635971766275,
+                49.12099276111684
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"0\">다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.</span></div>",
+            "text": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1389351448247672,
+                0.11415476869483455,
+                0.2990579020873498,
+                0.014014548576638185
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1,
+            "area": 979335.468,
+            "bbox": [
+                357.29420886243247,
+                535.5121205756697,
+                824.0534478683646,
+                1188.4368308351181
+            ],
+            "html": "<div class=\"contents question\"><span class=\"1\">As the parent of a gifted child, you need to be aware of a certain common parent trap. Of course, you are a proud parent, and you should be. While it is very easy to talk nonstop about your little genius and his or her remarkable behavior, this can be very stressful on your child. It is extremely important to limit your bragging behavior to your very close friends or your parents. Gifted children feel pressured when their parents show them off too much. This behavior creates expectations that they may not be able to live up to, and also creates a false sense of self for your child. You want your child to be who they are, not who they seem to be as defined by their incredible achievements. If not, you could end up with a driven perfectionist child or perhaps a drop-out, or worse. Make sure to focus on __________ instead of just showing off their talents.</span></div>",
+            "text": "As the parent of a gifted child, you need to be aware of a certain common parent trap. Of course, you are a proud parent, and you should be. While it is very easy to talk nonstop about your little genius and his or her remarkable behavior, this can be very stressful on your child. It is extremely important to limit your bragging behavior to your very close friends or your parents. Gifted children feel pressured when their parents show them off too much. This behavior creates expectations that they may not be able to live up to, and also creates a false sense of self for your child. You want your child to be who they are, not who they seem to be as defined by their incredible achievements. If not, you could end up with a driven perfectionist child or perhaps a drop-out, or worse. Make sure to focus on __________ instead of just showing off their talents.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14407024550904535,
+                0.15278519845240218,
+                0.33227961607595347,
+                0.33906899595866424
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2,
+            "area": 137498.837,
+            "bbox": [
+                367.99620169189177,
+                1772.1288229311301,
+                428.079713178371,
+                321.1991434689505
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"2\">① their achievements<br>② their weaknesses<br>③ their future goals<br>④ their personal growth<br>⑤ their intelligence</span></div>",
+            "text": "① their achievements\n② their weaknesses\n③ their future goals\n④ their personal growth\n⑤ their intelligence",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14838556519834345,
+                0.5056002347877689,
+                0.17261278757192378,
+                0.09164026917801726
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3,
+            "area": 14551.96,
+            "bbox": [
+                367.9962016918918,
+                2162.9211141516867,
+                679.5765446706639,
+                21.4132762312629
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14838556519834348,
+                0.6170958956210233,
+                0.27402280027042897,
+                0.006109351278534351
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4,
+            "area": 52132.653,
+            "bbox": [
+                1273.298402855241,
+                392.5552885225111,
+                749.1399999999999,
+                69.59000000000003
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"4\">다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.</span></div>",
+            "text": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5134267753448553,
+                0.11199865578388334,
+                0.30207258064516124,
+                0.019854493580599153
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5,
+            "area": 934734.283,
+            "bbox": [
+                1315.122567099038,
+                546.2187586913016,
+                797.2984657947163,
+                1172.3768736616707
+            ],
+            "html": "<div class=\"contents question\"><span class=\"5\">One valuable technique for getting out of helplessness, depression, and situations which are predominantly being run by the thought, &quot;I can&apos;t,&quot; is to choose to be with other persons who have resolved the problem with which we struggle. This is one of the great powers of self-help groups. When we are in a negative state, we have given a lot of energy to negative thought forms, and the positive thought forms are weak. Those who are in a higher vibration are free of the energy from their negative thoughts and have energized positive thought forms. Merely to be in their presence is beneficial. In some self-help groups, this is called &quot;hanging out with the winners.&quot; The benefit here is on the psychic level of consciousness, and there is a transfer of positive energy and relighting of one&apos;s own latent __________.</span></div>",
+            "text": "One valuable technique for getting out of helplessness, depression, and situations which are predominantly being run by the thought, \"I can't,\" is to choose to be with other persons who have resolved the problem with which we struggle. This is one of the great powers of self-help groups. When we are in a negative state, we have given a lot of energy to negative thought forms, and the positive thought forms are weak. Those who are in a higher vibration are free of the energy from their negative thoughts and have energized positive thought forms. Merely to be in their presence is beneficial. In some self-help groups, this is called \"hanging out with the winners.\" The benefit here is on the psychic level of consciousness, and there is a transfer of positive energy and relighting of one's own latent __________.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5302913577012249,
+                0.1558398740916695,
+                0.3214913168527082,
+                0.3344869824997634
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6,
+            "area": 120311.483,
+            "bbox": [
+                1293.7185814401191,
+                1772.1288229311301,
+                374.56974903107516,
+                321.1991434689505
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"6\">① psychic abilities<br>② emotional barriers<br>③ thought patterns<br>④ energy sources<br>⑤ social interactions</span></div>",
+            "text": "① psychic abilities\n② emotional barriers\n③ thought patterns\n④ energy sources\n⑤ social interactions",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5216607183226287,
+                0.5056002347877689,
+                0.15103618912543354,
+                0.09164026917801726
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7,
+            "area": 20768.054,
+            "bbox": [
+                1315.122567099038,
+                2146.8611569782393,
+                775.8944801357975,
+                26.766595289078396
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5302913577012249,
+                0.6125138821621224,
+                0.3128606774741119,
+                0.0076366890981678735
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8,
+            "area": 36492.925,
+            "bbox": [
+                353.18556623252175,
+                403.5823391929299,
+                731.5845090937207,
+                49.88203598247566
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"8\">다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.</span></div>",
+            "text": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14241353477117813,
+                0.11514474727330383,
+                0.2949937536668229,
+                0.014231679310264096
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9,
+            "area": 1059874.696,
+            "bbox": [
+                367.5750922671382,
+                558.3562364194277,
+                807.6846459662318,
+                1312.2382618186732
+            ],
+            "html": "<div class=\"contents question\"><span class=\"9\">Our emotions are thought to exist because they have contributed to our survival as a species. Fear has helped us avoid dangers, expressing anger helps us scare off threats, and expressing positive emotions helps us bond with others. From an evolutionary perspective, an emotion is a kind of &quot;program&quot; that, when triggered, directs many of our activities (including attention, perception, memory, movement, expressions, etc.). For example, fear makes us very attentive, narrows our perceptual focus to threatening stimuli, will cause us either to face a situation (fight) or avoid it (flight), and may cause us to remember an experience more acutely (so that we avoid the threat in the future). Regardless of the specific ways in which they activate our systems, the specific emotions we possess are thought to exist because they have helped us (as a species) survive challenges within our environment long ago. If they had not helped us adapt and survive, they would not have __________.</span></div>",
+            "text": "Our emotions are thought to exist because they have contributed to our survival as a species. Fear has helped us avoid dangers, expressing anger helps us scare off threats, and expressing positive emotions helps us bond with others. From an evolutionary perspective, an emotion is a kind of \"program\" that, when triggered, directs many of our activities (including attention, perception, memory, movement, expressions, etc.). For example, fear makes us very attentive, narrows our perceptual focus to threatening stimuli, will cause us either to face a situation (fight) or avoid it (flight), and may cause us to remember an experience more acutely (so that we avoid the threat in the future). Regardless of the specific ways in which they activate our systems, the specific emotions we possess are thought to exist because they have helped us (as a species) survive challenges within our environment long ago. If they had not helped us adapt and survive, they would not have __________.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14821576301094283,
+                0.15930277786574257,
+                0.32567929272831925,
+                0.37439037427066285
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10,
+            "area": 236844.329,
+            "bbox": [
+                354.9835908729928,
+                1970.676018644489,
+                820.6572983502613,
+                288.6032081843241
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"10\">① evolved with us<br>② created responses<br>③ developed intensely<br>④ triggered attention<br>⑤ bonded us with others</span></div>",
+            "text": "① evolved with us\n② created responses\n③ developed intensely\n④ triggered attention\n⑤ bonded us with others",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14313854470685194,
+                0.5622470809256744,
+                0.330910200947686,
+                0.0823404302950996
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11,
+            "area": 30819.054,
+            "bbox": [
+                354.3735191302126,
+                2310.005419121402,
+                823.4086958328628,
+                37.428623928171874
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14289254803637605,
+                0.6590600339861347,
+                0.33201963541647694,
+                0.01067863735468527
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12,
+            "area": 27849.27,
+            "bbox": [
+                1285.1747187571746,
+                410.88824562398395,
+                732.7721462838074,
+                38.00536074855296
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"12\">다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.</span></div>",
+            "text": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5182156124020865,
+                0.11722917136204963,
+                0.29547263963056747,
+                0.010843184236391714
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13,
+            "area": 1143764.807,
+            "bbox": [
+                1306.4802129281638,
+                554.6789467632669,
+                798.634958056246,
+                1432.1496891917586
+            ],
+            "html": "<div class=\"contents question\"><span class=\"13\">By improving accessibility of the workplace for workers that are typically at a disadvantage in the labour market, AI can improve inclusiveness in the workplace. AI-powered assistive devices to aid workers with visual, speech or hearing difficulties are becoming more widespread, improving the access to, and the quality of work for people with disabilities. For example, speech recognition solutions for people with dysarthric voices, or live captioning systems for deaf and hard of hearing people can facilitate communication with colleagues and access to jobs where inter-personal communication is necessary. AI can also enhance the capabilities of low-skilled workers, with potentially positive effects on their wages and career prospects. For example, AI&apos;s capacity to translate written and spoken word in real-time can improve the performance of non-native speakers in the workplace. Moreover, recent developments in AI-powered text generators can instantly improve the performance of lower-skilled individuals in domains such as __________.</span></div>",
+            "text": "By improving accessibility of the workplace for workers that are typically at a disadvantage in the labour market, AI can improve inclusiveness in the workplace. AI-powered assistive devices to aid workers with visual, speech or hearing difficulties are becoming more widespread, improving the access to, and the quality of work for people with disabilities. For example, speech recognition solutions for people with dysarthric voices, or live captioning systems for deaf and hard of hearing people can facilitate communication with colleagues and access to jobs where inter-personal communication is necessary. AI can also enhance the capabilities of low-skilled workers, with potentially positive effects on their wages and career prospects. For example, AI's capacity to translate written and spoken word in real-time can improve the performance of non-native speakers in the workplace. Moreover, recent developments in AI-powered text generators can instantly improve the performance of lower-skilled individuals in domains such as __________.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5268065374710338,
+                0.15825362247168814,
+                0.3220302250226798,
+                0.4086019084712578
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14,
+            "area": 252439.017,
+            "bbox": [
+                1286.4045891362407,
+                2069.757892043499,
+                820.6572983502615,
+                307.6058885585999
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"14\">① social interactions<br>② physical labor<br>③ writing and coding<br>④ financial analysis<br>⑤ human resources</span></div>",
+            "text": "① social interactions\n② physical labor\n③ writing and coding\n④ financial analysis\n⑤ human resources",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5187115278775164,
+                0.5905158037213977,
+                0.3309102009476861,
+                0.08776202241329525
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15,
+            "area": 27625.89,
+            "bbox": [
+                1286.6981220669431,
+                2423.4384577499177,
+                822.4490120381852,
+                33.58979070477017
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.518829887930219,
+                0.6914232404422019,
+                0.3316326661444295,
+                0.009583392497794626
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16,
+            "area": 52203.954,
+            "bbox": [
+                335.48,
+                394.52,
+                753.8477126596163,
+                69.25
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"16\">다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.</span></div>",
+            "text": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1352741935483871,
+                0.11255920114122682,
+                0.3039708518788775,
+                0.019757489300998573
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17,
+            "area": 1051385.154,
+            "bbox": [
+                363.6899120947132,
+                546.695872972838,
+                823.1586384461009,
+                1277.2570255564187
+            ],
+            "html": "<div class=\"contents question\"><span class=\"17\">Whales are highly efficient at carbon storage. When they die, each whale sequesters an average of 30 tons of carbon dioxide, taking that carbon out of the atmosphere for centuries. For comparison, the average tree absorbs only 48 pounds of CO₂ a year. From a climate perspective, each whale is the marine equivalent of thousands of trees. Whales also help sequester carbon by fertilizing the ocean as they release nutrient-rich waste, in turn increasing phytoplankton populations, which also sequester carbon-leading some scientists to call them the &quot;engineers of marine ecosystems.&quot; In 2019, economists from the International Monetary Fund (IMF) estimated the value of the ecosystem services provided by each whale at over $2 million USD. They called for a new global program of economic incentives to return whale populations to preindustrial whaling levels as one example of a __________ to climate change.</span></div>",
+            "text": "Whales are highly efficient at carbon storage. When they die, each whale sequesters an average of 30 tons of carbon dioxide, taking that carbon out of the atmosphere for centuries. For comparison, the average tree absorbs only 48 pounds of CO₂ a year. From a climate perspective, each whale is the marine equivalent of thousands of trees. Whales also help sequester carbon by fertilizing the ocean as they release nutrient-rich waste, in turn increasing phytoplankton populations, which also sequester carbon-leading some scientists to call them the \"engineers of marine ecosystems.\" In 2019, economists from the International Monetary Fund (IMF) estimated the value of the ecosystem services provided by each whale at over &#36;2 million USD. They called for a new global program of economic incentives to return whale populations to preindustrial whaling levels as one example of a __________ to climate change.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14664915810270693,
+                0.15597599799510356,
+                0.3319188058250407,
+                0.3644099930260824
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18,
+            "area": 174855.97,
+            "bbox": [
+                373.9473406111753,
+                1886.6473683720271,
+                541.0793542433873,
+                323.1614161046357
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"18\">① market-based strategy<br>② community-led movement<br>③ technology-driven innovation<br>④ nature-based solution<br>⑤ policy-based initiative</span></div>",
+            "text": "① market-based strategy\n② community-led movement\n③ technology-driven innovation\n④ nature-based solution\n⑤ policy-based initiative",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15078521798837716,
+                0.5382731436154143,
+                0.2181771589691078,
+                0.09220011871744242
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19,
+            "area": 15146.818,
+            "bbox": [
+                307.2740552541698,
+                2270.5084285890475,
+                843.6734954790261,
+                17.953412005812424
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.12390082873152009,
+                0.6477912777714829,
+                0.3401909255963815,
+                0.005122228817635499
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20,
+            "area": 44019.823,
+            "bbox": [
+                1271.4723358016277,
+                396.22916883138845,
+                746.2279245726338,
+                58.98978230481447
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"20\">다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.</span></div>",
+            "text": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5126904579845273,
+                0.11304683846829913,
+                0.30089835668251363,
+                0.016830180400802988
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21,
+            "area": 1018447.567,
+            "bbox": [
+                1294.551549963668,
+                541.2813529788119,
+                835.9804240916797,
+                1218.2672432516051
+            ],
+            "html": "<div class=\"contents question\"><span class=\"21\">Émilie du Châtelet, a French mathematician and physicist, was born in Paris in 1706. During her childhood, with her father&apos;s support, she was able to get mathematical and scientific education that most women of her time did not receive. In 1737, she submitted her paper on the nature of fire to a contest sponsored by the French Academy of Sciences, and it was published a year later. In her book, Institutions de Physique, Émilie du Châtelet explained the ideas of space and time in a way that is closer to what we understand in modern relativity than what was common during her time. Her most significant achievement was translating Isaac Newton&apos;s Principia into French near the end of her life. Émilie du Châtelet&apos;s work was not recognized in her time, but she is now remembered as a symbol of the Enlightenment and the __________ for women&apos;s participation in science.</span></div>",
+            "text": "Émilie du Châtelet, a French mathematician and physicist, was born in Paris in 1706. During her childhood, with her father's support, she was able to get mathematical and scientific education that most women of her time did not receive. In 1737, she submitted her paper on the nature of fire to a contest sponsored by the French Academy of Sciences, and it was published a year later. In her book, Institutions de Physique, Émilie du Châtelet explained the ideas of space and time in a way that is closer to what we understand in modern relativity than what was common during her time. Her most significant achievement was translating Isaac Newton's Principia into French near the end of her life. Émilie du Châtelet's work was not recognized in her time, but she is now remembered as a symbol of the Enlightenment and the __________ for women's participation in science.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5219965927272855,
+                0.1544311991380348,
+                0.3370888806821289,
+                0.34757981262527965
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22,
+            "area": 107698.282,
+            "bbox": [
+                1289.4228357054365,
+                1839.0565636847323,
+                335.93078391414133,
+                320.59664296094843
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"22\">① fight<br>② decline<br>③ success<br>④ controversy<br>⑤ journey</span></div>",
+            "text": "① fight\n② decline\n③ success\n④ controversy\n⑤ journey",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5199285627844502,
+                0.524695167955701,
+                0.13545596125570214,
+                0.09146837174349456
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23,
+            "area": 17258.033,
+            "bbox": [
+                1271.4723358016277,
+                2203.254379439869,
+                841.1091383499102,
+                20.518185149500823
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5126904579845273,
+                0.6286032466304904,
+                0.3391569106249638,
+                0.0058539757915836875
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 24,
+            "area": 35011.337,
+            "bbox": [
+                347.72999763263704,
+                405.30004928275986,
+                738.4800000000001,
+                47.410000000000025
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"24\">다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.</span></div>",
+            "text": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1402137087228375,
+                0.11563482147867614,
+                0.29777419354838713,
+                0.013526390870185456
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 25,
+            "area": 1169803.492,
+            "bbox": [
+                351.1078532018746,
+                532.5349800613486,
+                843.2684162467287,
+                1387.225548902196
+            ],
+            "html": "<div class=\"contents question\"><span class=\"25\">From an organizational viewpoint, one of the most fascinating examples of how any organization may contain many different types of culture is to recognize the functional operations of different departments within the organization. The varying departments and divisions within an organization will inevitably view any given situation from their own biased and prejudiced perspective. A department and its members will acquire &quot;tunnel vision&quot; which disallows them to see things as others see them. The very structure of organizations can create conflict. The choice of whether the structure is &quot;mechanistic&quot; or &quot;organic&quot; can have a profound influence on conflict management. A mechanistic structure has a vertical hierarchy with many rules, many procedures, and many levels of management involved in decision making. Organic structures are more horizontal in nature, where decision making is less centralized and __________ across the plane of the organization.</span></div>",
+            "text": "From an organizational viewpoint, one of the most fascinating examples of how any organization may contain many different types of culture is to recognize the functional operations of different departments within the organization. The varying departments and divisions within an organization will inevitably view any given situation from their own biased and prejudiced perspective. A department and its members will acquire \"tunnel vision\" which disallows them to see things as others see them. The very structure of organizations can create conflict. The choice of whether the structure is \"mechanistic\" or \"organic\" can have a profound influence on conflict management. A mechanistic structure has a vertical hierarchy with many rules, many procedures, and many levels of management involved in decision making. Organic structures are more horizontal in nature, where decision making is less centralized and __________ across the plane of the organization.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1415757472588204,
+                0.15193580030280987,
+                0.3400275871962616,
+                0.3957847500434225
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 26,
+            "area": 146667.393,
+            "bbox": [
+                378.55149988446055,
+                1964.7701113923122,
+                493.9856402865453,
+                296.9061876247506
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"26\">① controlled efficiently<br>② processed vertically<br>③ spread across departments<br>④ influenced externally<br>⑤ monitored consistently    </span></div>",
+            "text": "① controlled efficiently\n② processed vertically\n③ spread across departments\n④ influenced externally\n⑤ monitored consistently    ",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15264173382437926,
+                0.5605620859892474,
+                0.19918775818005857,
+                0.08470932599850231
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 27,
+            "area": 16665.514,
+            "bbox": [
+                347.1842216107193,
+                2342.413106059648,
+                836.6087844910849,
+                19.920318725099605
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.13999363774625778,
+                0.6683061643536798,
+                0.3373422518109213,
+                0.005683400492182484
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 28,
+            "area": 29281.191,
+            "bbox": [
+                1284.1918404097942,
+                408.9384846951573,
+                733.493829516385,
+                39.92015968063873
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"28\">다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.</span></div>",
+            "text": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5178192904878203,
+                0.11667289149647854,
+                0.2957636409340262,
+                0.011389489209882663
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 29,
+            "area": 1166342.535,
+            "bbox": [
+                1284.1918404097942,
+                529.4462712463217,
+                840.773539275584,
+                1387.2255489021957
+            ],
+            "html": "<div class=\"contents question\"><span class=\"29\">An excellent alternative to calming traffic is removing it. Some cities reserve an extensive network of lanes and streets for bikes, pedestrians, and the occasional service vehicle. This motivates people to travel by bike rather than by car, making streets safer for everyone. As bicycles become more popular in a city, planners can convert more automobile lanes and entire streets to accommodate more of them. Nevertheless, even the most bikeable cities still require motor vehicle lanes for taxis, emergency vehicles, and delivery trucks. Delivery vehicles are frequently a target of animus, but they are actually an essential component to making cities greener. A tightly packed delivery truck is a far more efficient transporter of goods than several hybrids carrying a few shopping bags each. Distributing food and other goods to neighborhood vendors allows them to operate smaller stores close to homes so that residents can walk, rather than drive, to get their __________.</span></div>",
+            "text": "An excellent alternative to calming traffic is removing it. Some cities reserve an extensive network of lanes and streets for bikes, pedestrians, and the occasional service vehicle. This motivates people to travel by bike rather than by car, making streets safer for everyone. As bicycles become more popular in a city, planners can convert more automobile lanes and entire streets to accommodate more of them. Nevertheless, even the most bikeable cities still require motor vehicle lanes for taxis, emergency vehicles, and delivery trucks. Delivery vehicles are frequently a target of animus, but they are actually an essential component to making cities greener. A tightly packed delivery truck is a far more efficient transporter of goods than several hybrids carrying a few shopping bags each. Distributing food and other goods to neighborhood vendors allows them to operate smaller stores close to homes so that residents can walk, rather than drive, to get their __________.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5178192904878203,
+                0.15105457096899333,
+                0.3390215884175742,
+                0.39578475004342245
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 30,
+            "area": 92624.175,
+            "bbox": [
+                1306.6457331500915,
+                1964.772829285621,
+                309.36474442187705,
+                299.40119760479047
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"30\">① transportation<br>② bicycles<br>③ groceries<br>④ shopping carts<br>⑤ vehicles</span></div>",
+            "text": "① transportation\n② bicycles\n③ groceries\n④ shopping carts\n⑤ vehicles",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5268732794960046,
+                0.5605628614224311,
+                0.12474384855720849,
+                0.08542116907411997
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 31,
+            "area": 16732.109,
+            "bbox": [
+                1286.6867173809383,
+                2337.363444426738,
+                838.2786623044408,
+                19.96007984031985
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5188252892665074,
+                0.6668654620333062,
+                0.3380155896388874,
+                0.005694744604941469
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 32,
+            "area": 29663.376,
+            "bbox": [
+                350.97999999999996,
+                408.65,
+                734.73,
+                40.37316563951316
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"32\">다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.</span></div>",
+            "text": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14152419354838708,
+                0.11659058487874464,
+                0.2962620967741936,
+                0.011518734847222014
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 33,
+            "area": 1103460.06,
+            "bbox": [
+                369.76,
+                559.3721316664028,
+                809.06,
+                1363.8791440440266
+            ],
+            "html": "<div class=\"contents question\"><span class=\"33\">You hear again and again that some of the greatest composers were misunderstood in their own day. Not everyone could understand the compositions of Beethoven, Brahms, or Stravinsky in their day. The reason for this initial lack of acceptance is unfamiliarity. The musical forms, or ideas expressed within them, were completely new. And yet, this is exactly one of the things that makes them so great. Effective composers have their own ideas. Have you ever seen the classic movie Amadeus? The composer Antonio Salieri is the &quot;host&quot; of this movie; he&apos;s depicted as one of the most famous non-great composers-he lived at the time of Mozart and was completely overshadowed by him. Now, Salieri wasn&apos;t a bad composer; in fact, he was a very good one. But he wasn&apos;t one of the world&apos;s great composers because his work wasn&apos;t original. What he wrote sounded just like what everyone else was composing at the time. He failed to create a distinct style that __________ his music from that of others.</span></div>",
+            "text": "You hear again and again that some of the greatest composers were misunderstood in their own day. Not everyone could understand the compositions of Beethoven, Brahms, or Stravinsky in their day. The reason for this initial lack of acceptance is unfamiliarity. The musical forms, or ideas expressed within them, were completely new. And yet, this is exactly one of the things that makes them so great. Effective composers have their own ideas. Have you ever seen the classic movie Amadeus? The composer Antonio Salieri is the \"host\" of this movie; he's depicted as one of the most famous non-great composers—he lived at the time of Mozart and was completely overshadowed by him. Now, Salieri wasn't a bad composer; in fact, he was a very good one. But he wasn't one of the world's great composers because his work wasn't original. What he wrote sounded just like what everyone else was composing at the time. He failed to create a distinct style that __________ his music from that of others.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1490967741935484,
+                0.15959261959098509,
+                0.3262338709677419,
+                0.38912386420656964
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 34,
+            "area": 73641.165,
+            "bbox": [
+                384.1385742251209,
+                2045.6427852831275,
+                256.59854767002867,
+                286.98979591836724
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"34\">① appreciated<br>② elevated<br>③ differentiated<br>④ contrasted<br>⑤ compared</span></div>",
+            "text": "① appreciated\n\n② elevated\n\n③ differentiated\n\n④ contrasted\n\n⑤ compared",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15489458638109715,
+                0.5836356020779251,
+                0.10346715631855995,
+                0.08188011295816469
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 35,
+            "area": 17204.411,
+            "bbox": [
+                355.7251216252808,
+                2377.021944400485,
+                816.6360553107049,
+                21.067415730337416
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14343754904245193,
+                0.6781802979744608,
+                0.329288731980123,
+                0.006010674958726795
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 36,
+            "area": 30979.197,
+            "bbox": [
+                1284.6799999999998,
+                407.7900000000001,
+                734.458687831428,
+                42.179632309769204
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"36\">다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.</span></div>",
+            "text": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.518016129032258,
+                0.11634522111269617,
+                0.29615269670622096,
+                0.012034131900076806
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 37,
+            "area": 1089665.566,
+            "bbox": [
+                1307.25,
+                558.7800000000002,
+                796.3295960426303,
+                1368.36
+            ],
+            "html": "<div class=\"contents question\"><span class=\"37\">Every time a new medium comes along-whether it&apos;s the invention of the printed book, or TV, or SNS-and you start to use it, it&apos;s like you are putting on a new kind of goggles, with their own special colors and lenses. Each set of goggles you put on makes you see things differently. So when you start to watch television, before you absorb the message of any particular TV show-whether it&apos;s Wheel of Fortune or The Wire-you start to see the world as being shaped like television itself. That&apos;s why Marshall McLuhan said that every time a new medium comes along-a new way for humans to communicate-it has buried in it a message. It is gently guiding us to see the world according to a new set of codes. The way information gets to you, McLuhan argued, is more important than the information itself. TV teaches you that the world is fast; that it&apos;s about surfaces and appearances. Therefore, understanding McLuhan&apos;s theory helps us to __________, rather than just focus on the content of the media.</span></div>",
+            "text": "Every time a new medium comes along—whether it's the invention of the printed book, or TV, or SNS—and you start to use it, it's like you are putting on a new kind of goggles, with their own special colors and lenses. Each set of goggles you put on makes you see things differently. So when you start to watch television, before you absorb the message of any particular TV show—whether it's Wheel of Fortune or The Wire—you start to see the world as being shaped like television itself. That's why Marshall McLuhan said that every time a new medium comes along—a new way for humans to communicate—it has buried in it a message. It is gently guiding us to see the world according to a new set of codes. The way information gets to you, McLuhan argued, is more important than the information itself. TV teaches you that the world is fast; that it's about surfaces and appearances. Therefore, understanding McLuhan's theory helps us to __________, rather than just focus on the content of the media.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.527116935483871,
+                0.15942368045649077,
+                0.32110064356557677,
+                0.3904022824536376
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 38,
+            "area": 283195.409,
+            "bbox": [
+                1318.0348757781965,
+                2030,
+                811.9600000000003,
+                348.77999999999975
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"38\">① recognize the value of communication<br>② see how different mediums shape our perception<br>③ create new and faster communication channels<br>④ understand the importance of media creators<br>⑤ ignore surface-level information in the media</span></div>",
+            "text": "① recognize the value of communication\n\n② see how different mediums shape our perception\n\n③ create new and faster communication channels\n\n④ understand the importance of media creators\n\n⑤ ignore surface-level information in the media",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5314656757170148,
+                0.579172610556348,
+                0.3274032258064517,
+                0.09950927246790292
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 39,
+            "area": 15643.362,
+            "bbox": [
+                1291.6976778553153,
+                2410.397020970122,
+                835.3555064353059,
+                18.726591760299925
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5208458378448853,
+                0.6877024310899064,
+                0.3368368977561717,
+                0.005342822185534929
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 40,
+            "area": 37998.007,
+            "bbox": [
+                348.24130283142904,
+                401.69456564525154,
+                740.232450878204,
+                51.33253318019575
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"40\">다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.</span></div>",
+            "text": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1404198801739633,
+                0.11460615282318161,
+                0.2984808269670177,
+                0.014645515885933168
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 41,
+            "area": 1069418.81,
+            "bbox": [
+                354.4999999999999,
+                528.930000000001,
+                840.32,
+                1272.632818232458
+            ],
+            "html": "<div class=\"contents question\"><span class=\"41\">Concepts are vital to human survival, but we must also be careful with them because concepts open the door to essentialism. They encourage us to see things that aren&apos;t present. Stuart Firestein opens his book, Ignorance, with an old proverb, &quot;It is very difficult to find a black cat in a dark room, especially when there is no cat.&quot; This statement beautifully sums up the search for essences. History has many examples of scientists who searched fruitlessly for an essence because they used the wrong concept to guide their hypotheses. Firestein gives the example of luminiferous ether, a mysterious substance that was thought to fill the universe so that light would have a medium to move through. The ether was a black cat, writes Firestein, and physicists had been theorizing in a dark room, and then experimenting in it, looking for evidence of a cat that __________.</span></div>",
+            "text": "Concepts are vital to human survival, but we must also be careful with them because concepts open the door to essentialism. They encourage us to see things that aren't present. Stuart Firestein opens his book, Ignorance, with an old proverb, \"It is very difficult to find a black cat in a dark room, especially when there is no cat.\" This statement beautifully sums up the search for essences. History has many examples of scientists who searched fruitlessly for an essence because they used the wrong concept to guide their hypotheses. Firestein gives the example of luminiferous ether, a mysterious substance that was thought to fill the universe so that light would have a medium to move through. The ether was a black cat, writes Firestein, and physicists had been theorizing in a dark room, and then experimenting in it, looking for evidence of a cat that __________.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14294354838709672,
+                0.1509072753209703,
+                0.33883870967741936,
+                0.36309067567259856
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 42,
+            "area": 130673.68,
+            "bbox": [
+                377.9011668977447,
+                1846.8894348729289,
+                442.19878619877716,
+                295.50890722653253
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"42\">① was misunderstood<br>② never existed<br>③ could be found later<br>④ had vanished<br>⑤ was difficult to observe</span></div>",
+            "text": "① was misunderstood\n\n② never existed\n\n③ could be found later\n\n④ had vanished\n\n⑤ was difficult to observe",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15237950278134868,
+                0.5269299386228042,
+                0.17830596217692626,
+                0.08431067253253424
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 43,
+            "area": 17789.455,
+            "bbox": [
+                351.2786875837021,
+                2217.3050456152678,
+                842.2386860546262,
+                21.12163143392354
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14164463209020245,
+                0.6326119958959394,
+                0.3396123734091235,
+                0.006026143062460354
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 44,
+            "area": 43536.738,
+            "bbox": [
+                1276.9973376732255,
+                398.13147943872883,
+                747.1634663358648,
+                58.26936198833033
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"44\">다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.</span></div>",
+            "text": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.514918281319849,
+                0.11358958043900966,
+                0.3012755912644616,
+                0.01662463965430252
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 45,
+            "area": 1467174.123,
+            "bbox": [
+                1282.5700000000002,
+                532.3200000000007,
+                840.3200000000002,
+                1745.9707289156586
+            ],
+            "html": "<div class=\"contents question\"><span class=\"45\">While social media attention is potentially an instrument to achieve ends like elite celebrity, some content creators desire ordinary fame as a social end in itself. Not unlike reality television stars, social media celebrities are often criticized for not having skills and talents associated with traditional, elite celebrity, such as acting or singing ability. This criticism highlights the fact that digital content creators face real barriers to crossing over to the sphere of elite celebrity. However, the criticism also misses the point that the phenomenon of ordinary celebrity reconstructs the meaning of fame. The elite celebrity is symbolized by the metaphor of the star, characterized by mystery and hierarchical distance and associated with naturalized qualities of talent and class. The ordinary celebrity attracts attention through regular and frequent interactions with other ordinary people. Achieving ordinary fame as a social media celebrity is like doing well at a game, because in this sphere, fame is nothing more nor less than relatively high scores on attention scales, the metrics of subscribers, followers, Likes, or clicks built into social media applications. The primary difference between elite and ordinary fame is the __________ through which attention is earned.</span></div>",
+            "text": "While social media attention is potentially an instrument to achieve ends like elite celebrity, some content creators desire ordinary fame as a social end in itself. Not unlike reality television stars, social media celebrities are often criticized for not having skills and talents associated with traditional, elite celebrity, such as acting or singing ability. This criticism highlights the fact that digital content creators face real barriers to crossing over to the sphere of elite celebrity. However, the criticism also misses the point that the phenomenon of ordinary celebrity reconstructs the meaning of fame. The elite celebrity is symbolized by the metaphor of the star, characterized by mystery and hierarchical distance and associated with naturalized qualities of talent and class. The ordinary celebrity attracts attention through regular and frequent interactions with other ordinary people. Achieving ordinary fame as a social media celebrity is like doing well at a game, because in this sphere, fame is nothing more nor less than relatively high scores on attention scales, the metrics of subscribers, followers, Likes, or clicks built into social media applications. The primary difference between elite and ordinary fame is the __________ through which attention is earned.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5171653225806452,
+                0.15187446504992888,
+                0.3388387096774194,
+                0.4981371551827842
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 46,
+            "area": 79369.188,
+            "bbox": [
+                1302.9016916642754,
+                2324.795186665577,
+                266.6769415981619,
+                297.6229883871065
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"46\">① method<br>② mystery<br>③ platform<br>④ status<br>⑤ environment</span></div>",
+            "text": "① method\n\n② mystery\n\n③ platform\n\n④ status\n\n⑤ environment",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5253635853484981,
+                0.6632796538275542,
+                0.1075310248379685,
+                0.08491383406194193
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 47,
+            "area": 19362.472,
+            "bbox": [
+                1287.0797241753517,
+                2686.4593479117775,
+                840.3201469064379,
+                23.041779746098655
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5189837597481257,
+                0.7664648638835314,
+                0.33883876891388626,
+                0.00657397424995682
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 48,
+            "area": 37460.89,
+            "bbox": [
+                347.33047702904776,
+                406.6874763414222,
+                740.7483803473013,
+                50.57167985927873
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"48\">다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.</span></div>",
+            "text": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1400526117052612,
+                0.1160306637208052,
+                0.2986888630432667,
+                0.014428439332176529
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 49,
+            "area": 976626.562,
+            "bbox": [
+                371.312199337804,
+                549.1971861237864,
+                805.8304752059792,
+                1211.9503945885006
+            ],
+            "html": "<div class=\"contents question\"><span class=\"49\">Why do we have the illusion that cramming for an exam is the best learning strategy? Because we are unable to differentiate between the various sections of our memory. Immediately after reading our textbook or our class notes, information is fully present in our mind. It sits in our conscious working memory, in an active form. We feel as if we know it, because it is present in our short-term storage space ... but this short-term section has nothing to do with the long-term memory that we will need in order to recall the same information a few days later. After a few seconds or minutes, working memory already starts disappearing, and after a few days, the effect becomes enormous: unless you retest your knowledge, memory vanishes. To get information into long-term memory, it is essential to study the material, then __________, rather than spend all your time studying.</span></div>",
+            "text": "Why do we have the illusion that cramming for an exam is the best learning strategy? Because we are unable to differentiate between the various sections of our memory. Immediately after reading our textbook or our class notes, information is fully present in our mind. It sits in our conscious working memory, in an active form. We feel as if we know it, because it is present in our short-term storage space ... but this short-term section has nothing to do with the long-term memory that we will need in order to recall the same information a few days later. After a few seconds or minutes, working memory already starts disappearing, and after a few days, the effect becomes enormous: unless you retest your knowledge, memory vanishes. To get information into long-term memory, it is essential to study the material, then __________, rather than spend all your time studying.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14972266102330806,
+                0.15668963940764236,
+                0.3249316432282174,
+                0.3457775733490729
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 50,
+            "area": 148661.971,
+            "bbox": [
+                379.76496656024426,
+                1848.5207486942486,
+                507.1660333464205,
+                293.1228861330328
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"50\">① test yourself<br>② memorize everything<br>③ write notes repeatedly<br>④ forget unnecessary details<br>⑤ organize information</span></div>",
+            "text": "① test yourself\n\n② memorize everything\n\n③ write notes repeatedly\n\n④ forget unnecessary details\n\n⑤ organize information",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1531310349033243,
+                0.5273953633935089,
+                0.204502432800976,
+                0.0836299247169851
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 51,
+            "area": 20012.188,
+            "bbox": [
+                376.9473774860975,
+                2178.2839955939103,
+                788.9249407610986,
+                25.366403607666143
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1519949102766522,
+                0.6214790287001171,
+                0.3181148954681849,
+                0.007237205023585205
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 52,
+            "area": 31129.608,
+            "bbox": [
+                1275.9006396492089,
+                405.46916960411113,
+                745.1445131683533,
+                41.776605101143275
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"52\">다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.</span></div>",
+            "text": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.514476064374681,
+                0.11568307264025995,
+                0.30046149724530374,
+                0.011919145535276255
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 53,
+            "area": 1085739.034,
+            "bbox": [
+                1293.9406572225691,
+                543.563579277865,
+                816.0657987814509,
+                1330.455259026688
+            ],
+            "html": "<div class=\"contents question\"><span class=\"53\">The discovery of mirror neurons has profoundly changed the way we think of a fundamental human capacity, learning by observation. As children, we learn a lot by observing what our parents and friends do. Newborns, in the first week of life, have an inborn tendency to stick out their tongue if their parents stick out theirs. Such imitation is not perfect. You may not see the tongue stick out each time you stick yours out at your newborn, but if you do it many times, the tongue will come out more often than if you do something different. Babies babble and later start to imitate the sounds their parents produce. Later still, they play with vacuum cleaners and hammers in imitation of their parents. Our modern cultures, in which we write, speak, read, build spaceships, and go to school, can work only because we are not restricted to the behavior we are born with or learn by trial and error. We can learn a lot by simply __________ others.</span></div>",
+            "text": "The discovery of mirror neurons has profoundly changed the way we think of a fundamental human capacity, learning by observation. As children, we learn a lot by observing what our parents and friends do. Newborns, in the first week of life, have an inborn tendency to stick out their tongue if their parents stick out theirs. Such imitation is not perfect. You may not see the tongue stick out each time you stick yours out at your newborn, but if you do it many times, the tongue will come out more often than if you do something different. Babies babble and later start to imitate the sounds their parents produce. Later still, they play with vacuum cleaners and hammers in imitation of their parents. Our modern cultures, in which we write, speak, read, build spaceships, and go to school, can work only because we are not restricted to the behavior we are born with or learn by trial and error. We can learn a lot by simply __________ others.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5217502650091005,
+                0.15508233360281454,
+                0.3290587898312302,
+                0.3795878057137484
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 54,
+            "area": 93681.023,
+            "bbox": [
+                1303.674951326328,
+                1956.4364207221345,
+                306.0246745430443,
+                306.1224489795916
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"54\">① imitating<br>② instructing<br>③ listening to<br>④ practicing with<br>⑤ observing</span></div>",
+            "text": "① imitating\n\n② instructing\n\n③ listening to\n\n④ practicing with\n\n⑤ observing",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5256753835993259,
+                0.5581844281660868,
+                0.1233970461867114,
+                0.08733878715537563
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 55,
+            "area": 10024.054,
+            "bbox": [
+                1319.3685243798172,
+                2317.5039246467813,
+                851.376338151802,
+                11.773940345368828
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5320034372499263,
+                0.6611994078878121,
+                0.34329691054508144,
+                0.0033591841213605786
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 56,
+            "area": 30168.88,
+            "bbox": [
+                350.62160167934206,
+                408.17193145215015,
+                736.8748998760359,
+                40.941658137154434
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"56\">다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.</span></div>",
+            "text": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1413796780965089,
+                0.11645418871673328,
+                0.29712697575646607,
+                0.011680929568375017
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 57,
+            "area": 1031228.914,
+            "bbox": [
+                355.73999999999995,
+                537.6300000000009,
+                828.98,
+                1243.9732128193436
+            ],
+            "html": "<div class=\"contents question\"><span class=\"57\">Have you ever been surprised to hear a recording of your own voice? You might have thought, &quot;Is that really what my voice sounds like?&quot; Maybe your accent is more pronounced in the recording than you realized, or your voice is higher than it seems to your own ears. This is of course quite a common experience. The explanation is actually fairly simple. There are two pathways through which we perceive our own voice when we speak. One is the route through which we perceive most external sounds, like waves that travel from the air through the outer, middle, and inner ear. But because our vocal cords vibrate when we speak, there is a second internal path. Vibrations are conducted through our bones and stimulate our inner ears directly. Lower frequencies are emphasized along this pathway. That makes your voice sound deeper and richer to yourself than it may sound to __________.</span></div>",
+            "text": "Have you ever been surprised to hear a recording of your own voice? You might have thought, \"Is that really what my voice sounds like?\" Maybe your accent is more pronounced in the recording than you realized, or your voice is higher than it seems to your own ears. This is of course quite a common experience. The explanation is actually fairly simple. There are two pathways through which we perceive our own voice when we speak. One is the route through which we perceive most external sounds, like waves that travel from the air through the outer, middle, and inner ear. But because our vocal cords vibrate when we speak, there is a second internal path. Vibrations are conducted through our bones and stimulate our inner ears directly. Lower frequencies are emphasized along this pathway. That makes your voice sound deeper and richer to yourself than it may sound to __________.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14344354838709675,
+                0.15338944365192608,
+                0.33426612903225805,
+                0.35491389809396395
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 58,
+            "area": 95814.129,
+            "bbox": [
+                380.4422661605589,
+                1851.6243477327139,
+                334.32287124005336,
+                286.5916069600821
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"58\">① the air<br>② your vocal cords<br>③ recording devices<br>④ other people<br>⑤ your inner ear</span></div>",
+            "text": "① the air\n② your vocal cords\n③ recording devices\n④ other people\n⑤ your inner ear",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15340413958087054,
+                0.528280841007907,
+                0.13480760937098926,
+                0.08176650697862542
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 59,
+            "area": 11685.785,
+            "bbox": [
+                341.575319948481,
+                2207.031273990326,
+                856.2759253189123,
+                13.647219379051421
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.13773198385019397,
+                0.6296808199687093,
+                0.3452725505318195,
+                0.0038936431894583227
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 60,
+            "area": 26397.77,
+            "bbox": [
+                1284.843420947203,
+                411.2846617017983,
+                736.8748998760359,
+                35.82395087001015
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"60\">다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.</span></div>",
+            "text": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.518082024575485,
+                0.11734227152690394,
+                0.29712697575646607,
+                0.010220813372328146
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 61,
+            "area": 1290317.024,
+            "bbox": [
+                1291.67,
+                538.4699999999993,
+                830.69,
+                1553.3075205231598
+            ],
+            "html": "<div class=\"contents question\"><span class=\"61\">Biologists distinguish two kinds of similarity. &quot;Analogous&quot; traits are ones that have a common function but arose on different branches of the evolutionary tree and are in an important sense not &quot;the same&quot; organ. The wings of birds and the wings of bees are both used for flight and are similar in some ways because anything used for flight has to be built in those ways, but they arose independently in evolution and have nothing in common beyond their use in flight. &quot;Homologous&quot; traits, in contrast, may or may not have a common function, but they descended from a common ancestor and hence have some common structure that indicates their being &quot;the same&quot; organ. The wing of a bat and the front leg of a horse have very different functions, but they are all modifications of the forelimb of the ancestor of all mammals. As a result, they share nonfunctional traits like the number of bones and the ways they are connected. To distinguish analogy from homology, biologists usually look at the overall architecture of the organs and focus on their most __________ properties.</span></div>",
+            "text": "Biologists distinguish two kinds of similarity. \"Analogous\" traits are ones that have a common function but arose on different branches of the evolutionary tree and are in an important sense not \"the same\" organ. The wings of birds and the wings of bees are both used for flight and are similar in some ways because anything used for flight has to be built in those ways, but they arose independently in evolution and have nothing in common beyond their use in flight. \"Homologous\" traits, in contrast, may or may not have a common function, but they descended from a common ancestor and hence have some common structure that indicates their being \"the same\" organ. The wing of a bat and the front leg of a horse have very different functions, but they are all modifications of the forelimb of the ancestor of all mammals. As a result, they share nonfunctional traits like the number of bones and the ways they are connected. To distinguish analogy from homology, biologists usually look at the overall architecture of the organs and focus on their most __________ properties.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5208346774193549,
+                0.15362910128388,
+                0.33495564516129034,
+                0.44316905007793433
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 62,
+            "area": 67693.668,
+            "bbox": [
+                1316.3060443826676,
+                2152.077767791865,
+                240.4971406399493,
+                281.47389969293727
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"62\">① important<br>② adaptive<br>③ fundamental<br>④ useless<br>⑤ structural</span></div>",
+            "text": "① important\n② adaptive\n③ fundamental\n④ useless\n⑤ structural",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5307685662833337,
+                0.6140022162030998,
+                0.09697465348385052,
+                0.0803063907825784
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 63,
+            "area": 14752.423,
+            "bbox": [
+                1272.8689133735156,
+                2497.3068922122525,
+                864.7870475719078,
+                17.05902422381405
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.513253594102224,
+                0.7124984000605571,
+                0.34870445466609185,
+                0.004867053986822838
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 64,
+            "area": 42823.228,
+            "bbox": [
+                339.0723610670525,
+                395.8027864257776,
+                798.3151212388498,
+                53.64201016374926
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"64\">다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.</span></div>",
+            "text": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.13672272623671472,
+                0.112925188709209,
+                0.32190125856405233,
+                0.015304425153708777
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 65,
+            "area": 1291477.417,
+            "bbox": [
+                358.84560900647443,
+                546.2743190661479,
+                822.9166019243444,
+                1569.3904020752268
+            ],
+            "html": "<div class=\"contents question\"><span class=\"65\">Seawater contains an abundance of dissolved oxygen that all marine animals breathe to stay alive. It has long been established in physics that cold water holds more dissolved oxygen than warm water does-this is one reason that cold polar seas are full of life while tropical oceans are blue, clear, and relatively poorly populated with living creatures. Thus, as global warming raises the temperature of marine waters, it is self-evident that the amount of dissolved oxygen will decrease. This is a worrisome and potentially disastrous consequence if allowed to continue to an ecosystem-threatening level. Now scientists have analyzed data indicating that the amount of dissolved oxygen in the oceans has been declining for more than a half century. The data show that the ocean oxygen level has been falling more rapidly than the corresponding rise in water temperature. Falling oxygen levels in water have the potential to impact the habitat of marine organisms worldwide and in recent years this has led to more frequent _________ that killed or displaced populations of fish, crabs, and many other organisms.</span></div>",
+            "text": "Seawater contains an abundance of dissolved oxygen that all marine animals breathe to stay alive. It has long been established in physics that cold water holds more dissolved oxygen than warm water does&mdash;this is one reason that cold polar seas are full of life while tropical oceans are blue, clear, and relatively poorly populated with living creatures. Thus, as global warming raises the temperature of marine waters, it is self&ndash;evident that the amount of dissolved oxygen will decrease. This is a worrisome and potentially disastrous consequence if allowed to continue to an ecosystem&ndash;threatening level. Now scientists have analyzed data indicating that the amount of dissolved oxygen in the oceans has been declining for more than a half century. The data show that the ocean oxygen level has been falling more rapidly than the corresponding rise in water temperature. Falling oxygen levels in water have the potential to impact the habitat of marine organisms worldwide and in recent years this has led to more frequent _________ that killed or displaced populations of fish, crabs, and many other organisms.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14469581008325583,
+                0.1558557258391292,
+                0.33182121045336466,
+                0.4477576040157566
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 66,
+            "area": 121861.278,
+            "bbox": [
+                365.3252672893434,
+                2187.0006485084305,
+                375.8201804063938,
+                324.2542153047989
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"66\">① warming events<br>② migration efforts<br>③ anoxic events<br>④ ecological shifts<br>⑤ seasonal cycles</span></div>",
+            "text": "① warming events\n② migration efforts\n③ anoxic events\n④ ecological shifts\n⑤ seasonal cycles",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14730857551989654,
+                0.6239659482192383,
+                0.15154039532515878,
+                0.09251190165614805
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 67,
+            "area": 15127.607,
+            "bbox": [
+                345.88629244073695,
+                2661.708824662383,
+                777.558993944262,
+                19.455252918287442
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.13947027920997457,
+                0.7594033736554587,
+                0.31353185239687986,
+                0.005550714099368742
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 68,
+            "area": 51798.823,
+            "bbox": [
+                1277.8006862852117,
+                393.24391112895313,
+                764.464303377132,
+                67.75832862789383
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"68\">다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.</span></div>",
+            "text": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5152422122117789,
+                0.11219512443051445,
+                0.3082517352327145,
+                0.01933190545731636
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 69,
+            "area": 1318160.834,
+            "bbox": [
+                1311.355376588196,
+                508.6608350385179,
+                822.9166019243432,
+                1601.8158236057068
+            ],
+            "html": "<div class=\"contents question\"><span class=\"69\">Capuchins-New World Monkeys that live in large social groups-will, in captivity, trade with people all day long, especially if food is involved. I give you this rock and you give me a treat to eat. If you put two monkeys in cages next to each other, and offer them both slices of cucumber for the rocks they already have, they will happily eat the cucumbers. If, however, you give one monkey grapes instead-grapes being universally preferred to cucumbers-the monkey that is still receiving cucumbers will begin to throw them back at the experimenter. Even though she is still getting &quot;paid&quot; the same amount for her effort of sourcing rocks, and so her particular situation has not changed, the comparison to another makes the situation unfair. Furthermore, she is now willing to abandon all gains-the cucumbers themselves-to communicate her displeasure to the experimenter. According to the passage, if the Capuchin monkey realizes the inequality in rewards compared to another monkey, she will __________ her rewards to express her feelings about the treatment, despite getting exactly the same rewards as before.</span></div>",
+            "text": "Capuchins&mdash;New World Monkeys that live in large social groups&mdash;will, in captivity, trade with people all day long, especially if food is involved. I give you this rock and you give me a treat to eat. If you put two monkeys in cages next to each other, and offer them both slices of cucumber for the rocks they already have, they will happily eat the cucumbers. If, however, you give one monkey grapes instead&mdash;grapes being universally preferred to cucumbers&mdash;the monkey that is still receiving cucumbers will begin to throw them back at the experimenter. Even though she is still getting \"paid\" the same amount for her effort of sourcing rocks, and so her particular situation has not changed, the comparison to another makes the situation unfair. Furthermore, she is now willing to abandon all gains&mdash;the cucumbers themselves&mdash;to communicate her displeasure to the experimenter. According to the passage, if the Capuchin monkey realizes the inequality in rewards compared to another monkey, she will __________ her rewards to express her feelings about the treatment, despite getting exactly the same rewards as before.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5287723292694338,
+                0.14512434665863563,
+                0.3318212104533642,
+                0.4570087941813714
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 70,
+            "area": 109128.875,
+            "bbox": [
+                1285.43674345672,
+                2188.2976703173763,
+                343.4218889920496,
+                317.7691309987031
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"70\">① share<br>② double<br>③ reject<br>④ negotiate<br>⑤ enjoy</span></div>",
+            "text": "① share\n② double\n③ reject\n④ negotiate\n⑤ enjoy",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.518321267522871,
+                0.6243359972374826,
+                0.1384765681419555,
+                0.09066166362302513
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 71,
+            "area": 20674.396,
+            "bbox": [
+                1291.916401739589,
+                2613.719197086478,
+                796.9979687928687,
+                25.940337224383256
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5209340329595117,
+                0.7457116111516342,
+                0.3213701487068019,
+                0.007400952132491656
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 72,
+            "area": 49465.547,
+            "bbox": [
+                339.9,
+                385.38,
+                745.0752648215522,
+                66.38999999999999
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"72\">다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.</span></div>",
+            "text": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.13705645161290322,
+                0.10995149786019971,
+                0.30043357452481945,
+                0.018941512125534948
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 73,
+            "area": 1933800.311,
+            "bbox": [
+                351.197364537765,
+                528.437575105266,
+                841.7941764525895,
+                2297.236504141306
+            ],
+            "html": "<div class=\"contents question\"><span class=\"73\">Higher education has grown from an elite to a mass system across the world. In Europe and the USA, increased rates of participation occurred in the decades after the Second World War. Between 2000 and 2014, rates of participation in higher education almost doubled from 19% to 34% across the world among the members of the population in the school-leaving age category (typically 18-23). The dramatic expansion of higher education has been marked by a wider range of institutions of higher learning and a more diverse demographic of students. Changes from an elite system to a mass higher education system are associated with political needs to build a specialised workforce for the economy. In theory, the expansion of higher education to develop a highly skilled workforce should diminish the role of examinations in the selection and control of students, initiating approaches to assessment which enable lifelong learning: assessment for learning and a focus on feedback for development. In reality, socio-political changes to expand higher education have set up a &apos;field of contradictions&apos; for assessment in higher education. Mass higher education requires efficient approaches to assessment, such as examinations and multiple-choice quizzes, with minimalist, impersonal, or standardised feedback, often causing students to focus more on grades than feedback. In contrast, the relatively small numbers of students in elite systems in the past allowed for closer relationships between students and their teachers, with formative feedback shaping the minds, academic skills, and even the __________ of students.</span></div>",
+            "text": "Higher education has grown from an elite to a mass system across the world. In Europe and the USA, increased rates of participation occurred in the decades after the Second World War. Between 2000 and 2014, rates of participation in higher education almost doubled from 19% to 34% across the world among the members of the population in the school-leaving age category (typically 18-23). The dramatic expansion of higher education has been marked by a wider range of institutions of higher learning and a more diverse demographic of students. Changes from an elite system to a mass higher education system are associated with political needs to build a specialised workforce for the economy. In theory, the expansion of higher education to develop a highly skilled workforce should diminish the role of examinations in the selection and control of students, initiating approaches to assessment which enable lifelong learning: assessment for learning and a focus on feedback for development. In reality, socio-political changes to expand higher education have set up a 'field of contradictions' for assessment in higher education. Mass higher education requires efficient approaches to assessment, such as examinations and multiple-choice quizzes, with minimalist, impersonal, or standardised feedback, often causing students to focus more on grades than feedback. In contrast, the relatively small numbers of students in elite systems in the past allowed for closer relationships between students and their teachers, with formative feedback shaping the minds, academic skills, and even the __________ of students.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14161184053942136,
+                0.1507667831969375,
+                0.33943313566636674,
+                0.6554169769304724
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 74,
+            "area": 125320.087,
+            "bbox": [
+                1302.9331664227857,
+                382.6132650454097,
+                356.7146484241523,
+                351.31746890345534
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"74\">① education<br>② feedback<br>③ characters<br>④ assessments<br>⑤ demographics</span></div>",
+            "text": "① education\n② feedback\n③ characters\n④ assessments\n⑤ demographics",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5253762767833813,
+                0.10916212982750634,
+                0.14383655178393237,
+                0.10023322935904574
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 75,
+            "area": 11565.89,
+            "bbox": [
+                1383.1248315724013,
+                812.0495263614408,
+                597.2896438729992,
+                19.36395497893068
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5577116256340328,
+                0.23168317442551806,
+                0.24084259833588678,
+                0.005524666185144273
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 76,
+            "area": 2576224.158,
+            "bbox": [
+                294.32787860534904,
+                208.71993220830564,
+                934.7687106650305,
+                2756.0017020284804
+            ],
+            "html": "",
+            "text": "빈칸 추론\n\nAnswers\n1) (4), 본문은 재능 있는 자녀들이 자신의 성장을 이루 도록 돕는 것이 성과만을 강조하는 것보다 중요하 다는 점을 강조하고 있습니다. 부모는 자녀의 재능 을 과시하기보다는 개인적인 성장을 집중해야 한다 는 뜻을 내포하고 있습니다.\n2) (3), 본문에서는 긍정적인 사고 형태가 더 높은 진 동을 가진 사람들과 함께 있을 때 다시 활성화된다 는 점을 설명하고 있습니다. 따라서 정답은 \"사고 패턴\"이며, 긍정적인 사고 패턴이 어떻게 이러한 상호 작용을 통해 강화될 수 있는지에 중점을 두고 있습니다.\n3) (1), 본문에서는 감정이 진화 과정에서 인간이 환경 에 적응하고 생존하는 데 도움을 주었기 때문에 여 전히 존재한다고 설명합니다. 따라서 정답은 \"우리 와 함께 진화했다\"가 가장 적절한 답입니다.\n4) (3), 본문에서는 AI 가 저숙련 노동자들이 글쓰기와 코딩과 같은 분야에서 성과를 향상시키는 데 도움 을 줄 수 있다고 설명합니다. 따라서 \"글쓰기와 코 딩\"이 가장 적절한 답변입니다.\n5) (4), 본문에서 고래가 탄소를 격리하는 방식이 자연 기반의 해결책으로 간주된다고 설명합니다. 따라서 정답은 \"자연 기반 해결책\"입니다.\n6) (1), 본문은 Émilie du Châtelet가 인정받지 못했 으나 과학에 여성의 참여를 위해 싸운 상징으로 기 억된다고 강조하고 있습니다. 따라서 \"싸움\"이 가장 적절한 답입니다.\n7) (3), 본문은 기계적 구조와 유기적 구조를 비교하며, 유기적 구조에서는 의사 결정이 중앙 집중화되지 않고 조직 전반에 퍼져 있다고 설명합니다. 따라서 \"부서 전반에 퍼져 있다\"가 가장 적절한 답입니다.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.11868059621183429,
+                0.05954919606513713,
+                0.3769228672036413,
+                0.7863057637741742
+            ],
+            "image_id": 10,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 9,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 77,
+            "area": 2706827.788,
+            "bbox": [
+                1249.329678245813,
+                212.76692442861167,
+                979.2815064109843,
+                2764.095686469093
+            ],
+            "html": "",
+            "text": "8) (3), 본문에서는 배달 차량을 통해 인근 상점에서 식료품과 같은 물건을 구입할 수 있게 되어 주민들 이 운전하지 않고 걸어서 갈 수 있다는 점을 강조 하고 있습니다. 따라서 \"식료품\"이 가장 적절한 답 입니다.\n9) (3), 본문에서는 살리에리가 뛰어난 작곡가였지만 그 의 음악이 다른 사람들과 차별화되지 않았기 때문 에 위대한 작곡가로 평가받지 못했다고 설명하고 있습니다. 따라서 \"차별화하다\"가 가장 적절한 답입 니다.\n10) (2), 본문은 McLuhan의 이론에 따라 각 매체가 우리가 세상을 보는 방식을 어떻게 변화시키는지 를 설명합니다. 따라서 정답은 \"다른 매체가 우리 의 인식을 어떻게 형성하는지 이해하는 것\"이 가 장 적절합니다.\n11) (2), 본문에서는 과학자들이 존재하지 않는 것을 찾 으려 했던 사례로 에테르 이론을 설명하고 있습니 다. 따라서 \"존재하지 않았다\"가 가장 적절한 답변 입니다.\n12) (1), 본문은 엘리트 명성과 보통 명성이 주목을 받 는 방법이 다르다는 점을 설명하고 있습니다. 따 라서 \"방법\"이 가장 적절한 답변입니다.\n13) (1), 본문은 공부한 내용을 장기 기억으로 저장하 기 위해서는 반복적인 테스트가 중요하다고 강조 합니다. 따라서 \"스스로 테스트하다\"가 가장 적절 한 답입니다.\n14) (5), 본문은 다른 사람을 관찰함으로써 많은 것을 배울 수 있다고 강조하고 있습니다. 따라서 \"관찰 하다\"가 가장 적절한 답변입니다.\n15) (4), 본문에서 내 목소리가 나에게 더 깊게 들리지 만 다른 사람들에게는 다르게 들릴 수 있다고 설 명하고 있습니다. 따라서 \"다른 사람들\"이 가장 적 절한 답입니다.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5037619670346021,
+                0.060703830079489776,
+                0.39487157516571947,
+                0.7886150318028796
+            ],
+            "image_id": 10,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 9,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 78,
+            "area": 2881206.152,
+            "bbox": [
+                302.4211141955225,
+                224.90790108953001,
+                979.2815064109843,
+                2942.1633441625627
+            ],
+            "html": "",
+            "text": "빈칸 추론\n16) (4), 본문에서는 생물학자들이 유사성과 상동성을 구별하기 위해 \"기능적이지 않은 특성\"에 집중한 다고 설명합니다. 따라서 \"쓸모없는\"이 가장 적절 한 답변입니다.\n17) (3), 본문에서 산소 수치 감소로 인해 발생하는 \"무 산소 사건\"이 해양 생물을 해치고 있다고 설명하 고 있습니다. 따라서 \"무산소 사건\"이 가장 적절한 답입니다.\n18) (3), 본문에서는 원숭이가 보상에서 불공평함을 느 끼면 오이를 던져 거부한다고 설명하고 있습니다. 따라서 \"거부하다\"가 가장 적절한 답입니다.\n19) (3), 본문에서 소수의 학생들을 대상으로 하는 엘 리트 시스템에서는 교사가 학생들의 학업 기술뿐 만 아니라 인격 형성에도 영향을 미칠 수 있었다 고 설명하고 있습니다. 따라서 \"인격\"이 가장 적 절한 답입니다.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.12194399765948487,
+                0.0641677321225478,
+                0.39487157516571947,
+                0.8394189284343974
+            ],
+            "image_id": 11,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 9,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": -1,
+            "area": 137498.837,
+            "bbox": [
+                367.99620169189177,
+                1772.1288229311301,
+                428.079713178371,
+                321.1991434689505
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14838556519834345,
+                0.5056002347877689,
+                0.17261278757192378,
+                0.09164026917801726
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -2,
+            "area": 137498.837,
+            "bbox": [
+                367.99620169189177,
+                1772.1288229311301,
+                428.079713178371,
+                321.1991434689505
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--2\">본문은 재능 있는 자녀들이 자신의 성장을 이루도록 돕는 것이 성과만을 강조하는 것보다 중요하다는 점을 강조하고 있습니다. 부모는 자녀의 재능을 과시하기보다는 개인적인 성장을 집중해야 한다는 뜻을 내포하고 있습니다.</span></div>",
+            "text": "본문은 재능 있는 자녀들이 자신의 성장을 이루도록 돕는 것이 성과만을 강조하는 것보다 중요하다는 점을 강조하고 있습니다. 부모는 자녀의 재능을 과시하기보다는 개인적인 성장을 집중해야 한다는 뜻을 내포하고 있습니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14838556519834345,
+                0.5056002347877689,
+                0.17261278757192378,
+                0.09164026917801726
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -3,
+            "area": 120311.483,
+            "bbox": [
+                1293.7185814401191,
+                1772.1288229311301,
+                374.56974903107516,
+                321.1991434689505
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5216607183226287,
+                0.5056002347877689,
+                0.15103618912543354,
+                0.09164026917801726
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -4,
+            "area": 120311.483,
+            "bbox": [
+                1293.7185814401191,
+                1772.1288229311301,
+                374.56974903107516,
+                321.1991434689505
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--4\">본문에서는 긍정적인 사고 형태가 더 높은 진동을 가진 사람들과 함께 있을 때 다시 활성화된다는 점을 설명하고 있습니다. 따라서 정답은 &quot;사고 패턴&quot;이며, 긍정적인 사고 패턴이 어떻게 이러한 상호 작용을 통해 강화될 수 있는지에 중점을 두고 있습니다.</span></div>",
+            "text": "본문에서는 긍정적인 사고 형태가 더 높은 진동을 가진 사람들과 함께 있을 때 다시 활성화된다는 점을 설명하고 있습니다. 따라서 정답은 &quot;사고 패턴&quot;이며, 긍정적인 사고 패턴이 어떻게 이러한 상호 작용을 통해 강화될 수 있는지에 중점을 두고 있습니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5216607183226287,
+                0.5056002347877689,
+                0.15103618912543354,
+                0.09164026917801726
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -5,
+            "area": 236844.329,
+            "bbox": [
+                354.9835908729928,
+                1970.676018644489,
+                820.6572983502613,
+                288.6032081843241
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14313854470685194,
+                0.5622470809256744,
+                0.330910200947686,
+                0.0823404302950996
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -6,
+            "area": 236844.329,
+            "bbox": [
+                354.9835908729928,
+                1970.676018644489,
+                820.6572983502613,
+                288.6032081843241
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--6\">본문에서는 감정이 진화 과정에서 인간이 환경에 적응하고 생존하는 데 도움을 주었기 때문에 여전히 존재한다고 설명합니다. 따라서 정답은 &quot;우리와 함께 진화했다&quot;가 가장 적절한 답입니다.</span></div>",
+            "text": "본문에서는 감정이 진화 과정에서 인간이 환경에 적응하고 생존하는 데 도움을 주었기 때문에 여전히 존재한다고 설명합니다. 따라서 정답은 &quot;우리와 함께 진화했다&quot;가 가장 적절한 답입니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14313854470685194,
+                0.5622470809256744,
+                0.330910200947686,
+                0.0823404302950996
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -7,
+            "area": 252439.017,
+            "bbox": [
+                1286.4045891362407,
+                2069.757892043499,
+                820.6572983502615,
+                307.6058885585999
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5187115278775164,
+                0.5905158037213977,
+                0.3309102009476861,
+                0.08776202241329525
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -8,
+            "area": 252439.017,
+            "bbox": [
+                1286.4045891362407,
+                2069.757892043499,
+                820.6572983502615,
+                307.6058885585999
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--8\">본문에서는 AI가 저숙련 노동자들이 글쓰기와 코딩과 같은 분야에서 성과를 향상시키는 데 도움을 줄 수 있다고 설명합니다. 따라서 &quot;글쓰기와 코딩&quot;이 가장 적절한 답변입니다.</span></div>",
+            "text": "본문에서는 AI가 저숙련 노동자들이 글쓰기와 코딩과 같은 분야에서 성과를 향상시키는 데 도움을 줄 수 있다고 설명합니다. 따라서 &quot;글쓰기와 코딩&quot;이 가장 적절한 답변입니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5187115278775164,
+                0.5905158037213977,
+                0.3309102009476861,
+                0.08776202241329525
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -9,
+            "area": 174855.97,
+            "bbox": [
+                373.9473406111753,
+                1886.6473683720271,
+                541.0793542433873,
+                323.1614161046357
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15078521798837716,
+                0.5382731436154143,
+                0.2181771589691078,
+                0.09220011871744242
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -10,
+            "area": 174855.97,
+            "bbox": [
+                373.9473406111753,
+                1886.6473683720271,
+                541.0793542433873,
+                323.1614161046357
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--10\">본문에서 고래가 탄소를 격리하는 방식이 자연 기반의 해결책으로 간주된다고 설명합니다. 따라서 정답은 &quot;자연 기반 해결책&quot;입니다.</span></div>",
+            "text": "본문에서 고래가 탄소를 격리하는 방식이 자연 기반의 해결책으로 간주된다고 설명합니다. 따라서 정답은 &quot;자연 기반 해결책&quot;입니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15078521798837716,
+                0.5382731436154143,
+                0.2181771589691078,
+                0.09220011871744242
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -11,
+            "area": 107698.282,
+            "bbox": [
+                1289.4228357054365,
+                1839.0565636847323,
+                335.93078391414133,
+                320.59664296094843
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5199285627844502,
+                0.524695167955701,
+                0.13545596125570214,
+                0.09146837174349456
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -12,
+            "area": 107698.282,
+            "bbox": [
+                1289.4228357054365,
+                1839.0565636847323,
+                335.93078391414133,
+                320.59664296094843
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--12\">본문은 Émilie du Châtelet가 인정받지 못했으나 과학에 여성의 참여를 위해 싸운 상징으로 기억된다고 강조하고 있습니다. 따라서 &quot;싸움&quot;이 가장 적절한 답입니다.</span></div>",
+            "text": "본문은 Émilie du Châtelet가 인정받지 못했으나 과학에 여성의 참여를 위해 싸운 상징으로 기억된다고 강조하고 있습니다. 따라서 &quot;싸움&quot;이 가장 적절한 답입니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5199285627844502,
+                0.524695167955701,
+                0.13545596125570214,
+                0.09146837174349456
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -13,
+            "area": 146667.393,
+            "bbox": [
+                378.55149988446055,
+                1964.7701113923122,
+                493.9856402865453,
+                296.9061876247506
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15264173382437926,
+                0.5605620859892474,
+                0.19918775818005857,
+                0.08470932599850231
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -14,
+            "area": 146667.393,
+            "bbox": [
+                378.55149988446055,
+                1964.7701113923122,
+                493.9856402865453,
+                296.9061876247506
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--14\">본문은 기계적 구조와 유기적 구조를 비교하며, 유기적 구조에서는 의사 결정이 중앙 집중화되지 않고 조직 전반에 퍼져 있다고 설명합니다. 따라서 &quot;부서 전반에 퍼져 있다&quot;가 가장 적절한 답입니다.</span></div>",
+            "text": "본문은 기계적 구조와 유기적 구조를 비교하며, 유기적 구조에서는 의사 결정이 중앙 집중화되지 않고 조직 전반에 퍼져 있다고 설명합니다. 따라서 &quot;부서 전반에 퍼져 있다&quot;가 가장 적절한 답입니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15264173382437926,
+                0.5605620859892474,
+                0.19918775818005857,
+                0.08470932599850231
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -15,
+            "area": 92624.175,
+            "bbox": [
+                1306.6457331500915,
+                1964.772829285621,
+                309.36474442187705,
+                299.40119760479047
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5268732794960046,
+                0.5605628614224311,
+                0.12474384855720849,
+                0.08542116907411997
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -16,
+            "area": 92624.175,
+            "bbox": [
+                1306.6457331500915,
+                1964.772829285621,
+                309.36474442187705,
+                299.40119760479047
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--16\">본문에서는 배달 차량을 통해 인근 상점에서 식료품과 같은 물건을 구입할 수 있게 되어 주민들이 운전하지 않고 걸어서 갈 수 있다는 점을 강조하고 있습니다. 따라서 &quot;식료품&quot;이 가장 적절한 답입니다.</span></div>",
+            "text": "본문에서는 배달 차량을 통해 인근 상점에서 식료품과 같은 물건을 구입할 수 있게 되어 주민들이 운전하지 않고 걸어서 갈 수 있다는 점을 강조하고 있습니다. 따라서 &quot;식료품&quot;이 가장 적절한 답입니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5268732794960046,
+                0.5605628614224311,
+                0.12474384855720849,
+                0.08542116907411997
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -17,
+            "area": 73641.165,
+            "bbox": [
+                384.1385742251209,
+                2045.6427852831275,
+                256.59854767002867,
+                286.98979591836724
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15489458638109715,
+                0.5836356020779251,
+                0.10346715631855995,
+                0.08188011295816469
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -18,
+            "area": 73641.165,
+            "bbox": [
+                384.1385742251209,
+                2045.6427852831275,
+                256.59854767002867,
+                286.98979591836724
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--18\">본문에서는 살리에리가 뛰어난 작곡가였지만 그의 음악이 다른 사람들과 차별화되지 않았기 때문에 위대한 작곡가로 평가받지 못했다고 설명하고 있습니다. 따라서 &quot;차별화하다&quot;가 가장 적절한 답입니다.</span></div>",
+            "text": "본문에서는 살리에리가 뛰어난 작곡가였지만 그의 음악이 다른 사람들과 차별화되지 않았기 때문에 위대한 작곡가로 평가받지 못했다고 설명하고 있습니다. 따라서 &quot;차별화하다&quot;가 가장 적절한 답입니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15489458638109715,
+                0.5836356020779251,
+                0.10346715631855995,
+                0.08188011295816469
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -19,
+            "area": 283195.409,
+            "bbox": [
+                1318.0348757781965,
+                2030,
+                811.9600000000003,
+                348.77999999999975
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5314656757170148,
+                0.579172610556348,
+                0.3274032258064517,
+                0.09950927246790292
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -20,
+            "area": 283195.409,
+            "bbox": [
+                1318.0348757781965,
+                2030,
+                811.9600000000003,
+                348.77999999999975
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--20\">본문은 McLuhan의 이론에 따라 각 매체가 우리가 세상을 보는 방식을 어떻게 변화시키는지를 설명합니다. 따라서 정답은 &quot;다른 매체가 우리의 인식을 어떻게 형성하는지 이해하는 것&quot;이 가장 적절합니다.</span></div>",
+            "text": "본문은 McLuhan의 이론에 따라 각 매체가 우리가 세상을 보는 방식을 어떻게 변화시키는지를 설명합니다. 따라서 정답은 &quot;다른 매체가 우리의 인식을 어떻게 형성하는지 이해하는 것&quot;이 가장 적절합니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5314656757170148,
+                0.579172610556348,
+                0.3274032258064517,
+                0.09950927246790292
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -21,
+            "area": 130673.68,
+            "bbox": [
+                377.9011668977447,
+                1846.8894348729289,
+                442.19878619877716,
+                295.50890722653253
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15237950278134868,
+                0.5269299386228042,
+                0.17830596217692626,
+                0.08431067253253424
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -22,
+            "area": 130673.68,
+            "bbox": [
+                377.9011668977447,
+                1846.8894348729289,
+                442.19878619877716,
+                295.50890722653253
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--22\">본문에서는 과학자들이 존재하지 않는 것을 찾으려 했던 사례로 에테르 이론을 설명하고 있습니다. 따라서 &quot;존재하지 않았다&quot;가 가장 적절한 답변입니다.</span></div>",
+            "text": "본문에서는 과학자들이 존재하지 않는 것을 찾으려 했던 사례로 에테르 이론을 설명하고 있습니다. 따라서 &quot;존재하지 않았다&quot;가 가장 적절한 답변입니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15237950278134868,
+                0.5269299386228042,
+                0.17830596217692626,
+                0.08431067253253424
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -23,
+            "area": 79369.188,
+            "bbox": [
+                1302.9016916642754,
+                2324.795186665577,
+                266.6769415981619,
+                297.6229883871065
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5253635853484981,
+                0.6632796538275542,
+                0.1075310248379685,
+                0.08491383406194193
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -24,
+            "area": 79369.188,
+            "bbox": [
+                1302.9016916642754,
+                2324.795186665577,
+                266.6769415981619,
+                297.6229883871065
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--24\">본문은 엘리트 명성과 보통 명성이 주목을 받는 방법이 다르다는 점을 설명하고 있습니다. 따라서 &quot;방법&quot;이 가장 적절한 답변입니다.</span></div>",
+            "text": "본문은 엘리트 명성과 보통 명성이 주목을 받는 방법이 다르다는 점을 설명하고 있습니다. 따라서 &quot;방법&quot;이 가장 적절한 답변입니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5253635853484981,
+                0.6632796538275542,
+                0.1075310248379685,
+                0.08491383406194193
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -25,
+            "area": 148661.971,
+            "bbox": [
+                379.76496656024426,
+                1848.5207486942486,
+                507.1660333464205,
+                293.1228861330328
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1531310349033243,
+                0.5273953633935089,
+                0.204502432800976,
+                0.0836299247169851
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -26,
+            "area": 148661.971,
+            "bbox": [
+                379.76496656024426,
+                1848.5207486942486,
+                507.1660333464205,
+                293.1228861330328
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--26\">본문은 공부한 내용을 장기 기억으로 저장하기 위해서는 반복적인 테스트가 중요하다고 강조합니다. 따라서 &quot;스스로 테스트하다&quot;가 가장 적절한 답입니다</span></div>",
+            "text": "본문은 공부한 내용을 장기 기억으로 저장하기 위해서는 반복적인 테스트가 중요하다고 강조합니다. 따라서 &quot;스스로 테스트하다&quot;가 가장 적절한 답입니다",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1531310349033243,
+                0.5273953633935089,
+                0.204502432800976,
+                0.0836299247169851
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -27,
+            "area": 93681.023,
+            "bbox": [
+                1303.674951326328,
+                1956.4364207221345,
+                306.0246745430443,
+                306.1224489795916
+            ],
+            "html": "<div class=\"answer\">⑤</div>",
+            "text": "⑤",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5256753835993259,
+                0.5581844281660868,
+                0.1233970461867114,
+                0.08733878715537563
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -28,
+            "area": 93681.023,
+            "bbox": [
+                1303.674951326328,
+                1956.4364207221345,
+                306.0246745430443,
+                306.1224489795916
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--28\">본문은 다른 사람을 관찰함으로써 많은 것을 배울 수 있다고 강조하고 있습니다. 따라서 &quot;관찰하다&quot;가 가장 적절한 답변입니다.</span></div>",
+            "text": "본문은 다른 사람을 관찰함으로써 많은 것을 배울 수 있다고 강조하고 있습니다. 따라서 &quot;관찰하다&quot;가 가장 적절한 답변입니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5256753835993259,
+                0.5581844281660868,
+                0.1233970461867114,
+                0.08733878715537563
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -29,
+            "area": 95814.129,
+            "bbox": [
+                380.4422661605589,
+                1851.6243477327139,
+                334.32287124005336,
+                286.5916069600821
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15340413958087054,
+                0.528280841007907,
+                0.13480760937098926,
+                0.08176650697862542
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -30,
+            "area": 95814.129,
+            "bbox": [
+                380.4422661605589,
+                1851.6243477327139,
+                334.32287124005336,
+                286.5916069600821
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--30\">본문에서 내 목소리가 나에게 더 깊게 들리지만 다른 사람들에게는 다르게 들릴 수 있다고 설명하고 있습니다. 따라서 &quot;다른 사람들&quot;이 가장 적절한 답입니다.</span></div>",
+            "text": "본문에서 내 목소리가 나에게 더 깊게 들리지만 다른 사람들에게는 다르게 들릴 수 있다고 설명하고 있습니다. 따라서 &quot;다른 사람들&quot;이 가장 적절한 답입니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15340413958087054,
+                0.528280841007907,
+                0.13480760937098926,
+                0.08176650697862542
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -31,
+            "area": 67693.668,
+            "bbox": [
+                1316.3060443826676,
+                2152.077767791865,
+                240.4971406399493,
+                281.47389969293727
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5307685662833337,
+                0.6140022162030998,
+                0.09697465348385052,
+                0.0803063907825784
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -32,
+            "area": 67693.668,
+            "bbox": [
+                1316.3060443826676,
+                2152.077767791865,
+                240.4971406399493,
+                281.47389969293727
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--32\">본문에서는 생물학자들이 유사성과 상동성을 구별하기 위해 &quot;기능적이지 않은 특성&quot;에 집중한다고 설명합니다. 따라서 &quot;쓸모없는&quot;이 가장 적절한 답변입니다.</span></div>",
+            "text": "본문에서는 생물학자들이 유사성과 상동성을 구별하기 위해 &quot;기능적이지 않은 특성&quot;에 집중한다고 설명합니다. 따라서 &quot;쓸모없는&quot;이 가장 적절한 답변입니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5307685662833337,
+                0.6140022162030998,
+                0.09697465348385052,
+                0.0803063907825784
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -33,
+            "area": 121861.278,
+            "bbox": [
+                365.3252672893434,
+                2187.0006485084305,
+                375.8201804063938,
+                324.2542153047989
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14730857551989654,
+                0.6239659482192383,
+                0.15154039532515878,
+                0.09251190165614805
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -34,
+            "area": 121861.278,
+            "bbox": [
+                365.3252672893434,
+                2187.0006485084305,
+                375.8201804063938,
+                324.2542153047989
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--34\">본문에서 산소 수치 감소로 인해 발생하는 &quot;무산소 사건&quot;이 해양 생물을 해치고 있다고 설명하고 있습니다. 따라서 &quot;무산소 사건&quot;이 가장 적절한 답입니다.</span></div>",
+            "text": "본문에서 산소 수치 감소로 인해 발생하는 &quot;무산소 사건&quot;이 해양 생물을 해치고 있다고 설명하고 있습니다. 따라서 &quot;무산소 사건&quot;이 가장 적절한 답입니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14730857551989654,
+                0.6239659482192383,
+                0.15154039532515878,
+                0.09251190165614805
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -35,
+            "area": 109128.875,
+            "bbox": [
+                1285.43674345672,
+                2188.2976703173763,
+                343.4218889920496,
+                317.7691309987031
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.518321267522871,
+                0.6243359972374826,
+                0.1384765681419555,
+                0.09066166362302513
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -36,
+            "area": 109128.875,
+            "bbox": [
+                1285.43674345672,
+                2188.2976703173763,
+                343.4218889920496,
+                317.7691309987031
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--36\">본문에서는 원숭이가 보상에서 불공평함을 느끼면 오이를 던져 거부한다고 설명하고 있습니다. 따라서 &quot;거부하다&quot;가 가장 적절한 답입니다.</span></div>",
+            "text": "본문에서는 원숭이가 보상에서 불공평함을 느끼면 오이를 던져 거부한다고 설명하고 있습니다. 따라서 &quot;거부하다&quot;가 가장 적절한 답입니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.518321267522871,
+                0.6243359972374826,
+                0.1384765681419555,
+                0.09066166362302513
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -37,
+            "area": 125320.087,
+            "bbox": [
+                1302.9331664227857,
+                382.6132650454097,
+                356.7146484241523,
+                351.31746890345534
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5253762767833813,
+                0.10916212982750634,
+                0.14383655178393237,
+                0.10023322935904574
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -38,
+            "area": 125320.087,
+            "bbox": [
+                1302.9331664227857,
+                382.6132650454097,
+                356.7146484241523,
+                351.31746890345534
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--38\">본문에서 소수의 학생들을 대상으로 하는 엘리트 시스템에서는 교사가 학생들의 학업 기술뿐만 아니라 인격 형성에도 영향을 미칠 수 있었다고 설명하고 있습니다. 따라서 &quot;인격&quot;이 가장 적절한 답입니다.</span></div>",
+            "text": "본문에서 소수의 학생들을 대상으로 하는 엘리트 시스템에서는 교사가 학생들의 학업 기술뿐만 아니라 인격 형성에도 영향을 미칠 수 있었다고 설명하고 있습니다. 따라서 &quot;인격&quot;이 가장 적절한 답입니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5253762767833813,
+                0.10916212982750634,
+                0.14383655178393237,
+                0.10023322935904574
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "category_id": 9
+        }
+    ]
+}

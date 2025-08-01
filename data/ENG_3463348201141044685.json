@@ -1,0 +1,5335 @@
+{
+    "info": {
+        "html_url": "",
+        "provider": "crowdworks"
+    },
+    "items": [
+        {
+            "id": 1,
+            "imageIds": [
+                0
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -1
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -2
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "imageIds": [
+                0
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -3
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -4
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "imageIds": [
+                1
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -5
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -6
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "imageIds": [
+                1
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -7
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26,
+                    27
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -8
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "imageIds": [
+                2
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -9
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    28,
+                    29,
+                    30,
+                    31,
+                    32,
+                    33,
+                    34
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -10
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "imageIds": [
+                2
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -11
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    35,
+                    36,
+                    37,
+                    38,
+                    39,
+                    40,
+                    41
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -12
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "imageIds": [
+                3
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -13
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    42,
+                    43,
+                    44,
+                    45,
+                    46,
+                    47,
+                    48
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -14
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "imageIds": [
+                3
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -15
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    49,
+                    50,
+                    51,
+                    52,
+                    53,
+                    54,
+                    55
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -16
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "imageIds": [
+                4
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -17
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    56,
+                    57,
+                    58,
+                    59,
+                    60,
+                    61,
+                    62
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -18
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "imageIds": [
+                4
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -19
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    63,
+                    64,
+                    65,
+                    66,
+                    67,
+                    68,
+                    69
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -20
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "imageIds": [
+                5
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -21
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    70,
+                    71,
+                    72,
+                    73,
+                    74,
+                    75,
+                    76
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -22
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "imageIds": [
+                5
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -23
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    77,
+                    78,
+                    79,
+                    80,
+                    81,
+                    82,
+                    83
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -24
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "imageIds": [
+                6
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -25
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    84,
+                    85,
+                    86,
+                    87,
+                    88,
+                    89,
+                    90
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -26
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "imageIds": [
+                6
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -27
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    91,
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    97
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -28
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "imageIds": [
+                7
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -29
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    98,
+                    99,
+                    100,
+                    101,
+                    102,
+                    103,
+                    104
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -30
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "imageIds": [
+                7
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -31
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    105,
+                    106,
+                    107,
+                    108,
+                    109,
+                    110,
+                    111
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -32
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "imageIds": [
+                8
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -33
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -34
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "imageIds": [
+                8
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -35
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    119,
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -36
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "imageIds": [
+                9
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -37
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    126,
+                    127,
+                    128,
+                    129,
+                    130,
+                    131,
+                    132
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -38
+                ]
+            }
+        }
+    ],
+    "images": [
+        {
+            "id": 0,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3463348201141044685/ENG_3463348201141044685_PAGE_0000.png",
+            "file_name": "ENG_3463348201141044685_PAGE_0000.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 1,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3463348201141044685/ENG_3463348201141044685_PAGE_0001.png",
+            "file_name": "ENG_3463348201141044685_PAGE_0001.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 2,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3463348201141044685/ENG_3463348201141044685_PAGE_0002.png",
+            "file_name": "ENG_3463348201141044685_PAGE_0002.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 3,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3463348201141044685/ENG_3463348201141044685_PAGE_0003.png",
+            "file_name": "ENG_3463348201141044685_PAGE_0003.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 4,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3463348201141044685/ENG_3463348201141044685_PAGE_0004.png",
+            "file_name": "ENG_3463348201141044685_PAGE_0004.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 5,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3463348201141044685/ENG_3463348201141044685_PAGE_0005.png",
+            "file_name": "ENG_3463348201141044685_PAGE_0005.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 6,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3463348201141044685/ENG_3463348201141044685_PAGE_0006.png",
+            "file_name": "ENG_3463348201141044685_PAGE_0006.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 7,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3463348201141044685/ENG_3463348201141044685_PAGE_0007.png",
+            "file_name": "ENG_3463348201141044685_PAGE_0007.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 8,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3463348201141044685/ENG_3463348201141044685_PAGE_0008.png",
+            "file_name": "ENG_3463348201141044685_PAGE_0008.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 9,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3463348201141044685/ENG_3463348201141044685_PAGE_0009.png",
+            "file_name": "ENG_3463348201141044685_PAGE_0009.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 10,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3463348201141044685/ENG_3463348201141044685_PAGE_0010.png",
+            "file_name": "ENG_3463348201141044685_PAGE_0010.png",
+            "page_type": "정답지",
+            "bboxCheckStatus": true
+        }
+    ],
+    "licenses": [],
+    "categories": [
+        {
+            "id": 0,
+            "name": "[공통] 발문",
+            "objectColor": "#FF9700",
+            "supercategory": "layout"
+        },
+        {
+            "id": 1,
+            "name": "[그룹] 공통 본문",
+            "objectColor": "#875000",
+            "supercategory": "layout"
+        },
+        {
+            "id": 2,
+            "name": "[단일] 지시문",
+            "objectColor": "#FF0000",
+            "supercategory": "layout"
+        },
+        {
+            "id": 3,
+            "name": "[단일] 본문",
+            "objectColor": "#B62828",
+            "supercategory": "layout"
+        },
+        {
+            "id": 4,
+            "name": "[공통] 보기",
+            "objectColor": "#2E00FF",
+            "supercategory": "layout"
+        },
+        {
+            "id": 5,
+            "name": "[공통] 조건",
+            "objectColor": "#00DE22",
+            "supercategory": "layout"
+        },
+        {
+            "id": 6,
+            "name": "[답안] 객관식",
+            "objectColor": "#BD00FF",
+            "supercategory": "layout"
+        },
+        {
+            "id": 7,
+            "name": "[답안] 주관식",
+            "objectColor": "#FF00A2",
+            "supercategory": "layout"
+        },
+        {
+            "id": 8,
+            "name": "[답안] 공백 선지",
+            "objectColor": "#6A7500",
+            "supercategory": "layout"
+        },
+        {
+            "id": 9,
+            "name": "[정답] 정답/해설",
+            "objectColor": "#DE00CA",
+            "supercategory": "layout"
+        },
+        {
+            "id": 10,
+            "name": "[공통] 도표",
+            "objectColor": "#00D8FF",
+            "supercategory": "layout"
+        },
+        {
+            "id": 11,
+            "name": "[공통] 그림",
+            "objectColor": "#005C6D",
+            "supercategory": "layout"
+        },
+        {
+            "id": 12,
+            "name": "[그룹] 공백 지시문",
+            "objectColor": "#C6AC62",
+            "supercategory": "layout"
+        },
+        {
+            "id": 13,
+            "name": "[단일] 공백 지시문",
+            "objectColor": "#FFCBA5",
+            "supercategory": "layout"
+        },
+        {
+            "id": 14,
+            "name": "[각주] 단어",
+            "objectColor": "#00FFD5",
+            "supercategory": "layout"
+        },
+        {
+            "id": 99,
+            "name": "[그룹] 문항 구분",
+            "objectColor": "#7A3245",
+            "supercategory": "layout"
+        },
+        {
+            "id": 100,
+            "name": "[단일] 문항 구분",
+            "objectColor": "#32517A",
+            "supercategory": "layout"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "area": 89722.292,
+            "bbox": [
+                349.4663924317614,
+                406.50009808982963,
+                851.7399999999999,
+                105.34000000000003
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"0\">다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.</span></div>",
+            "text": "다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14091386791603283,
+                0.11597720344930945,
+                0.34344354838709673,
+                0.030054208273894444
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1,
+            "area": 179822.072,
+            "bbox": [
+                384.30654072511004,
+                618.6982352941176,
+                783.88,
+                229.39999999999998
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"1\">Merely convincing your children that worry is senseless and that they would be more content if they didn&apos;t worry isn&apos;t going to stop them from worrying.</span></div>",
+            "text": "Merely convincing your children that worry is senseless and that they would be more content if they didn't worry isn't going to stop them from worrying.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1549623148085121,
+                0.17651875472014766,
+                0.3160806451612903,
+                0.0654493580599144
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2,
+            "area": 235800.67,
+            "bbox": [
+                381.4643669216067,
+                948.9379912433402,
+                818.97598670128,
+                287.9213483146067
+            ],
+            "html": "<div class=\"contents question\"><span class=\"2\">(A) Consequently, they don&apos;t even try to stop. Therefore, you need to convince them that worry, like guilt and fear, is nothing more than an emotion, and like all emotions, is subject to the power of the will.</span></div>",
+            "text": "(A) Consequently, they don't even try to stop. Therefore, you need to convince them that worry, like guilt and fear, is nothing more than an emotion, and like all emotions, is subject to the power of the will.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15381627698451883,
+                0.2707383712534494,
+                0.330232252702129,
+                0.0821458911025982
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3,
+            "area": 325261.184,
+            "bbox": [
+                384.031128395962,
+                1315.570386605346,
+                816.015257186675,
+                398.5969387755101
+            ],
+            "html": "<div class=\"contents question\"><span class=\"3\">(B) Tell them that they can eliminate worry from their lives by simply refusing to attend to it. Explain to them that if they refuse to act worried regardless of how they feel, they will eventually stop feeling worried and will begin to experience the contentment that accompanies a worry-free life.</span></div>",
+            "text": "(B) Tell them that they can eliminate worry from their lives by simply refusing to attend to it. Explain to them that if they refuse to act worried regardless of how they feel, they will eventually stop feeling worried and will begin to experience the contentment that accompanies a worry-free life.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15485126144998468,
+                0.3753410518132228,
+                0.32903841015591734,
+                0.11372237910856209
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4,
+            "area": 134538.862,
+            "bbox": [
+                383.7599999999997,
+                1791.96,
+                814.8494686329957,
+                165.10885382020342
+            ],
+            "html": "<div class=\"contents question\"><span class=\"4\">(C) For some reason, young people seem to believe that worry is a fact of life over which they have little or no control.</span></div>",
+            "text": "(C) For some reason, young people seem to believe that worry is a fact of life over which they have little or no control.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15474193548387086,
+                0.5112582025677603,
+                0.32856833412620795,
+                0.04710666300148457
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5,
+            "area": 83267.236,
+            "bbox": [
+                383.80000000000007,
+                2027.5,
+                285.47,
+                291.6847158201854
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"5\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50%;\">① (A) - (C) - (B)</td></tr><tr><td style=\"width: 50%;\">② (B) - (A) - (C)</td></tr><tr><td style=\"width: 50%;\">③ (C) - (A) - (B)</td></tr><tr><td style=\"width: 50%;\">④ (C) - (B) - (A)</td></tr><tr><td style=\"width: 50%;\">⑤ (A) - (B) - (C)</td></tr></tbody></table></span></div>",
+            "text": "① (A) - (C) - (B)\n\n② (B) - (A) - (C)\n\n③ (C) - (A) - (B)\n\n④ (C) - (B) - (A)\n\n⑤ (A) - (B) - (C)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15475806451612906,
+                0.5784593437945792,
+                0.11510887096774194,
+                0.08321960508421837
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6,
+            "area": 22873.487,
+            "bbox": [
+                367.42477857815624,
+                2365.004615709237,
+                814.2961239201297,
+                28.08988764044898
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14815515265248236,
+                0.6747516735261732,
+                0.32834521125811683,
+                0.008014233278302134
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7,
+            "area": 90035.236,
+            "bbox": [
+                1281.6099999999997,
+                405.83000000000004,
+                852.3642546543538,
+                105.63
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"7\">다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.</span></div>",
+            "text": "다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5167782258064515,
+                0.11578601997146934,
+                0.34369526397352973,
+                0.030136947218259626
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8,
+            "area": 126786.189,
+            "bbox": [
+                1314.3900000000003,
+                624.4299999999998,
+                785.9818743721426,
+                161.30930379416486
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"8\">In today&apos;s information age, in many companies and on many teams, the objective is no longer error prevention and replicability.</span></div>",
+            "text": "In today's information age, in many companies and on many teams, the objective is no longer error prevention and replicability.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5299959677419356,
+                0.17815406562054203,
+                0.3169281751500575,
+                0.04602262590418398
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9,
+            "area": 389535.312,
+            "bbox": [
+                1315.08,
+                889.3699999999997,
+                828.3400000000001,
+                470.26017311645865
+            ],
+            "html": "<div class=\"contents question\"><span class=\"9\">(A) In these situations, the biggest risk isn&apos;t making a mistake or losing consistency; it&apos;s failing to attract top talent, to invent new products, or to change direction quickly when the environment shifts. Consistency and repeatability are more likely to suppress fresh thinking than to bring your company profit.</span></div>",
+            "text": "(A) In these situations, the biggest risk isn't making a mistake or losing consistency; it's failing to attract top talent, to invent new products, or to change direction quickly when the environment shifts. Consistency and repeatability are more likely to suppress fresh thinking than to bring your company profit.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5302741935483871,
+                0.2537432239657631,
+                0.3340080645161291,
+                0.1341683803470638
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10,
+            "area": 231247.546,
+            "bbox": [
+                1316.2200000000003,
+                1431.84,
+                817.2735334514164,
+                282.95000000000005
+            ],
+            "html": "<div class=\"contents question\"><span class=\"10\">(B) On the contrary, it&apos;s creativity, speed, and keenness. In the industrial era, the goal was to minimize variation. But in creative companies today, maximizing variation is more essential.</span></div>",
+            "text": "(B) On the contrary, it's creativity, speed, and keenness. In the industrial era, the goal was to minimize variation. But in creative companies today, maximizing variation is more essential.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.530733870967742,
+                0.40851355206847356,
+                0.3295457796175066,
+                0.0807275320970043
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11,
+            "area": 384753.883,
+            "bbox": [
+                1312.76,
+                1789.85,
+                821.3199999999999,
+                468.457949586586
+            ],
+            "html": "<div class=\"contents question\"><span class=\"11\">(C) A lot of little mistakes, while sometimes painful, help the organization learn quickly and are a critical part of the innovation cycle. In these situations, rules and process are no longer the best answer. A symphony isn&apos;t what you&apos;re going for. Leave the conductor and the sheet music behind. Build a jazz band instead.</span></div>",
+            "text": "(C) A lot of little mistakes, while sometimes painful, help the organization learn quickly and are a critical part of the innovation cycle. In these situations, rules and process are no longer the best answer. A symphony isn't what you're going for. Leave the conductor and the sheet music behind. Build a jazz band instead.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5293387096774194,
+                0.5106562054208273,
+                0.3311774193548387,
+                0.13365419389060942
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12,
+            "area": 84214.525,
+            "bbox": [
+                1317.4369231516412,
+                2327.0404072374326,
+                287.81156104073557,
+                292.6029962546809
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"12\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50%;\">① (A) - (B) - (C)</td></tr><tr><td style=\"width: 50%;\">② (B) - (A) - (C)</td></tr><tr><td style=\"width: 50%;\">③ (B) - (C) - (A)</td></tr><tr><td style=\"width: 50%;\">④ (C) - (A) - (B)</td></tr><tr><td style=\"width: 50%;\">⑤ (A) - (C) - (B)</td></tr></tbody></table></span></div>",
+            "text": "① (A) - (B) - (C)\n\n② (B) - (A) - (C)\n\n③ (B) - (C) - (A)\n\n④ (C) - (A) - (B)\n\n⑤ (A) - (C) - (B)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5312245657869521,
+                0.6639202303102518,
+                0.11605304880674822,
+                0.0834815966489817
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13,
+            "area": 17204.411,
+            "bbox": [
+                1310.4171289799158,
+                2657.9702748325153,
+                816.6360553107045,
+                21.067415730336506
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5283940036209338,
+                0.7583367403231143,
+                0.32928873198012276,
+                0.006010674958726535
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14,
+            "area": 98476.011,
+            "bbox": [
+                340.9614127245835,
+                401.51544310035774,
+                866.035398463718,
+                113.70899064303717
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"14\">다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.</span></div>",
+            "text": "다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1374844406147514,
+                0.11455504796015913,
+                0.3492078219611766,
+                0.03244193741598778
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15,
+            "area": 142603.382,
+            "bbox": [
+                373.9857859143881,
+                616.7436574073156,
+                800.4674661187789,
+                178.15012850884182
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"15\">Any new or threatening situation may require us to make decisions and this requires information.</span></div>",
+            "text": "Any new or threatening situation may require us to make decisions and this requires information.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1508007201267694,
+                0.17596110054416994,
+                0.32276913956402375,
+                0.05082742610808611
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16,
+            "area": 203956.268,
+            "bbox": [
+                340.42999999999967,
+                881.3800000000001,
+                868.77,
+                234.76440039069917
+            ],
+            "html": "<div class=\"contents question\"><span class=\"16\">(A) Even relatively low-grade disruption of our life such as a fire drill or a very late train seems to give us the permission to break normal etiquette and talk to strangers.</span></div>",
+            "text": "(A) Even relatively low-grade disruption of our life such as a fire drill or a very late train seems to give us the permission to break normal etiquette and talk to strangers.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.13727016129032243,
+                0.2514636233951498,
+                0.35031048387096775,
+                0.06697985745811674
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17,
+            "area": 301489.785,
+            "bbox": [
+                340.7319445919462,
+                1128.5801396857375,
+                869.350423143837,
+                346.7989168305455
+            ],
+            "html": "<div class=\"contents question\"><span class=\"17\">(B) The more important an event to a particular public, the more detailed and urgent the requirement for news becomes. Without an authoritative source of facts, whether that is a newspaper or trusted broadcast station, rumours often run riot.</span></div>",
+            "text": "(B) The more important an event to a particular public, the more detailed and urgent the requirement for news becomes. Without an authoritative source of facts, whether that is a newspaper or trusted broadcast station, rumours often run riot.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1373919131419138,
+                0.32199148065213623,
+                0.3505445254612246,
+                0.09894405615707433
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18,
+            "area": 196442.859,
+            "bbox": [
+                340.73194459194633,
+                1490.3803678912898,
+                870.5380603339242,
+                225.65682944453306
+            ],
+            "html": "<div class=\"contents question\"><span class=\"18\">(C) So important is communication during a disaster that normal social barriers are often lowered. We will talk to strangers in a way we would never consider normally.</span></div>",
+            "text": "(C) So important is communication during a disaster that normal social barriers are often lowered. We will talk to strangers in a way we would never consider normally.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.13739191314191385,
+                0.4252155115239058,
+                0.35102341142496946,
+                0.06438140640357577
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19,
+            "area": 268140.172,
+            "bbox": [
+                339.4033518329161,
+                1776.47197638804,
+                873.8234865793988,
+                306.8585089955934
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"19\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50%;\">① (A) - (B) - (C)</td></tr><tr><td style=\"width: 50%;\">② (B) - (C) - (A)</td></tr><tr><td style=\"width: 50%;\">③ (C) - (A) - (B)</td></tr><tr><td style=\"width: 50%;\">④ (C) - (B) - (A)</td></tr><tr><td style=\"width: 50%;\">⑤ (A) - (B) - (C)</td></tr></tbody></table></span></div>",
+            "text": "① (A) - (B) - (C)\n② (B) - (C) - (A)\n③ (C) - (A) - (B)\n④ (C) - (B) - (A)\n⑤ (A) - (B) - (C)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1368561902552081,
+                0.5068393655885992,
+                0.35234818007233826,
+                0.08754879001300811
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20,
+            "area": 35239.934,
+            "bbox": [
+                339.71827846953914,
+                2136.6494523697143,
+                874.2719369507433,
+                40.307748845723836
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.13698317680223351,
+                0.6096004143708172,
+                0.3525290068349772,
+                0.011500070997353447
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21,
+            "area": 92802.219,
+            "bbox": [
+                1279.3932590356098,
+                403.6410262773296,
+                858.6616884330515,
+                108.07774462869742
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"21\">다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.</span></div>",
+            "text": "다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5158843786433911,
+                0.1151614910919628,
+                0.3462345517875208,
+                0.03083530517223892
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22,
+            "area": 281841.119,
+            "bbox": [
+                1306.0361861849165,
+                617.6392276835406,
+                800.6154582919985,
+                352.0305737715946
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"22\">People seem to recognize that the arts are cultural activities that draw on (or react against) certain cultural traditions, certain shared understanding, and certain values and ideas that are characteristic of the time and place in which the art is created.</span></div>",
+            "text": "People seem to recognize that the arts are cultural activities that draw on (or react against) certain cultural traditions, certain shared understanding, and certain values and ideas that are characteristic of the time and place in which the art is created.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5266274944294018,
+                0.17621661274851375,
+                0.32282881382741874,
+                0.10043668295908548
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23,
+            "area": 145499.897,
+            "bbox": [
+                1280.4299999999998,
+                1066.4700000000003,
+                859.7999999999997,
+                169.22528116356807
+            ],
+            "html": "<div class=\"contents question\"><span class=\"23\">(A) Others, however, see science as a purely &quot;objective&quot; pursuit, uninfluenced by the cultural viewpoint and values of those who create it.</span></div>",
+            "text": "(A) Others, however, see science as a purely \"objective\" pursuit, uninfluenced by the cultural viewpoint and values of those who create it.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5163024193548387,
+                0.30427104136947225,
+                0.34669354838709665,
+                0.04828110732198804
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 24,
+            "area": 294516.184,
+            "bbox": [
+                1280.7176215739646,
+                1253.40295480239,
+                861.0369628132266,
+                342.0482467369768
+            ],
+            "html": "<div class=\"contents question\"><span class=\"24\">(B) In the case of science, however, opinions differ. Some scientists, like the great biologist J. B. S. Haldane, see science in a similar light-as a historical activity that occurs in a particular time and place, and that needs to be understood within that context.</span></div>",
+            "text": "(B) In the case of science, however, opinions differ. Some scientists, like the great biologist J. B. S. Haldane, see science in a similar light—as a historical activity that occurs in a particular time and place, and that needs to be understood within that context.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5164183957959535,
+                0.3576042667053895,
+                0.34719232371501074,
+                0.09758865812752548
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 25,
+            "area": 249864.822,
+            "bbox": [
+                1280.691739684847,
+                1611.1754668832484,
+                862.2246000033142,
+                289.7908757077164
+            ],
+            "html": "<div class=\"contents question\"><span class=\"25\">(C) In describing this view of science, philosopher Hugh Lacey speaks of the belief that there is an underlying order of the world which is simply there to be discovered-the world of pure &quot;fact&quot; stripped of any link with value.</span></div>",
+            "text": "(C) In describing this view of science, philosopher Hugh Lacey speaks of the belief that there is an underlying order of the world which is simply there to be discovered—the world of pure \"fact\" stripped of any link with value.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5164079595503416,
+                0.4596791631621251,
+                0.34767120967875575,
+                0.08267927980248685
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 26,
+            "area": 273417.653,
+            "bbox": [
+                1281.620323607016,
+                1941.8828742518745,
+                862.2246000033138,
+                317.1072287457382
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"26\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50%;\">① (A) - (C) - (B)</td></tr><tr><td style=\"width: 50%;\">② (B) - (A) - (C)</td></tr><tr><td style=\"width: 50%;\">③ (C) - (A) - (B)</td></tr><tr><td style=\"width: 50%;\">④ (C) - (B) - (A)</td></tr><tr><td style=\"width: 50%;\">⑤ (A) - (B) - (C)</td></tr></tbody></table></span></div>",
+            "text": "① (A) - (C) - (B)\n② (B) - (A) - (C)\n③ (C) - (A) - (B)\n④ (C) - (B) - (A)\n⑤ (A) - (B) - (C)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5167823885512162,
+                0.5540322037808486,
+                0.34767120967875553,
+                0.09047281847239322
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 27,
+            "area": 35722.546,
+            "bbox": [
+                1280.2063218251428,
+                2308.583510660158,
+                865.6347827986506,
+                41.26745715157449
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5162122265423963,
+                0.6586543539686613,
+                0.34904628338655264,
+                0.011773882211576174
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 28,
+            "area": 96892.427,
+            "bbox": [
+                344.53900146310184,
+                403.7079353958382,
+                853.554678697021,
+                113.51636747624076
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"28\">다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.</span></div>",
+            "text": "다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.13892701671899269,
+                0.11518058071207937,
+                0.34417527366815365,
+                0.032386980735018764
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 29,
+            "area": 283285.231,
+            "bbox": [
+                355.09300058145755,
+                592.4618952691222,
+                835.0851802398984,
+                339.22914466737063
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"29\">Mental development consists of individuals increasingly mastering social codes and signals themselves, which they can master only in social situations with the support of more competent individuals, typically adults.</span></div>",
+            "text": "Mental development consists of individuals increasingly mastering social codes and signals themselves, which they can master only in social situations with the support of more competent individuals, typically adults.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14318266152478126,
+                0.16903335100402916,
+                0.33672789525802355,
+                0.09678434940581188
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 30,
+            "area": 258780.289,
+            "bbox": [
+                372.2834670062482,
+                1000.5325690730089,
+                841.2711931459592,
+                307.6062639821031
+            ],
+            "html": "<div class=\"contents question\"><span class=\"30\">(A) In Denmark, the age of criminal responsibility is 15 years, which means that we then say that people have developed sufficient mental maturity to be accountable for their actions at this point.</span></div>",
+            "text": "(A) In Denmark, the age of criminal responsibility is 15 years, which means that we then say that people have developed sufficient mental maturity to be accountable for their actions at this point.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15011430121219685,
+                0.28545865023480993,
+                0.33922225530079,
+                0.08776212952413782
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 31,
+            "area": 258903.857,
+            "bbox": [
+                370.55117743376144,
+                1365.0662529017543,
+                844.2385410247564,
+                306.6714490674319
+            ],
+            "html": "<div class=\"contents question\"><span class=\"31\">(B) Therefore, having formal limits for responsibility from a specific age that apply to everyone is a somewhat questionable practice. But the question, of course, is whether it can be done any differently.</span></div>",
+            "text": "(B) Therefore, having formal limits for responsibility from a specific age that apply to everyone is a somewhat questionable practice. But the question, of course, is whether it can be done any differently.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14941579735232316,
+                0.3894625543228971,
+                0.34041876654224046,
+                0.08749542056132152
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 32,
+            "area": 206985.502,
+            "bbox": [
+                373.2538699612064,
+                1725.0496256968584,
+                842.4461025087801,
+                245.69583931133434
+            ],
+            "html": "<div class=\"contents question\"><span class=\"32\">(C) In this sense, mental development consists of internalizing social patterns and gradually becoming a responsible actor among other responsible actors.</span></div>",
+            "text": "(C) In this sense, mental development consists of internalizing social patterns and gradually becoming a responsible actor among other responsible actors.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1505055927262929,
+                0.49216822416458156,
+                0.339696009076121,
+                0.07009867027427513
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 33,
+            "area": 90727.734,
+            "bbox": [
+                376.4457738956962,
+                2018.2717640170267,
+                301.1296706839896,
+                301.29124820659945
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"33\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50%;\">① (A) - (C) - (B)</td></tr><tr><td style=\"width: 50%;\">② (B) - (A) - (C)</td></tr><tr><td style=\"width: 50%;\">③ (C) - (A) - (B)  </td></tr><tr><td style=\"width: 50%;\">④ (C) - (B) - (A)</td></tr><tr><td style=\"width: 50%;\">⑤ (A) - (B) - (C)</td></tr></tbody></table></span></div>",
+            "text": "① (A) - (C) - (B)\n\n② (B) - (A) - (C)\n\n③ (C) - (A) - (B)  \n\n④ (C) - (B) - (A)\n\n⑤ (A) - (B) - (C)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15179265076439363,
+                0.5758264661960133,
+                0.12142325430806034,
+                0.08596041318305263
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 34,
+            "area": 3984.218,
+            "bbox": [
+                382.4079505855852,
+                2397.999182323572,
+                754.6109369624357,
+                5.279831045406354
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15419675426838111,
+                0.6841652446001631,
+                0.30427860361388537,
+                0.0015063711969775617
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 35,
+            "area": 93157.942,
+            "bbox": [
+                1271.2032315069346,
+                401.7008405843921,
+                865.747803216469,
+                107.60401721664272
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"35\">다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.</span></div>",
+            "text": "다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5125819481882801,
+                0.11460794310539005,
+                0.349091856135673,
+                0.030700147565375955
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 36,
+            "area": 166694.21,
+            "bbox": [
+                1290.9200551826718,
+                604.7137475934347,
+                829.8990328969473,
+                200.86083213773315
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"36\">Born in the English city of Liverpool, Charles Elton studied zoology under Julian Huxley at Oxford University from 1918 to 1922.</span></div>",
+            "text": "Born in the English city of Liverpool, Charles Elton studied zoology under Julian Huxley at Oxford University from 1918 to 1922.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5205322803155935,
+                0.17252888661724244,
+                0.3346367068132852,
+                0.05730694212203514
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 37,
+            "area": 203311.738,
+            "bbox": [
+                1306.8835847846874,
+                883.4775361131162,
+                835.6813513310356,
+                243.28859060402692
+            ],
+            "html": "<div class=\"contents question\"><span class=\"37\">(A) After graduating, he began teaching as a part-time instructor and had a long and distinguished teaching career at Oxford from 1922 to 1967.</span></div>",
+            "text": "(A) After graduating, he began teaching as a part-time instructor and had a long and distinguished teaching career at Oxford from 1922 to 1967.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5269691874131804,
+                0.2520620645115881,
+                0.33696828682703045,
+                0.06941186607818171
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 38,
+            "area": 158668.035,
+            "bbox": [
+                1301.293742969764,
+                1182.6945383502527,
+                846.8610349608825,
+                187.3601789709171
+            ],
+            "html": "<div class=\"contents question\"><span class=\"38\">(B) Throughout his career, Elton wrote six books and played a major role in shaping the modern science of ecology.</span></div>",
+            "text": "(B) Throughout his career, Elton wrote six books and played a major role in shaping the modern science of ecology.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.524715218939421,
+                0.3374306814123403,
+                0.3414762237745494,
+                0.053455115255611155
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 39,
+            "area": 258983.499,
+            "bbox": [
+                1295.7039011548407,
+                1420.3902877909686,
+                849.6559558683437,
+                304.80984340044756
+            ],
+            "html": "<div class=\"contents question\"><span class=\"39\">(C) In 1927, he wrote his first and most important book, Animal Ecology, in which he demonstrated the nature of food chains and cycles. In 1932, he helped establish the Bureau of Animal Population at Oxford.</span></div>",
+            "text": "(C) In 1927, he wrote his first and most important book, Animal Ecology, in which he demonstrated the nature of food chains and cycles. In 1932, he helped establish the Bureau of Animal Population at Oxford.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5224612504656615,
+                0.40524687240826496,
+                0.3426032080114289,
+                0.08696429198300928
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 40,
+            "area": 98033.258,
+            "bbox": [
+                1298.4988220623025,
+                1780.1774759261953,
+                315.8260625431674,
+                310.40268456375816
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"40\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50%;\">① (A) - (C) - (B)</td></tr><tr><td style=\"width: 50%;\">② (B) - (A) - (C)</td></tr><tr><td style=\"width: 50%;\">③ (C) - (A) - (B)  </td></tr><tr><td style=\"width: 50%;\">④ (C) - (B) - (A)</td></tr><tr><td style=\"width: 50%;\">⑤ (A) - (B) - (C)</td></tr></tbody></table></span></div>",
+            "text": "① (A) - (C) - (B)\n\n② (B) - (A) - (C)\n\n③ (C) - (A) - (B)  \n\n④ (C) - (B) - (A)\n\n⑤ (A) - (B) - (C)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5235882347025413,
+                0.5078965694511256,
+                0.1273492187674062,
+                0.08855996706526624
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 41,
+            "area": 10717.879,
+            "bbox": [
+                1287.3200000000002,
+                2194.87,
+                877.5157989868035,
+                12.213887683752091
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5190806451612904,
+                0.6262111269614835,
+                0.35383701572048526,
+                0.0034847040467195695
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 42,
+            "area": 105864.181,
+            "bbox": [
+                347.1611073066049,
+                401.01,
+                872.0278481092294,
+                121.39999999999998
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"42\">다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.</span></div>",
+            "text": "다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1399843174623407,
+                0.11441084165477888,
+                0.3516241323021086,
+                0.034636233951497855
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 43,
+            "area": 259567.536,
+            "bbox": [
+                372.9231789287704,
+                607.5299668580955,
+                820.8823331466618,
+                316.2055335968379
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"43\">One well-known shift took place when the accepted view-that the Earth was the center of the universe-changed to one where we understood that we are only inhabitants on one planet orbiting the Sun.</span></div>",
+            "text": "One well-known shift took place when the accepted view—that the Earth was the center of the universe—changed to one where we understood that we are only inhabitants on one planet orbiting the Sun.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1503722495680526,
+                0.17333237285537673,
+                0.3310009407849443,
+                0.09021555880080967
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 44,
+            "area": 156877.802,
+            "bbox": [
+                381.38588339420005,
+                1001.1903300667582,
+                829.3450376120915,
+                189.1586674195371
+            ],
+            "html": "<div class=\"contents question\"><span class=\"44\">(A) This is slowly being replaced by the view that the economy is a part of the larger system of material flows that connect all living things.</span></div>",
+            "text": "(A) This is slowly being replaced by the view that the economy is a part of the larger system of material flows that connect all living things.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1537846304008871,
+                0.28564631385642175,
+                0.3344133216177788,
+                0.05396823606834154
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 45,
+            "area": 104776.341,
+            "bbox": [
+                367.28137595181744,
+                1244.8844918796817,
+                843.4495450544739,
+                124.22360248447217
+            ],
+            "html": "<div class=\"contents question\"><span class=\"45\">(B) So it is with the notion that the world revolves around the human economy.</span></div>",
+            "text": "(B) So it is with the notion that the world revolves around the human economy.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1480973290128296,
+                0.355173892119738,
+                0.34010062300583627,
+                0.035441826671746696
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 46,
+            "area": 197646.28,
+            "bbox": [
+                375.744080417247,
+                1427.613002302322,
+                843.4495450544739,
+                234.33088650479954
+            ],
+            "html": "<div class=\"contents question\"><span class=\"46\">(C) When this perspective shifts into place, it will be obvious that our economic well-being requires that we account for, and respond to, factors of ecological health.</span></div>",
+            "text": "(C) When this perspective shifts into place, it will be obvious that our economic well-being requires that we account for, and respond to, factors of ecological health.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15150970984566411,
+                0.40730756128454265,
+                0.34010062300583627,
+                0.06685617303988574
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 47,
+            "area": 111593.652,
+            "bbox": [
+                370.102277440294,
+                1719.435947059113,
+                349.7917845710861,
+                319.02879728966695
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"47\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50%;\">① (A) - (B) - (C)</td></tr><tr><td style=\"width: 50%;\">② (B) - (A) - (C)</td></tr><tr><td style=\"width: 50%;\">③ (C) - (A) - (B)</td></tr><tr><td style=\"width: 50%;\">④ (B) - (C) - (A)</td></tr><tr><td style=\"width: 50%;\">⑤ (A) - (C) - (B)</td></tr></tbody></table></span></div>",
+            "text": "① (A) - (B) - (C)\n② (B) - (A) - (C)\n③ (C) - (A) - (B)\n④ (B) - (C) - (A)\n⑤ (A) - (C) - (B)\n",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14923478929044112,
+                0.4905666040111592,
+                0.14104507442382505,
+                0.09102105486153123
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 48,
+            "area": 41348.792,
+            "bbox": [
+                352.3659507236059,
+                2131.228982848725,
+                796.9979687928685,
+                51.88067444876742
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14208304464661528,
+                0.608053918073816,
+                0.3213701487068018,
+                0.014801904264983573
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 49,
+            "area": 110383.102,
+            "bbox": [
+                1266.5170803313056,
+                386.5610885097407,
+                888.5839688700983,
+                124.223602484472
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"49\">다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.</span></div>",
+            "text": "다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5106923711013329,
+                0.11028847033088181,
+                0.35829998744762026,
+                0.03544182667174665
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 50,
+            "area": 139428.352,
+            "bbox": [
+                1306.0097011699766,
+                618.4312315624248,
+                809.5987271927559,
+                172.21908526256345
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"50\">The first human beings probably evolved in tropical regions where survival was possible without clothing.</span></div>",
+            "text": "The first human beings probably evolved in tropical regions where survival was possible without clothing.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5266168149878938,
+                0.1764425767653138,
+                0.3264510996744983,
+                0.0491352597040124
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 51,
+            "area": 255219.111,
+            "bbox": [
+                1306.0097011699766,
+                889.8153435410246,
+                829.3450376120916,
+                307.73574251835146
+            ],
+            "html": "<div class=\"contents question\"><span class=\"51\">(A) For instance, early hominids probably did not walk upright, but when they developed that ability, they could travel more efficiently. More important, perhaps, was their development of tool making.</span></div>",
+            "text": "(A) For instance, early hominids probably did not walk upright, but when they developed that ability, they could travel more efficiently. More important, perhaps, was their development of tool making.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5266168149878938,
+                0.2538702834639157,
+                0.33441332161777887,
+                0.08779907061864521
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 52,
+            "area": 206478.521,
+            "bbox": [
+                1308.8306026584532,
+                1243.0016035112467,
+                840.6286435659968,
+                245.62394127611537
+            ],
+            "html": "<div class=\"contents question\"><span class=\"52\">(B) There is a debate about whether these people spread into other parts of the world or, instead, whether people developed independently in various parts of the world.</span></div>",
+            "text": "(B) There is a debate about whether these people spread into other parts of the world or, instead, whether people developed independently in various parts of the world.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5277542752655053,
+                0.3546366914440076,
+                0.3389631627282245,
+                0.07007815728277186
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 53,
+            "area": 187953.911,
+            "bbox": [
+                1314.4724056354062,
+                1545.9257137437648,
+                832.1659391005678,
+                225.8610954263129
+            ],
+            "html": "<div class=\"contents question\"><span class=\"53\">(C) With tools, they could hunt other animals, so they could consume more protein and fat than their low-energy vegetarian diet would have provided.</span></div>",
+            "text": "(C) With tools, they could hunt other animals, so they could consume more protein and fat than their low-energy vegetarian diet would have provided.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5300291958207283,
+                0.4410629711109172,
+                0.3355507818953902,
+                0.06443968485772122
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 54,
+            "area": 97194.471,
+            "bbox": [
+                1315.1042760799219,
+                1841.6396991887605,
+                318.76186819784493,
+                304.91247882552216
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"54\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50%;\">① (A) - (B) - (C)</td></tr><tr><td style=\"width: 50%;\">② (B) - (A) - (C)</td></tr><tr><td style=\"width: 50%;\">③ (C) - (A) - (B)</td></tr><tr><td style=\"width: 50%;\">④ (B) - (C) - (A)</td></tr><tr><td style=\"width: 50%;\">⑤ (A) - (C) - (B)</td></tr></tbody></table></span></div>",
+            "text": "① (A) - (B) - (C)\n② (B) - (A) - (C)\n③ (C) - (A) - (B)\n④ (B) - (C) - (A)\n⑤ (A) - (C) - (B)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5302839822902911,
+                0.5254321538341684,
+                0.12853301137009876,
+                0.08699357455792359
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 55,
+            "area": 37062.637,
+            "bbox": [
+                1324.3146931539334,
+                2246.6634290722404,
+                816.4369436414752,
+                45.39559014267161
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5339978601427151,
+                0.6409881395355893,
+                0.32920844501672386,
+                0.012951666231860658
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 56,
+            "area": 99064.581,
+            "bbox": [
+                341.65247872509167,
+                395.98919086030014,
+                866.1959321651791,
+                114.36740528949241
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"56\">다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.</span></div>",
+            "text": "다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1377630962601176,
+                0.11297837114416552,
+                0.3492725532924109,
+                0.03262978752909912
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 57,
+            "area": 176155.082,
+            "bbox": [
+                370.15259642330443,
+                585.6507187823167,
+                822.6671107492391,
+                214.12680756396003
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"57\">When we get an unfavorable outcome, in some ways the last thing we want to hear is that the process was fair.</span></div>",
+            "text": "When we get an unfavorable outcome, in some ways the last thing we want to hear is that the process was fair.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14925507920294534,
+                0.16709007668539708,
+                0.33172060917308027,
+                0.0610918138556234
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 58,
+            "area": 164021.457,
+            "bbox": [
+                371.86704911291037,
+                876.1186562975702,
+                826.904570293769,
+                198.35596854896335
+            ],
+            "html": "<div class=\"contents question\"><span class=\"58\">(A) If the process is fair, however, we cannot nearly as easily externalize the outcome; we got what we got &quot;fair and square.&quot;</span></div>",
+            "text": "(A) If the process is fair, however, we cannot nearly as easily externalize the outcome; we got what we got \"fair and square.\"",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14994639077133481,
+                0.24996252676107567,
+                0.33342926221522945,
+                0.05659228774578127
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 59,
+            "area": 321054.849,
+            "bbox": [
+                359.0830788393476,
+                1110.47154175762,
+                861.5770416630546,
+                372.63626251390474
+            ],
+            "html": "<div class=\"contents question\"><span class=\"59\">(B) As outraging as the combination of an unfavorable outcome and an unfair process is, this combination also brings with it a consolation prize: the possibility of attributing the bad outcome to something other than ourselves.</span></div>",
+            "text": "(B) As outraging as the combination of an unfavorable outcome and an unfair process is, this combination also brings with it a consolation prize: the possibility of attributing the bad outcome to something other than ourselves.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14479156404812402,
+                0.31682497625039086,
+                0.3474100974447801,
+                0.10631562411238367
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 60,
+            "area": 244868.879,
+            "bbox": [
+                378.5956562638088,
+                1546.966957243001,
+                830.4765122820789,
+                294.85346676197264
+            ],
+            "html": "<div class=\"contents question\"><span class=\"60\">(C) When the process is fair we believe that our outcome is deserved, which is another way of saying that there must have been something about ourselves (what we did or who we are) that caused the outcome.</span></div>",
+            "text": "(C) When the process is fair we believe that our outcome is deserved, which is another way of saying that there must have been something about ourselves (what we did or who we are) that caused the outcome.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15265953881605193,
+                0.4413600448624824,
+                0.3348695614040641,
+                0.08412367097345867
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 61,
+            "area": 98860.324,
+            "bbox": [
+                374.1714544796227,
+                1892.985178112679,
+                314.33089497128145,
+                314.51036454610403
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"61\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50%;\">① (A) - (B) - (C)</td></tr><tr><td style=\"width: 50%;\">② (B) - (A) - (C)</td></tr><tr><td style=\"width: 50%;\">③ (C) - (A) - (B) </td></tr><tr><td style=\"width: 50%;\">④ (B) - (C) - (A) </td></tr><tr><td style=\"width: 50%;\">⑤ (A) - (C) - (B) </td></tr></tbody></table></span></div>",
+            "text": "① (A) - (B) - (C)\n\n② (B) - (A) - (C)\n\n③ (C) - (A) - (B) \n\n④ (B) - (C) - (A) \n\n⑤ (A) - (C) - (B) \n\n",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15087558648371882,
+                0.5400813632275832,
+                0.1267463286174522,
+                0.08973191570502255
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 62,
+            "area": 28936.672,
+            "bbox": [
+                375.758763516697,
+                2273.246402000885,
+                800.4328645127732,
+                36.15127919910992
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15151563045028105,
+                0.6485724399431912,
+                0.3227551873035376,
+                0.010314202339261034
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 63,
+            "area": 103025.063,
+            "bbox": [
+                1274.5076433526804,
+                396.5517198946638,
+                861.5770416630546,
+                119.57730812013352
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"63\">다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.</span></div>",
+            "text": "다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5139143723196292,
+                0.11313886444926213,
+                0.3474100974447801,
+                0.03411620773755593
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 64,
+            "area": 303433.157,
+            "bbox": [
+                1288.4040472504716,
+                592.4523463012015,
+                839.3427954265885,
+                361.51279199110127
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"64\">The well-known American ethnologist Alfred Louis Kroeber made a rich and in-depth study of women&apos;s evening dress in the West, stretching back about three centuries and using reproductions of engravings.</span></div>",
+            "text": "The well-known American ethnologist Alfred Louis Kroeber made a rich and in-depth study of women's evening dress in the West, stretching back about three centuries and using reproductions of engravings.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5195177609880934,
+                0.16903062661945834,
+                0.3384446755752373,
+                0.10314202339261092
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 65,
+            "area": 203567.502,
+            "bbox": [
+                1309.2457465032253,
+                1005.1253888173596,
+                837.6203962586992,
+                243.03073624017156
+            ],
+            "html": "<div class=\"contents question\"><span class=\"65\">(A) He reduced women&apos;s clothing to a certain number of features: length and size of the skirt, size and depth of the neckline, height of the waistline.</span></div>",
+            "text": "(A) He reduced women's clothing to a certain number of features: length and size of the skirt, size and depth of the neckline, height of the waistline.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5279216719771069,
+                0.2867690125013865,
+                0.33775015978173356,
+                0.06933829849933568
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 66,
+            "area": 191442.942,
+            "bbox": [
+                1308.3934867073494,
+                1310.1307030548483,
+                830.476512282079,
+                230.52180128663326
+            ],
+            "html": "<div class=\"contents question\"><span class=\"66\">(B) For practically 300 years, women&apos;s dress was subject to a very precise periodic cycle: forms reach the furthest point in their variations every fifty years.</span></div>",
+            "text": "(B) For practically 300 years, women's dress was subject to a very precise periodic cycle: forms reach the furthest point in their variations every fifty years.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5275780188336087,
+                0.37378907362477837,
+                0.33486956140406415,
+                0.06576941548834045
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 67,
+            "area": 213106.532,
+            "bbox": [
+                1302.3004511482627,
+                1592.470467243156,
+                842.1220762061471,
+                253.05895439377105
+            ],
+            "html": "<div class=\"contents question\"><span class=\"67\">(C) He demonstrated unambiguously that fashion is a profoundly regular phenomenon which is not located at the level of annual variations but on the scale of history.</span></div>",
+            "text": "(C) He demonstrated unambiguously that fashion is a profoundly regular phenomenon which is not located at the level of annual variations but on the scale of history.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5251211496565575,
+                0.4543425013532542,
+                0.3395653533089303,
+                0.07219941637482769
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 68,
+            "area": 102256.095,
+            "bbox": [
+                1296.0804186074909,
+                1891.1154673570309,
+                321.47477894790177,
+                318.0843459614007
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"68\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50%;\">① (A) - (C) - (B) </td></tr><tr><td style=\"width: 50%;\">② (C) - (A) - (B) </td></tr><tr><td style=\"width: 50%;\">③ (B) - (A) - (C) </td></tr><tr><td style=\"width: 50%;\">④ (A) - (B) - (C) </td></tr><tr><td style=\"width: 50%;\">⑤ (C) - (B) - (A)</td></tr></tbody></table></span></div>",
+            "text": "① (A) - (C) - (B) \n\n② (C) - (A) - (B) \n\n③ (B) - (A) - (C) \n\n④ (A) - (B) - (C) \n\n⑤ (C) - (B) - (A)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5226130720191495,
+                0.539547922213133,
+                0.12962692699512168,
+                0.0907515965653069
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 69,
+            "area": 23186.436,
+            "bbox": [
+                1318.928530291336,
+                2280.1072359463024,
+                833.7842338674716,
+                27.808676307007772
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5318260202787646,
+                0.650529881867704,
+                0.3362033201078514,
+                0.007934001799431604
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 70,
+            "area": 139089.004,
+            "bbox": [
+                325.6425315633228,
+                387.1905960220352,
+                882.108316645772,
+                157.67791911414923
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"70\">다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.</span></div>",
+            "text": "다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.13130747240456564,
+                0.1104680730448032,
+                0.3556888373571661,
+                0.04498656750760321
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 71,
+            "area": 267094.03,
+            "bbox": [
+                344.9991403925403,
+                593.6327561384776,
+                854.4560183183182,
+                312.58955894559404
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"71\">Over the last few centuries, humanity&apos;s collective prosperity has skyrocketed, as technological progress has made us far wealthier than ever before.</span></div>",
+            "text": "Over the last few centuries, humanity's collective prosperity has skyrocketed, as technological progress has made us far wealthier than ever before.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1391125566098953,
+                0.16936740546033596,
+                0.344538717063838,
+                0.08918389698875721
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 72,
+            "area": 183180.134,
+            "bbox": [
+                361.59051938901257,
+                933.6793443623274,
+                859.9864779838088,
+                213.00350476823655
+            ],
+            "html": "<div class=\"contents question\"><span class=\"72\">(A) Today, markets already provide immense rewards to some people but leave many others with very little.</span></div>",
+            "text": "(A) Today, markets already provide immense rewards to some people but leave many others with very little.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14580262878589217,
+                0.26638497699353136,
+                0.34676874112250355,
+                0.06077132803658675
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 73,
+            "area": 191938.695,
+            "bbox": [
+                361.59051938901246,
+                1171.5793626749035,
+                846.1603288200821,
+                226.83490118175837
+            ],
+            "html": "<div class=\"contents question\"><span class=\"73\">(B) But rising inequality, itself often driven by technology, has started to put that mechanism under strain.</span></div>",
+            "text": "(B) But rising inequality, itself often driven by technology, has started to put that mechanism under strain.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14580262878589212,
+                0.33425944726816076,
+                0.3411936809758396,
+                0.06471751816883263
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 74,
+            "area": 271415.94,
+            "bbox": [
+                361.59051938901257,
+                1415.0119395528882,
+                868.2821674820452,
+                312.58955894559426
+            ],
+            "html": "<div class=\"contents question\"><span class=\"74\">(C) And now, technological unemployment threatens to become a more radical version of the same story, taking place in the particular market we rely upon the most: the labor market.</span></div>",
+            "text": "(C) And now, technological unemployment threatens to become a more radical version of the same story, taking place in the particular market we rely upon the most: the labor market.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14580262878589217,
+                0.4037123935956885,
+                0.35011377721050213,
+                0.08918389698875728
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 75,
+            "area": 174528.665,
+            "bbox": [
+                358.8252895562672,
+                1763.563129173639,
+                508.8022892251473,
+                343.01863105534176
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"75\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50%;\">① (A) - (C) - (B)</td></tr><tr><td style=\"width: 50%;\">② (B) - (A) - (C)</td></tr><tr><td style=\"width: 50%;\">③ (C) - (B) - (A)</td></tr><tr><td style=\"width: 50%;\">④ (B) - (C) - (A)</td></tr><tr><td style=\"width: 50%;\">⑤ (A) - (B) - (C)</td></tr></tbody></table></span></div>",
+            "text": "① (A) - (C) - (B)\n② (B) - (A) - (C)\n③ (C) - (B) - (A)\n④ (B) - (C) - (A)\n⑤ (A) - (B) - (C)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14468761675655936,
+                0.5031563849282851,
+                0.2051622133972368,
+                0.09786551527969807
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 76,
+            "area": 7611.151,
+            "bbox": [
+                541.3304585174615,
+                2192.862218307984,
+                550.2807367163277,
+                13.831396413521361
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.2182784106925248,
+                0.6256382933831625,
+                0.2218873938372289,
+                0.003946190132245752
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 77,
+            "area": 141529.162,
+            "bbox": [
+                1278.8874161490219,
+                384.0306898177949,
+                882.1083166457713,
+                160.44419839685355
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"77\">다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.</span></div>",
+            "text": "다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5156804097375088,
+                0.10956653061848642,
+                0.35568883735716583,
+                0.04577580553405237
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 78,
+            "area": 177802.607,
+            "bbox": [
+                1295.4787951454941,
+                608.0993117168489,
+                824.0384901581187,
+                215.7697840509411
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"78\">It&apos;s often said that those who can&apos;t do, teach. It would be more accurate to say that those who can do, can&apos;t teach the basics.</span></div>",
+            "text": "It's often said that those who can't do, teach. It would be more accurate to say that those who can do, can't teach the basics.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5223704819135057,
+                0.17349481076086987,
+                0.3322735847411769,
+                0.061560566063035976
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 79,
+            "area": 173832.57,
+            "bbox": [
+                1309.304944309221,
+                873.7307142235704,
+                837.8646393218464,
+                207.47094620282792
+            ],
+            "html": "<div class=\"contents question\"><span class=\"79\">(A) The further you progress toward mastery, the less conscious awareness you often have of the fundamentals.</span></div>",
+            "text": "(A) The further you progress toward mastery, the less conscious awareness you often have of the fundamentals.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5279455420601697,
+                0.24928123087691026,
+                0.3378486448878413,
+                0.05919285198368842
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 80,
+            "area": 235723.849,
+            "bbox": [
+                1287.183105647258,
+                1117.643388461197,
+                887.638776311263,
+                265.5628111396197
+            ],
+            "html": "<div class=\"contents question\"><span class=\"80\">(B) When I first saw an elite diver do four and a half somersaults, I asked how he managed to spin so fast. His answer: &quot;Just go up in a ball.&quot;</span></div>",
+            "text": "(B) When I first saw an elite diver do four and a half somersaults, I asked how he managed to spin so fast. His answer: \"Just go up in a ball.\"",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5190254458255072,
+                0.3188711522000562,
+                0.35791886141583185,
+                0.07576685053912117
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 81,
+            "area": 331295.427,
+            "bbox": [
+                1306.5397144764756,
+                1410.8689924278606,
+                843.3950989873365,
+                392.8116581440206
+            ],
+            "html": "<div class=\"contents question\"><span class=\"81\">(C) Experiments show that skilled golfers and wine aficionados have a hard time describing their putting and tasting techniques-even asking them to explain their approaches is enough to interfere with their performance, so they often stay on autopilot.</span></div>",
+            "text": "(C) Experiments show that skilled golfers and wine aficionados have a hard time describing their putting and tasting techniques—even asking them to explain their approaches is enough to interfere with their performance, so they often stay on autopilot.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5268305300308369,
+                0.4025303830036692,
+                0.3400786689465067,
+                0.11207179975578334
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 82,
+            "area": 133810.919,
+            "bbox": [
+                1303.7744846437304,
+                1836.8760019643337,
+                406.48878541356885,
+                329.18723464181994
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"82\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50%;\">① (A) - (C) - (B)</td></tr><tr><td style=\"width: 50%;\">② (C) - (B) - (A)</td></tr><tr><td style=\"width: 50%;\">③ (B) - (A) - (C)</td></tr><tr><td style=\"width: 50%;\">④ (B) - (C) - (A)</td></tr><tr><td style=\"width: 50%;\">⑤ (A) - (B) - (C)</td></tr></tbody></table></span></div>",
+            "text": "① (A) - (C) - (B)\n② (C) - (B) - (A)\n③ (B) - (A) - (C)\n④ (B) - (C) - (A)\n⑤ (A) - (B) - (C)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5257155180015042,
+                0.5240730390768427,
+                0.1639067683119229,
+                0.0939193251474522
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 83,
+            "area": 7878.88,
+            "bbox": [
+                1483.514423772179,
+                2297.770089818944,
+                569.6373455455457,
+                13.831396413521361
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5981912999081367,
+                0.6555692125018385,
+                0.22969247804255877,
+                0.003946190132245752
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 84,
+            "area": 90831.119,
+            "bbox": [
+                343.1999202501303,
+                405.19606827009306,
+                863.7471677108543,
+                105.15938218862965
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"84\">다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.</span></div>",
+            "text": "다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.13838706461698802,
+                0.11560515499860002,
+                0.3482851482705058,
+                0.03000267680132087
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 85,
+            "area": 253573.803,
+            "bbox": [
+                357.37615210317927,
+                595.0110961485566,
+                834.1892798424221,
+                303.9763391390077
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"85\">Minimal processing can be one of the best ways to keep original flavors and taste, without any need to add artificial flavoring or additives, or too much salt.</span></div>",
+            "text": "Minimal processing can be one of the best ways to keep original flavors and taste, without any need to add artificial flavoring or additives, or too much salt.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14410328713837875,
+                0.1697606551065782,
+                0.3363666450977509,
+                0.08672648762881817
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 86,
+            "area": 135717.837,
+            "bbox": [
+                373.22652325577315,
+                952.2130298259309,
+                825.9787554345241,
+                164.31153466973376
+            ],
+            "html": "<div class=\"contents question\"><span class=\"86\">(A) Milling of cereals is one of the most harsh processes which dramatically affect nutrient content.</span></div>",
+            "text": "(A) Milling of cereals is one of the most harsh processes which dramatically affect nutrient content.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15049456582894077,
+                0.2716727617192385,
+                0.33305594977198555,
+                0.04687918250206384
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 87,
+            "area": 197376.366,
+            "bbox": [
+                370.7894885024939,
+                1185.1809498498512,
+                834.1892798424221,
+                236.6086099244169
+            ],
+            "html": "<div class=\"contents question\"><span class=\"87\">(B) Such a spoilage of key nutrients and fiber is no longer acceptable in the context of a sustainable diet aiming at an optimal nutrient density and health protection.</span></div>",
+            "text": "(B) Such a spoilage of key nutrients and fiber is no longer acceptable in the context of a sustainable diet aiming at an optimal nutrient density and health protection.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14951189052519914,
+                0.3381400712838377,
+                0.3363666450977509,
+                0.06750602280297201
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 88,
+            "area": 247869.877,
+            "bbox": [
+                380.4516239804519,
+                1487.4653370402943,
+                824.3366505529447,
+                300.69010844561285
+            ],
+            "html": "<div class=\"contents question\"><span class=\"88\">(C) While grains are naturally very rich in micronutrients, anti-oxidants and fiber (i.e. in wholemeal flour or flakes), milling usually removes the vast majority of minerals, vitamins and fibers to raise white flour.</span></div>",
+            "text": "(C) While grains are naturally very rich in micronutrients, anti-oxidants and fiber (i.e. in wholemeal flour or flakes), milling usually removes the vast majority of minerals, vitamins and fibers to raise white flour.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15340791289534353,
+                0.4243838336776874,
+                0.33239381070683255,
+                0.08578890397877685
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 89,
+            "area": 91346.469,
+            "bbox": [
+                375.0325974941037,
+                1844.6902258406055,
+                303.7894030922206,
+                300.69010844561285
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"89\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50%;\">① (A) - (C) - (B)</td></tr><tr><td style=\"width: 50%;\">② (C) - (A) - (B)</td></tr><tr><td style=\"width: 50%;\">③ (B) - (C) - (A)</td></tr><tr><td style=\"width: 50%;\">④ (A) - (B) - (C)</td></tr><tr><td style=\"width: 50%;\">⑤ (C) - (B) - (A)</td></tr></tbody></table></span></div>",
+            "text": "① (A) - (C) - (B)\n\n② (C) - (A) - (B)\n\n③ (B) - (C) - (A)\n\n④ (A) - (B) - (C)\n\n⑤ (C) - (B) - (A)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15122282157020311,
+                0.5263024895408289,
+                0.12249572705331475,
+                0.08578890397877685
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 90,
+            "area": 31414.485,
+            "bbox": [
+                370.98721625622306,
+                2217.101198864865,
+                802.2474061302476,
+                39.158100832109994
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14959161945815447,
+                0.6325538370513167,
+                0.3234868573105837,
+                0.011172068711015691
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 91,
+            "area": 91888.818,
+            "bbox": [
+                1278.1175185769973,
+                405.65191509110247,
+                854.0379129015143,
+                107.59337125896622
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"91\">다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.</span></div>",
+            "text": "다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5153699671681441,
+                0.11573521115295363,
+                0.3443701261699655,
+                0.030697110202272816
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 92,
+            "area": 201486.834,
+            "bbox": [
+                1286.9300571079561,
+                593.77461049708,
+                835.4987396836818,
+                241.1575562700964
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"92\">It would seem obvious that the more competent someone is, the more we will like that person.</span></div>",
+            "text": "It would seem obvious that the more competent someone is, the more we will like that person.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5189234101241759,
+                0.1694078774599372,
+                0.3368946530982588,
+                0.06880386769474933
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 93,
+            "area": 194834.692,
+            "bbox": [
+                1315.3036209835504,
+                887.3560708710228,
+                817.7682310266268,
+                238.2517252711142
+            ],
+            "html": "<div class=\"contents question\"><span class=\"93\">(A) We stand a better chance of doing well at our life tasks if we surround ourselves with people who know what they&apos;re doing and have a lot to teach us.</span></div>",
+            "text": "(A) We stand a better chance of doing well at our life tasks if we surround ourselves with people who know what they're doing and have a lot to teach us.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5303643632998187,
+                0.25316863648246013,
+                0.3297452544462205,
+                0.06797481462799264
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 94,
+            "area": 240136.928,
+            "bbox": [
+                1311.4230128737777,
+                1190.2514811927442,
+                821.0524407897851,
+                292.47453171212624
+            ],
+            "html": "<div class=\"contents question\"><span class=\"94\">(B) But the research evidence is paradoxical: In problem-solving groups, the participants who are considered the most competent and have the best ideas tend not to be the ones who are best liked.</span></div>",
+            "text": "(B) But the research evidence is paradoxical: In problem-solving groups, the participants who are considered the most competent and have the best ideas tend not to be the ones who are best liked.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5287996019652329,
+                0.3395867278723949,
+                0.33106953257652627,
+                0.08344494485367368
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 95,
+            "area": 298217.687,
+            "bbox": [
+                1307.0062892691376,
+                1545.602948501961,
+                832.5471749608423,
+                358.1991455800196
+            ],
+            "html": "<div class=\"contents question\"><span class=\"95\">(C) If this were true, we might like people more if they reveal some evidence of fallibility. For example, if your friend is a brilliant mathematician, superb athlete, and gourmet cook, you might like him or her better if, every once in a while, they screwed up.</span></div>",
+            "text": "(C) If this were true, we might like people more if they reveal some evidence of fallibility. For example, if your friend is a brilliant mathematician, superb athlete, and gourmet cook, you might like him or her better if, every once in a while, they screwed up.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5270186650278781,
+                0.440970884023384,
+                0.3357045060325977,
+                0.10219661785449917
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 96,
+            "area": 89330.937,
+            "bbox": [
+                1304.880314030871,
+                1966.1195474264625,
+                305.43150797380054,
+                292.47453171212624
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"96\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50%;\">① (A) - (B) - (C)</td></tr><tr><td style=\"width: 50%;\">② (B) - (A) - (C)</td></tr><tr><td style=\"width: 50%;\">③ (C) - (B) - (A)</td></tr><tr><td style=\"width: 50%;\">④ (A) - (C) - (B)</td></tr><tr><td style=\"width: 50%;\">⑤ (B) - (C) - (A)</td></tr></tbody></table></span></div>",
+            "text": "① (A) - (B) - (C)\n\n② (B) - (A) - (C)\n\n③ (C) - (B) - (A)\n\n④ (A) - (C) - (B)\n\n⑤ (B) - (C) - (A)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5261614169479318,
+                0.5609470891373645,
+                0.12315786611846796,
+                0.08344494485367368
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 97,
+            "area": 22321.763,
+            "bbox": [
+                1307.7578154875791,
+                2340.683395444726,
+                829.152044750469,
+                26.92119432207528
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5273216997933787,
+                0.6678126663180388,
+                0.3343355019155117,
+                0.00768079723882319
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 98,
+            "area": 103809.257,
+            "bbox": [
+                343.4168527915583,
+                398.8226751988102,
+                856.5470785406212,
+                121.19503945885003
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"98\">다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.</span></div>",
+            "text": "다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.13847453741595092,
+                0.1137867832236263,
+                0.34538188650831503,
+                0.03457775733490728
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 99,
+            "area": 158429.825,
+            "bbox": [
+                374.4103326071729,
+                610.2093719293626,
+                803.0128861318324,
+                197.2942502818488
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"99\">A computational algorithm that takes input data and generates some output from it doesn&apos;t really embody any notion of meaning.</span></div>",
+            "text": "A computational algorithm that takes input data and generates some output from it doesn't really embody any notion of meaning.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1509719083093439,
+                0.17409682508683672,
+                0.3237955186015453,
+                0.056289372405662993
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 100,
+            "area": 305281.17,
+            "bbox": [
+                374.4103326071729,
+                883.6028330342104,
+                839.6415440957405,
+                363.5851183765502
+            ],
+            "html": "<div class=\"contents question\"><span class=\"100\">(A) Compare, for example, a computer algorithm with the waggle dance of the honeybee, by which means a foraging bee conveys to others in the hive information about the source of food (such as nectar) it has located.</span></div>",
+            "text": "(A) Compare, for example, a computer algorithm with the waggle dance of the honeybee, by which means a foraging bee conveys to others in the hive information about the source of food (such as nectar) it has located.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1509719083093439,
+                0.2520978125632555,
+                0.3385651387482825,
+                0.10373327200472189
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 101,
+            "area": 202154.869,
+            "bbox": [
+                377.2279216813197,
+                1300.7392479158339,
+                834.006365947447,
+                242.3900789177003
+            ],
+            "html": "<div class=\"contents question\"><span class=\"101\">(B) The input, such as it is, is processed in the light of the organism&apos;s own internal states and history; there is nothing prescriptive about its effects.</span></div>",
+            "text": "(B) The input, such as it is, is processed in the light of the organism's own internal states and history; there is nothing prescriptive about its effects.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.152108032936016,
+                0.3711096285066573,
+                0.3362928894949383,
+                0.06915551466981464
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 102,
+            "area": 263565.287,
+            "bbox": [
+                368.77515445887934,
+                1593.8621340488667,
+                842.4591331698873,
+                312.8523111612178
+            ],
+            "html": "<div class=\"contents question\"><span class=\"102\">(C) The &quot;dance&quot;-a series of stylized movements on the comb-shows the bees how far away the food is and in which direction. But this input does not simply program other bees to go out and look for it.</span></div>",
+            "text": "(C) The \"dance\"—a series of stylized movements on the comb—shows the bees how far away the food is and in which direction. But this input does not simply program other bees to go out and look for it.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14869965905599974,
+                0.4547395532236424,
+                0.33970126337495454,
+                0.08925886195755145
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 103,
+            "area": 96804.991,
+            "bbox": [
+                374.4103326071728,
+                1968.7212095843797,
+                324.0227435268797,
+                298.7598647125142
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"103\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50%;\">① (A) - (C) - (B)</td></tr><tr><td style=\"width: 50%;\">② (B) - (A) - (C)</td></tr><tr><td style=\"width: 50%;\">③ (C) - (B) - (A)</td></tr><tr><td style=\"width: 50%;\">④ (A) - (B) - (C) </td></tr><tr><td style=\"width: 50%;\">⑤ (B) - (C) - (A)</td></tr></tbody></table></span></div>",
+            "text": "① (A) - (C) - (B)\n\n② (B) - (A) - (C)\n\n③ (C) - (B) - (A)\n\n④ (A) - (B) - (C) \n\n⑤ (B) - (C) - (A)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15097190830934387,
+                0.5616893607944022,
+                0.1306543320672902,
+                0.08523819250000404
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 104,
+            "area": 16009.751,
+            "bbox": [
+                380.0455107554664,
+                2315.3953922224855,
+                811.4656533542727,
+                19.729425028184778
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15324415756268805,
+                0.6605978294500672,
+                0.32720389248156156,
+                0.0056289372405662706
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 105,
+            "area": 100923.533,
+            "bbox": [
+                1276.0914767288905,
+                395.8174617169388,
+                866.0381657472899,
+                116.5347405452946
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"105\">다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.</span></div>",
+            "text": "다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5145530148100365,
+                0.11292937566817084,
+                0.34920893780132656,
+                0.03324814280892856
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 106,
+            "area": 101798.313,
+            "bbox": [
+                1313.4586057078345,
+                606.8992559121895,
+                784.7097085578239,
+                129.72735268249778
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"106\">There are deep similarities between viral contagion and behavioral contagion.</span></div>",
+            "text": "There are deep similarities between viral contagion and behavioral contagion.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5296204055273527,
+                0.17315242679377732,
+                0.3164152050636387,
+                0.03701208350427897
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 107,
+            "area": 202021.055,
+            "bbox": [
+                1304.6663400657299,
+                822.3785874865079,
+                835.2652359999238,
+                241.86455584872476
+            ],
+            "html": "<div class=\"contents question\"><span class=\"107\">(A) But there are also important differences between the two types of contagion. One is that visibility promotes behavioral contagion but inhibits the spread of infectious diseases.</span></div>",
+            "text": "(A) But there are also important differences between the two types of contagion. One is that visibility promotes behavioral contagion but inhibits the spread of infectious diseases.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5260751371232781,
+                0.2346301248178339,
+                0.33680049838706605,
+                0.06900557941475742
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 108,
+            "area": 310740.281,
+            "bbox": [
+                1306.864406476256,
+                1117.0135918840454,
+                846.2555680525545,
+                367.19437115215464
+            ],
+            "html": "<div class=\"contents question\"><span class=\"108\">(B) For example, people in close or extended proximity to others infected by a virus are themselves more likely to become infected, just as people are more likely to drink excessively when they spend more time in the company of heavy drinkers.</span></div>",
+            "text": "(B) For example, people in close or extended proximity to others infected by a virus are themselves more likely to become infected, just as people are more likely to drink excessively when they spend more time in the company of heavy drinkers.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5269614542242967,
+                0.318691467013993,
+                0.3412320838921591,
+                0.1047630160205862
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 109,
+            "area": 260998.638,
+            "bbox": [
+                1304.6663400657299,
+                1539.1771802745466,
+                841.8594352315022,
+                310.02638522427446
+            ],
+            "html": "<div class=\"contents question\"><span class=\"109\">(C) Another important difference is that whereas viral contagion is almost always a bad thing, behavioral contagion is sometimes negative-as in the case of smoking-but sometimes positive, as in the case of solar installations.</span></div>",
+            "text": "(C) Another important difference is that whereas viral contagion is almost always a bad thing, behavioral contagion is sometimes negative—as in the case of smoking—but sometimes positive, as in the case of solar installations.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5260751371232781,
+                0.43913756926520586,
+                0.3394594496901218,
+                0.08845260634073451
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 110,
+            "area": 87420.02,
+            "bbox": [
+                1309.062472886782,
+                1906.3715514267014,
+                298.9370318315521,
+                292.43623570800355
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"110\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50%;\">① (A) - (B) - (C)</td></tr><tr><td style=\"width: 50%;\">② (B) - (A) - (C)</td></tr><tr><td style=\"width: 50%;\">③ (C) - (A) - (B)</td></tr><tr><td style=\"width: 50%;\">④ (A) - (C) - (B) </td></tr><tr><td style=\"width: 50%;\">⑤ (B) - (C) - (A) </td></tr></tbody></table></span></div>",
+            "text": "① (A) - (B) - (C)\n\n② (B) - (A) - (C)\n\n③ (C) - (A) - (B)\n\n④ (A) - (C) - (B) \n\n⑤ (B) - (C) - (A) ",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5278477713253154,
+                0.5439005852857921,
+                0.12053912573852907,
+                0.08343401874693397
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 111,
+            "area": 31873.721,
+            "bbox": [
+                1317.388024971872,
+                2249.213782697127,
+                812.1424055180789,
+                39.2464678178967
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5312048487789807,
+                0.6417157725241447,
+                0.3274767764185802,
+                0.011197280404535435
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 112,
+            "area": 101462.684,
+            "bbox": [
+                341.2412196182434,
+                394.54137177232474,
+                861.5104227714721,
+                117.77301927194867
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"112\">다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.</span></div>",
+            "text": "다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.13759726597509814,
+                0.11256529865116255,
+                0.3473832349884968,
+                0.03360143203193971
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 113,
+            "area": 173712.79,
+            "bbox": [
+                373.316927481951,
+                601.7347725392887,
+                810.5299999999999,
+                214.32000000000005
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"113\">Sleep is clearly about more than just resting. One curious fact is that animals that are hibernating also have periods of sleep.</span></div>",
+            "text": "Sleep is clearly about more than just resting. One curious fact is that animals that are hibernating also have periods of sleep.\n",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15053101914594796,
+                0.171678965061138,
+                0.32682661290322573,
+                0.06114693295292441
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 114,
+            "area": 270844.064,
+            "bbox": [
+                367.9962016918918,
+                865.6334488601193,
+                829.4044442830939,
+                326.5524625267668
+            ],
+            "html": "<div class=\"contents question\"><span class=\"114\">(A) Hibernating is more like being anesthetized: the subject is unconscious but not actually asleep. So a hibernating animal needs to get a few hours of conventional sleep each day within the larger unconsciousness.</span></div>",
+            "text": "(A) Hibernating is more like being anesthetized: the subject is unconscious but not actually asleep. So a hibernating animal needs to get a few hours of conventional sleep each day within the larger unconsciousness.\n",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14838556519834348,
+                0.24697102677892135,
+                0.33443727592060235,
+                0.09316760699765102
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 115,
+            "area": 301322.254,
+            "bbox": [
+                373.35,
+                1236.838487840556,
+                840.11,
+                358.6700000000001
+            ],
+            "html": "<div class=\"contents question\"><span class=\"115\">(B) A further surprise to most of us is that bears, the most famous of wintry sleepers, don&apos;t actually hibernate. Real hibernation involves profound unconsciousness and a dramatic fall in body temperature-often to around 32 degrees Fahrenheit.</span></div>",
+            "text": "(B) A further surprise to most of us is that bears, the most famous of wintry sleepers, don't actually hibernate. Real hibernation involves profound unconsciousness and a dramatic fall in body temperature—often to around 32 degrees Fahrenheit.\n",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15054435483870968,
+                0.3528783132212713,
+                0.3387540322580645,
+                0.10233095577746079
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 116,
+            "area": 215873.174,
+            "bbox": [
+                367.9962016918918,
+                1652.5713503590484,
+                840.1064371125533,
+                256.9593147751609
+            ],
+            "html": "<div class=\"contents question\"><span class=\"116\">(C) It comes as a surprise to most of us, but hibernation and sleep are not the same thing at all, at least not from a neurological and metabolic perspective.</span></div>",
+            "text": "(C) It comes as a surprise to most of us, but hibernation and sleep are not the same thing at all, at least not from a neurological and metabolic perspective.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14838556519834348,
+                0.47148968626506377,
+                0.3387525956099005,
+                0.07331221534241396
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 117,
+            "area": 104842.863,
+            "bbox": [
+                367.99620169189177,
+                1947.0038985389199,
+                326.4107812985079,
+                321.19914346895007
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"117\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50%;\">① (A) - (B) - (C)</td></tr><tr><td style=\"width: 50%;\">② (C) - (A) - (B)</td></tr><tr><td style=\"width: 50%;\">③ (B) - (A) - (C)</td></tr><tr><td style=\"width: 50%;\">④ (C) - (B) - (A)</td></tr><tr><td style=\"width: 50%;\">⑤ (A) - (C) - (B)</td></tr></tbody></table></span></div>",
+            "text": "① (A) - (B) - (C)\n② (C) - (A) - (B)\n③ (B) - (A) - (C)\n④ (C) - (B) - (A)\n⑤ (A) - (C) - (B)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14838556519834345,
+                0.5554932663449129,
+                0.1316172505235919,
+                0.09164026917801714
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 118,
+            "area": 21054.509,
+            "bbox": [
+                373.34719810662136,
+                2357.42505353319,
+                786.5964729652569,
+                26.766595289079305
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15054322504299247,
+                0.672589173618599,
+                0.31717599716341005,
+                0.007636689098168133
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 119,
+            "area": 96850.743,
+            "bbox": [
+                1266.963599366471,
+                394.54137177232474,
+                861.5104227714723,
+                112.41970021413277
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"119\">다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.</span></div>",
+            "text": "다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5108724190993835,
+                0.11256529865116255,
+                0.34738323498849694,
+                0.03207409421230607
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 120,
+            "area": 236584.07,
+            "bbox": [
+                1296.3041937183855,
+                595.0159462254395,
+                818.6299999999999,
+                289.0
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"120\">The concern about how we appear to others can be seen in children, though work by the psychologist Ervin Staub suggests that the effect may vary with age.</span></div>",
+            "text": "The concern about how we appear to others can be seen in children, though work by the psychologist Ervin Staub suggests that the effect may vary with age.\n",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5227033039187038,
+                0.16976203886603125,
+                0.3300927419354838,
+                0.08245363766048502
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 121,
+            "area": 314815.046,
+            "bbox": [
+                1299.0695778548493,
+                935.2265966117252,
+                840.1064371125535,
+                374.73233404710913
+            ],
+            "html": "<div class=\"contents question\"><span class=\"121\">(A) Staub suggested that younger children might feel more comfortable acting when they have the company of a peer, whereas older children might feel more concern about being judged by their peers and fear feeling embarrassed by overreacting.</span></div>",
+            "text": "(A) Staub suggested that younger children might feel more comfortable acting when they have the company of a peer, whereas older children might feel more concern about being judged by their peers and fear feeling embarrassed by overreacting.\n",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5238183781672779,
+                0.2668264184341584,
+                0.3387525956099006,
+                0.10691364737435353
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 122,
+            "area": 312809.855,
+            "bbox": [
+                1299.0695778548493,
+                1358.138802179177,
+                834.7554406978238,
+                374.73233404710913
+            ],
+            "html": "<div class=\"contents question\"><span class=\"122\">(B) Staub noted that &quot;older children seemed to discuss the distress sounds less and to react to them less openly than younger children.&quot; In other words, the older children were deliberately putting on a poker face in front of their peers.</span></div>",
+            "text": "(B) Staub noted that \"older children seemed to discuss the distress sounds less and to react to them less openly than younger children.\" In other words, the older children were deliberately putting on a poker face in front of their peers.\n",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5238183781672779,
+                0.38748610618521456,
+                0.3365949357652515,
+                0.10691364737435353
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 123,
+            "area": 460277.358,
+            "bbox": [
+                1304.4205742695785,
+                1775.6976886888128,
+                834.7554406978234,
+                551.3918629550321
+            ],
+            "html": "<div class=\"contents question\"><span class=\"123\">(C) In a study where children heard another child in distress, young children (kindergarten through second grade) were more likely to help the child in distress when with another child than when alone. But for older children -in fourth and sixth grade-the effect reversed: they were less likely to help a child in distress when they were with a peer than when they were alone.</span></div>",
+            "text": "(C) In a study where children heard another child in distress, young children (kindergarten through second grade) were more likely to help the child in distress when with another child than when alone. But for older children —in fourth and sixth grade—the effect reversed: they were less likely to help a child in distress when they were with a peer than when they were alone.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5259760380119268,
+                0.506618456116637,
+                0.33659493576525135,
+                0.1573157954222631
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 124,
+            "area": 106561.599,
+            "bbox": [
+                1293.7185814401191,
+                2369.9161041063717,
+                331.76177771323796,
+                321.19914346895075
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"124\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50%;\">① (A) - (B) - (C)</td></tr><tr><td style=\"width: 50%;\">② (B) - (A) - (C)</td></tr><tr><td style=\"width: 50%;\">③ (C) - (A) - (B)</td></tr><tr><td style=\"width: 50%;\">④ (C) - (B) - (A)</td></tr><tr><td style=\"width: 50%;\">⑤ (A) - (C) - (B)</td></tr></tbody></table></span></div>",
+            "text": "① (A) - (B) - (C)\n\n② (B) - (A) - (C)\n\n③ (C) - (A) - (B)\n\n④ (C) - (B) - (A)\n\n⑤ (A) - (C) - (B)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5216607183226287,
+                0.6761529540959691,
+                0.1337749103682411,
+                0.09164026917801733
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 125,
+            "area": 16499.86,
+            "bbox": [
+                1320.4735635137677,
+                2769.63062098501,
+                770.5434837210678,
+                21.4132762312629
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.532449017545874,
+                0.790194185730388,
+                0.31070301762946284,
+                0.006109351278534351
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 126,
+            "area": 84029.134,
+            "bbox": [
+                353.00999999999993,
+                408.29384256781435,
+                842.6499999999999,
+                99.72009010408152
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"126\">다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.</span></div>",
+            "text": "다음 글 다음에 이어질 글의 순서로 가장 알맞은 것을 고르시오.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14234274193548385,
+                0.11648897077541066,
+                0.33977822580645156,
+                0.028450810300736526
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 127,
+            "area": 173292.409,
+            "bbox": [
+                381.9208772470667,
+                624.2,
+                784.5900700239401,
+                220.87
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"127\">What makes questioning authority so hard? The difficulties start in childhood, when parents-the first and most powerful authority figures-show children &quot;the way things are.&quot;</span></div>",
+            "text": "What makes questioning authority so hard? The difficulties start in childhood, when parents—the first and most powerful authority figures—show children \"the way things are.\"",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15400035372865592,
+                0.17808844507845936,
+                0.3163669637193307,
+                0.06301569186875891
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 128,
+            "area": 225436.923,
+            "bbox": [
+                389.15549852486987,
+                955.0700000000002,
+                804.1553934756046,
+                280.3399999999999
+            ],
+            "html": "<div class=\"contents question\"><span class=\"128\">(A) The word &quot;why?&quot; becomes a challenge, as in, &quot;Why is the sky blue?&quot; Answers such as &quot;because it just is&quot; or &quot;because I say so&quot; tell children that they must unquestioningly accept what authorities say &quot;just because.&quot;</span></div>",
+            "text": "(A) The word \"why?\" becomes a challenge, as in, \"Why is the sky blue?\" Answers such as \"because it just is\" or \"because I say so\" tell children that they must unquestioningly accept what authorities say \"just because.\"",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15691753972777012,
+                0.27248787446504996,
+                0.32425620704661473,
+                0.07998288159771752
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 129,
+            "area": 126596.509,
+            "bbox": [
+                388.12547147927086,
+                1316.14,
+                805.4750198929653,
+                157.17000000000007
+            ],
+            "html": "<div class=\"contents question\"><span class=\"129\">(B) Children, however, will spontaneously question things that are quite obvious to adults and even to older kids.</span></div>",
+            "text": "(B) Children, however, will spontaneously question things that are quite obvious to adults and even to older kids.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15650220624164146,
+                0.3755035663338089,
+                0.32478831447296985,
+                0.044841654778887324
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 130,
+            "area": 130108.7,
+            "bbox": [
+                388.0548553669892,
+                1554.11,
+                805.7763041302376,
+                161.47000000000003
+            ],
+            "html": "<div class=\"contents question\"><span class=\"130\">(C) But these questions are in fact perfectly reasonable. Why is the sky blue? Many adults do not themselves know the answer.</span></div>",
+            "text": "(C) But these questions are in fact perfectly reasonable. Why is the sky blue? Many adults do not themselves know the answer.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15647373200281822,
+                0.443398002853067,
+                0.32490980005251513,
+                0.04606847360912982
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 131,
+            "area": 76850.992,
+            "bbox": [
+                387.20464100327945,
+                1795.27,
+                275.0867738549107,
+                279.3699999999999
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"131\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50%;\">① (A) - (B) - (C)</td></tr><tr><td style=\"width: 50%;\">② (B) - (A) - (C)</td></tr><tr><td style=\"width: 50%;\">③ (C) - (B) - (A)</td></tr><tr><td style=\"width: 50%;\">④ (A) - (C) - (B)</td></tr><tr><td style=\"width: 50%;\">⑤ (B) - (C) - (A)</td></tr></tbody></table></span></div>",
+            "text": "① (A) - (B) - (C)\n② (B) - (A) - (C)\n③ (C) - (B) - (A)\n④ (A) - (C) - (B)\n⑤ (B) - (C) - (A)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15613090363035462,
+                0.5122025677603423,
+                0.11092208623181883,
+                0.07970613409415118
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 132,
+            "area": 26491.032,
+            "bbox": [
+                314.5784527521122,
+                2151.328889537233,
+                902.0196526655039,
+                29.36857562408204
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.12684615030327104,
+                0.6137885562160437,
+                0.3637176018812516,
+                0.008379051533261638
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 133,
+            "area": 2755793.914,
+            "bbox": [
+                322.65420317095595,
+                192.53196332708103,
+                898.3491505092504,
+                3067.620102992053
+            ],
+            "html": "",
+            "text": "글의 순서\n\nAnswers\n1) (3)\n2) (2)\n3) (3)\n4) (2)\n5) (3)\n6) (1\n7) (2)\n8) (2)\n9) (2)\n10) (1\n11) (2)\n12) (1)\n13) (2)\n14) (1\n15) (1\n16) (2)\n17) (2)\n18) (3)\n19) (2)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.13010250127861128,
+                0.0549306600077264,
+                0.36223756068921387,
+                0.8752125828793303
+            ],
+            "image_id": 10,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 9,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": -1,
+            "area": 83267.236,
+            "bbox": [
+                383.80000000000007,
+                2027.5,
+                285.47,
+                291.6847158201854
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15475806451612906,
+                0.5784593437945792,
+                0.11510887096774194,
+                0.08321960508421837
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -2,
+            "area": 83267.236,
+            "bbox": [
+                383.80000000000007,
+                2027.5,
+                285.47,
+                291.6847158201854
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--2\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15475806451612906,
+                0.5784593437945792,
+                0.11510887096774194,
+                0.08321960508421837
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -3,
+            "area": 84214.525,
+            "bbox": [
+                1317.4369231516412,
+                2327.0404072374326,
+                287.81156104073557,
+                292.6029962546809
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5312245657869521,
+                0.6639202303102518,
+                0.11605304880674822,
+                0.0834815966489817
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -4,
+            "area": 84214.525,
+            "bbox": [
+                1317.4369231516412,
+                2327.0404072374326,
+                287.81156104073557,
+                292.6029962546809
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--4\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5312245657869521,
+                0.6639202303102518,
+                0.11605304880674822,
+                0.0834815966489817
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -5,
+            "area": 268140.172,
+            "bbox": [
+                339.4033518329161,
+                1776.47197638804,
+                873.8234865793988,
+                306.8585089955934
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1368561902552081,
+                0.5068393655885992,
+                0.35234818007233826,
+                0.08754879001300811
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -6,
+            "area": 268140.172,
+            "bbox": [
+                339.4033518329161,
+                1776.47197638804,
+                873.8234865793988,
+                306.8585089955934
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--6\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1368561902552081,
+                0.5068393655885992,
+                0.35234818007233826,
+                0.08754879001300811
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -7,
+            "area": 273417.653,
+            "bbox": [
+                1281.620323607016,
+                1941.8828742518745,
+                862.2246000033138,
+                317.1072287457382
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5167823885512162,
+                0.5540322037808486,
+                0.34767120967875553,
+                0.09047281847239322
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -8,
+            "area": 273417.653,
+            "bbox": [
+                1281.620323607016,
+                1941.8828742518745,
+                862.2246000033138,
+                317.1072287457382
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--8\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5167823885512162,
+                0.5540322037808486,
+                0.34767120967875553,
+                0.09047281847239322
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -9,
+            "area": 90727.734,
+            "bbox": [
+                376.4457738956962,
+                2018.2717640170267,
+                301.1296706839896,
+                301.29124820659945
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15179265076439363,
+                0.5758264661960133,
+                0.12142325430806034,
+                0.08596041318305263
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -10,
+            "area": 90727.734,
+            "bbox": [
+                376.4457738956962,
+                2018.2717640170267,
+                301.1296706839896,
+                301.29124820659945
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--10\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15179265076439363,
+                0.5758264661960133,
+                0.12142325430806034,
+                0.08596041318305263
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -11,
+            "area": 98033.258,
+            "bbox": [
+                1298.4988220623025,
+                1780.1774759261953,
+                315.8260625431674,
+                310.40268456375816
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5235882347025413,
+                0.5078965694511256,
+                0.1273492187674062,
+                0.08855996706526624
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -12,
+            "area": 98033.258,
+            "bbox": [
+                1298.4988220623025,
+                1780.1774759261953,
+                315.8260625431674,
+                310.40268456375816
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--12\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5235882347025413,
+                0.5078965694511256,
+                0.1273492187674062,
+                0.08855996706526624
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -13,
+            "area": 111593.652,
+            "bbox": [
+                370.102277440294,
+                1719.435947059113,
+                349.7917845710861,
+                319.02879728966695
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14923478929044112,
+                0.4905666040111592,
+                0.14104507442382505,
+                0.09102105486153123
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -14,
+            "area": 111593.652,
+            "bbox": [
+                370.102277440294,
+                1719.435947059113,
+                349.7917845710861,
+                319.02879728966695
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--14\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14923478929044112,
+                0.4905666040111592,
+                0.14104507442382505,
+                0.09102105486153123
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -15,
+            "area": 97194.471,
+            "bbox": [
+                1315.1042760799219,
+                1841.6396991887605,
+                318.76186819784493,
+                304.91247882552216
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5302839822902911,
+                0.5254321538341684,
+                0.12853301137009876,
+                0.08699357455792359
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -16,
+            "area": 97194.471,
+            "bbox": [
+                1315.1042760799219,
+                1841.6396991887605,
+                318.76186819784493,
+                304.91247882552216
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--16\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5302839822902911,
+                0.5254321538341684,
+                0.12853301137009876,
+                0.08699357455792359
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -17,
+            "area": 98860.324,
+            "bbox": [
+                374.1714544796227,
+                1892.985178112679,
+                314.33089497128145,
+                314.51036454610403
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15087558648371882,
+                0.5400813632275832,
+                0.1267463286174522,
+                0.08973191570502255
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -18,
+            "area": 98860.324,
+            "bbox": [
+                374.1714544796227,
+                1892.985178112679,
+                314.33089497128145,
+                314.51036454610403
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--18\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15087558648371882,
+                0.5400813632275832,
+                0.1267463286174522,
+                0.08973191570502255
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -19,
+            "area": 102256.095,
+            "bbox": [
+                1296.0804186074909,
+                1891.1154673570309,
+                321.47477894790177,
+                318.0843459614007
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5226130720191495,
+                0.539547922213133,
+                0.12962692699512168,
+                0.0907515965653069
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -20,
+            "area": 102256.095,
+            "bbox": [
+                1296.0804186074909,
+                1891.1154673570309,
+                321.47477894790177,
+                318.0843459614007
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--20\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5226130720191495,
+                0.539547922213133,
+                0.12962692699512168,
+                0.0907515965653069
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -21,
+            "area": 174528.665,
+            "bbox": [
+                358.8252895562672,
+                1763.563129173639,
+                508.8022892251473,
+                343.01863105534176
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14468761675655936,
+                0.5031563849282851,
+                0.2051622133972368,
+                0.09786551527969807
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -22,
+            "area": 174528.665,
+            "bbox": [
+                358.8252895562672,
+                1763.563129173639,
+                508.8022892251473,
+                343.01863105534176
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--22\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14468761675655936,
+                0.5031563849282851,
+                0.2051622133972368,
+                0.09786551527969807
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -23,
+            "area": 133810.919,
+            "bbox": [
+                1303.7744846437304,
+                1836.8760019643337,
+                406.48878541356885,
+                329.18723464181994
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5257155180015042,
+                0.5240730390768427,
+                0.1639067683119229,
+                0.0939193251474522
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -24,
+            "area": 133810.919,
+            "bbox": [
+                1303.7744846437304,
+                1836.8760019643337,
+                406.48878541356885,
+                329.18723464181994
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--24\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5257155180015042,
+                0.5240730390768427,
+                0.1639067683119229,
+                0.0939193251474522
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -25,
+            "area": 91346.469,
+            "bbox": [
+                375.0325974941037,
+                1844.6902258406055,
+                303.7894030922206,
+                300.69010844561285
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15122282157020311,
+                0.5263024895408289,
+                0.12249572705331475,
+                0.08578890397877685
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -26,
+            "area": 91346.469,
+            "bbox": [
+                375.0325974941037,
+                1844.6902258406055,
+                303.7894030922206,
+                300.69010844561285
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--26\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15122282157020311,
+                0.5263024895408289,
+                0.12249572705331475,
+                0.08578890397877685
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -27,
+            "area": 89330.937,
+            "bbox": [
+                1304.880314030871,
+                1966.1195474264625,
+                305.43150797380054,
+                292.47453171212624
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5261614169479318,
+                0.5609470891373645,
+                0.12315786611846796,
+                0.08344494485367368
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -28,
+            "area": 89330.937,
+            "bbox": [
+                1304.880314030871,
+                1966.1195474264625,
+                305.43150797380054,
+                292.47453171212624
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--28\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5261614169479318,
+                0.5609470891373645,
+                0.12315786611846796,
+                0.08344494485367368
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -29,
+            "area": 96804.991,
+            "bbox": [
+                374.4103326071728,
+                1968.7212095843797,
+                324.0227435268797,
+                298.7598647125142
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15097190830934387,
+                0.5616893607944022,
+                0.1306543320672902,
+                0.08523819250000404
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -30,
+            "area": 96804.991,
+            "bbox": [
+                374.4103326071728,
+                1968.7212095843797,
+                324.0227435268797,
+                298.7598647125142
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--30\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15097190830934387,
+                0.5616893607944022,
+                0.1306543320672902,
+                0.08523819250000404
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -31,
+            "area": 87420.02,
+            "bbox": [
+                1309.062472886782,
+                1906.3715514267014,
+                298.9370318315521,
+                292.43623570800355
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5278477713253154,
+                0.5439005852857921,
+                0.12053912573852907,
+                0.08343401874693397
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -32,
+            "area": 87420.02,
+            "bbox": [
+                1309.062472886782,
+                1906.3715514267014,
+                298.9370318315521,
+                292.43623570800355
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--32\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5278477713253154,
+                0.5439005852857921,
+                0.12053912573852907,
+                0.08343401874693397
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -33,
+            "area": 104842.863,
+            "bbox": [
+                367.99620169189177,
+                1947.0038985389199,
+                326.4107812985079,
+                321.19914346895007
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14838556519834345,
+                0.5554932663449129,
+                0.1316172505235919,
+                0.09164026917801714
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -34,
+            "area": 104842.863,
+            "bbox": [
+                367.99620169189177,
+                1947.0038985389199,
+                326.4107812985079,
+                321.19914346895007
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--34\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14838556519834345,
+                0.5554932663449129,
+                0.1316172505235919,
+                0.09164026917801714
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -35,
+            "area": 106561.599,
+            "bbox": [
+                1293.7185814401191,
+                2369.9161041063717,
+                331.76177771323796,
+                321.19914346895075
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5216607183226287,
+                0.6761529540959691,
+                0.1337749103682411,
+                0.09164026917801733
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -36,
+            "area": 106561.599,
+            "bbox": [
+                1293.7185814401191,
+                2369.9161041063717,
+                331.76177771323796,
+                321.19914346895075
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--36\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5216607183226287,
+                0.6761529540959691,
+                0.1337749103682411,
+                0.09164026917801733
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -37,
+            "area": 76850.992,
+            "bbox": [
+                387.20464100327945,
+                1795.27,
+                275.0867738549107,
+                279.3699999999999
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15613090363035462,
+                0.5122025677603423,
+                0.11092208623181883,
+                0.07970613409415118
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -38,
+            "area": 76850.992,
+            "bbox": [
+                387.20464100327945,
+                1795.27,
+                275.0867738549107,
+                279.3699999999999
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--38\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15613090363035462,
+                0.5122025677603423,
+                0.11092208623181883,
+                0.07970613409415118
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "category_id": 9
+        }
+    ]
+}

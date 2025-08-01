@@ -311,14 +311,13 @@
     <div class="main-content">
         <div class="sidebar">
             <div class="file-input-container">
-                <label for="fileInput">JSON 파일 선택:</label>
-                <input type="file" id="fileInput" class="file-input" multiple accept=".json">
+                <label for="searchInput">파일 검색:</label>
+                <input type="text" id="searchInput" class="file-input" placeholder="파일명으로 검색...">
             </div>
             
             <div class="file-list" id="fileList">
-                <div class="empty-state">
-                    <h3>파일을 선택해주세요</h3>
-                    <p>JSON 파일을 업로드하면 여기에 목록이 표시됩니다.</p>
+                <div class="loading">
+                    파일 목록을 불러오는 중...
                 </div>
             </div>
         </div>

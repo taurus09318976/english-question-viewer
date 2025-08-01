@@ -2,13 +2,62 @@ class EnglishQuestionViewer {
     constructor() {
         this.currentData = null;
         this.quillInstances = new Map();
+        this.fileList = [];
+        this.filteredFileList = [];
+        this.currentFileName = null;
+        
+        this.initializeFileList();
         this.initializeEventListeners();
+        this.loadFileList();
+    }
+
+    // 파일 목록 초기화
+    initializeFileList() {
+        this.fileList = [
+            'ENG_3353111026223547757', 'ENG_3353133883603289461', 'ENG_3353825430002992640',
+            'ENG_3353847523407037955', 'ENG_3354448466901206640', 'ENG_3354449609773549169',
+            'ENG_3354591338417882767', 'ENG_3354612027669612179', 'ENG_3356797865551726499',
+            'ENG_3357300952108369901', 'ENG_3358156069980341284', 'ENG_3358178697378006053',
+            'ENG_3387968156105443210', 'ENG_3391666443106911573', 'ENG_3395754082785298156',
+            'ENG_3452231325593896705', 'ENG_3454058249005828006', 'ENG_3455267870248797185',
+            'ENG_3456952390555534402', 'ENG_3457496685410780243', 'ENG_3457501119696077909',
+            'ENG_3457578971095368791', 'ENG_3457581755333084249', 'ENG_3457586730205447259',
+            'ENG_3457589973300020317', 'ENG_3457599418461586530', 'ENG_3458365006691697776',
+            'ENG_3458368751685076082', 'ENG_3458371429798511732', 'ENG_3458374888035714166',
+            'ENG_3458377970421335160', 'ENG_3458380884455982202', 'ENG_3458389069002703999',
+            'ENG_3458505557785183367', 'ENG_3458540358948881545', 'ENG_3459835864413111453',
+            'ENG_3459837182087267486', 'ENG_3459902955493262496', 'ENG_3459902986992485537',
+            'ENG_3460591555839001811', 'ENG_3461248017909155055', 'ENG_3463348201141044685',
+            'ENG_3465412218869254113', 'ENG_3472188852637009409', 'ENG_3472190476520523266',
+            'ENG_3472753359641904661', 'ENG_3473522302954505797', 'ENG_3482273284777575623',
+            'ENG_3483769332733838675', 'ENG_3484485764794811778', 'ENG_3484487293056583043',
+            'ENG_3484488665818727812', 'ENG_3484489813187364229', 'ENG_3484490426688210310',
+            'ENG_3484491102784849287', 'ENG_3484530760046609802', 'ENG_3484531363556623755',
+            'ENG_3484532090010076556', 'ENG_3484532690886067597', 'ENG_3484533274775127438',
+            'ENG_3484533842449008015', 'ENG_3485132258858239473', 'ENG_3487355445272643168',
+            'ENG_3487357384408434274', 'ENG_3487381440545424996', 'ENG_3488116263077545578',
+            'ENG_3489923340720670455', 'ENG_3492127195487274822', 'ENG_3493868923382663085',
+            'ENG_3503043784940193213', 'ENG_3507339478463154035', 'ENG_3649713495940793753',
+            'ENG_3654669979762034430', 'ENG_3661355641911379640', 'ENG_3661356077867337401',
+            'ENG_3661386721997620922', 'ENG_3661737888128698080', 'ENG_3661754698639083233',
+            'ENG_3661991803340457727', 'ENG_3662069056279676679', 'ENG_3662095223611197195',
+            'ENG_3662515903746017188', 'ENG_3662539750461409200', 'ENG_3662566501505828785',
+            'ENG_3662597489199941554', 'ENG_3662628146550671295', 'ENG_3662658745248253913',
+            'ENG_3662683749776099315', 'ENG_3663498356216300613', 'ENG_3663591512647664721',
+            'ENG_3664051705038767226', 'ENG_3664156658352784538', 'ENG_3664692863410635987',
+            'ENG_3666844158540121561', 'ENG_3666844856942069210', 'ENG_3666845649522918875',
+            'ENG_3666846209764492764', 'ENG_3666846878319773149', 'ENG_3666848321487504863',
+            'ENG_3666848927371494880', 'ENG_3666849513668085217', 'ENG_3666850092104549858',
+            'ENG_3666850797376767459', 'ENG_3671940044978915111', 'ENG_3671940772430612264',
+            'ENG_3671941607508150057', 'ENG_3671943303441418026'
+        ];
+        this.filteredFileList = [...this.fileList];
     }
 
     initializeEventListeners() {
-        // 파일 입력 이벤트
-        document.getElementById('fileInput').addEventListener('change', (e) => {
-            this.handleFileSelection(e.target.files);
+        // 검색 이벤트
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+            this.filterFiles(e.target.value);
         });
 
         // 탭 전환 이벤트
@@ -17,407 +66,311 @@ class EnglishQuestionViewer {
                 this.switchTab(e.target.dataset.tab);
             });
         });
-
-        // 드래그 앤 드롭 이벤트
-        const fileInput = document.getElementById('fileInput');
-        ['dragenter', 'dragover', 'dragleave', 'drop'].forEach(eventName => {
-            fileInput.addEventListener(eventName, this.preventDefaults, false);
-        });
-
-        ['dragenter', 'dragover'].forEach(eventName => {
-            fileInput.addEventListener(eventName, this.highlight.bind(this), false);
-        });
-
-        ['dragleave', 'drop'].forEach(eventName => {
-            fileInput.addEventListener(eventName, this.unhighlight.bind(this), false);
-        });
-
-        fileInput.addEventListener('drop', this.handleDrop.bind(this), false);
     }
 
-    preventDefaults(e) {
-        e.preventDefault();
-        e.stopPropagation();
-    }
+    // 파일 목록 표시
+    loadFileList() {
+        const fileListContainer = document.getElementById('fileList');
+        fileListContainer.innerHTML = '';
 
-    highlight(e) {
-        e.target.classList.add('drag-over');
-    }
-
-    unhighlight(e) {
-        e.target.classList.remove('drag-over');
-    }
-
-    handleDrop(e) {
-        const dt = e.dataTransfer;
-        const files = dt.files;
-        this.handleFileSelection(files);
-    }
-
-    async handleFileSelection(files) {
-        const fileList = document.getElementById('fileList');
-        fileList.innerHTML = '';
-
-        for (let file of files) {
-            if (file.type === 'application/json' || file.name.endsWith('.json')) {
-                await this.addFileToList(file);
-            }
+        if (this.filteredFileList.length === 0) {
+            fileListContainer.innerHTML = `
+                <div class="empty-state">
+                    <h3>검색 결과가 없습니다</h3>
+                    <p>다른 키워드로 검색해보세요.</p>
+                </div>
+            `;
+            return;
         }
-    }
 
-    async addFileToList(file) {
-        const fileList = document.getElementById('fileList');
-        const fileItem = document.createElement('div');
-        fileItem.className = 'file-item';
-        fileItem.innerHTML = `
-            <div class="file-icon">J</div>
-            <div class="file-name">
-                <div style="font-weight: 500;">${file.name}</div>
-                <div style="font-size: 0.8rem; color: #666;">${this.formatFileSize(file.size)}</div>
-            </div>
-        `;
-
-        fileItem.addEventListener('click', async () => {
-            document.querySelectorAll('.file-item').forEach(item => item.classList.remove('active'));
-            fileItem.classList.add('active');
-            await this.loadFile(file);
-        });
-
-        fileList.appendChild(fileItem);
-
-        // 첫 번째 파일을 자동으로 로드
-        if (fileList.children.length === 1) {
-            fileItem.click();
-        }
-    }
-
-    formatFileSize(bytes) {
-        if (bytes === 0) return '0 Bytes';
-        const k = 1024;
-        const sizes = ['Bytes', 'KB', 'MB', 'GB'];
-        const i = Math.floor(Math.log(bytes) / Math.log(k));
-        return parseFloat((bytes / Math.pow(k, i)).toFixed(2)) + ' ' + sizes[i];
-    }
-
-    async loadFile(file) {
-        try {
-            const text = await file.text();
-            this.currentData = JSON.parse(text);
+        this.filteredFileList.forEach(fileName => {
+            const fileItem = document.createElement('div');
+            fileItem.className = 'file-item';
+            fileItem.dataset.fileName = fileName;
             
-            // 파일 정보 업데이트
-            document.getElementById('currentFileName').textContent = file.name;
-            const meta = `${this.currentData.items?.length || 0}개 문항, ${this.currentData.annotations?.length || 0}개 주석`;
-            document.getElementById('fileMeta').textContent = meta;
+            // 파일명 표시 포맷팅
+            const displayName = fileName.replace('ENG_', '').substring(0, 15) + '...';
+            
+            fileItem.innerHTML = `
+                <div style="flex: 1;">
+                    <div style="font-weight: 600; color: #333;">${displayName}</div>
+                    <div style="font-size: 0.85rem; color: #666;">${fileName}</div>
+                </div>
+                <div style="color: #667eea;">📄</div>
+            `;
 
-            // 현재 활성 탭에 따라 콘텐츠 업데이트
-            const activeTab = document.querySelector('.tab.active').dataset.tab;
-            this.switchTab(activeTab);
+            fileItem.addEventListener('click', () => {
+                this.selectFile(fileName);
+            });
+
+            fileListContainer.appendChild(fileItem);
+        });
+    }
+
+    // 파일 검색 필터링
+    filterFiles(searchTerm) {
+        if (!searchTerm.trim()) {
+            this.filteredFileList = [...this.fileList];
+        } else {
+            const term = searchTerm.toLowerCase();
+            this.filteredFileList = this.fileList.filter(fileName => 
+                fileName.toLowerCase().includes(term)
+            );
+        }
+        this.loadFileList();
+    }
+
+    // 파일 선택
+    async selectFile(fileName) {
+        try {
+            // 이전 활성 파일 비활성화
+            document.querySelectorAll('.file-item').forEach(item => {
+                item.classList.remove('active');
+            });
+
+            // 현재 파일 활성화
+            const selectedItem = document.querySelector(`[data-file-name="${fileName}"]`);
+            if (selectedItem) {
+                selectedItem.classList.add('active');
+            }
+
+            // 로딩 상태 표시
+            this.showLoading();
+
+            // JSON 파일 로드
+            const response = await fetch(`data/${fileName}.json`);
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+
+            const jsonData = await response.json();
+            this.currentData = jsonData;
+            this.currentFileName = fileName;
+
+            // UI 업데이트
+            this.updateFileInfo(fileName, jsonData);
+            this.displayQuestions(jsonData);
+            this.displayRawJson(jsonData);
+            this.displayHtmlContent(jsonData);
 
         } catch (error) {
-            this.showError('파일을 읽는 중 오류가 발생했습니다: ' + error.message);
+            console.error('파일 로드 오류:', error);
+            this.showError(`파일을 불러오는 중 오류가 발생했습니다: ${error.message}`);
         }
     }
 
-    switchTab(tabName) {
-        // 탭 활성화 상태 변경
-        document.querySelectorAll('.tab').forEach(tab => {
-            tab.classList.toggle('active', tab.dataset.tab === tabName);
+    // 로딩 상태 표시
+    showLoading() {
+        const questionsTab = document.getElementById('questionsTab');
+        questionsTab.innerHTML = '<div class="loading">파일을 불러오는 중...</div>';
+    }
+
+    // 오류 메시지 표시
+    showError(message) {
+        const questionsTab = document.getElementById('questionsTab');
+        questionsTab.innerHTML = `<div class="error">${message}</div>`;
+    }
+
+    // 파일 정보 업데이트
+    updateFileInfo(fileName, data) {
+        document.getElementById('currentFileName').textContent = fileName;
+        
+        let metaInfo = '';
+        if (data.metadata) {
+            const meta = data.metadata;
+            metaInfo = `파일 크기: ${meta.fileSize || 'N/A'} | 페이지: ${meta.totalPages || 'N/A'}`;
+        }
+        
+        document.getElementById('fileMeta').textContent = metaInfo;
+    }
+
+    // 문항 표시
+    displayQuestions(data) {
+        const questionsTab = document.getElementById('questionsTab');
+        
+        if (!data.annotations || data.annotations.length === 0) {
+            questionsTab.innerHTML = `
+                <div class="empty-state">
+                    <h3>문항이 없습니다</h3>
+                    <p>이 파일에는 표시할 문항이 없습니다.</p>
+                </div>
+            `;
+            return;
+        }
+
+        questionsTab.innerHTML = '';
+
+        data.annotations.forEach((annotation, index) => {
+            if (annotation.data && annotation.data.text_segments) {
+                const questionContainer = document.createElement('div');
+                questionContainer.className = 'question-container';
+                
+                const questionHeader = document.createElement('div');
+                questionHeader.className = 'question-header';
+                questionHeader.innerHTML = `
+                    <span class="question-number">문항 ${index + 1}</span>
+                    <span class="question-type">${annotation.category || 'Unknown'}</span>
+                `;
+                
+                questionContainer.appendChild(questionHeader);
+
+                // 텍스트 세그먼트 처리
+                annotation.data.text_segments.forEach(segment => {
+                    if (segment.quill_delta && segment.quill_delta.ops) {
+                        const sectionDiv = document.createElement('div');
+                        sectionDiv.className = 'question-section';
+                        
+                        const titleDiv = document.createElement('div');
+                        titleDiv.className = 'section-title';
+                        titleDiv.textContent = segment.tag || '본문';
+                        sectionDiv.appendChild(titleDiv);
+
+                        const quillContainer = document.createElement('div');
+                        const quillId = `quill-${index}-${segment.tag || 'content'}`;
+                        quillContainer.id = quillId;
+                        quillContainer.className = 'quill-container';
+                        sectionDiv.appendChild(quillContainer);
+
+                        questionContainer.appendChild(sectionDiv);
+
+                        // Quill 인스턴스 생성
+                        setTimeout(() => {
+                            try {
+                                const quill = new Quill(`#${quillId}`, {
+                                    readOnly: true,
+                                    theme: 'snow',
+                                    modules: {
+                                        toolbar: false
+                                    }
+                                });
+
+                                quill.setContents(segment.quill_delta);
+                                this.quillInstances.set(quillId, quill);
+                            } catch (error) {
+                                console.warn(`Quill 초기화 오류 (${quillId}):`, error);
+                                document.getElementById(quillId).innerHTML = `
+                                    <div class="error">Quill 렌더링 오류: ${error.message}</div>
+                                `;
+                            }
+                        }, 100);
+                    }
+                });
+
+                questionsTab.appendChild(questionContainer);
+            }
         });
+    }
+
+    // 원본 JSON 표시
+    displayRawJson(data) {
+        const rawJson = document.getElementById('rawJson');
+        rawJson.textContent = JSON.stringify(data, null, 2);
+    }
+
+    // HTML 콘텐츠 표시
+    displayHtmlContent(data) {
+        const htmlContent = document.getElementById('htmlContent');
+        htmlContent.innerHTML = '';
+
+        if (!data.annotations || data.annotations.length === 0) {
+            htmlContent.innerHTML = '<p>HTML로 표시할 콘텐츠가 없습니다.</p>';
+            return;
+        }
+
+        data.annotations.forEach((annotation, index) => {
+            if (annotation.data && annotation.data.text_segments) {
+                const questionDiv = document.createElement('div');
+                questionDiv.style.marginBottom = '30px';
+                questionDiv.style.border = '1px solid #ddd';
+                questionDiv.style.borderRadius = '8px';
+                questionDiv.style.padding = '20px';
+
+                const titleH3 = document.createElement('h3');
+                titleH3.textContent = `문항 ${index + 1}`;
+                titleH3.style.color = '#667eea';
+                titleH3.style.marginBottom = '15px';
+                questionDiv.appendChild(titleH3);
+
+                annotation.data.text_segments.forEach(segment => {
+                    if (segment.quill_delta && segment.quill_delta.ops) {
+                        const sectionDiv = document.createElement('div');
+                        sectionDiv.style.marginBottom = '15px';
+
+                        const sectionTitle = document.createElement('h4');
+                        sectionTitle.textContent = segment.tag || '본문';
+                        sectionTitle.style.color = '#333';
+                        sectionTitle.style.marginBottom = '8px';
+                        sectionDiv.appendChild(sectionTitle);
+
+                        const contentDiv = document.createElement('div');
+                        contentDiv.style.padding = '10px';
+                        contentDiv.style.backgroundColor = '#f8f9fa';
+                        contentDiv.style.borderRadius = '4px';
+                        contentDiv.style.border = '1px solid #e9ecef';
+
+                        // Delta를 HTML로 변환
+                        let htmlText = this.deltaToHtml(segment.quill_delta);
+                        contentDiv.innerHTML = htmlText;
+
+                        sectionDiv.appendChild(contentDiv);
+                        questionDiv.appendChild(sectionDiv);
+                    }
+                });
+
+                htmlContent.appendChild(questionDiv);
+            }
+        });
+    }
+
+    // Delta를 HTML로 변환하는 간단한 함수
+    deltaToHtml(delta) {
+        if (!delta.ops) return '';
+
+        let html = '';
+        delta.ops.forEach(op => {
+            if (typeof op.insert === 'string') {
+                let text = op.insert;
+                
+                if (op.attributes) {
+                    if (op.attributes.bold) text = `<strong>${text}</strong>`;
+                    if (op.attributes.italic) text = `<em>${text}</em>`;
+                    if (op.attributes.underline) text = `<u>${text}</u>`;
+                    if (op.attributes.color) text = `<span style="color: ${op.attributes.color}">${text}</span>`;
+                    if (op.attributes.background) text = `<span style="background-color: ${op.attributes.background}">${text}</span>`;
+                }
+                
+                // 줄바꿈 처리 [[memory:4632543]]
+                text = text.replace(/\n/g, '<br>');
+                html += text;
+            }
+        });
+
+        return html;
+    }
+
+    // 탭 전환
+    switchTab(tabName) {
+        // 탭 버튼 활성화 상태 변경
+        document.querySelectorAll('.tab').forEach(tab => {
+            tab.classList.remove('active');
+        });
+        document.querySelector(`[data-tab="${tabName}"]`).classList.add('active');
 
         // 탭 콘텐츠 표시/숨김
         document.querySelectorAll('.question-viewer').forEach(viewer => {
             viewer.classList.remove('active');
+            viewer.style.display = 'none';
         });
 
-        const targetTab = document.getElementById(tabName + 'Tab');
-        if (targetTab) {
-            targetTab.classList.add('active');
+        const activeTab = document.getElementById(`${tabName}Tab`);
+        if (activeTab) {
+            activeTab.classList.add('active');
+            activeTab.style.display = 'block';
         }
-
-        // 데이터가 있을 때만 콘텐츠 업데이트
-        if (!this.currentData) return;
-
-        switch (tabName) {
-            case 'questions':
-                this.renderQuestions();
-                break;
-            case 'raw':
-                this.renderRawJson();
-                break;
-            case 'html':
-                this.renderHtmlContent();
-                break;
-        }
-    }
-
-    renderQuestions() {
-        const container = document.getElementById('questionsTab');
-        
-        if (!this.currentData || !this.currentData.items) {
-            container.innerHTML = '<div class="empty-state"><h3>문항 데이터가 없습니다</h3></div>';
-            return;
-        }
-
-        container.innerHTML = '';
-        
-        this.currentData.items.forEach((item, index) => {
-            const questionElement = this.createQuestionElement(item, index);
-            container.appendChild(questionElement);
-        });
-    }
-
-    createQuestionElement(item, index) {
-        const questionDiv = document.createElement('div');
-        questionDiv.className = 'question-item';
-        
-        // 문항 헤더
-        const header = document.createElement('div');
-        header.className = 'question-header';
-        header.innerHTML = `
-            <div class="question-number">문항 ${item.id || index + 1}</div>
-            <div class="question-type">${item.answerType || 'Unknown'}</div>
-        `;
-        questionDiv.appendChild(header);
-
-        // 지문 영역 (Passage)
-        if (item.passageAreaInfo && item.passageAreaInfo.annotationIds.length > 0) {
-            const passageSection = this.createQuestionSection('지문', item.passageAreaInfo.annotationIds);
-            questionDiv.appendChild(passageSection);
-        }
-
-        // 문제 영역 (Question)
-        if (item.questionAreaInfo && item.questionAreaInfo.annotationIds.length > 0) {
-            const questionSection = this.createQuestionSection('문제', item.questionAreaInfo.annotationIds);
-            questionDiv.appendChild(questionSection);
-        }
-
-        // 답안 영역 (Answer)
-        if (item.answerAreaInfo && item.answerAreaInfo.annotationIds.length > 0) {
-            const answerSection = this.createQuestionSection('답안', item.answerAreaInfo.annotationIds);
-            questionDiv.appendChild(answerSection);
-        }
-
-        // 해설 영역 (Explanation)
-        if (item.explanationAreaInfo && item.explanationAreaInfo.annotationIds.length > 0) {
-            const explanationSection = this.createQuestionSection('해설', item.explanationAreaInfo.annotationIds);
-            questionDiv.appendChild(explanationSection);
-        }
-
-        return questionDiv;
-    }
-
-    createQuestionSection(title, annotationIds) {
-        const section = document.createElement('div');
-        section.className = 'question-section';
-        
-        const titleElement = document.createElement('div');
-        titleElement.className = 'section-title';
-        titleElement.textContent = title;
-        section.appendChild(titleElement);
-
-        annotationIds.forEach(annotationId => {
-            const annotation = this.findAnnotation(annotationId);
-            if (annotation) {
-                const contentDiv = this.createAnnotationContent(annotation);
-                section.appendChild(contentDiv);
-            }
-        });
-
-        return section;
-    }
-
-    findAnnotation(annotationId) {
-        if (!this.currentData.annotations) return null;
-        return this.currentData.annotations.find(ann => ann.id === annotationId);
-    }
-
-    createAnnotationContent(annotation) {
-        const contentDiv = document.createElement('div');
-        contentDiv.className = 'annotation-content';
-        
-        // HTML이 있으면 HTML을 사용, 없으면 텍스트 사용
-        if (annotation.html && annotation.html.trim()) {
-            // HTML을 안전하게 표시
-            contentDiv.innerHTML = this.sanitizeHtml(annotation.html);
-        } else if (annotation.text && annotation.text.trim()) {
-            // 텍스트를 Quill 에디터로 표시
-            this.createQuillEditor(contentDiv, annotation.text);
-        } else {
-            contentDiv.innerHTML = '<em style="color: #999;">내용이 없습니다</em>';
-        }
-
-        return contentDiv;
-    }
-
-    createQuillEditor(container, text) {
-        const editorId = 'editor-' + Math.random().toString(36).substr(2, 9);
-        container.innerHTML = `<div id="${editorId}"></div>`;
-        
-        setTimeout(() => {
-            const editorElement = document.getElementById(editorId);
-            if (editorElement) {
-                const quill = new Quill(editorElement, {
-                    theme: 'snow',
-                    readOnly: true,
-                    modules: {
-                        toolbar: false
-                    }
-                });
-
-                // 텍스트를 Delta 형식으로 변환
-                const delta = this.textToDelta(text);
-                quill.setContents(delta);
-                
-                this.quillInstances.set(editorId, quill);
-            }
-        }, 0);
-    }
-
-    textToDelta(text) {
-        // 간단한 텍스트를 Delta 형식으로 변환
-        return {
-            ops: [
-                { insert: text }
-            ]
-        };
-    }
-
-    sanitizeHtml(html) {
-        // 기본적인 HTML 태그만 허용
-        const allowedTags = ['div', 'span', 'p', 'br', 'strong', 'em', 'u', 'b', 'i', 'ul', 'ol', 'li'];
-        const tempDiv = document.createElement('div');
-        tempDiv.innerHTML = html;
-        
-        // 허용되지 않은 태그 제거 (기본적인 구현)
-        const walker = document.createTreeWalker(
-            tempDiv,
-            NodeFilter.SHOW_ELEMENT,
-            null,
-            false
-        );
-
-        const nodesToRemove = [];
-        let node;
-        while (node = walker.nextNode()) {
-            if (!allowedTags.includes(node.tagName.toLowerCase())) {
-                nodesToRemove.push(node);
-            }
-        }
-
-        nodesToRemove.forEach(node => {
-            if (node.parentNode) {
-                // 태그는 제거하되 내용은 유지
-                while (node.firstChild) {
-                    node.parentNode.insertBefore(node.firstChild, node);
-                }
-                node.parentNode.removeChild(node);
-            }
-        });
-
-        return tempDiv.innerHTML;
-    }
-
-    renderRawJson() {
-        const container = document.getElementById('rawJson');
-        if (this.currentData) {
-            container.textContent = JSON.stringify(this.currentData, null, 2);
-        } else {
-            container.textContent = '데이터가 없습니다.';
-        }
-    }
-
-    renderHtmlContent() {
-        const container = document.getElementById('htmlContent');
-        
-        if (!this.currentData || !this.currentData.annotations) {
-            container.innerHTML = '<div class="empty-state"><h3>HTML 데이터가 없습니다</h3></div>';
-            return;
-        }
-
-        container.innerHTML = '';
-        
-        this.currentData.annotations.forEach(annotation => {
-            if (annotation.html && annotation.html.trim()) {
-                const htmlDiv = document.createElement('div');
-                htmlDiv.style.marginBottom = '20px';
-                htmlDiv.style.padding = '15px';
-                htmlDiv.style.border = '1px solid #e9ecef';
-                htmlDiv.style.borderRadius = '6px';
-                htmlDiv.style.background = '#fafafa';
-                
-                const header = document.createElement('div');
-                header.style.fontSize = '0.9rem';
-                header.style.color = '#666';
-                header.style.marginBottom = '10px';
-                header.textContent = `Annotation ID: ${annotation.id}`;
-                htmlDiv.appendChild(header);
-                
-                const content = document.createElement('div');
-                content.innerHTML = this.sanitizeHtml(annotation.html);
-                htmlDiv.appendChild(content);
-                
-                container.appendChild(htmlDiv);
-            }
-        });
-    }
-
-    showError(message) {
-        const container = document.querySelector('.tab-content');
-        const errorDiv = document.createElement('div');
-        errorDiv.className = 'error';
-        errorDiv.textContent = message;
-        container.insertBefore(errorDiv, container.firstChild);
-        
-        setTimeout(() => {
-            if (errorDiv.parentNode) {
-                errorDiv.parentNode.removeChild(errorDiv);
-            }
-        }, 5000);
     }
 }
 
 // 페이지 로드 시 뷰어 초기화
 document.addEventListener('DOMContentLoaded', () => {
     new EnglishQuestionViewer();
-});
-
-// 추가 스타일링을 위한 CSS 추가
-const additionalStyles = `
-    .drag-over {
-        border-color: #667eea !important;
-        background: #f0f4ff !important;
-    }
-    
-    .annotation-content {
-        margin-bottom: 15px;
-        padding: 15px;
-        background: #fafafa;
-        border: 1px solid #e9ecef;
-        border-radius: 6px;
-    }
-    
-    .annotation-content:last-child {
-        margin-bottom: 0;
-    }
-    
-    .ql-container {
-        border: none !important;
-        font-size: 16px !important;
-    }
-    
-    .ql-editor {
-        padding: 0 !important;
-        border: none !important;
-        background: transparent !important;
-    }
-    
-    .ql-editor.ql-blank::before {
-        font-style: italic;
-        color: #999;
-    }
-`;
-
-// 동적으로 스타일 추가
-const styleSheet = document.createElement("style");
-styleSheet.innerText = additionalStyles;
-document.head.appendChild(styleSheet); 
+}); 

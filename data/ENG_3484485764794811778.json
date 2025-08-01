@@ -1,0 +1,4322 @@
+{
+    "info": {
+        "html_url": "",
+        "provider": "crowdworks"
+    },
+    "items": [
+        {
+            "id": 1,
+            "imageIds": [
+                0
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -1
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    0,
+                    1,
+                    2,
+                    3
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -2
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "imageIds": [
+                0
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -3
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    4,
+                    5,
+                    6
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -4
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "imageIds": [
+                1
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -5
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -6
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "imageIds": [
+                1
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -7
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -8
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "imageIds": [
+                2
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -9
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    20,
+                    21,
+                    22
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -10
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "imageIds": [
+                2
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -11
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    23,
+                    24,
+                    25,
+                    26,
+                    27
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -12
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "imageIds": [
+                3
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -13
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    28,
+                    29,
+                    30,
+                    31
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -14
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "imageIds": [
+                3
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -15
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    32,
+                    33,
+                    34
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -16
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "imageIds": [
+                4
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -17
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    35,
+                    36,
+                    37,
+                    38,
+                    39,
+                    40,
+                    41
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -18
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "imageIds": [
+                4
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -19
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    42,
+                    43,
+                    44,
+                    45,
+                    46
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -20
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "imageIds": [
+                5
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -21
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    47,
+                    48,
+                    49
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -22
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "imageIds": [
+                5
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -23
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    50,
+                    51,
+                    52,
+                    53
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -24
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "imageIds": [
+                6
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -25
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    54,
+                    55,
+                    56,
+                    57
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -26
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "imageIds": [
+                6
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -27
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    58,
+                    59,
+                    60,
+                    61
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -28
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "imageIds": [
+                7
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -29
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    62,
+                    63,
+                    64,
+                    65,
+                    66,
+                    67,
+                    68,
+                    69
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -30
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "imageIds": [
+                7
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -31
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    70,
+                    71,
+                    72,
+                    73,
+                    74,
+                    75
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -32
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "imageIds": [
+                8
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -33
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    76,
+                    77,
+                    78
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -34
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "imageIds": [
+                8
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -35
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    79,
+                    80,
+                    81,
+                    82,
+                    83
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -36
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "imageIds": [
+                9
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -37
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    84,
+                    85,
+                    86,
+                    87
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -38
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "imageIds": [
+                9
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -39
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    88,
+                    89,
+                    90,
+                    91
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -40
+                ]
+            }
+        }
+    ],
+    "images": [
+        {
+            "id": 0,
+            "width": 2481,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3484485764794811778/ENG_3484485764794811778_PAGE_0001.png",
+            "file_name": "ENG_3484485764794811778_PAGE_0001.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 1,
+            "width": 2481,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3484485764794811778/ENG_3484485764794811778_PAGE_0002.png",
+            "file_name": "ENG_3484485764794811778_PAGE_0002.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 2,
+            "width": 2481,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3484485764794811778/ENG_3484485764794811778_PAGE_0003.png",
+            "file_name": "ENG_3484485764794811778_PAGE_0003.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 3,
+            "width": 2481,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3484485764794811778/ENG_3484485764794811778_PAGE_0004.png",
+            "file_name": "ENG_3484485764794811778_PAGE_0004.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 4,
+            "width": 2481,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3484485764794811778/ENG_3484485764794811778_PAGE_0005.png",
+            "file_name": "ENG_3484485764794811778_PAGE_0005.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 5,
+            "width": 2481,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3484485764794811778/ENG_3484485764794811778_PAGE_0006.png",
+            "file_name": "ENG_3484485764794811778_PAGE_0006.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 6,
+            "width": 2481,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3484485764794811778/ENG_3484485764794811778_PAGE_0007.png",
+            "file_name": "ENG_3484485764794811778_PAGE_0007.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 7,
+            "width": 2481,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3484485764794811778/ENG_3484485764794811778_PAGE_0008.png",
+            "file_name": "ENG_3484485764794811778_PAGE_0008.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 8,
+            "width": 2481,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3484485764794811778/ENG_3484485764794811778_PAGE_0009.png",
+            "file_name": "ENG_3484485764794811778_PAGE_0009.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 9,
+            "width": 2481,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3484485764794811778/ENG_3484485764794811778_PAGE_0010.png",
+            "file_name": "ENG_3484485764794811778_PAGE_0010.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 10,
+            "width": 2481,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3484485764794811778/ENG_3484485764794811778_PAGE_0012.png",
+            "file_name": "ENG_3484485764794811778_PAGE_0012.png",
+            "page_type": "정답지",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 11,
+            "width": 2481,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3484485764794811778/ENG_3484485764794811778_PAGE_0013.png",
+            "file_name": "ENG_3484485764794811778_PAGE_0013.png",
+            "page_type": "정답지",
+            "bboxCheckStatus": true
+        }
+    ],
+    "licenses": [],
+    "categories": [
+        {
+            "id": 0,
+            "name": "[공통] 발문",
+            "objectColor": "#FF9700",
+            "supercategory": "layout"
+        },
+        {
+            "id": 1,
+            "name": "[그룹] 공통 본문",
+            "objectColor": "#875000",
+            "supercategory": "layout"
+        },
+        {
+            "id": 2,
+            "name": "[단일] 지시문",
+            "objectColor": "#FF0000",
+            "supercategory": "layout"
+        },
+        {
+            "id": 3,
+            "name": "[단일] 본문",
+            "objectColor": "#B62828",
+            "supercategory": "layout"
+        },
+        {
+            "id": 4,
+            "name": "[공통] 보기",
+            "objectColor": "#2E00FF",
+            "supercategory": "layout"
+        },
+        {
+            "id": 5,
+            "name": "[공통] 조건",
+            "objectColor": "#00DE22",
+            "supercategory": "layout"
+        },
+        {
+            "id": 6,
+            "name": "[답안] 객관식",
+            "objectColor": "#BD00FF",
+            "supercategory": "layout"
+        },
+        {
+            "id": 7,
+            "name": "[답안] 주관식",
+            "objectColor": "#FF00A2",
+            "supercategory": "layout"
+        },
+        {
+            "id": 8,
+            "name": "[답안] 공백 선지",
+            "objectColor": "#6A7500",
+            "supercategory": "layout"
+        },
+        {
+            "id": 9,
+            "name": "[정답] 정답/해설",
+            "objectColor": "#DE00CA",
+            "supercategory": "layout"
+        },
+        {
+            "id": 10,
+            "name": "[공통] 도표",
+            "objectColor": "#00D8FF",
+            "supercategory": "layout"
+        },
+        {
+            "id": 11,
+            "name": "[공통] 그림",
+            "objectColor": "#005C6D",
+            "supercategory": "layout"
+        },
+        {
+            "id": 12,
+            "name": "[그룹] 공백 지시문",
+            "objectColor": "#C6AC62",
+            "supercategory": "layout"
+        },
+        {
+            "id": 13,
+            "name": "[단일] 공백 지시문",
+            "objectColor": "#FFCBA5",
+            "supercategory": "layout"
+        },
+        {
+            "id": 14,
+            "name": "[각주] 단어",
+            "objectColor": "#00FFD5",
+            "supercategory": "layout"
+        },
+        {
+            "id": 99,
+            "name": "[그룹] 문항 구분",
+            "objectColor": "#7A3245",
+            "supercategory": "layout"
+        },
+        {
+            "id": 100,
+            "name": "[단일] 문항 구분",
+            "objectColor": "#32517A",
+            "supercategory": "layout"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "area": 29575.502,
+            "bbox": [
+                212.50999999999965,
+                315.80999999999995,
+                610.0158288876974,
+                48.48317219351753
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"0\">다음 글의 주제로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 주제로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.0856549778315194,
+                0.08999999999999998,
+                0.245874981413824,
+                0.013816805982763617
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1,
+            "area": 932798.264,
+            "bbox": [
+                180.13,
+                386.3299999999998,
+                1011.0000000000001,
+                922.6491239517674
+            ],
+            "html": "<div class=\"contents question\"><span class=\"1\">I am writing with regard to the state&apos;s funding for the construction project at Fort Montgomery High School. Our school needs additional spaces to provide a fully functional Art and Library Media Center to serve our students in a more meaningful way. Despite submitting all required documentation for funding to your department in April 2024, we have not yet received any notification from your department. A delay in the process can carry considerable consequences related to the school&apos;s budgetary constraints and schedule. Therefore, in order to proceed with our project, we request you notify us of the review result regarding the submitted documentation. I look forward to hearing from you.</span></div>",
+            "text": "I am writing with regard to the state's funding for the construction project at Fort Montgomery High School. Our school needs additional spaces to provide a fully functional Art and Library Media Center to serve our students in a more meaningful way. Despite submitting all required documentation for funding to your department in April 2024, we have not yet received any notification from your department. A delay in the process can carry considerable consequences related to the school's budgetary constraints and schedule. Therefore, in order to proceed with our project, we request you notify us of the review result regarding the submitted documentation. I look forward to hearing from you.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07260378879484079,
+                0.11009689370190932,
+                0.40749697702539306,
+                0.2629379093621452
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2,
+            "area": 637975.975,
+            "bbox": [
+                183.2600000000001,
+                1365.6600000000003,
+                1010.8499244042597,
+                631.1282811123924
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"2\">① how construction delays affect student access to school resources<br>② budgetary constraints affecting the school&apos;s curriculum choices<br>③ the consequences of premature communication regarding school funding<br>④ the urgency of receiving state funding for a school&apos;s construction project<br>⑤ the impact of communication delays on the school&apos;s funding application</span></div>",
+            "text": "① how construction delays affect student access to school resources\n② budgetary constraints affecting the school's curriculum choices\n③ the consequences of premature communication regarding school funding\n④ the urgency of receiving state funding for a school's construction project\n⑤ the impact of communication delays on the school's funding application",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07386537686416772,
+                0.38918780279281856,
+                0.4074364870633856,
+                0.17985986922553218
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3,
+            "area": 24494.206,
+            "bbox": [
+                198.36000000000007,
+                2130.08,
+                1006.3355151050034,
+                24.340000000000146
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07995163240628782,
+                0.6070333428327158,
+                0.4056168944397434,
+                0.006936449130806539
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4,
+            "area": 48341.404,
+            "bbox": [
+                1332.0499999999997,
+                314.72,
+                783.4911437303558,
+                61.69999999999999
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"4\">다음 글의 밑줄 친 부분 중, 어법상 <u>틀린</u> 것은?</span></div>",
+            "text": "다음 글의 밑줄 친 부분 중, 어법상 <u>틀린</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.536900443369609,
+                0.0896893701909376,
+                0.31579651097555655,
+                0.01758335708178968
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5,
+            "area": 870059.806,
+            "bbox": [
+                1287.87,
+                391.0499999999995,
+                1016.1199999999999,
+                856.2569442216547
+            ],
+            "html": "<div class=\"contents question\"><span class=\"5\">As I waited outside the locker room after a hard-fought basketball game, the coach called out to me, &quot;David, walk with me.&quot; I figured he was going to tell me something important. He was going to select me ① <u>to be</u> the captain of the team, the leader I had always wanted to be. My heart ② <u>was racing</u> with anticipation. But when his next words hit my ears, everything ③ <u>changed</u>. &quot;We&apos;re going to have to send you home,&quot; he said coldly. &quot;I don&apos;t think you are going to make it.&quot; I couldn&apos;t believe his decision. I tried ④ <u>to hold</u> it together, but inside I was falling apart. A car would be waiting tomorrow morning ⑤ <u>taking</u> me home. And just like that, it was over.</span></div>",
+            "text": "As I waited outside the locker room after a hard-fought basketball game, the coach called out to me, \"David, walk with me.\" I figured he was going to tell me something important. He was going to select me ① <u>to be</u> the captain of the team, the leader I had always wanted to be. My heart ② <u>was racing</u> with anticipation. But when his next words hit my ears, everything ③ <u>changed</u>. \"We're going to have to send you home,\" he said coldly. \"I don't think you are going to make it.\" I couldn't believe his decision. I tried ④ <u>to hold</u> it together, but inside I was falling apart. A car would be waiting tomorrow morning ⑤ <u>taking</u> me home. And just like that, it was over.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.519093107617896,
+                0.11144200626959233,
+                0.4095606610237807,
+                0.24401736797425327
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6,
+            "area": 34084.863,
+            "bbox": [
+                1299.9499999999998,
+                1364.4,
+                1002.2012186122224,
+                34.00999999999999
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.523962112051592,
+                0.3888287261328014,
+                0.4039505113310046,
+                0.009692220005699626
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7,
+            "area": 57654.246,
+            "bbox": [
+                217.88816350920592,
+                309.26652622695553,
+                954.177768289461,
+                60.422960725075484
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"7\">주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?</span></div>",
+            "text": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.08782271806094556,
+                0.08813523118465533,
+                0.3845940218820883,
+                0.01721942454405115
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8,
+            "area": 307552.83,
+            "bbox": [
+                192.14615485333923,
+                393.66796728874294,
+                989.7491290581705,
+                310.73816703815385
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"8\">For many of us, making time for exercise is a continuing challenge. Between work commitments and family obligations, it often feels like there&apos;s no room in our packed schedules for a dedicated workout.</span></div>",
+            "text": "For many of us, making time for exercise is a continuing challenge. Between work commitments and family obligations, it often feels like there's no room in our packed schedules for a dedicated workout.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07744705959425201,
+                0.11218807845219235,
+                0.3989315312608507,
+                0.08855462155547274
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9,
+            "area": 274640.683,
+            "bbox": [
+                180.69054531026944,
+                780.9003812395267,
+                1006.1835942258788,
+                272.9528535980148
+            ],
+            "html": "<div class=\"contents question\"><span class=\"9\">(A) But what if the workout came to you, right in the midst of your daily routine? That&apos;s where the beauty of integrating mini-exercises into household chores comes into play.</span></div>",
+            "text": "(A) But what if the workout came to you, right in the midst of your daily routine? That's where the beauty of integrating mini-exercises into household chores comes into play.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07282972402671078,
+                0.2225421434139432,
+                0.4055556607117609,
+                0.07778650715246932
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10,
+            "area": 253049.797,
+            "bbox": [
+                186.54796652223075,
+                1058.772849759807,
+                989.7491290581704,
+                255.67064376557005
+            ],
+            "html": "<div class=\"contents question\"><span class=\"10\">(B) For instance, practice squats or engage in some wall push-ups as you wait for your morning kettle to boil. Incorporating quick exercises into your daily chores can improve your health.</span></div>",
+            "text": "(B) For instance, practice squats or engage in some wall push-ups as you wait for your morning kettle to boil. Incorporating quick exercises into your daily chores can improve your health.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.0751906354382228,
+                0.30173064968931523,
+                0.3989315312608506,
+                0.07286139748235111
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11,
+            "area": 387156.25,
+            "bbox": [
+                185.14957948555252,
+                1324.3269539252349,
+                1003.9300541593022,
+                385.64066109827604
+            ],
+            "html": "<div class=\"contents question\"><span class=\"11\">(C) Let&apos;s be realistic; chores are inevitable. Whether it&apos;s washing dishes or taking out the trash, these tasks are an essential part of daily life. But rather than viewing chores as purely obligatory activities, why not seize these moments as opportunities for physical activity?</span></div>",
+            "text": "(C) Let's be realistic; chores are inevitable. Whether it's washing dishes or taking out the trash, these tasks are an essential part of daily life. But rather than viewing chores as purely obligatory activities, why not seize these moments as opportunities for physical activity?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07462699697120215,
+                0.377408650306422,
+                0.4046473414588078,
+                0.1099004448840912
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12,
+            "area": 144827.162,
+            "bbox": [
+                175.17721054738786,
+                1774.9010508332872,
+                970.1695744619099,
+                149.2802559090103
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"12\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50%;\">① (A) - (C) - (B)</td></tr><tr><td style=\"width: 50%;\">② (B) - (A) - (C)</td></tr><tr><td style=\"width: 50%;\">③ (B) - (C) - (A)</td></tr><tr><td style=\"width: 50%;\">④ (C) - (A) - (B)</td></tr><tr><td style=\"width: 50%;\">⑤ (C) - (B) - (A)</td></tr></tbody></table></span></div>",
+            "text": "① (A) - (C) - (B)\n② (B) - (A) - (C)\n③ (B) - (C) - (A)\n④ (C) - (A) - (B)\n⑤ (C) - (B) - (A)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07060750122829015,
+                0.505813921582584,
+                0.3910397317460338,
+                0.04254210769706762
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13,
+            "area": 18016.698,
+            "bbox": [
+                186.86585743072578,
+                2024.32176721499,
+                977.1055821789907,
+                18.43884449907796
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07531876559078024,
+                0.5768942055329125,
+                0.39383538177307165,
+                0.0052547291248441035
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14,
+            "area": 108070.923,
+            "bbox": [
+                1328.8885424268942,
+                313.55763557272434,
+                980.8307785768761,
+                110.18304602807888
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"14\">다음 글의 내용을 <u>한 문장</u>으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 내용을 <u>한 문장</u>으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5356261759076558,
+                0.0893581178605655,
+                0.395336871655331,
+                0.03140012710974035
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15,
+            "area": 1348920.118,
+            "bbox": [
+                1297.1537992893484,
+                442.319408005422,
+                992.4002573186742,
+                1359.2500689274882
+            ],
+            "html": "<div class=\"contents question\"><span class=\"15\">When we see something, we naturally and automatically break it up into shapes, colors, and concepts that we have learned through education. We recode what we see through the lens of everything we know. We reconstruct memories rather than retrieving the video from memory. This is a useful trait. It&apos;s a more efficient way to store information - a bit like an optimal image compression algorithm such as JPG, rather than storing a raw bitmap image file. People who lack this ability and remember everything in perfect detail struggle to generalize, learn, and make connections between what they have learned. But representing the world as abstract ideas and features comes at a cost of seeing the world as it is. Instead, we see the world through our assumptions, motivations, and past experiences. The discovery that our memories are reconstructed through abstract representations rather than played back like a movie completely undermined the legal primacy of eyewitness testimony. Seeing is not believing.</span></div>",
+            "text": "When we see something, we naturally and automatically break it up into shapes, colors, and concepts that we have learned through education. We recode what we see through the lens of everything we know. We reconstruct memories rather than retrieving the video from memory. This is a useful trait. It's a more efficient way to store information - a bit like an optimal image compression algorithm such as JPG, rather than storing a raw bitmap image file. People who lack this ability and remember everything in perfect detail struggle to generalize, learn, and make connections between what they have learned. But representing the world as abstract ideas and features comes at a cost of seeing the world as it is. Instead, we see the world through our assumptions, motivations, and past experiences. The discovery that our memories are reconstructed through abstract representations rather than played back like a movie completely undermined the legal primacy of eyewitness testimony. Seeing is not believing.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5228350662190038,
+                0.1260528378470852,
+                0.4000001037157091,
+                0.3873610911734079
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16,
+            "area": 26713.533,
+            "bbox": [
+                1750.0319646761095,
+                1813.2076474172427,
+                536.1687334897902,
+                49.82299724662403
+            ],
+            "html": "<div class=\"footnote\"><span>* retrieve: 상기하다<br>** primacy: 우위성</span></div>",
+            "text": "*retrieve: 상기하다\n\n**primacy: 우위성",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.7053736254236637,
+                0.5167305920254325,
+                0.2161099288552157,
+                0.01419863130425307
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 14,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17,
+            "area": 315967.877,
+            "bbox": [
+                1295.6489547170725,
+                1951.6769073623784,
+                993.2688500443362,
+                318.1091167584857
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"17\">Our memories are not ______(A)______ reproductions of reality but are reconstructed using abstract representations, which can lead to ______(B)______ in how we perceive and recall the world around us</span></div>",
+            "text": "Our memories are not ______(A)______ reproductions of reality but are reconstructed using abstract representations, which can lead to ______(B)______ in how we perceive and recall the world around us",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5222285186284049,
+                0.5561917661334792,
+                0.4003502015495108,
+                0.09065520568779872
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18,
+            "area": 313312.207,
+            "bbox": [
+                1292.2261578485836,
+                2333.645644573791,
+                801.3671759749473,
+                390.97209880931223
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"18\"><table style=\"width: 100%; text-align: center;\"><tbody><tr><td style=\"width: 12%;\"></td><td style=\"width: 44%;\">(A)</td><td style=\"width: 44%;\">(B)</td></tr><tr><td style=\"width: 12%;\">①</td><td style=\"width: 44%;\">abstract</td><td style=\"width: 44%;\">consistency</td></tr><tr><td style=\"width: 12%;\">②</td><td style=\"width: 44%;\">concrete</td><td style=\"width: 44%;\">assistance</td></tr><tr><td style=\"width: 12%;\">③</td><td style=\"width: 44%;\">misrepresentations</td><td style=\"width: 44%;\">problems</td></tr><tr><td style=\"width: 12%;\">④</td><td style=\"width: 44%;\">identical</td><td style=\"width: 44%;\">distortions</td></tr><tr><td style=\"width: 12%;\">⑤</td><td style=\"width: 44%;\">important</td><td style=\"width: 44%;\">comprehension</td></tr></tbody></table></span></div>",
+            "text": "(A)&&(B)\n① abstract&&consistency\n② concrete&&assistance\n③ misrepresentations&&problems\n④ identical&&distortions\n⑤ important&&comprehension",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5208489148926173,
+                0.6650457807277831,
+                0.3230016831821633,
+                0.11141980587327223
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19,
+            "area": 23266.847,
+            "bbox": [
+                1311.4590746556023,
+                2863.903810694529,
+                946.3789915444313,
+                24.58512599877031
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5286009974428062,
+                0.8161595356781217,
+                0.38145062133995616,
+                0.0070063054997920515
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20,
+            "area": 115577.37,
+            "bbox": [
+                218.41831494302517,
+                306.18799293442265,
+                980.3000000000001,
+                117.90000000000003
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"20\">다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 <u>않은</u> 것은?</span></div>",
+            "text": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 <u>않은</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.0880364026372532,
+                0.087257906222406,
+                0.39512293430068524,
+                0.03359931604445712
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21,
+            "area": 1257507.659,
+            "bbox": [
+                182.80319017674196,
+                432.59931437174487,
+                1007.0855325386735,
+                1248.6602357984996
+            ],
+            "html": "<div class=\"contents question\"><span class=\"21\">In his Cornell laboratory, David Dunning conducted experimental tests of eyewitness testimony and found evidence that a careful ① <u>deliberation</u> of facial features and a detailed discussion of selection procedures can actually be a sign of an ② <u>accurate</u> identification. It&apos;s when people find themselves unable to explain why they recognize the person, saying things like &quot;his face just popped out at me,&quot; that they tend to be accurate more often. Sometimes our first, ③ <u>immediate</u>, automatic reaction to a situation is the truest interpretation of what our mind is telling us. That very first impression can also be more accurate about the world than the ④ <u>deliberative</u>, reasoned self-narrative can be. In his book Blink, Malcolm Gladwell describes a variety of studies in psychology and behavioral economics that demonstrate the superior performance of relatively ⑤ <u>unconscious</u> first guesses compared to logical step-by-step justifications for a decision.</span></div>",
+            "text": "In his Cornell laboratory, David Dunning conducted experimental tests of eyewitness testimony and found evidence that a careful ① <u>deliberation</u> of facial features and a detailed discussion of selection procedures can actually be a sign of an ② <u>accurate</u> identification. It's when people find themselves unable to explain why they recognize the person, saying things like \"his face just popped out at me,\" that they tend to be accurate more often. Sometimes our first, ③ <u>immediate</u>, automatic reaction to a situation is the truest interpretation of what our mind is telling us. That very first impression can also be more accurate about the world than the ④ <u>deliberative</u>, reasoned self-narrative can be. In his book Blink, Malcolm Gladwell describes a variety of studies in psychology and behavioral economics that demonstrate the superior performance of relatively ⑤ <u>unconscious</u> first guesses compared to logical step-by-step justifications for a decision.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07368125359804191,
+                0.12328279121451835,
+                0.40591919892731704,
+                0.3558450372751495
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22,
+            "area": 25836.839,
+            "bbox": [
+                209.58737987191944,
+                1752.7136341025464,
+                964.2308290263891,
+                26.79528403001109
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.08447697697376841,
+                0.4994909188095031,
+                0.3886460415261544,
+                0.007636159598179279
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23,
+            "area": 115576.793,
+            "bbox": [
+                1323.8096711913026,
+                314.7000646396977,
+                980.3013428434956,
+                117.89924973204717
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"23\">글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?</span></div>",
+            "text": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5335790694039914,
+                0.08968368898252999,
+                0.39512347555159033,
+                0.033599102231988365
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 24,
+            "area": 123473.24,
+            "bbox": [
+                1297.03,
+                444.13144416647714,
+                1001.7300000000002,
+                123.26000000000005
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"24\">Respondents&apos; recollections may be inaccurate, and their definitions of &apos;sad&apos; could vary widely.</span></div>",
+            "text": "Respondents' recollections may be inaccurate, and their definitions of 'sad' could vary widely.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5227851672712616,
+                0.12656923458719782,
+                0.40376058041112467,
+                0.03512681675691082
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 25,
+            "area": 1117667.319,
+            "bbox": [
+                1286.31,
+                636.2399999999998,
+                1012.44,
+                1103.9343755850075
+            ],
+            "html": "<div class=\"contents question\"><span class=\"25\">Many forms of research lead naturally to quantitative data. (①) A study of happiness might measure the number of times someone smiles during an interaction, and a study of memory might measure the number of items an individual can recall after one, five, and ten minutes. (②) Asking people how many times in a year they are sad will also yield quantitative data, but it might not be reliable. (③) But asking &quot;How many times in the past year were you sad enough to call in sick to work?&quot; prompts a concrete answer. (④) Similarly, instead of asking people to rate how bad a procrastinator they are, ask, &quot;How many of your utility bills are you currently late in paying, even though you can afford to pay them?&quot; (⑤) Questions that seek concrete responses help make abstract concepts clearer and ensure consistency from one study to the next.</span></div>",
+            "text": "Many forms of research lead naturally to quantitative data. (①) A study of happiness might measure the number of times someone smiles during an interaction, and a study of memory might measure the number of items an individual can recall after one, five, and ten minutes. (②) Asking people how many times in a year they are sad will also yield quantitative data, but it might not be reliable. (③) But asking \"How many times in the past year were you sad enough to call in sick to work?\" prompts a concrete answer. (④) Similarly, instead of asking people to rate how bad a procrastinator they are, ask, \"How many of your utility bills are you currently late in paying, even though you can afford to pay them?\" (⑤) Questions that seek concrete responses help make abstract concepts clearer and ensure consistency from one study to the next.\n",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5184643288996372,
+                0.18131661442006264,
+                0.40807738814993955,
+                0.31460084798660803
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 26,
+            "area": 27903.786,
+            "bbox": [
+                1859.493465094852,
+                1745.56823184227,
+                433.9038730618752,
+                64.30868167202584
+            ],
+            "html": "<div class=\"footnote\"><span>* procrastinator: 미루는 사람</span></div>",
+            "text": "*procrastinator: 미루는 사람",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.7494935369185215,
+                0.4974546115252978,
+                0.17489071868676953,
+                0.01832678303563005
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 14,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 27,
+            "area": 19291.506,
+            "bbox": [
+                1334.5233470693738,
+                1881.3309974465978,
+                899.948773757963,
+                21.436227224008917
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.537897358754282,
+                0.5361444848807632,
+                0.3627363054244107,
+                0.006108927678543436
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 28,
+            "area": 42165.828,
+            "bbox": [
+                215.59933135206768,
+                310.37789961857857,
+                744.1666306229679,
+                56.66180994010034
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"28\">다음 빈칸에 들어갈 말로 가장 적절한 것은?</span></div>",
+            "text": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.08690017386217963,
+                0.08845195201441396,
+                0.2999462437013172,
+                0.016147566241122926
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 29,
+            "area": 1260675.789,
+            "bbox": [
+                178.3900000000001,
+                386.47,
+                1012.71,
+                1244.8536983440536
+            ],
+            "html": "<div class=\"contents question\"><span class=\"29\">The evolution of AI is often associated with the concept of singularity. Singularity refers to the point at which AI exceeds human intelligence. After that point, it is predicted that AI will repeatedly improve itself and evolve at an accelerated pace. When AI becomes self-aware and pursues its own goals, it will be a conscious being, not just a machine. AI and human consciousness will then begin to evolve together. Our consciousness will evolve to new dimensions through our interactions with AI, which will provide us with intellectual stimulation and inspire new insights and creativity. Conversely, our consciousness __________. The direction of AI&apos;s evolution will depend greatly on what values and ethics we incorporate into AI. We need to see our relationship with AI as a mutual coexistence of conscious beings, recognizing its rights and supporting the evolution of its consciousness.</span></div>",
+            "text": "The evolution of AI is often associated with the concept of singularity. Singularity refers to the point at which AI exceeds human intelligence. After that point, it is predicted that AI will repeatedly improve itself and evolve at an accelerated pace. When AI becomes self-aware and pursues its own goals, it will be a conscious being, not just a machine. AI and human consciousness will then begin to evolve together. Our consciousness will evolve to new dimensions through our interactions with AI, which will provide us with intellectual stimulation and inspire new insights and creativity. Conversely, our consciousness __________. The direction of AI's evolution will depend greatly on what values and ethics we incorporate into AI. We need to see our relationship with AI as a mutual coexistence of conscious beings, recognizing its rights and supporting the evolution of its consciousness.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07190245868601375,
+                0.11013679110857795,
+                0.408186215235792,
+                0.3547602446121555
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 30,
+            "area": 445818.516,
+            "bbox": [
+                187.62475188260754,
+                1691.307153301596,
+                1001.3894442513415,
+                445.19993524364554
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"30\">① may evolve to lower levels of understanding<br>② will be overshadowed by AI&apos;s rapid evolution<br>③ also has a significant impact on the evolution of AI<br>④ can inspire AI to evolve according to human desires<br>⑤ will interact with AI to create new forms of technology</span></div>",
+            "text": "① may evolve to lower levels of understanding\n② will be overshadowed by AI's rapid evolution\n③ also has a significant impact on the evolution of AI\n④ can inspire AI to evolve according to human desires\n⑤ will interact with AI to create new forms of technology",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07562464807843916,
+                0.4819912092623528,
+                0.40362331489372894,
+                0.12687373475168012
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 31,
+            "area": 22952.877,
+            "bbox": [
+                179.53598415844476,
+                2181.8365364973224,
+                1012.7137190651692,
+                22.664723976039568
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07236436282081611,
+                0.6217829970069314,
+                0.40818771425440115,
+                0.006459026496449007
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 32,
+            "area": 55658.893,
+            "bbox": [
+                1332.73192427629,
+                310.37789961857857,
+                781.374962154116,
+                71.2319896389833
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"32\">다음 글의 밑줄 친 부분 중, 어법상 <u>틀린</u> 것은?</span></div>",
+            "text": "다음 글의 밑줄 친 부분 중, 어법상 <u>틀린</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5371753020057598,
+                0.08845195201441396,
+                0.3149435558863829,
+                0.020299797560268822
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 33,
+            "area": 1390774.292,
+            "bbox": [
+                1289.0500000000002,
+                389.699999999999,
+                1014.3299999999999,
+                1371.126055358669
+            ],
+            "html": "<div class=\"contents question\"><span class=\"33\">Digital technologies are essentially related to metaphors, but digital metaphors are different from linguistic ① <u>ones</u> in important ways. Linguistic metaphors are passive, in the sense that the audience needs to choose to actively enter the world proposed by metaphor. In the Shakespearean metaphor &quot;time is a beggar,&quot; the audience is unlikely ② <u>to understand</u> the metaphor without cognitive effort and without further engaging Shakespeare&apos;s prose. Technological metaphors, on the other hand, are active (and often imposing) in the sense ③ <u>that</u> they are realized in digital artifacts that are actively doing things, forcefully changing a user&apos;s meaning horizon. Technological creators cannot generally afford to require their potential audience to wonder ④ <u>how</u> the metaphor works; normally the selling point is that the usefulness of the technology is obvious at first glance. Shakespeare, on the other hand, is beloved in part because the meaning of his works is not immediately obvious and ⑤ <u>requiring</u> some thought on the part of the audience.</span></div>",
+            "text": "Digital technologies are essentially related to metaphors, but digital metaphors are different from linguistic ① <u>ones</u> in important ways. Linguistic metaphors are passive, in the sense that the audience needs to choose to actively enter the world proposed by metaphor. In the Shakespearean metaphor \"time is a beggar,\" the audience is unlikely ② <u>to understand</u> the metaphor without cognitive effort and without further engaging Shakespeare's prose. Technological metaphors, on the other hand, are active (and often imposing) in the sense ③ <u>that</u> they are realized in digital artifacts that are actively doing things, forcefully changing a user's meaning horizon. Technological creators cannot generally afford to require their potential audience to wonder ④ <u>how</u> the metaphor works; normally the selling point is that the usefulness of the technology is obvious at first glance. Shakespeare, on the other hand, is beloved in part because the meaning of his works is not immediately obvious and ⑤ <u>requiring</u> some thought on the part of the audience.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5195687222893995,
+                0.11105728127671674,
+                0.4088391777509069,
+                0.390745527317945
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 34,
+            "area": 26231.859,
+            "bbox": [
+                1292.2880856554766,
+                1819.2009528806798,
+                1012.7137190651692,
+                25.902541686903305
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5208738757176448,
+                0.5184385730637446,
+                0.40818771425440115,
+                0.007381744567370563
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 35,
+            "area": 53957.53,
+            "bbox": [
+                219.49720255305914,
+                313.9713449425713,
+                952.6399999999999,
+                56.639999999999986
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"35\">주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?</span></div>",
+            "text": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.08847126261711372,
+                0.08947601736750393,
+                0.3839742039500201,
+                0.016141350812197204
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 36,
+            "area": 181428.147,
+            "bbox": [
+                191.1500000000002,
+                393.63,
+                995.9276860593367,
+                182.16999999999996
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"36\">Herbert Simon won his Nobel Prize for recognizing our limitations in information, time, and cognitive capacity.</span></div>",
+            "text": "Herbert Simon won his Nobel Prize for recognizing our limitations in information, time, and cognitive capacity.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07704554615074576,
+                0.11217725847819891,
+                0.40142188071718526,
+                0.05191507552009118
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 37,
+            "area": 320871.599,
+            "bbox": [
+                186.3267907488639,
+                653.5540225966689,
+                996.31,
+                322.06000000000006
+            ],
+            "html": "<div class=\"contents question\"><span class=\"37\">(A) We understand things well enough to benefit from them, but all the while we are making small calculations that contribute to a larger whole. We are just doing our part in a larger computation for our societies&apos; collective brains.</span></div>",
+            "text": "(A) We understand things well enough to benefit from them, but all the while we are making small calculations that contribute to a larger whole. We are just doing our part in a larger computation for our societies' collective brains.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.0751014876053462,
+                0.1862507901386916,
+                0.40157597742845624,
+                0.0917811342262753
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 38,
+            "area": 447364.36,
+            "bbox": [
+                187.61719305357155,
+                992.289383112349,
+                997.9293802935663,
+                448.29260398122665
+            ],
+            "html": "<div class=\"contents question\"><span class=\"38\">(B) All that needs to be transmitted is which button to push-essentially how to interact with technologies rather than how they work. And so instead of holding more information than we have mental capacity for and indeed need to know, we could dedicate our large brains to a small piece of a giant calculation.</span></div>",
+            "text": "(B) All that needs to be transmitted is which button to push—essentially how to interact with technologies rather than how they work. And so instead of holding more information than we have mental capacity for and indeed need to know, we could dedicate our large brains to a small piece of a giant calculation.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07562160139200788,
+                0.2827840932209601,
+                0.40222869016266277,
+                0.1277550880539261
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 39,
+            "area": 449184.579,
+            "bbox": [
+                189.1234888497308,
+                1458.63,
+                994.805613591725,
+                451.53
+            ],
+            "html": "<div class=\"contents question\"><span class=\"39\">(C) As we lack the resources to compute answers independently, we distribute the computation across the population and solve the answer slowly, generation by generation. Then all we have to do is socially learn the right answers. You don&apos;t need to understand how your computer or toilet works; you just need to be able to use the interface and flush.</span></div>",
+            "text": "(C) As we lack the resources to compute answers independently, we distribute the computation across the population and solve the answer slowly, generation by generation. Then all we have to do is socially learn the right answers. You don't need to understand how your computer or toilet works; you just need to be able to use the interface and flush.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07622873391766659,
+                0.4156825306355087,
+                0.40096961450694274,
+                0.1286776859504132
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 40,
+            "area": 122124.395,
+            "bbox": [
+                191.75477169644273,
+                1977.29,
+                933.53,
+                130.82000000000016
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"40\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50%;\">① (A) - (C) - (B)</td></tr><tr><td style=\"width: 50%;\">② (B) - (A) - (C)</td></tr><tr><td style=\"width: 50%;\">③ (B) - (C) - (A)</td></tr><tr><td style=\"width: 50%;\">④ (C) - (A) - (B)</td></tr><tr><td style=\"width: 50%;\">⑤ (C) - (B) - (A)</td></tr></tbody></table></span></div>",
+            "text": "① (A) - (C) - (B)\n② (B) - (A) - (C)\n③ (B) - (C) - (A)\n④ (C) - (A) - (B)\n⑤ (C) - (B) - (A)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07728930741493056,
+                0.5634910230834995,
+                0.37627166465135026,
+                0.037281276717013444
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 41,
+            "area": 28106.94,
+            "bbox": [
+                186.47222597242154,
+                2157.216135481286,
+                999.5072200760353,
+                28.120797163467614
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07516010720371687,
+                0.6147666387806457,
+                0.40286465944217464,
+                0.00801390628767957
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 42,
+            "area": 30190.267,
+            "bbox": [
+                1360.0081206034356,
+                320.7636382267658,
+                614.6134486312587,
+                49.12073877591109
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"42\">다음 글의 주제로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 주제로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5481693351888092,
+                0.09141169513444451,
+                0.24772811311215587,
+                0.013998500648592503
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 43,
+            "area": 1224889.55,
+            "bbox": [
+                1299.58,
+                396.9671679997498,
+                994.8400000000001,
+                1231.2427627769575
+            ],
+            "html": "<div class=\"contents question\"><span class=\"43\">The best defence most species of octopus have is to stay hidden as much as possible and do their own hunting at night. So to find one in full view in the shallows in daylight was a surprise for two Australian underwater photographers. Actually, what they saw at first was a flounder. It was only when they looked again that they saw a medium-sized octopus, with all eight of its arms folded and its two eyes staring upwards to create the illusion. An octopus has a big brain, excellent eyesight and the ability to change colour and pattern, and this one was using these assets to turn itself into a completely different creature. Many more of this species have been found since then, and there are now photographs of octopuses that could be said to be transforming into sea snakes. And while they mimic, they hunt - producing the spectacle of, say, a flounder suddenly developing an octopodian arm, sticking it down a hole and grabbing whatever&apos;s hiding there.</span></div>",
+            "text": "The best defence most species of octopus have is to stay hidden as much as possible and do their own hunting at night. So to find one in full view in the shallows in daylight was a surprise for two Australian underwater photographers. Actually, what they saw at first was a flounder. It was only when they looked again that they saw a medium-sized octopus, with all eight of its arms folded and its two eyes staring upwards to create the illusion. An octopus has a big brain, excellent eyesight and the ability to change colour and pattern, and this one was using these assets to turn itself into a completely different creature. Many more of this species have been found since then, and there are now photographs of octopuses that could be said to be transforming into sea snakes. And while they mimic, they hunt — producing the spectacle of, say, a flounder suddenly developing an octopodian arm, sticking it down a hole and grabbing whatever's hiding there.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5238129786376461,
+                0.11312828954110851,
+                0.4009834744054817,
+                0.35088138010172626
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 44,
+            "area": 20133.918,
+            "bbox": [
+                1799.1946610979812,
+                1643.7500764329434,
+                487.95987854590385,
+                41.26142057176571
+            ],
+            "html": "<div class=\"footnote\"><span>* flounder: 넙치<br>** mimic: 모방하다</span></div>",
+            "text": "*flounder: 넙치\n**mimic: 모방하다",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.7251893031430799,
+                0.46843832329237484,
+                0.19667870961140824,
+                0.011758740544817814
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 14,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 45,
+            "area": 641906.979,
+            "bbox": [
+                1296.4515845890153,
+                1748.5218111540585,
+                997.2299999999998,
+                643.69
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"45\">① the role of octopuses in transforming marine ecosystems<br>② the importance of color change in octopuses&apos; communication<br>③ the capability of octopuses to modify their bodies as a survival strategy<br>④ the ability of octopuses to use hunting strategies of other marine animals<br>⑤ the relationship between octopus intelligence and their interaction with humans</span></div>",
+            "text": "① the role of octopuses in transforming marine ecosystems\n② the importance of color change in octopuses' communication\n③ the capability of octopuses to modify their bodies as a survival strategy\n④ the ability of octopuses to use hunting strategies of other marine animals\n⑤ the relationship between octopus intelligence and their interaction with humans",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5225520292579666,
+                0.498296326917657,
+                0.4019467956469165,
+                0.18343972641778286
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 46,
+            "area": 40761.583,
+            "bbox": [
+                1294.7926974242123,
+                2448.2987650176406,
+                1002.0156208647709,
+                40.67958841828113
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.52188339275462,
+                0.6977197962432717,
+                0.4038757036939826,
+                0.011592929158814798
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 47,
+            "area": 107417.37,
+            "bbox": [
+                246.05207893742886,
+                290.90003730055975,
+                950.9122692250578,
+                112.9624399887037
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"47\">다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 <u>않은</u> 것은?</span></div>",
+            "text": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 <u>않은</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.09917455821742396,
+                0.08290112205772578,
+                0.3832778191152994,
+                0.032192202903591816
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 48,
+            "area": 1096740.912,
+            "bbox": [
+                183.97472011561496,
+                421.5622648624973,
+                993.237741149022,
+                1104.2078508895797
+            ],
+            "html": "<div class=\"contents question\"><span class=\"48\">How much we suffer relates to how we frame the pain in our mind. When 1500m runners push themselves into ① <u>extreme</u> pain to win a race - their muscles screaming and their lungs exploding with oxygen deficit, they don&apos;t psychologically suffer much. In fact, ② <u>ultra-marathon</u> runners - those people who are crazy enough to push themselves beyond the normal boundaries of human ③ <u>endurance</u>, covering distances of 50 - 100km or more over many hours, talk about making friends with their pain. When a patient has paid for some form of ④ <u>active</u> back pain therapy and the practitioner pushes deeply into a painful part of a patient&apos;s back to mobilise it, the patient calls that good pain if he or she believes this type of ⑤ <u>deep</u> pressure treatment will be of value, even though the practitioner is pushing right into the patient&apos;s sore tissues.</span></div>",
+            "text": "How much we suffer relates to how we frame the pain in our mind. When 1500m runners push themselves into ① <u>extreme</u> pain to win a race &mdash; their muscles screaming and their lungs exploding with oxygen deficit, they don't psychologically suffer much. In fact, ② <u>ultra&ndash;marathon</u> runners &mdash; those people who are crazy enough to push themselves beyond the normal boundaries of human ③ <u>endurance</u>, covering distances of 50 - 100km or more over many hours, talk about making friends with their pain. When a patient has paid for some form of ④ <u>active</u> back pain therapy and the practitioner pushes deeply into a painful part of a patient's back to mobilise it, the patient calls that good pain if he or she believes this type of ⑤ <u>deep</u> pressure treatment will be of value, even though the practitioner is pushing right into the patient's sore tissues.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07415345429891776,
+                0.12013743655243582,
+                0.40033766269609916,
+                0.31467878338261035
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 49,
+            "area": 24009.206,
+            "bbox": [
+                178.33000000000004,
+                1618.661261475353,
+                970.66,
+                24.734928899433953
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07187827488915761,
+                0.4612884757695506,
+                0.3912374042724708,
+                0.007048996551562825
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 50,
+            "area": 96675.633,
+            "bbox": [
+                1351.8253292005074,
+                300.0338193703619,
+                950.9122692250576,
+                101.6661959898334
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"50\">글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절 한 곳은?</span></div>",
+            "text": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절 한 곳은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5448711524387374,
+                0.08550408075530405,
+                0.3832778191152993,
+                0.028972982613232657
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 51,
+            "area": 305741.073,
+            "bbox": [
+                1295.3913666352223,
+                426.3945137191794,
+                993.237741149022,
+                307.82264896921777
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"51\">But if the company introduces a third model with even more features and more expensive than the other two, sales of the second model go up; many people like the features of the most expensive model, but not the price.</span></div>",
+            "text": "But if the company introduces a third model with even more features and more expensive than the other two, sales of the second model go up; many people like the features of the most expensive model, but not the price.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5221246943310046,
+                0.12151453796499839,
+                0.40033766269609916,
+                0.08772375291228776
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 52,
+            "area": 1055303.944,
+            "bbox": [
+                1298.2130647634863,
+                820.1961671418372,
+                1004.5245336620787,
+                1050.5506918949454
+            ],
+            "html": "<div class=\"contents question\"><span class=\"52\">When I worked for a large electronics company that manufactured laser and ink-jet printers, I soon discovered why there are often three versions of many consumer goods. (①) If the manufacturer makes only one version of its product, people who bought it might have been willing to spend more money, so the company is losing some income. (②) If the company offers two versions, one with more features and more expensive than the other, people will compare the two models and still buy the less expensive one. (③) The middle item has more features than the least expensive one, and it is less expensive than the fanciest model. (④) They buy the middle item, unaware that they have been manipulated by the presence of the higher-priced item. (⑤)</span></div>",
+            "text": "When I worked for a large electronics company that manufactured laser and ink&ndash;jet printers, I soon discovered why there are often three versions of many consumer goods. (①) If the manufacturer makes only one version of its product, people who bought it might have been willing to spend more money, so the company is losing some income. (②) If the company offers two versions, one with more features and more expensive than the other, people will compare the two models and still buy the less expensive one. (③) The middle item has more features than the least expensive one, and it is less expensive than the fanciest model. (④) They buy the middle item, unaware that they have been manipulated by the presence of the higher&ndash;priced item. (⑤)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5232620172363911,
+                0.23374071448898182,
+                0.4048869543176456,
+                0.29938748700340423
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 53,
+            "area": 10966.35,
+            "bbox": [
+                1292.292289498759,
+                1914.2586911275612,
+                1012.5899999999999,
+                10.829999999999927
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5208755701325106,
+                0.5455282676339587,
+                0.4081378476420798,
+                0.003086349387289805
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 54,
+            "area": 42149.376,
+            "bbox": [
+                249.3065838280295,
+                313.4213441569859,
+                739.5299669338567,
+                56.99481865284969
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"54\">다음 빈칸에 들어갈 말로 가장 적절한 것은?</span></div>",
+            "text": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.10048632963644881,
+                0.08931927733171442,
+                0.2980773748221913,
+                0.016242467555671044
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 55,
+            "area": 1321095.393,
+            "bbox": [
+                178.66983858413505,
+                385.9571848275417,
+                1013.293786115179,
+                1303.7634408602144
+            ],
+            "html": "<div class=\"contents question\"><span class=\"55\">On-screen, climate disaster is everywhere you look, but the scope of the world&apos;s climate transformation may just as quickly eliminate the climate-fiction genre - indeed eliminate any effort to tell the story of warming, which could grow too large and too obvious even for Hollywood. You can tell stories &apos;about&apos; climate change while it still seems a marginal feature of human life. But when the temperature rises by three or four more degrees, hardly anyone will be able to feel isolated from its impacts. And so as climate change expands across the horizon, it may cease to be a story. Why watch or read climate fiction about the world you can see plainly out your own window? At the moment, stories illustrating global warming can still offer an escapist pleasure, even if that pleasure often comes in the form of horror. But when we can no longer pretend that climate suffering is distant - in time or in place - we will stop __________ and start pretending within it.</span></div>",
+            "text": "On-screen, climate disaster is everywhere you look, but the scope of the world's climate transformation may just as quickly eliminate the climate-fiction genre — indeed eliminate any effort to tell the story of warming, which could grow too large and too obvious even for Hollywood. You can tell stories 'about' climate change while it still seems a marginal feature of human life. But when the temperature rises by three or four more degrees, hardly anyone will be able to feel isolated from its impacts. And so as climate change expands across the horizon, it may cease to be a story. Why watch or read climate fiction about the world you can see plainly out your own window? At the moment, stories illustrating global warming can still offer an escapist pleasure, even if that pleasure often comes in the form of horror. But when we can no longer pretend that climate suffering is distant — in time or in place — we will stop __________ and start pretending within it.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07201525134386741,
+                0.10999064828371094,
+                0.40842151798274046,
+                0.37154842999721127
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 56,
+            "area": 222668.057,
+            "bbox": [
+                180.2380189518144,
+                1757.8648470577846,
+                723.671186826559,
+                307.6923076923076
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"56\">① denying it further<br>② pretending about it<br>③ tolerating it indefinitely<br>④ blaming the media for it<br>⑤ confronting fictional climate issues</span></div>",
+            "text": "① denying it further\n② pretending about it\n③ tolerating it indefinitely\n④ blaming the media for it\n⑤ confronting fictional climate issues",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07264732726796228,
+                0.5009589190817283,
+                0.29168528288051554,
+                0.0876866080627836
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 57,
+            "area": 21746.073,
+            "bbox": [
+                165.81359496589732,
+                2112.3439723827955,
+                1036.5628352370763,
+                20.979020979020788
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06683337161059949,
+                0.6019789035003692,
+                0.41780041726605255,
+                0.0059786323679170104
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 58,
+            "area": 44005.545,
+            "bbox": [
+                1354.8917435505673,
+                313.203316693753,
+                786.5991161158245,
+                55.94405594405595
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"58\">다음 글의 밑줄 친 부분 중, 어법상 <u>틀린</u> 것은?</span></div>",
+            "text": "다음 글의 밑줄 친 부분 중, 어법상 <u>틀린</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.546107111467379,
+                0.08925714354338928,
+                0.3170492205222993,
+                0.01594301964777884
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 59,
+            "area": 1170485.677,
+            "bbox": [
+                1288.7237740365724,
+                388.89932105376124,
+                1007.9182222631091,
+                1161.2903225806451
+            ],
+            "html": "<div class=\"contents question\"><span class=\"59\">Today, the water crisis is political - ① <u>which</u> is to say, not inevitable or beyond our capacity to fix - and, therefore, functionally elective. That is one reason it is nevertheless distressing: an abundant resource made scarce through governmental neglect and indifference, bad infrastructure and contamination, and careless urbanization. There is no need for a water crisis, in other words, but we have one anyway, and aren&apos;t doing much ② <u>to address</u> it. Some cities lose more water to leaks than they deliver to homes: even in the United States, leaks and theft account for an ③ <u>estimated</u> loss of 16 percent of freshwater; in Brazil, the estimate is 40 percent. ④ <u>Seeing</u> in both cases, as everywhere, the selective scarcity clearly highlights have-and-have-not inequities, ⑤ <u>leaving</u> 2.1 billion people without safe drinking water and 4.5 billion without proper sanitation worldwide.</span></div>",
+            "text": "Today, the water crisis is political — ① <u>which</u> is to say, not inevitable or beyond our capacity to fix — and, therefore, functionally elective. That is one reason it is nevertheless distressing: an abundant resource made scarce through governmental neglect and indifference, bad infrastructure and contamination, and careless urbanization. There is no need for a water crisis, in other words, but we have one anyway, and aren't doing much ② <u>to address</u> it. Some cities lose more water to leaks than they deliver to homes: even in the United States, leaks and theft account for an ③ <u>estimated</u> loss of 16 percent of freshwater; in Brazil, the estimate is 40 percent. ④ <u>Seeing</u> in both cases, as everywhere, the selective scarcity clearly highlights have-and-have-not inequities, ⑤ <u>leaving</u> 2.1 billion people without safe drinking water and 4.5 billion without proper sanitation worldwide.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.519437232582254,
+                0.11082910260865239,
+                0.406254825579649,
+                0.33094623043050586
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 60,
+            "area": 11173.175,
+            "bbox": [
+                1338.3174616565898,
+                1569.9708262937434,
+                239.6025286913548,
+                46.63212435233186
+            ],
+            "html": "<div class=\"footnote\"><span>* elective: 선택의</span></div>",
+            "text": "*elective: 선택의",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5394266270280491,
+                0.447412603674478,
+                0.09657498133468553,
+                0.013289291636458209
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 14,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 61,
+            "area": 15924.507,
+            "bbox": [
+                1293.7118122971144,
+                1686.9087373988025,
+                1012.0908627356946,
+                15.734265734265819
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.521447727648978,
+                0.4807377422054154,
+                0.4079366637386919,
+                0.004483974275937822
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 62,
+            "area": 68098.086,
+            "bbox": [
+                240.088014652305,
+                284.69472048279096,
+                965.8578486266676,
+                70.50528789659216
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"62\">주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?</span></div>",
+            "text": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.09677066289895404,
+                0.08113272171068422,
+                0.3893018333843884,
+                0.020092701024962144
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 63,
+            "area": 274211.511,
+            "bbox": [
+                175.9732819428201,
+                367.13760304665374,
+                1015.0744508657655,
+                270.1393095093884
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"63\">As individuals, our ability to thrive depended on how well we navigated relationships in a group. If the group valued us, we could count on support, resources, and probably a mate.</span></div>",
+            "text": "As individuals, our ability to thrive depended on how well we navigated relationships in a group. If the group valued us, we could count on support, resources, and probably a mate.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07092836837679166,
+                0.1046274160862507,
+                0.4091392385593573,
+                0.07698469920472739
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 64,
+            "area": 452442.295,
+            "bbox": [
+                176.44386126277294,
+                702.4818351843738,
+                1007.126889017672,
+                449.24060751398895
+            ],
+            "html": "<div class=\"contents question\"><span class=\"64\">(A) The result was the development of a tendency to unconsciously monitor how other people in our community perceive us. We process that information in the form of self-esteem and such related emotions as pride, shame, or insecurity. These emotions compel us to do more of what makes our community value us and less of what doesn&apos;t.</span></div>",
+            "text": "(A) The result was the development of a tendency to unconsciously monitor how other people in our community perceive us. We process that information in the form of self-esteem and such related emotions as pride, shame, or insecurity. These emotions compel us to do more of what makes our community value us and less of what doesn't.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07111804162143207,
+                0.2001943103973707,
+                0.4059358682054301,
+                0.12802525150013935
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 65,
+            "area": 373955.582,
+            "bbox": [
+                182.84034721565058,
+                1173.3474333720806,
+                991.1407479221537,
+                377.2981614708235
+            ],
+            "html": "<div class=\"contents question\"><span class=\"65\">(B) And, crucially, they are meant to make that motivation feel like it is coming from within. If we realized, on a conscious level, that we were responding to social pressure, our performance might come off as grudging or cynical, making it less persuasive.</span></div>",
+            "text": "(B) And, crucially, they are meant to make that motivation feel like it is coming from within. If we realized, on a conscious level, that we were responding to social pressure, our performance might come off as grudging or cynical, making it less persuasive.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07369623023605425,
+                0.33438228366260486,
+                0.3994924417259789,
+                0.10752298702502808
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 66,
+            "area": 323740.442,
+            "bbox": [
+                182.83831770098044,
+                1569.3487034397394,
+                997.5352043603609,
+                324.5403677058355
+            ],
+            "html": "<div class=\"contents question\"><span class=\"66\">(C) If it didn&apos;t, we might get none of these merits. It was a matter of survival, physically and genetically. Over millions of years, the pressure selected for people who are sensitive to and skilled at maximizing their standing.</span></div>",
+            "text": "(C) If it didn't, we might get none of these merits. It was a matter of survival, physically and genetically. Over millions of years, the pressure selected for people who are sensitive to and skilled at maximizing their standing.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07369541221321259,
+                0.4472353101851637,
+                0.40206981231775935,
+                0.09248799307661314
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 67,
+            "area": 14914.251,
+            "bbox": [
+                901.7701271092875,
+                1905.3728224719703,
+                279.81169230309285,
+                53.301029678982786
+            ],
+            "html": "<div class=\"footnote\"><span>* grudging: 투덜대는</span></div>",
+            "text": "*grudging: 투덜대는",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.36347042608193775,
+                0.5429959596671332,
+                0.11278181874368919,
+                0.015189806121112221
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 14,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 68,
+            "area": 130015.98,
+            "bbox": [
+                183.6875563383391,
+                2017.003028097657,
+                937.6576194696843,
+                138.6603995299647
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"68\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50%;\">① (A) - (C) - (B)</td></tr><tr><td style=\"width: 50%;\">② (B) - (A) - (C)</td></tr><tr><td style=\"width: 50%;\">③ (B) - (C) - (A)</td></tr><tr><td style=\"width: 50%;\">④ (C) - (A) - (B)</td></tr><tr><td style=\"width: 50%;\">⑤ (C) - (B) - (A)</td></tr></tbody></table></span></div>",
+            "text": "① (A) - (C) - (B)\n② (B) - (A) - (C)\n③ (B) - (C) - (A)\n④ (C) - (A) - (B)\n⑤ (C) - (B) - (A)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07403770912468323,
+                0.5748085004553026,
+                0.37793535649725285,
+                0.03951564534909225
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 69,
+            "area": 21075.612,
+            "bbox": [
+                183.6875563383391,
+                2216.7680104713354,
+                996.4080968800658,
+                21.151586368977405
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07403770912468323,
+                0.6317378200260289,
+                0.4016155166787851,
+                0.006027810307488573
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 70,
+            "area": 104010.488,
+            "bbox": [
+                1349.5700000000002,
+                295.28,
+                956.7701928192532,
+                108.70999999999998
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"70\">다음 글의 내용을 <u>한 문장</u>으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 내용을 <u>한 문장</u>으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5439621120515922,
+                0.08414933029353092,
+                0.385638933018643,
+                0.030980336278141916
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 71,
+            "area": 1310250.248,
+            "bbox": [
+                1290.5465507499218,
+                417.4292906660189,
+                1008.1581923621418,
+                1299.6474735605173
+            ],
+            "html": "<div class=\"contents question\"><span class=\"71\">Conventional medicine has long believed that depression is caused by an imbalance of neurotransmitters in the brain. However, there is a major problem with this explanation. This is because the imbalance of substances in the brain is a consequence of depression, not its cause. In other words, depression causes a decrease in brain substances such as serotonin and noradrenaline, not a decrease in brain substances causes depression. In this revised cause-and-effect, the key is to reframe depression as a problem of consciousness. Our consciousness is a more fundamental entity that goes beyond the functioning of the brain. The brain is no more than an organ of consciousness. If it is not consciousness itself, then the root cause of depression is also a distortion of our state of consciousness: a consciousness that has lost its sense of self and the meaning of life. Such a disease of consciousness may manifest itself in the form of depression.</span></div>",
+            "text": "Conventional medicine has long believed that depression is caused by an imbalance of neurotransmitters in the brain. However, there is a major problem with this explanation. This is because the imbalance of substances in the brain is a consequence of depression, not its cause. In other words, depression causes a decrease in brain substances such as serotonin and noradrenaline, not a decrease in brain substances causes depression. In this revised cause-and-effect, the key is to reframe depression as a problem of consciousness. Our consciousness is a more fundamental entity that goes beyond the functioning of the brain. The brain is no more than an organ of consciousness. If it is not consciousness itself, then the root cause of depression is also a distortion of our state of consciousness: a consciousness that has lost its sense of self and the meaning of life. Such a disease of consciousness may manifest itself in the form of depression.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5201719269447488,
+                0.11895961546481018,
+                0.40635154871509144,
+                0.370375455560136
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 72,
+            "area": 42411.455,
+            "bbox": [
+                1497.2749005556875,
+                1740.1347632453605,
+                790.7808530478037,
+                53.632374451487294
+            ],
+            "html": "<div class=\"footnote\"><span>* neurotransmitter: 신경 전달 물질<br>** manifest: (명백히)</span></div>",
+            "text": "*neurotransmitter: 신경 전달 물질\n**manifest: (명백히)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.6034965338797612,
+                0.4959061736236422,
+                0.3187347251301103,
+                0.015284233243513051
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 14,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 73,
+            "area": 274700.942,
+            "bbox": [
+                1287.0187043365984,
+                1874.3796893987292,
+                1016.7185736749827,
+                270.1838529176657
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"73\">The traditional belief that depression results from a chemical imbalance in the brain is ______(A)______ by the perspective that the source lies in the ______(B)______ of consciousness.</span></div>",
+            "text": "The traditional belief that depression results from a chemical imbalance in the brain is ______(A)______ by the perspective that the source lies in the ______(B)______ of consciousness.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5187499815947595,
+                0.5341634908517324,
+                0.4098019240931007,
+                0.07699739325097342
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 74,
+            "area": 276456.95,
+            "bbox": [
+                1299.7505529634327,
+                2207.871367274701,
+                753.4610823440585,
+                366.9160311419191
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"74\"><table style=\"width: 100%; text-align: center;\"><tbody><tr><td style=\"width: 12%;\"></td><td style=\"width: 44%;\">(A)</td><td style=\"width: 44%;\">(B)</td></tr><tr><td style=\"width: 12%;\">①</td><td style=\"width: 44%;\">replaced</td><td style=\"width: 44%;\">construction</td></tr><tr><td style=\"width: 12%;\">②</td><td style=\"width: 44%;\">reinforced</td><td style=\"width: 44%;\">distortion</td></tr><tr><td style=\"width: 12%;\">③</td><td style=\"width: 44%;\">challenged</td><td style=\"width: 44%;\">disruption</td></tr><tr><td style=\"width: 12%;\">④</td><td style=\"width: 44%;\">complemented</td><td style=\"width: 44%;\">formation</td></tr><tr><td style=\"width: 12%;\">⑤</td><td style=\"width: 44%;\">rejected</td><td style=\"width: 44%;\">manifestation</td></tr></tbody></table></span></div>",
+            "text": "(A)&&(B)\n① replaced&&construction\n② reinforced&&distortion\n③ challenged&&disruption\n④ complemented&&formation\n⑤ rejected&&manifestation",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5238817222746605,
+                0.6292024415145913,
+                0.30369249590651287,
+                0.10456427219775409
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 75,
+            "area": 21430.11,
+            "bbox": [
+                1291.9777633425215,
+                2638.2847954204767,
+                1031.1179926997734,
+                20.78337330135855
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5207487961880377,
+                0.7518622956456189,
+                0.41560580116879214,
+                0.005922876403920932
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 76,
+            "area": 109366.675,
+            "bbox": [
+                241.00999999999993,
+                307.39,
+                964.3477225975503,
+                113.40999999999997
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"76\">다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 <u>않은</u> 것은?</span></div>",
+            "text": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 <u>않은</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.09714228133817007,
+                0.08760045597036192,
+                0.3886931570324669,
+                0.03231974921630093
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 77,
+            "area": 1236254.259,
+            "bbox": [
+                182.18999999999994,
+                436.9761260041299,
+                1000.5099999999999,
+                1235.6240902931254
+            ],
+            "html": "<div class=\"contents question\"><span class=\"77\">The common accounts of human nature that float around in society are generally a ① <u>mixture</u> of assumptions, tales and sometimes plain silliness. However, psychology is different. It is the branch of science that is devoted to understanding people: how and why we act as we do; why we see things as we do; and how we ② <u>interact</u> with one another. The key word here is &apos;science.&apos; Psychologists don&apos;t depend on opinions and hearsay, or the generally ③ <u>denied</u> views of society at the time, or even the considered opinions of deep thinkers. Instead, they look for evidence, to make sure that psychological ideas are firmly based, and not just derived from generally held beliefs or ④ <u>assumptions</u>. In addition to this evidence-based approach, psychology deals with fundamental processes and principles that generate our rich cultural and social ⑤ <u>diversity</u>, as well as those shared by all human beings. These are what modern psychology is all about.</span></div>",
+            "text": "The common accounts of human nature that float around in society are generally a ① <u>mixture</u> of assumptions, tales and sometimes plain silliness. However, psychology is different. It is the branch of science that is devoted to understanding people: how and why we act as we do; why we see things as we do; and how we ② <u>interact</u> with one another. The key word here is 'science.' Psychologists don't depend on opinions and hearsay, or the generally ③ <u>denied</u> views of society at the time, or even the considered opinions of deep thinkers. Instead, they look for evidence, to make sure that psychological ideas are firmly based, and not just derived from generally held beliefs or ④ <u>assumptions</u>. In addition to this evidence-based approach, psychology deals with fundamental processes and principles that generate our rich cultural and social ⑤ <u>diversity</u>, as well as those shared by all human beings. These are what modern psychology is all about.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07343409915356709,
+                0.12453010145458249,
+                0.4032688432083837,
+                0.3521299772850172
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 78,
+            "area": 67504.545,
+            "bbox": [
+                179.42098801390443,
+                1771.2860454968718,
+                1006.0989862525389,
+                67.09533128319822
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.0723180120975028,
+                0.5047837120253268,
+                0.40552155834443326,
+                0.019120926555485387
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 79,
+            "area": 105539.281,
+            "bbox": [
+                1353.76,
+                320.450885668277,
+                958.5899999999999,
+                110.09845813933009
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"79\">글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?</span></div>",
+            "text": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5456509471987102,
+                0.09132256644863979,
+                0.386372430471584,
+                0.031376021128335735
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 80,
+            "area": 322754.09,
+            "bbox": [
+                1290.1656741501554,
+                447.0846952096447,
+                1005.586345414705,
+                320.9610901918595
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"80\">The organism may switch between a small number of well-defined possible states, but can&apos;t exist in random states in between them, rather as a ball in a rough landscape must roll to the bottom of one valley or another.</span></div>",
+            "text": "The organism may switch between a small number of well-defined possible states, but can't exist in random states in between them, rather as a ball in a rough landscape must roll to the bottom of one valley or another.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5200184095728155,
+                0.12741085642908084,
+                0.4053149316463946,
+                0.0914679652869363
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 81,
+            "area": 1054336.609,
+            "bbox": [
+                1297.8653296023565,
+                834.6161973232126,
+                997.7148280337672,
+                1056.7514677103716
+            ],
+            "html": "<div class=\"contents question\"><span class=\"81\">Life is what physicists might call a &apos;high-dimensional system,&apos; which is their fancy way of saying that there&apos;s a lot going on. (①) In just a single cell, the number of possible interactions between different molecules is enormous. (②) Such a system can only hope to be stable if only a smaller number of collective ways of being may emerge. (③) For example, it is only a limited number of tissues and body shapes that may result from the development of a human embryo. (④) In 1942, the biologist Conrad Waddington called this drastic narrowing of outcomes canalization. (⑤) We&apos;ll see that this is true also of health and disease: there are many causes of illness, but their manifestations at the physiological and symptomatic levels are often strikingly similar.</span></div>",
+            "text": "Life is what physicists might call a 'high-dimensional system,' which is their fancy way of saying that there's a lot going on. (①) In just a single cell, the number of possible interactions between different molecules is enormous. (②) Such a system can only hope to be stable if only a smaller number of collective ways of being may emerge. (③) For example, it is only a limited number of tissues and body shapes that may result from the development of a human embryo. (④) In 1942, the biologist Conrad Waddington called this drastic narrowing of outcomes canalization. (⑤) We'll see that this is true also of health and disease: there are many causes of illness, but their manifestations at the physiological and symptomatic levels are often strikingly similar.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5231218579614496,
+                0.2378501559769771,
+                0.4021422120248961,
+                0.3011545932488947
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 82,
+            "area": 23751.009,
+            "bbox": [
+                1711.34,
+                1899.48,
+                572.99,
+                41.45100032065784
+            ],
+            "html": "<div class=\"footnote\"><span>* embryo: 배아<br>** physiological: 생리적인</span></div>",
+            "text": "*embryo: 배아\n\n**physiological: 생리적인",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.6897783151954856,
+                0.5413166144200627,
+                0.23095122934300685,
+                0.011812767261515486
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 14,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 83,
+            "area": 39736.913,
+            "bbox": [
+                1291.4767567965741,
+                2142.02,
+                1015.2507267251381,
+                39.13999999999987
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5205468588458582,
+                0.6104360216585922,
+                0.4092102888855857,
+                0.011154174978626353
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 84,
+            "area": 36631.883,
+            "bbox": [
+                247.5760036790361,
+                291.14739389386625,
+                618.7458037003469,
+                59.20344456404729
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"84\">다음 글의 주제로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 주제로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.09978879632367436,
+                0.08297161410483507,
+                0.24939371370429136,
+                0.016871885028226643
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 85,
+            "area": 1205519.217,
+            "bbox": [
+                176.77574298458256,
+                367.1,
+                1016.8438424114358,
+                1185.5500000000002
+            ],
+            "html": "<div class=\"contents question\"><span class=\"85\">Punishing a child may not be effective due to what Alvaro Bilbao, a neuropsychologist, calls &apos;trick-punishments.&apos; A trick-punishment is a scolding, a moment of anger or a punishment in the most classic sense of the word. Instead of discouraging the child from doing something, it encourages them to do it. For example, Hugh learns that when he hits his little brother, his mother scolds him. For a child who feels lonely, being scolded is much better than feeling invisible, so he will continue to hit his brother. In this case, his mother would be better adopting a different strategy. For instance, she could congratulate Hugh when he has not hit his brother for a certain length of time. The mother clearly cannot allow the child to hit his little brother, but instead of constantly pointing out the negatives, she can choose to reward the positives. In this way, any parent can avoid trick-punishments.</span></div>",
+            "text": "Punishing a child may not be effective due to what Alvaro Bilbao, a neuropsychologist, calls 'trick-punishments.' A trick-punishment is a scolding, a moment of anger or a punishment in the most classic sense of the word. Instead of discouraging the child from doing something, it encourages them to do it. For example, Hugh learns that when he hits his little brother, his mother scolds him. For a child who feels lonely, being scolded is much better than feeling invisible, so he will continue to hit his brother. In this case, his mother would be better adopting a different strategy. For instance, she could congratulate Hugh when he has not hit his brother for a certain length of time. The mother clearly cannot allow the child to hit his little brother, but instead of constantly pointing out the negatives, she can choose to reward the positives. In this way, any parent can avoid trick-punishments.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07125181095710705,
+                0.10461669991450556,
+                0.409852415321014,
+                0.3378597891137077
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 86,
+            "area": 587872.971,
+            "bbox": [
+                185.16699650597081,
+                1603.8204696273933,
+                995.7620845380574,
+                590.3749300503632
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"86\">① the effect of focusing on positive behaviors<br>② the influence of trick-punishments on a child&apos;s emotions<br>③ the role of punishment in teaching children good behaviors<br>④ the importance of punishing children for better discipline<br>⑤ the need for positive reinforcement to implement trick-punishments</span></div>",
+            "text": "① the effect of focusing on positive behaviors\n② the influence of trick-punishments on a child's emotions\n③ the role of punishment in teaching children good behaviors\n④ the importance of punishing children for better discipline\n⑤ the need for positive reinforcement to implement trick-punishments",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07463401713259606,
+                0.4570591250006821,
+                0.4013551328246906,
+                0.16824591907961334
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 87,
+            "area": 12249.147,
+            "bbox": [
+                198.1279904573662,
+                2269.050884395741,
+                954.8302455153685,
+                12.82861274822335
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07985811787882555,
+                0.646637470617196,
+                0.384857011493498,
+                0.0036559169986387433
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 88,
+            "area": 45085.775,
+            "bbox": [
+                1371.7606057179964,
+                292.150464465657,
+                776.090131601065,
+                58.09347768682329
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"88\">다음 글의 밑줄 친 부분 중, 어법상 <u>틀린</u> 것은?</span></div>",
+            "text": "다음 글의 밑줄 친 부분 중, 어법상 <u>틀린</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5529063303982251,
+                0.08325747063712084,
+                0.3128134347444841,
+                0.01655556502901775
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 89,
+            "area": 1855537.981,
+            "bbox": [
+                1282.9297662715574,
+                361.7673769357324,
+                1018.138760595092,
+                1822.4804443215103
+            ],
+            "html": "<div class=\"contents question\"><span class=\"89\">From an early age, we assign purpose to objects and events, preferring this reasoning to random chance. Children assume, for instance, that pointy rocks are ① <u>that</u> way because they don&apos;t want you to sit on them. When we encounter something, we first need to determine what sort of thing it is. Inanimate objects and plants generally do not move and can be evaluated from physics alone. However, by attributing intention to animals and even objects, we are able to make fast decisions about the likely behaviour of that being. This was essential in our hunter-gatherer days to avoid ② <u>being eaten</u> by predators. The anthropologist Stewart Guthrie made the point that survival in our evolutionary past meant that we interpret ambiguous objects as agents with human mental characteristics, as those are the mental processes ③ <u>which</u> we understand. Ambiguous events are caused by such agents. This results in a perceptual system strongly prejudiced towards anthropomorphism. Therefore, we tend to assume intention even ④ <u>where</u> there is none. This would have arisen as a survival mechanism. If a lion is about to attack you, you need to react quickly, given its probable intention to kill you. By the time you have realized ⑤ <u>that</u> the design of its teeth and claws could kill you, you are dead. So, assuming intent, without detailed design analysis or understanding of the physics, has saved your life.</span></div>",
+            "text": "From an early age, we assign purpose to objects and events, preferring this reasoning to random chance. Children assume, for instance, that pointy rocks are ① <u>that</u> way because they don't want you to sit on them. When we encounter something, we first need to determine what sort of thing it is. Inanimate objects and plants generally do not move and can be evaluated from physics alone. However, by attributing intention to animals and even objects, we are able to make fast decisions about the likely behaviour of that being. This was essential in our hunter-gatherer days to avoid ② <u>being eaten</u> by predators. The anthropologist Stewart Guthrie made the point that survival in our evolutionary past meant that we interpret ambiguous objects as agents with human mental characteristics, as those are the mental processes ③ <u>which</u> we understand. Ambiguous events are caused by such agents. This results in a perceptual system strongly prejudiced towards anthropomorphism. Therefore, we tend to assume intention even ④ <u>where</u> there is none. This would have arisen as a survival mechanism. If a lion is about to attack you, you need to react quickly, given its probable intention to kill you. By the time you have realized ⑤ <u>that</u> the design of its teeth and claws could kill you, you are dead. So, assuming intent, without detailed design analysis or understanding of the physics, has saved your life.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5171018808027237,
+                0.10309700112161083,
+                0.41037434929266103,
+                0.519373167375751
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 90,
+            "area": 40795.401,
+            "bbox": [
+                1558.5916275576033,
+                2196.532078391211,
+                733.5276339520055,
+                55.61535701471075
+            ],
+            "html": "<div class=\"footnote\"><span>* ambiguous: 모호한<br>** anthropomorphism: 의인화</span></div>",
+            "text": "*ambiguous: 모호한\n\n**anthropomorphism: 의인화",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.6282110550413557,
+                0.6259709542294702,
+                0.2956580547972614,
+                0.015849346541667357
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 14,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 91,
+            "area": 10674.939,
+            "bbox": [
+                1285.7268507786866,
+                2365.269571140311,
+                953.8058169311171,
+                11.19194180190243
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5182292828612199,
+                0.6740580140040784,
+                0.3844441019472459,
+                0.0031894960962959335
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 92,
+            "area": 3302526.402,
+            "bbox": [
+                138.24,
+                285.20000000000005,
+                1085.33,
+                3042.877652210551
+            ],
+            "html": "",
+            "text": "$\\mathbf{1}$\n\n[정답] (4)\n[해설]\n글은 학교 건설 프로젝트에 필요한 주 자금 지원이 지연됨에 따라 예산 과 일정에 문제가 발생할 수 있다는 점을 강조한다. 따라서 가장 적절 한 주제는 (4) 'the urgency of receiving state funding for a school's construction project(학교 건설 프로젝트에 필요한 주 자금 지원의 시 급성)'이다.\n(1) 건설 지연이 학생들의 자원 접근에 미치는 영향\n(2) 예산 제약이 학교 교과 과정 선택에 미치는 영향\n(3) 너무 이른 자금 지원 관련 커뮤니케이션의 결과\n(5) 커뮤니케이션 지연이 학교 자금 지원 신청에 미치는 영향\n\n2\n[정답] (5) taking을 to take로 바꿔야 적절하다.\n3\n(1) (A)-(C)-(B)로 이어지는 것이 자연스럽다.\n\n4\n[정답] (4)\n[해설]\n$\\rightarrow$ 우리의 기억은 동일한 현실의 재현이 아니며, 추상적 표현을 사용하 여 재구성되기 때문에 우리가 세상을 인식하고 기억하는 방식에서 왜 곡이 발생할 수 있다.\n글은 기억이 단순히 현실을 그대로 재현하는 것이 아니라 추상적인 표 현을 통해 재구성되며, 그로 인해 세상을 왜곡하여 기억할 수 있다는 점을 설명하고 있다. 따라서 (A)와 (B)에 가장 적절한 말은 (4) '동일한 / 왜곡'이다.\n(1) 추상적 ...... 일관성\n(2) 구체적 ...... 도움\n(3) 잘못된 표현 ...... 문제\n(5) 중요한 ...... 이해\n\n5\n[정답] (2) accurate을 inaccurate과 같은 단어로 바꿔야 한다.\n6\n글의 흐름상 (3)에 들어가는 것이 자연스럽다.\n\n7\n[정답] (3)\n[해설]\n글은 인간의 의식이 AI의 진화에도 중요한 역할을 한다는 점을 강조하 고 있다. 따라서 빈칸에 들어갈 말로 가장 적절한 것은 (3)'also has a significant impact on the evolution of AI(AI의 진화에도 중요한 영향 을 미친다)'이다.\n(1) 이해 수준이 낮은 단계로 진화할 수 있다\n(2) AI의 빠른 진화에 의해 가려질 것이다\n(4) 인간의 욕구에 따라 AI 를 진화하게 할 수 있다\n(5) AI 와 상호작용하여 새로운 기술을 창출할 것이다",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.05571946795646917,
+                0.08127671701339415,
+                0.43745667069729943,
+                0.8671637652352667
+            ],
+            "image_id": 10,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 9,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 93,
+            "area": 3507197.326,
+            "bbox": [
+                1255.966192828068,
+                282.8884950270119,
+                1152.4410377753343,
+                3043.2770192085163
+            ],
+            "html": "",
+            "text": "8\n[정답] (5) requiring을 requires로 바꿔야 적절하다.\n9\n(5) (C)-(B)-(A)로 이어지는 것이 자연스럽다.\n\n10\n[정답] (3)\n[해설]\n글은 문어가 몸을 변형하여 자신을 숨기고 사냥하는 과정을 설명하고 있다. 따라서 주제로 가장 적절한 것은 (3) 'the capability of octopuses to modify their bodies as a survival strategy(생존 전략으로 몸을 변형 하는 문어의 능력)'이다.\n(1) 문어가 해양 생태계를 변화시키는 역할\n(2) 문어가 의사소통에서 색깔 변화를 사용하는 중요성\n(4) 다른 해양 동물의 사냥 전략을 사용하는 문어의 능력\n(5) 문어의 지능과 인간과의 상호작용 관계\n\n11\n[정답] (4) active를 passive와 같은 단어로 바꿔야 한다.\n12\n글의 흐름상 (3)에 들어가는 것이 자연스럽다.\n\n13\n[정답] (2)\n[해설]\n글은 기후 변화가 더 이상 이야기로 다루기 어려운 현실이 될 수 있다 는 점을 강조한다. 따라서 빈칸에 가장 적절한 답변은 (2) 'pretending about it(그것에 대해 가장하는 것)이다.\n(1) 더 이상 부정하는 것\n(3) 무기한으로 참는 것\n(4) 미디어를 탓하는 것\n(5) 허구의 기후 문제에 직면하는 것\n\n14\n[정답] (4) Seeing을 Seen으로 바꿔야 적절하다.\n15\n(4) (C)-(A)-(B)로 이어지는 것이 자연스럽다.\n\n16\n[정답] (3)\n[해설]\n$\\rightarrow$ 우울증이 뇌 속의 화학적 불균형에서 비롯된다는 전통적인 믿음은 의식에 대한 방해에서 그 원인이 발생한다는 관점에 의해 이의제기 받 고 있다.\n글은 우울증이 뇌의 화학적 불균형 때문이라는 기존의 믿음이 의식의 왜곡 때문이라는 관점으로 도전받고 있음을 설명한다. 따라서 (A)와 (B)에 가장 적절한 말은 (3) '이의제기 받은 / 방해'이다.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5062338544248561,
+                0.08061798091393899,
+                0.4645066657699856,
+                0.867277577431894
+            ],
+            "image_id": 10,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 9,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 94,
+            "area": 3398931.296,
+            "bbox": [
+                127.56535356393306,
+                204.79146463142092,
+                1097.9664452672855,
+                3095.660446171646
+            ],
+            "html": "",
+            "text": "(1) 대체된다 ...... 형성\n(2) 강화된다 ...... 왜곡\n(4) 보완된다 ...... 형성\n(5) 거부된다 $\\ldots . .$. 발현\n\n17\n[정답] (3) denied를 accepted와 같은 단어로 바꿔야 한다.\n\n18\n글의 흐름상 (5)에 들어가는 것이 자연스럽다.\n19\n[정답] (1)\n[해설]글은 아이에게 부정적인 행동을 꾸짖기보다는 긍정적인 행동에 초점을 맞추고 칭찬하는 것이 더 효과적이라는 내용을 설명하고 있다. 따라서 가장 적절한 주제는 (1) 'the effect of focusing on positive behaviors(긍정적인 행동에 초점을 맞추는 것의 효과)'이다.\n(2) 교묘한 처벌이 아이의 감정에 미치는 영향\n(3) 처벌이 아이에게 좋은 행동을 가르치는 역할\n(4) 더 나은 훈육을 위해 아이를 처벌하는 것의 중요성\n(5) 긍정적 강화를 사용하여 교묘한 처벌을 실행하는 필요성\n\n20\n[정답] (3) what을 which로 바꿔야 적절하다.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.05141690994112578,
+                0.05836177390465116,
+                0.44254995778608847,
+                0.8822058837764737
+            ],
+            "image_id": 11,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 9,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": -1,
+            "area": 637975.975,
+            "bbox": [
+                183.2600000000001,
+                1365.6600000000003,
+                1010.8499244042597,
+                631.1282811123924
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07386537686416772,
+                0.38918780279281856,
+                0.4074364870633856,
+                0.17985986922553218
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -2,
+            "area": 637975.975,
+            "bbox": [
+                183.2600000000001,
+                1365.6600000000003,
+                1010.8499244042597,
+                631.1282811123924
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--2\">글은 학교 건설 프로젝트에 필요한 주 자금 지원이 지연됨에 따라 예산과 일정에 문제가 발생할 수 있다는 점을 강조한다. 따라서 가장 적절한 주제는 ④ &apos;the urgency of receiving state funding for a school&apos;s construction project(학교 건설 프로젝트에 필요한 주 자금 지원의 시급성)&apos;이다. <br>① 건설 지연이 학생들의 자원 접근에 미치는 영향 <br>② 예산 제약이 학교 교과 과정 선택에 미치는 영향 <br>③ 너무 이른 자금 지원 관련 커뮤니케이션의 결과 <br>⑤ 커뮤니케이션 지연이 학교 자금 지원 신청에 미치는 영향</span></div>",
+            "text": "글은 학교 건설 프로젝트에 필요한 주 자금 지원이 지연됨에 따라 예산과 일정에 문제가 발생할 수 있다는 점을 강조한다. 따라서 가장 적절한 주제는 ④ &apos;the urgency of receiving state funding for a school&apos;s construction project(학교 건설 프로젝트에 필요한 주 자금 지원의 시급성)&apos;이다. <br>① 건설 지연이 학생들의 자원 접근에 미치는 영향 <br>② 예산 제약이 학교 교과 과정 선택에 미치는 영향 <br>③ 너무 이른 자금 지원 관련 커뮤니케이션의 결과 <br>⑤ 커뮤니케이션 지연이 학교 자금 지원 신청에 미치는 영향",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07386537686416772,
+                0.38918780279281856,
+                0.4074364870633856,
+                0.17985986922553218
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -3,
+            "area": 870059.806,
+            "bbox": [
+                1287.87,
+                391.0499999999995,
+                1016.1199999999999,
+                856.2569442216547
+            ],
+            "html": "<div class=\"answer\">⑤</div>",
+            "text": "⑤",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.519093107617896,
+                0.11144200626959233,
+                0.4095606610237807,
+                0.24401736797425327
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -4,
+            "area": 870059.806,
+            "bbox": [
+                1287.87,
+                391.0499999999995,
+                1016.1199999999999,
+                856.2569442216547
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--4\">taking을 to take로 바꿔야 적절하다.</span></div>",
+            "text": "taking을 to take로 바꿔야 적절하다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.519093107617896,
+                0.11144200626959233,
+                0.4095606610237807,
+                0.24401736797425327
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -5,
+            "area": 144827.162,
+            "bbox": [
+                175.17721054738786,
+                1774.9010508332872,
+                970.1695744619099,
+                149.2802559090103
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07060750122829015,
+                0.505813921582584,
+                0.3910397317460338,
+                0.04254210769706762
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -6,
+            "area": 144827.162,
+            "bbox": [
+                175.17721054738786,
+                1774.9010508332872,
+                970.1695744619099,
+                149.2802559090103
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--6\">(A)-(C)-(B)로 이어지는 것이 자연스럽다.</span></div>",
+            "text": "(A)-(C)-(B)로 이어지는 것이 자연스럽다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07060750122829015,
+                0.505813921582584,
+                0.3910397317460338,
+                0.04254210769706762
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -7,
+            "area": 313312.207,
+            "bbox": [
+                1292.2261578485836,
+                2333.645644573791,
+                801.3671759749473,
+                390.97209880931223
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5208489148926173,
+                0.6650457807277831,
+                0.3230016831821633,
+                0.11141980587327223
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -8,
+            "area": 313312.207,
+            "bbox": [
+                1292.2261578485836,
+                2333.645644573791,
+                801.3671759749473,
+                390.97209880931223
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--8\">[해설] <br>→ 우리의 기억은 동일한 현실의 재현이 아니며, 추상적 표현을 사용하여 재구성되기 때문에 우리가 세상을 인식하고 기억하는 방식에서 왜곡이 발생할 수 있다. <br>글은 기억이 단순히 현실을 그대로 재현하는 것이 아니라 추상적인 표현을 통해 재구성되며, 그로 인해 세상을 왜곡하여 기억할 수 있다는 점을 설명하고 있다. 따라서 (A)와 (B)에 가장 적절한 말은 ④ &apos;동일한 / 왜곡&apos;이다. <br>① 추상적 …… 일관성 <br>② 구체적 …… 도움 <br>③ 잘못된 표현 …… 문제 <br>⑤ 중요한 …… 이해</span></div>",
+            "text": "[해설] <br>→ 우리의 기억은 동일한 현실의 재현이 아니며, 추상적 표현을 사용하여 재구성되기 때문에 우리가 세상을 인식하고 기억하는 방식에서 왜곡이 발생할 수 있다. <br>글은 기억이 단순히 현실을 그대로 재현하는 것이 아니라 추상적인 표현을 통해 재구성되며, 그로 인해 세상을 왜곡하여 기억할 수 있다는 점을 설명하고 있다. 따라서 (A)와 (B)에 가장 적절한 말은 ④ &apos;동일한 / 왜곡&apos;이다. <br>① 추상적 …… 일관성 <br>② 구체적 …… 도움 <br>③ 잘못된 표현 …… 문제 <br>⑤ 중요한 …… 이해",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5208489148926173,
+                0.6650457807277831,
+                0.3230016831821633,
+                0.11141980587327223
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -9,
+            "area": 1257507.659,
+            "bbox": [
+                182.80319017674196,
+                432.59931437174487,
+                1007.0855325386735,
+                1248.6602357984996
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07368125359804191,
+                0.12328279121451835,
+                0.40591919892731704,
+                0.3558450372751495
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -10,
+            "area": 1257507.659,
+            "bbox": [
+                182.80319017674196,
+                432.59931437174487,
+                1007.0855325386735,
+                1248.6602357984996
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--10\">accurate을 inaccurate과 같은 단어로 바꿔야 한다.</span></div>",
+            "text": "accurate을 inaccurate과 같은 단어로 바꿔야 한다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07368125359804191,
+                0.12328279121451835,
+                0.40591919892731704,
+                0.3558450372751495
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -11,
+            "area": 1117667.319,
+            "bbox": [
+                1286.31,
+                636.2399999999998,
+                1012.44,
+                1103.9343755850075
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5184643288996372,
+                0.18131661442006264,
+                0.40807738814993955,
+                0.31460084798660803
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -12,
+            "area": 1117667.319,
+            "bbox": [
+                1286.31,
+                636.2399999999998,
+                1012.44,
+                1103.9343755850075
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--12\">글의 흐름상 ③에 들어가는 것이 자연스럽다.</span></div>",
+            "text": "글의 흐름상 ③에 들어가는 것이 자연스럽다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5184643288996372,
+                0.18131661442006264,
+                0.40807738814993955,
+                0.31460084798660803
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -13,
+            "area": 445818.516,
+            "bbox": [
+                187.62475188260754,
+                1691.307153301596,
+                1001.3894442513415,
+                445.19993524364554
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07562464807843916,
+                0.4819912092623528,
+                0.40362331489372894,
+                0.12687373475168012
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -14,
+            "area": 445818.516,
+            "bbox": [
+                187.62475188260754,
+                1691.307153301596,
+                1001.3894442513415,
+                445.19993524364554
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--14\">글은 인간의 의식이 AI의 진화에도 중요한 역할을 한다는 점을 강조하고 있다. 따라서 빈칸에 들어갈 말로 가장 적절한 것은 ③&apos;also has a significant impact on the evolution of AI(AI의 진화에도 중요한 영향을 미친다)&apos;이다. <br>① 이해 수준이 낮은 단계로 진화할 수 있다 <br>② AI의 빠른 진화에 의해 가려질 것이다 <br>④ 인간의 욕구에 따라 AI를 진화하게 할 수 있다 <br>⑤ AI와 상호작용하여 새로운 기술을 창출할 것이다</span></div>",
+            "text": "글은 인간의 의식이 AI의 진화에도 중요한 역할을 한다는 점을 강조하고 있다. 따라서 빈칸에 들어갈 말로 가장 적절한 것은 ③&apos;also has a significant impact on the evolution of AI(AI의 진화에도 중요한 영향을 미친다)&apos;이다. <br>① 이해 수준이 낮은 단계로 진화할 수 있다 <br>② AI의 빠른 진화에 의해 가려질 것이다 <br>④ 인간의 욕구에 따라 AI를 진화하게 할 수 있다 <br>⑤ AI와 상호작용하여 새로운 기술을 창출할 것이다",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07562464807843916,
+                0.4819912092623528,
+                0.40362331489372894,
+                0.12687373475168012
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -15,
+            "area": 1390774.292,
+            "bbox": [
+                1289.0500000000002,
+                389.699999999999,
+                1014.3299999999999,
+                1371.126055358669
+            ],
+            "html": "<div class=\"answer\">⑤</div>",
+            "text": "⑤",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5195687222893995,
+                0.11105728127671674,
+                0.4088391777509069,
+                0.390745527317945
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -16,
+            "area": 1390774.292,
+            "bbox": [
+                1289.0500000000002,
+                389.699999999999,
+                1014.3299999999999,
+                1371.126055358669
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--16\">requiring을 requires로 바꿔야 적절하다.</span></div>",
+            "text": "requiring을 requires로 바꿔야 적절하다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5195687222893995,
+                0.11105728127671674,
+                0.4088391777509069,
+                0.390745527317945
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -17,
+            "area": 122124.395,
+            "bbox": [
+                191.75477169644273,
+                1977.29,
+                933.53,
+                130.82000000000016
+            ],
+            "html": "<div class=\"answer\">⑤</div>",
+            "text": "⑤",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07728930741493056,
+                0.5634910230834995,
+                0.37627166465135026,
+                0.037281276717013444
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -18,
+            "area": 122124.395,
+            "bbox": [
+                191.75477169644273,
+                1977.29,
+                933.53,
+                130.82000000000016
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--18\">(C)-(B)-(A)로 이어지는 것이 자연스럽다.</span></div>",
+            "text": "(C)-(B)-(A)로 이어지는 것이 자연스럽다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07728930741493056,
+                0.5634910230834995,
+                0.37627166465135026,
+                0.037281276717013444
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -19,
+            "area": 641906.979,
+            "bbox": [
+                1296.4515845890153,
+                1748.5218111540585,
+                997.2299999999998,
+                643.69
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5225520292579666,
+                0.498296326917657,
+                0.4019467956469165,
+                0.18343972641778286
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -20,
+            "area": 641906.979,
+            "bbox": [
+                1296.4515845890153,
+                1748.5218111540585,
+                997.2299999999998,
+                643.69
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--20\">[해설]<br>글은 문어가 몸을 변형하여 자신을 숨기고 사냥하는 과정을 설명하고 있다. 따라서 주제로 가장 적절한 것은 ③ &apos;the capability of octopuses to modify their bodies as a survival strategy(생존 전략으로 몸을 변형하는 문어의 능력)&apos;이다.<br>① 문어가 해양 생태계를 변화시키는 역할<br>② 문어가 의사소통에서 색깔 변화를 사용하는 중요성<br>④ 다른 해양 동물의 사냥 전략을 사용하는 문어의 능력<br>⑤ 문어의 지능과 인간과의 상호작용 관계</span></div>",
+            "text": "[해설]<br>글은 문어가 몸을 변형하여 자신을 숨기고 사냥하는 과정을 설명하고 있다. 따라서 주제로 가장 적절한 것은 ③ &apos;the capability of octopuses to modify their bodies as a survival strategy(생존 전략으로 몸을 변형하는 문어의 능력)&apos;이다.<br>① 문어가 해양 생태계를 변화시키는 역할<br>② 문어가 의사소통에서 색깔 변화를 사용하는 중요성<br>④ 다른 해양 동물의 사냥 전략을 사용하는 문어의 능력<br>⑤ 문어의 지능과 인간과의 상호작용 관계",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5225520292579666,
+                0.498296326917657,
+                0.4019467956469165,
+                0.18343972641778286
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -21,
+            "area": 1096740.912,
+            "bbox": [
+                183.97472011561496,
+                421.5622648624973,
+                993.237741149022,
+                1104.2078508895797
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07415345429891776,
+                0.12013743655243582,
+                0.40033766269609916,
+                0.31467878338261035
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -22,
+            "area": 1096740.912,
+            "bbox": [
+                183.97472011561496,
+                421.5622648624973,
+                993.237741149022,
+                1104.2078508895797
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--22\">active를 passive와 같은 단어로 바꿔야 한다.</span></div>",
+            "text": "active를 passive와 같은 단어로 바꿔야 한다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07415345429891776,
+                0.12013743655243582,
+                0.40033766269609916,
+                0.31467878338261035
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -23,
+            "area": 1055303.944,
+            "bbox": [
+                1298.2130647634863,
+                820.1961671418372,
+                1004.5245336620787,
+                1050.5506918949454
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5232620172363911,
+                0.23374071448898182,
+                0.4048869543176456,
+                0.29938748700340423
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -24,
+            "area": 1055303.944,
+            "bbox": [
+                1298.2130647634863,
+                820.1961671418372,
+                1004.5245336620787,
+                1050.5506918949454
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--24\">글의 흐름상 ③에 들어가는 것이 자연스럽다.</span></div>",
+            "text": "글의 흐름상 ③에 들어가는 것이 자연스럽다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5232620172363911,
+                0.23374071448898182,
+                0.4048869543176456,
+                0.29938748700340423
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -25,
+            "area": 222668.057,
+            "bbox": [
+                180.2380189518144,
+                1757.8648470577846,
+                723.671186826559,
+                307.6923076923076
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07264732726796228,
+                0.5009589190817283,
+                0.29168528288051554,
+                0.0876866080627836
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -26,
+            "area": 222668.057,
+            "bbox": [
+                180.2380189518144,
+                1757.8648470577846,
+                723.671186826559,
+                307.6923076923076
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--26\">[해설]<br>글은 기후 변화가 더 이상 이야기로 다루기 어려운 현실이 될 수 있다는 점을 강조한다. 따라서 빈칸에 가장 적절한 답변은 ② &apos;pretending about it(그것에 대해 가장하는 것)&apos;이다.<br>① 더 이상 부정하는 것<br>③ 무기한으로 참는 것<br>④ 미디어를 탓하는 것<br>⑤ 허구의 기후 문제에 직면하는 것</span></div>",
+            "text": "[해설]<br>글은 기후 변화가 더 이상 이야기로 다루기 어려운 현실이 될 수 있다는 점을 강조한다. 따라서 빈칸에 가장 적절한 답변은 ② &apos;pretending about it(그것에 대해 가장하는 것)&apos;이다.<br>① 더 이상 부정하는 것<br>③ 무기한으로 참는 것<br>④ 미디어를 탓하는 것<br>⑤ 허구의 기후 문제에 직면하는 것",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07264732726796228,
+                0.5009589190817283,
+                0.29168528288051554,
+                0.0876866080627836
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -27,
+            "area": 1170485.677,
+            "bbox": [
+                1288.7237740365724,
+                388.89932105376124,
+                1007.9182222631091,
+                1161.2903225806451
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.519437232582254,
+                0.11082910260865239,
+                0.406254825579649,
+                0.33094623043050586
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -28,
+            "area": 1170485.677,
+            "bbox": [
+                1288.7237740365724,
+                388.89932105376124,
+                1007.9182222631091,
+                1161.2903225806451
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--28\">Seeing을 Seen으로 바꿔야 적절하다.</span></div>",
+            "text": "Seeing을 Seen으로 바꿔야 적절하다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.519437232582254,
+                0.11082910260865239,
+                0.406254825579649,
+                0.33094623043050586
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -29,
+            "area": 130015.98,
+            "bbox": [
+                183.6875563383391,
+                2017.003028097657,
+                937.6576194696843,
+                138.6603995299647
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07403770912468323,
+                0.5748085004553026,
+                0.37793535649725285,
+                0.03951564534909225
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -30,
+            "area": 130015.98,
+            "bbox": [
+                183.6875563383391,
+                2017.003028097657,
+                937.6576194696843,
+                138.6603995299647
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--30\">(C)-(A)-(B)로 이어지는 것이 자연스럽다.</span></div>",
+            "text": "(C)-(A)-(B)로 이어지는 것이 자연스럽다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07403770912468323,
+                0.5748085004553026,
+                0.37793535649725285,
+                0.03951564534909225
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -31,
+            "area": 276456.95,
+            "bbox": [
+                1299.7505529634327,
+                2207.871367274701,
+                753.4610823440585,
+                366.9160311419191
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5238817222746605,
+                0.6292024415145913,
+                0.30369249590651287,
+                0.10456427219775409
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -32,
+            "area": 276456.95,
+            "bbox": [
+                1299.7505529634327,
+                2207.871367274701,
+                753.4610823440585,
+                366.9160311419191
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--32\">→ 우울증이 뇌 속의 화학적 불균형에서 비롯된다는 전통적인 믿음은 의식에 대한 방해에서 그 원인이 발생한다는 관점에 의해 이의제기 받고 있다.<br>글은 우울증이 뇌의 화학적 불균형 때문이라는 기존의 믿음이 의식의 왜곡 때문이라는 관점으로 도전받고 있음을 설명한다. 따라서 (A)와 (B)에 가장 적절한 말은 ③ &apos;이의제기 받은 / 방해&apos;이다.</span></div>",
+            "text": "→ 우울증이 뇌 속의 화학적 불균형에서 비롯된다는 전통적인 믿음은 의식에 대한 방해에서 그 원인이 발생한다는 관점에 의해 이의제기 받고 있다.<br>글은 우울증이 뇌의 화학적 불균형 때문이라는 기존의 믿음이 의식의 왜곡 때문이라는 관점으로 도전받고 있음을 설명한다. 따라서 (A)와 (B)에 가장 적절한 말은 ③ &apos;이의제기 받은 / 방해&apos;이다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5238817222746605,
+                0.6292024415145913,
+                0.30369249590651287,
+                0.10456427219775409
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -33,
+            "area": 1236254.259,
+            "bbox": [
+                182.18999999999994,
+                436.9761260041299,
+                1000.5099999999999,
+                1235.6240902931254
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07343409915356709,
+                0.12453010145458249,
+                0.4032688432083837,
+                0.3521299772850172
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -34,
+            "area": 1236254.259,
+            "bbox": [
+                182.18999999999994,
+                436.9761260041299,
+                1000.5099999999999,
+                1235.6240902931254
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--34\">denied를 accepted와 같은 단어로 바꿔야 한다.</span></div>",
+            "text": "denied를 accepted와 같은 단어로 바꿔야 한다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07343409915356709,
+                0.12453010145458249,
+                0.4032688432083837,
+                0.3521299772850172
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -35,
+            "area": 1054336.609,
+            "bbox": [
+                1297.8653296023565,
+                834.6161973232126,
+                997.7148280337672,
+                1056.7514677103716
+            ],
+            "html": "<div class=\"answer\">⑤</div>",
+            "text": "⑤",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5231218579614496,
+                0.2378501559769771,
+                0.4021422120248961,
+                0.3011545932488947
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -36,
+            "area": 1054336.609,
+            "bbox": [
+                1297.8653296023565,
+                834.6161973232126,
+                997.7148280337672,
+                1056.7514677103716
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--36\">글의 흐름상 ⑤에 들어가는 것이 자연스럽다.</span></div>",
+            "text": "글의 흐름상 ⑤에 들어가는 것이 자연스럽다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5231218579614496,
+                0.2378501559769771,
+                0.4021422120248961,
+                0.3011545932488947
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -37,
+            "area": 587872.971,
+            "bbox": [
+                185.16699650597081,
+                1603.8204696273933,
+                995.7620845380574,
+                590.3749300503632
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07463401713259606,
+                0.4570591250006821,
+                0.4013551328246906,
+                0.16824591907961334
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -38,
+            "area": 587872.971,
+            "bbox": [
+                185.16699650597081,
+                1603.8204696273933,
+                995.7620845380574,
+                590.3749300503632
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--38\">[해설]글은 아이에게 부정적인 행동을 꾸짖기보다는 긍정적인 행동에 초점을 맞추고 칭찬하는 것이 더 효과적이라는 내용을 설명하고 있다. 따라서 가장 적절한 주제는 ① &apos;the effect of focusing on positive behaviors(긍정적인 행동에 초점을 맞추는 것의 효과)&apos;이다. <br>② 교묘한 처벌이 아이의 감정에 미치는 영향 <br>③ 처벌이 아이에게 좋은 행동을 가르치는 역할 <br>④ 더 나은 훈육을 위해 아이를 처벌하는 것의 중요성 <br>⑤ 긍정적 강화를 사용하여 교묘한 처벌을 실행하는 필요성</span></div>",
+            "text": "[해설]글은 아이에게 부정적인 행동을 꾸짖기보다는 긍정적인 행동에 초점을 맞추고 칭찬하는 것이 더 효과적이라는 내용을 설명하고 있다. 따라서 가장 적절한 주제는 ① &apos;the effect of focusing on positive behaviors(긍정적인 행동에 초점을 맞추는 것의 효과)&apos;이다. <br>② 교묘한 처벌이 아이의 감정에 미치는 영향 <br>③ 처벌이 아이에게 좋은 행동을 가르치는 역할 <br>④ 더 나은 훈육을 위해 아이를 처벌하는 것의 중요성 <br>⑤ 긍정적 강화를 사용하여 교묘한 처벌을 실행하는 필요성",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07463401713259606,
+                0.4570591250006821,
+                0.4013551328246906,
+                0.16824591907961334
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -39,
+            "area": 1855537.981,
+            "bbox": [
+                1282.9297662715574,
+                361.7673769357324,
+                1018.138760595092,
+                1822.4804443215103
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5171018808027237,
+                0.10309700112161083,
+                0.41037434929266103,
+                0.519373167375751
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -40,
+            "area": 1855537.981,
+            "bbox": [
+                1282.9297662715574,
+                361.7673769357324,
+                1018.138760595092,
+                1822.4804443215103
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--40\">what을 which로 바꿔야 적절하다.</span></div>",
+            "text": "what을 which로 바꿔야 적절하다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5171018808027237,
+                0.10309700112161083,
+                0.41037434929266103,
+                0.519373167375751
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "category_id": 9
+        }
+    ]
+}

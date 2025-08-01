@@ -1,0 +1,3288 @@
+{
+    "info": {
+        "html_url": "",
+        "provider": "crowdworks"
+    },
+    "items": [
+        {
+            "id": 1,
+            "imageIds": [
+                0
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -1
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    0,
+                    1,
+                    2
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -2
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "imageIds": [
+                0
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -3
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    3,
+                    4,
+                    5
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -4
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "imageIds": [
+                0
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -5
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    6,
+                    7,
+                    8
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -6
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "imageIds": [
+                0
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -7
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    9,
+                    10,
+                    11
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -8
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "imageIds": [
+                1
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -9
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    12,
+                    13,
+                    14
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -10
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "imageIds": [
+                1
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -11
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    15,
+                    16,
+                    17
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -12
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "imageIds": [
+                1
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -13
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    18,
+                    19,
+                    20
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -14
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "imageIds": [
+                2
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -15
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    21,
+                    22,
+                    23
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -16
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "imageIds": [
+                2
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -17
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    24,
+                    25,
+                    26
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -18
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "imageIds": [
+                2
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -19
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    27,
+                    28,
+                    29
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -20
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "imageIds": [
+                2
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -21
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    30,
+                    31,
+                    32
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -22
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "imageIds": [
+                3
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -23
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    33,
+                    34,
+                    35
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -24
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "imageIds": [
+                3
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -25
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    36,
+                    37,
+                    38
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -26
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "imageIds": [
+                4
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -27
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    39,
+                    40,
+                    41
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -28
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "imageIds": [
+                4
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -29
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    42,
+                    43,
+                    44
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -30
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "imageIds": [
+                4
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -31
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    45,
+                    46,
+                    47
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -32
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "imageIds": [
+                5
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -33
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    48,
+                    49,
+                    50
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -34
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "imageIds": [
+                5
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -35
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    51,
+                    52,
+                    53
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -36
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "imageIds": [
+                5
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -37
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    54,
+                    55,
+                    56
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -38
+                ]
+            }
+        }
+    ],
+    "images": [
+        {
+            "id": 0,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3472753359641904661/ENG_3472753359641904661_PAGE_0000.png",
+            "file_name": "ENG_3472753359641904661_PAGE_0000.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 1,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3472753359641904661/ENG_3472753359641904661_PAGE_0001.png",
+            "file_name": "ENG_3472753359641904661_PAGE_0001.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 2,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3472753359641904661/ENG_3472753359641904661_PAGE_0002.png",
+            "file_name": "ENG_3472753359641904661_PAGE_0002.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 3,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3472753359641904661/ENG_3472753359641904661_PAGE_0003.png",
+            "file_name": "ENG_3472753359641904661_PAGE_0003.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 4,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3472753359641904661/ENG_3472753359641904661_PAGE_0004.png",
+            "file_name": "ENG_3472753359641904661_PAGE_0004.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 5,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3472753359641904661/ENG_3472753359641904661_PAGE_0005.png",
+            "file_name": "ENG_3472753359641904661_PAGE_0005.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 6,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3472753359641904661/ENG_3472753359641904661_PAGE_0006.png",
+            "file_name": "ENG_3472753359641904661_PAGE_0006.png",
+            "page_type": "정답지",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 7,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3472753359641904661/ENG_3472753359641904661_PAGE_0007.png",
+            "file_name": "ENG_3472753359641904661_PAGE_0007.png",
+            "page_type": "정답지",
+            "bboxCheckStatus": true
+        }
+    ],
+    "licenses": [],
+    "categories": [
+        {
+            "id": 0,
+            "name": "[공통] 발문",
+            "objectColor": "#FF9700",
+            "supercategory": "layout"
+        },
+        {
+            "id": 1,
+            "name": "[그룹] 공통 본문",
+            "objectColor": "#875000",
+            "supercategory": "layout"
+        },
+        {
+            "id": 2,
+            "name": "[단일] 지시문",
+            "objectColor": "#FF0000",
+            "supercategory": "layout"
+        },
+        {
+            "id": 3,
+            "name": "[단일] 본문",
+            "objectColor": "#B62828",
+            "supercategory": "layout"
+        },
+        {
+            "id": 4,
+            "name": "[공통] 보기",
+            "objectColor": "#2E00FF",
+            "supercategory": "layout"
+        },
+        {
+            "id": 5,
+            "name": "[공통] 조건",
+            "objectColor": "#00DE22",
+            "supercategory": "layout"
+        },
+        {
+            "id": 6,
+            "name": "[답안] 객관식",
+            "objectColor": "#BD00FF",
+            "supercategory": "layout"
+        },
+        {
+            "id": 7,
+            "name": "[답안] 주관식",
+            "objectColor": "#FF00A2",
+            "supercategory": "layout"
+        },
+        {
+            "id": 8,
+            "name": "[답안] 공백 선지",
+            "objectColor": "#6A7500",
+            "supercategory": "layout"
+        },
+        {
+            "id": 9,
+            "name": "[정답] 정답/해설",
+            "objectColor": "#DE00CA",
+            "supercategory": "layout"
+        },
+        {
+            "id": 10,
+            "name": "[공통] 도표",
+            "objectColor": "#00D8FF",
+            "supercategory": "layout"
+        },
+        {
+            "id": 11,
+            "name": "[공통] 그림",
+            "objectColor": "#005C6D",
+            "supercategory": "layout"
+        },
+        {
+            "id": 12,
+            "name": "[그룹] 공백 지시문",
+            "objectColor": "#C6AC62",
+            "supercategory": "layout"
+        },
+        {
+            "id": 13,
+            "name": "[단일] 공백 지시문",
+            "objectColor": "#FFCBA5",
+            "supercategory": "layout"
+        },
+        {
+            "id": 14,
+            "name": "[각주] 단어",
+            "objectColor": "#00FFD5",
+            "supercategory": "layout"
+        },
+        {
+            "id": 99,
+            "name": "[그룹] 문항 구분",
+            "objectColor": "#7A3245",
+            "supercategory": "layout"
+        },
+        {
+            "id": 100,
+            "name": "[단일] 문항 구분",
+            "objectColor": "#32517A",
+            "supercategory": "layout"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "area": 10592.485,
+            "bbox": [
+                629.3760342211829,
+                345.0725051381594,
+                479.83957949403225,
+                22.07505518763793
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"0\">지시문을 입력해주세요.</span></div>",
+            "text": "13",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.2537806589601544,
+                0.09845149932615103,
+                0.19348370140888396,
+                0.006298161251822519
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 13,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1,
+            "area": 1202355.878,
+            "bbox": [
+                74.30021838309176,
+                407.0566502463055,
+                1169.2370932294705,
+                1028.3251231527095
+            ],
+            "html": "<div class=\"contents question\"><span class=\"1\">To whom it may concern, I am writing to ① <b>[ suppress / express ]</b> my deep ② <b>[ concern / indifference ]</b> about the ③ <b>[ old / recent ]</b> change made by the Pittsburgh Train Station. The station had ④ <b>[ modern / traditional ]</b> ticket offices with staff before, but these have been ⑤ <b>[ replaced / retained ]</b> with ticket vending machines. However, individuals who are unfamiliar with these machines are now experiencing ⑥ <b>[ difficulty / ease ]</b> ⑦ <b>[ accessing / restricting ]</b> railway services. Since these individuals heavily ⑧ <b>[ relied / ignored ]</b> on staff assistance to travel, they are in great need of ticket offices with staff in the station. Therefore, I urge you to consider ⑨ <b>[ reopening / closing ]</b> the ticket offices. With the staff back in their positions, many people would regain access to railway services. I look forward to your ⑩ <b>[ delayed / prompt ]</b> attention to this matter and a ⑪ <b>[ negative / positive ]</b> resolution. Sincerely, Sarah Roberts.</span></div>",
+            "text": "To whom it may concern, I am writing to ① <b>[ suppress / express ]</b> my deep ② <b>[ concern / indifference ]</b> about the ③ <b>[ old / recent ]</b> change made by the Pittsburgh Train Station. The station had ④ <b>[ modern / traditional ]</b> ticket offices with staff before, but these have been ⑤ <b>[ replaced / retained ]</b> with ticket vending machines. However, individuals who are unfamiliar with these machines are now experiencing ⑥ <b>[ difficulty / ease ]</b> ⑦ <b>[ accessing / restricting ]</b> railway services. Since these individuals heavily ⑧ <b>[ relied / ignored ]</b> on staff assistance to travel, they are in great need of ticket offices with staff in the station. Therefore, I urge you to consider ⑨ <b>[ reopening / closing ]</b> the ticket offices. With the staff back in their positions, many people would regain access to railway services. I look forward to your ⑩ <b>[ delayed / prompt ]</b> attention to this matter and a ⑪ <b>[ negative / positive ]</b> resolution. Sincerely, Sarah Roberts.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.02995976547705313,
+                0.11613599151107146,
+                0.47146656985059293,
+                0.293388052254696
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2,
+            "area": 30693.61,
+            "bbox": [
+                197.37780714408905,
+                1548.6822754056586,
+                830.773724136729,
+                36.945812807881566
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07958782546132623,
+                0.4418494366349953,
+                0.3349894048938423,
+                0.010540888104959078
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3,
+            "area": 529.234,
+            "bbox": [
+                628.1493678075783,
+                1823.3128078817736,
+                529.2336316722867,
+                1.0000000000002274
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"3\">지시문을 입력해주세요.</span></div>",
+            "text": "13",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.2532860354062816,
+                0.5202033688678384,
+                0.21340065793237367,
+                0.0002853067047076255
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 13,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4,
+            "area": 1211071.348,
+            "bbox": [
+                80.45409782114189,
+                1878.7315270935962,
+                1156.929334353371,
+                1046.7980295566501
+            ],
+            "html": "<div class=\"contents question\"><span class=\"4\">All the actors on the stage were ① <b>[ focused / distracted ]</b> on their acting. Then, suddenly, Arthur ② <b>[ rose / fell ]</b> into the corner of the stage. Jeevan immediately ③ <b>[ approached / retreated ]</b> Arthur and ④ <b>[ found / lost ]</b> that his heart wasn&apos;t ⑤ <b>[ beating / stopping ]</b>. Jeevan ⑥ <b>[ ended / began ] </b> CPR. He worked ⑦ <b>[ silently / loudly ]</b>, glancing sometimes at Arthur&apos;s face. He thought, &quot;Please, start ⑧ <b>[ stopping / breathing ]</b> again, please.&quot; Arthur&apos;s eyes were ⑨ <b>[ closed / opened ]</b>. Moments later, an older man in a gray suit ⑩ <b>[ appeared / vanished ]</b>, swiftly kneeling beside Arthur&apos;s chest. &quot;I&apos;m Walter Jacobi. I&apos;m a doctor,&quot; he announced with a ⑪ <b>[ anxious / calm ]</b> voice. Jeevan wiped the sweat off his forehead. With combined efforts, Jeevan and Dr. Jacobi successfully ⑫ <b>[ revived / weakened ]</b> Arthur. Arthur&apos;s eyes slowly ⑬ <b>[ opened / closed ]</b>. Finally, Jeevan was able to hear Arthur&apos;s ⑭ <b>[ breath / silence ]</b> again, thinking to himself, &quot;Thank goodness. You&apos;re back.&quot;</span></div>",
+            "text": "All the actors on the stage were ① <b>[ focused / distracted ]</b> on their acting. Then, suddenly, Arthur ② <b>[ rose / fell ]</b> into the corner of the stage. Jeevan immediately ③ <b>[ approached / retreated ]</b> Arthur and ④ <b>[ found / lost ]</b> that his heart wasn't ⑤ <b>[ beating / stopping ]</b>. Jeevan ⑥ <b>[ ended / began ] </b> CPR. He worked ⑦ <b>[ silently / loudly ]</b>, glancing sometimes at Arthur's face. He thought, \"Please, start ⑧ <b>[ stopping / breathing ]</b> again, please.\" Arthur's eyes were ⑨ <b>[ closed / opened ]</b>. Moments later, an older man in a gray suit ⑩ <b>[ appeared / vanished ]</b>, swiftly kneeling beside Arthur's chest. \"I'm Walter Jacobi. I'm a doctor,\" he announced with a ⑪ <b>[ anxious / calm ]</b> voice. Jeevan wiped the sweat off his forehead. With combined efforts, Jeevan and Dr. Jacobi successfully ⑫ <b>[ revived / weakened ]</b> Arthur. Arthur's eyes slowly ⑬ <b>[ opened / closed ]</b>. Finally, Jeevan was able to hear Arthur's ⑭ <b>[ breath / silence ]</b> again, thinking to himself, \"Thank goodness. You're back.\"",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.032441168476266886,
+                0.5360147010252772,
+                0.4665037638521657,
+                0.2986584963071755
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5,
+            "area": 50473.937,
+            "bbox": [
+                111.22349501139115,
+                3019.125596971935,
+                910.774156831377,
+                55.41871921182246
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.04484818347233514,
+                0.8613767751703095,
+                0.36724764388361975,
+                0.01581133215743865
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6,
+            "area": 692.182,
+            "bbox": [
+                1351.8931021949556,
+                319.34092910971196,
+                692.1823819138046,
+                0.9999999999999432
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"6\">지시문을 입력해주세요.</span></div>",
+            "text": "13",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5451181863689337,
+                0.09111010816254264,
+                0.2791057991587922,
+                0.0002853067047075444
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 13,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7,
+            "area": 1205766.279,
+            "bbox": [
+                1261.998949926712,
+                407.05665024630537,
+                1138.467696039222,
+                1059.1133004926114
+            ],
+            "html": "<div class=\"contents question\"><span class=\"7\">As the parent of a gifted child, you need to be aware of a common parental trap. Of course, you are a proud parent, and you should be. While it is very easy to talk nonstop about your little genius and his or her remarkable behavior, this can be very ① <b>[ relaxing / stressful ]</b> for your child. It is extremely important to ② <b>[ limit / expand ]</b> your bragging behavior to your very close friends or your parents. Gifted children feel ③ <b>[ supported / pressured ]</b> when their parents ④ <b>[ show them off / hide them ]</b> too much. This behavior creates ⑤ <b>[ freedom / expectations ]</b> that they may not be able to ⑥ <b>[ live up to / fall short of ]</b>, and also fosters a ⑦ <b>[ false / true ]</b> sense of self for your child. You want your child to be who they are, not who they seem to be as defined by their incredible achievements. If not, you could end up with a ⑧ <b>[ driven perfectionist / carefree child ]</b>, a ⑨ <b>[ drop-out / achiever ]</b>, or ⑩ <b>[ better] / worse ]</b>.</span></div>",
+            "text": "As the parent of a gifted child, you need to be aware of a common parental trap. Of course, you are a proud parent, and you should be. While it is very easy to talk nonstop about your little genius and his or her remarkable behavior, this can be very ① <b>[ relaxing / stressful ]</b> for your child. It is extremely important to ② <b>[ limit / expand ]</b> your bragging behavior to your very close friends or your parents. Gifted children feel ③ <b>[ supported / pressured ]</b> when their parents ④ <b>[ show them off / hide them ]</b> too much. This behavior creates ⑤ <b>[ freedom / expectations ]</b> that they may not be able to ⑥ <b>[ live up to / fall short of ]</b>, and also fosters a ⑦ <b>[ false / true ]</b> sense of self for your child. You want your child to be who they are, not who they seem to be as defined by their incredible achievements. If not, you could end up with a ⑧ <b>[ driven perfectionist / carefree child ]</b>, a ⑨ <b>[ drop-out / achiever ]</b>, or ⑩ <b>[ better] / worse ]</b>.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5088705443252871,
+                0.11613599151107143,
+                0.45905955485452493,
+                0.3021721256754954
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8,
+            "area": 23683.341,
+            "bbox": [
+                1348.15326205941,
+                1604.100971127966,
+                769.2349297562312,
+                30.788177339901495
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5436101863142783,
+                0.4576607620907178,
+                0.3101753749017061,
+                0.008784073420799286
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9,
+            "area": 13210.168,
+            "bbox": [
+                1737.9709247763608,
+                1807.1806044428126,
+                598.4206250011789,
+                22.075055187638327
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"9\">지시문을 입력해주세요.</span></div>",
+            "text": "13",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.7007947277324036,
+                0.5156007430649965,
+                0.2412986391133786,
+                0.006298161251822632
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 13,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10,
+            "area": 1165523.545,
+            "bbox": [
+                1255.8450704886625,
+                1875.036931719099,
+                1120.0060577250717,
+                1040.6403940886694
+            ],
+            "html": "<div class=\"contents question\"><span class=\"10\">One valuable technique for getting out of ① <b>[ helplessness / empowerment ]</b>, ② <b>[ depression / happiness ]</b>, and situations dominated by the thought, &quot;I can&apos;t,&quot; is to choose to be with others who have ③ <b>[ created / resolved ]</b> the problems with which we ④ <b>[ struggle / succeed ]</b>. This is one of the great powers of self-help groups. When we are in a ⑤ <b>[ positive / negative ]</b> state, we have given a lot of energy to ⑥ <b>[ positive / negative ]</b> thought forms, while positive thought forms are ⑦ <b>[ weak / strong ]</b>. Those who are in a ⑧ <b>[ higher / lower ]</b> vibration are free of the energy from their ⑨ <b>[ positive / negative ]</b> thoughts and have energized ⑩ <b>[ positive / negative ]</b> thought forms. Merely being in their ⑪ <b>[ presence / absence ]</b> is ⑫ <b>[ beneficial / harmful ]</b>. In some self-help groups, this is called &quot;hanging out with the ⑬ <b>[ winners / losers ]</b>.&quot; The benefit here is on the ⑭ <b>[ physical / psychic ]</b> level of consciousness, and there is a transfer of ⑮ <b>[ weakness / power ]</b> that can be experienced.</span></div>",
+            "text": "One valuable technique for getting out of ① <b>[ helplessness / empowerment ]</b>, ② <b>[ depression / happiness ]</b>, and situations dominated by the thought, \"I can't,\" is to choose to be with others who have ③ <b>[ created / resolved ]</b> the problems with which we ④ <b>[ struggle / succeed ]</b>. This is one of the great powers of self-help groups. When we are in a ⑤ <b>[ positive / negative ]</b> state, we have given a lot of energy to ⑥ <b>[ positive / negative ]</b> thought forms, while positive thought forms are ⑦ <b>[ weak / strong ]</b>. Those who are in a ⑧ <b>[ higher / lower ]</b> vibration are free of the energy from their ⑨ <b>[ positive / negative ]</b> thoughts and have energized ⑩ <b>[ positive / negative ]</b> thought forms. Merely being in their ⑪ <b>[ presence / absence ]</b> is ⑫ <b>[ beneficial / harmful ]</b>. In some self-help groups, this is called \"hanging out with the ⑬ <b>[ winners / losers ]</b>.\" The benefit here is on the ⑭ <b>[ physical / psychic ]</b> level of consciousness, and there is a transfer of ⑮ <b>[ weakness / power ]</b> that can be experienced.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5063891413260736,
+                0.5349606081937515,
+                0.4516153458568838,
+                0.2969016816230155
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11,
+            "area": 35278.705,
+            "bbox": [
+                1378.922659249659,
+                3062.229092226827,
+                818.4659652606294,
+                43.10344827586232
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5560172013103464,
+                0.8736744913628608,
+                0.3300265988954151,
+                0.012297702789119064
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12,
+            "area": 15948.121,
+            "bbox": [
+                613.5543167499613,
+                360.1879596225457,
+                568.8744370641423,
+                28.03451932766967
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"12\">지시문을 입력해주세요.</span></div>",
+            "text": "13",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.2474009341733715,
+                0.10276403983524841,
+                0.22938485365489608,
+                0.007998436327437852
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 13,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13,
+            "area": 1405369.609,
+            "bbox": [
+                117.23000000000002,
+                411.87999999999965,
+                1098.18,
+                1279.7261003680665
+            ],
+            "html": "<div class=\"contents question\"><span class=\"13\">Our emotions are thought to exist because they have ① <b>[ detracted / contributed ]</b> to our survival as a species. ② <b>[ Fear / Comfort ]</b> has helped us avoid dangers, expressing ③ <b>[ calmness / anger ]</b> helps us scare off threats, and expressing ④ <b>[ negative / positive ]</b> emotions helps us bond with others. From an evolutionary perspective, an emotion is a kind of &quot;program&quot; that, when triggered, directs many of our activities (including attention, perception, memory, movement, expressions, etc.). For example, fear makes us very ⑤ <b>[ attentive / inattentive ]</b>, narrows our perceptual focus to ⑥ <b>[ safe / threatening ]</b> stimuli, and will cause us either to ⑦ <b>[ avoid / face ]</b> a situation (fight) or ⑧ <b>[ avoid / confront ]</b> it (flight). It may also cause us to ⑨ <b>[ remember / forget ]</b> an experience more acutely, so that we ⑩ <b>[ encounter / avoid ]</b> the threat in the future. Regardless of the specific ways in which they ⑪ <b>[ activate / deactivate ]</b> our systems, the specific emotions we possess are thought to exist because they have helped us, as a species, ⑫ <b>[ survive / fail ]</b> challenges within our environment long ago. If they had not helped us adapt and survive, they would not have ⑬ <b>[ regressed / evolved ]</b> with us.</span></div>",
+            "text": "Our emotions are thought to exist because they have ① <b>[ detracted / contributed ]</b> to our survival as a species. ② <b>[ Fear / Comfort ]</b> has helped us avoid dangers, expressing ③ <b>[ calmness / anger ]</b> helps us scare off threats, and expressing ④ <b>[ negative / positive ]</b> emotions helps us bond with others. From an evolutionary perspective, an emotion is a kind of \"program\" that, when triggered, directs many of our activities (including attention, perception, memory, movement, expressions, etc.). For example, fear makes us very ⑤ <b>[ attentive / inattentive ]</b>, narrows our perceptual focus to ⑥ <b>[ safe / threatening ]</b> stimuli, and will cause us either to ⑦ <b>[ avoid / face ]</b> a situation (fight) or ⑧ <b>[ avoid / confront ]</b> it (flight). It may also cause us to ⑨ <b>[ remember / forget ]</b> an experience more acutely, so that we ⑩ <b>[ encounter / avoid ]</b> the threat in the future. Regardless of the specific ways in which they ⑪ <b>[ activate / deactivate ]</b> our systems, the specific emotions we possess are thought to exist because they have helped us, as a species, ⑫ <b>[ survive / fail ]</b> challenges within our environment long ago. If they had not helped us adapt and survive, they would not have ⑬ <b>[ regressed / evolved ]</b> with us.\n\n",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.04727016129032259,
+                0.11751212553494997,
+                0.4428145161290323,
+                0.36511443662427
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14,
+            "area": 12371.971,
+            "bbox": [
+                118.01063441526253,
+                1737.8396439393644,
+                1108.519956364706,
+                11.16080128696126
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.0475849332319607,
+                0.4958173021225005,
+                0.4469838533728654,
+                0.003184251437078819
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15,
+            "area": 18237.69,
+            "bbox": [
+                614.6723041112032,
+                1766.9229201272585,
+                582.0657283583832,
+                31.332698072101493
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"15\">지시문을 입력해주세요.</span></div>",
+            "text": "13",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.24785173552871095,
+                0.5041149558137685,
+                0.23470392272515453,
+                0.008939428836548215
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 13,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16,
+            "area": 1544731.312,
+            "bbox": [
+                117.23000000000002,
+                1809.96,
+                1096.53,
+                1408.7451434837076
+            ],
+            "html": "<div class=\"contents question\"><span class=\"16\">By improving the ① <b>[ inaccessibility / accessibility ]</b> of the workplace for workers who are typically at a ② <b>[ disadvantage / advantage ]</b> in the labor market, AI can enhance ③ <b>[ exclusivity / inclusiveness ]</b> in the workplace. Al-powered assistive devices to aid workers with visual, speech, or hearing ④ <b>[ strengths / difficulties ]</b> are becoming more ⑤ <b>[ widespread / rare ]</b>, improving access to and the ⑥ <b>[ quantity / quality ]</b> of work for people with disabilities. For example, speech recognition solutions for people with ⑦ <b>[ unclear / clear ]</b> voices or live captioning systems for the deaf and hard of hearing can facilitate ⑧ <b>[ isolation / communication ]</b> with colleagues and access to jobs where ⑨ <b>[ interpersonal / solitary ]</b> communication is necessary. AI can also enhance the ⑩ <b>[ limitations / capabilities ]</b> of low-skilled workers, with potentially ⑪ <b>[ positive / negative ]</b> effects on their wages and career prospects. For example, Al&apos;s capacity to ⑫ <b>[ confuse / translate ]</b> written and spoken words in real-time can improve the performance of ⑬  <b>[ non-native / native ]</b> speakers in the workplace. Moreover, recent developments in AI-powered text generators can instantly ⑭ <b>[ degrade / improve ]</b> the performance of lower-skilled individuals in domains such as writing, coding, or customer service.</span></div>",
+            "text": "By improving the ① <b>[ inaccessibility / accessibility ]</b> of the workplace for workers who are typically at a ② <b>[ disadvantage / advantage ]</b> in the labor market, AI can enhance ③ <b>[ exclusivity / inclusiveness ]</b> in the workplace. Al-powered assistive devices to aid workers with visual, speech, or hearing ④ <b>[ strengths / difficulties ]</b> are becoming more ⑤ <b>[ widespread / rare ]</b>, improving access to and the ⑥ <b>[ quantity / quality ]</b> of work for people with disabilities. For example, speech recognition solutions for people with ⑦ <b>[ unclear / clear ]</b> voices or live captioning systems for the deaf and hard of hearing can facilitate ⑧ <b>[ isolation / communication ]</b> with colleagues and access to jobs where ⑨ <b>[ interpersonal / solitary ]</b> communication is necessary. AI can also enhance the ⑩ <b>[ limitations / capabilities ]</b> of low-skilled workers, with potentially ⑪ <b>[ positive / negative ]</b> effects on their wages and career prospects. For example, Al's capacity to ⑫ <b>[ confuse / translate ]</b> written and spoken words in real-time can improve the performance of ⑬  <b>[ non-native / native ]</b> speakers in the workplace. Moreover, recent developments in AI-powered text generators can instantly ⑭ <b>[ degrade / improve ]</b> the performance of lower-skilled individuals in domains such as writing, coding, or customer service.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.04727016129032259,
+                0.5163937232524964,
+                0.4421491935483871,
+                0.4019244346601163
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17,
+            "area": 10947.508,
+            "bbox": [
+                116.84387685226409,
+                3251.095283158697,
+                1106.4195573044622,
+                9.894536233295185
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.04711446647268713,
+                0.9275592819283015,
+                0.4461369182679283,
+                0.0028229775273310082
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18,
+            "area": 19034.416,
+            "bbox": [
+                1755.8985857974865,
+                361.05257041935397,
+                577.1189941230425,
+                32.98178744431726
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"18\">지시문을 입력해주세요.</span></div>",
+            "text": "13",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.7080236233054381,
+                0.10301071909254036,
+                0.23270927182380746,
+                0.009409925091103355
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 13,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19,
+            "area": 1481564.859,
+            "bbox": [
+                1252.98,
+                408.6699999999988,
+                1106.42,
+                1339.06189269254
+            ],
+            "html": "<div class=\"contents question\"><span class=\"19\">Whales are highly ① <b>[ inefficient / efficient ]</b> at carbon storage. When they die, each whale ② <b>[ sequesters / releases ]</b> an average of 30 tons of carbon dioxide, taking that carbon out of the atmosphere for centuries. For comparison, the average tree absorbs only 48 pounds of CO2 a year. From a climate perspective, each whale is the marine equivalent of ③ <b>[ few / thousands ]</b> of trees. Whales also help sequester carbon by ④ <b>[ fertilizing / depleting ]</b> the ocean as they release nutrient-rich waste, which in turn ⑤ <b>[ increases / decreases ]</b> phytoplankton populations. This has led some scientists to call them the ⑥ <b>[ destroyers / engineers ]</b> of marine ecosystems. In 2019, economists from the International Monetary Fund (IMF) estimated the value of the ecosystem services provided by each whale at ⑦ <b>[ over / under ]</b> $2 million USD. They called for a new global program of economic ⑧ <b>[ disincentives / incentives ]</b> to ⑨ <b>[ return / reduce ]</b> whale populations to preindustrial whaling levels as one example of a ⑩ <b>[ artificial / nature-based ]</b> solution to climate change. Calls are now being made for a global whale ⑪ <b>[ destruction / restoration ]</b> program to ⑫ <b>[ slow down / accelerate ]</b> climate change.</span></div>",
+            "text": "Whales are highly ① <b>[ inefficient / efficient ]</b> at carbon storage. When they die, each whale ② <b>[ sequesters / releases ]</b> an average of 30 tons of carbon dioxide, taking that carbon out of the atmosphere for centuries. For comparison, the average tree absorbs only 48 pounds of CO2 a year. From a climate perspective, each whale is the marine equivalent of ③ <b>[ few / thousands ]</b> of trees. Whales also help sequester carbon by ④ <b>[ fertilizing / depleting ]</b> the ocean as they release nutrient-rich waste, which in turn ⑤ <b>[ increases / decreases ]</b> phytoplankton populations. This has led some scientists to call them the ⑥ <b>[ destroyers / engineers ]</b> of marine ecosystems. In 2019, economists from the International Monetary Fund (IMF) estimated the value of the ecosystem services provided by each whale at ⑦ <b>[ over / under ]</b> $2 million USD. They called for a new global program of economic ⑧ <b>[ disincentives / incentives ]</b> to ⑨ <b>[ return / reduce ]</b> whale populations to preindustrial whaling levels as one example of a ⑩ <b>[ artificial / nature-based ]</b> solution to climate change. Calls are now being made for a global whale ⑪ <b>[ destruction / restoration ]</b> program to ⑫ <b>[ slow down / accelerate ]</b> climate change.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.505233870967742,
+                0.11659629101283847,
+                0.44613709677419355,
+                0.3820433360035777
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20,
+            "area": 18773.89,
+            "bbox": [
+                1260.8573159898708,
+                1814.2543550533583,
+                1089.9499185182965,
+                17.224543718459472
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5084102080604318,
+                0.5176189315416143,
+                0.43949593488640987,
+                0.004914277808404985
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21,
+            "area": 42341.192,
+            "bbox": [
+                125.53932591257148,
+                301.7548241717676,
+                1078.853582061161,
+                39.2464678178963
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"21\">지시문을 입력해주세요.</span></div>",
+            "text": "13",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.0506206959324885,
+                0.08609267451405637,
+                0.43502160566982295,
+                0.011197280404535322
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 13,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22,
+            "area": 1334502.003,
+            "bbox": [
+                100.0391503365804,
+                403.7956404982982,
+                1125.930829278375,
+                1185.2433281004705
+            ],
+            "html": "<div class=\"contents question\"><span class=\"22\">From an organizational viewpoint, one of the most ① <b>[ fascinating / dull ]</b> examples of how any organization may contain many different types of culture is to recognize the functional operations of different departments within the organization. The varying departments and divisions within an organization will inevitably view any given situation from their own ② <b>[ objective / biased ]</b> and ③ <b>[ fair / prejudiced ]</b> perspective. A department and its members will acquire &quot;tunnel vision&quot; which ④ <b>[ disallows / allows ]</b> them to see things as others see them. The very structure of organizations can create ⑤ <b>[ harmony / conflict ]</b>. The choice of whether the structure is &quot;mechanistic&quot; or &quot;organic&quot; can have a ⑥ <b>[ insignificant / profound ]</b> influence on conflict management. A mechanistic structure has a vertical hierarchy with few rules, few procedures, and few levels of management involved in decision making. Organic structures are more horizontal in nature, where decision making is ⑦ <b>[ less / more ]</b> centralized and spread across the plane of the organization.</span></div>",
+            "text": "From an organizational viewpoint, one of the most ① <b>[ fascinating / dull ]</b> examples of how any organization may contain many different types of culture is to recognize the functional operations of different departments within the organization. The varying departments and divisions within an organization will inevitably view any given situation from their own ② <b>[ objective / biased ]</b> and ③ <b>[ fair / prejudiced ]</b> perspective. A department and its members will acquire \"tunnel vision\" which ④ <b>[ disallows / allows ]</b> them to see things as others see them. The very structure of organizations can create ⑤ <b>[ harmony / conflict ]</b>. The choice of whether the structure is \"mechanistic\" or \"organic\" can have a ⑥ <b>[ insignificant / profound ]</b> influence on conflict management. A mechanistic structure has a vertical hierarchy with few rules, few procedures, and few levels of management involved in decision making. Organic structures are more horizontal in nature, where decision making is ⑦ <b>[ less / more ]</b> centralized and spread across the plane of the organization.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.040338367071201774,
+                0.11520560356584827,
+                0.4540043666445061,
+                0.33815786821696736
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23,
+            "area": 21632.5,
+            "bbox": [
+                111.80846214088399,
+                1638.0970533711395,
+                1102.3922056697684,
+                19.623233908948123
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.045084057314872576,
+                0.46736007228848486,
+                0.44451298615716467,
+                0.0055986402022676525
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 24,
+            "area": 17429.174,
+            "bbox": [
+                119.65467001041986,
+                1720.5146357887215,
+                1110.238413539303,
+                15.698587127158817
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"24\">지시문을 입력해주세요.</span></div>",
+            "text": "13",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.04824785081065317,
+                0.490874361138009,
+                0.4476767796529448,
+                0.004478912161814213
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 13,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 25,
+            "area": 1467068.427,
+            "bbox": [
+                103.96225427134834,
+                1802.9322182063042,
+                1125.9308292783753,
+                1302.9827315541597
+            ],
+            "html": "<div class=\"contents question\"><span class=\"25\">An excellent alternative to ① <b>[ aggravating / calming ]</b> traffic is ② <b>[ adding / removing ]</b> it. Some cities reserve an extensive network of lanes and streets for bikes, pedestrians, and the occasional service vehicle. This ③ <b>[ motivates / discourages ]</b> people to travel by bike rather than by car, making streets ④ <b>[ safer / more dangerous ]</b> for everyone. As bicycles become more popular in a city, planners can ⑤ <b>[ revert / convert ]</b> more automobile lanes and entire streets to accommodate ⑥ <b>[ fewer / more ]</b> of them. Nevertheless, even the most bikeable cities still require motor vehicle lanes for taxis, emergency vehicles, and delivery trucks. Delivery vehicles are frequently a target of ⑦ <b>[ animus / support ]</b>, but they are actually an essential component to making cities ⑧ <b>[ greener / less sustainable ]</b>. A tightly packed delivery truck is a far more efficient transporter of goods than several hybrids carrying ⑨ <b>[ a few / many ]</b> shopping bags each. Distributing food and other goods to neighborhood vendors allows them to operate ⑩ <b>[ larger / smaller ]</b> stores close to homes so that residents can ⑪ <b>[ walk / drive ]</b>, rather than ⑫ <b>[ drive / walk ]</b>, to get their groceries.</span></div>",
+            "text": "An excellent alternative to ① <b>[ aggravating / calming ]</b> traffic is ② <b>[ adding / removing ]</b> it. Some cities reserve an extensive network of lanes and streets for bikes, pedestrians, and the occasional service vehicle. This ③ <b>[ motivates / discourages ]</b> people to travel by bike rather than by car, making streets ④ <b>[ safer / more dangerous ]</b> for everyone. As bicycles become more popular in a city, planners can ⑤ <b>[ revert / convert ]</b> more automobile lanes and entire streets to accommodate ⑥ <b>[ fewer / more ]</b> of them. Nevertheless, even the most bikeable cities still require motor vehicle lanes for taxis, emergency vehicles, and delivery trucks. Delivery vehicles are frequently a target of ⑦ <b>[ animus / support ]</b>, but they are actually an essential component to making cities ⑧ <b>[ greener / less sustainable ]</b>. A tightly packed delivery truck is a far more efficient transporter of goods than several hybrids carrying ⑨ <b>[ a few / many ]</b> shopping bags each. Distributing food and other goods to neighborhood vendors allows them to operate ⑩ <b>[ larger / smaller ]</b> stores close to homes so that residents can ⑪ <b>[ walk / drive ]</b>, rather than ⑫ <b>[ drive / walk ]</b>, to get their groceries.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.04192026381909207,
+                0.5143886499875333,
+                0.45400436664450616,
+                0.3717497094305734
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 26,
+            "area": 30501.055,
+            "bbox": [
+                111.78531943555731,
+                3147.857142857143,
+                1110.2384135393038,
+                27.472527472526963
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.04507472557885375,
+                0.8981047483187284,
+                0.44767677965294506,
+                0.007838096283174598
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 27,
+            "area": 35351.046,
+            "bbox": [
+                1262.2668485629902,
+                306.4128728414445,
+                1125.9308292783753,
+                31.39717425431712
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"27\">지시문을 입력해주세요.</span></div>",
+            "text": "13",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5089785679689477,
+                0.08742164703036932,
+                0.45400436664450616,
+                0.00895782432362828
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 13,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 28,
+            "area": 1386635.559,
+            "bbox": [
+                1254.4206406934545,
+                396.67974882260626,
+                1118.0846214088397,
+                1240.1883830455263
+            ],
+            "html": "<div class=\"contents question\"><span class=\"28\">You hear again and again that some of the ① <b>[ worst / greatest ]</b> composers were ② <b>[ misunderstood / understood ]</b> in their own day. Not everyone could ③ <b>[ understand / ignore ]</b> the compositions of Beethoven, Brahms, or Stravinsky in their day. The reason for this initial lack of acceptance is ④ <b>[ familiarity / unfamiliarity ]</b>. The musical forms, or ideas expressed within them, were completely ⑤ <b>[ new / old ]</b>. And yet, this is exactly one of the things that makes them so ⑥ <b>[ great / insignificant ]</b>. Effective composers have their own ⑦ <b>[ clichés / ideas ]</b>. Have you ever seen the classic movie Amadeus? The composer Antonio Salieri is the &quot;host&quot; of this movie; he&apos;s depicted as one of the most famous ⑧ <b>[ renowned / non-great ]</b> composers - he lived at the time of Mozart and was completely ⑨ <b>[ highlighted / overshadowed ]</b> by him. Now, Salieri wasn&apos;t a ⑩ <b>[ great / bad ]</b> composer; in fact, he was a very ⑪ <b>[ good / mediocre ]</b> one. But he wasn&apos;t one of the world&apos;s ⑫ <b>[ lesser / great ]</b> composers because his work wasn&apos;t ⑬ <b>[ original / derivative ]</b>. What he wrote sounded just like what everyone else was composing at the time.</span></div>",
+            "text": "You hear again and again that some of the ① <b>[ worst / greatest ]</b> composers were ② <b>[ misunderstood / understood ]</b> in their own day. Not everyone could ③ <b>[ understand / ignore ]</b> the compositions of Beethoven, Brahms, or Stravinsky in their day. The reason for this initial lack of acceptance is ④ <b>[ familiarity / unfamiliarity ]</b>. The musical forms, or ideas expressed within them, were completely ⑤ <b>[ new / old ]</b>. And yet, this is exactly one of the things that makes them so ⑥ <b>[ great / insignificant ]</b>. Effective composers have their own ⑦ <b>[ clichés / ideas ]</b>. Have you ever seen the classic movie Amadeus? The composer Antonio Salieri is the \"host\" of this movie; he's depicted as one of the most famous ⑧ <b>[ renowned / non-great ]</b> composers — he lived at the time of Mozart and was completely ⑨ <b>[ highlighted / overshadowed ]</b> by him. Now, Salieri wasn't a ⑩ <b>[ great / bad ]</b> composer; in fact, he was a very ⑪ <b>[ good / mediocre ]</b> one. But he wasn't one of the world's ⑫ <b>[ lesser / great ]</b> composers because his work wasn't ⑬ <b>[ original / derivative ]</b>. What he wrote sounded just like what everyone else was composing at the time.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5058147744731671,
+                0.11317539196080065,
+                0.45084057314872567,
+                0.35383406078331703
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 29,
+            "area": 8468.238,
+            "bbox": [
+                1266.189952497758,
+                1682.0015698587129,
+                1078.8535820611605,
+                7.849293563579295
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5105604647168379,
+                0.4798863252093332,
+                0.4350216056698228,
+                0.002239456080907074
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 30,
+            "area": 17552.349,
+            "bbox": [
+                1266.189952497758,
+                1721.2480376766093,
+                1118.0846214088397,
+                15.698587127158362
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"30\">지시문을 입력해주세요.</span></div>",
+            "text": "13",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5105604647168379,
+                0.49108360561386855,
+                0.45084057314872567,
+                0.004478912161814084
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 13,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 31,
+            "area": 1233114.094,
+            "bbox": [
+                1258.3437446282223,
+                1803.6656200941916,
+                1110.238413539304,
+                1110.6750392464673
+            ],
+            "html": "<div class=\"contents question\"><span class=\"31\">Every time a new medium comes along - whether it&apos;s the invention of the printed book, or TV, or SNS - and you start to use it, it&apos;s like you are putting on a new kind of ① <b>[ goggles / blindfold ]</b>, with their own special ② <b>[ grayscale / colors ]</b> and ③ <b>[ lenses / filters ]</b>. Each set of goggles you put on makes you see things ④ <b>[ differently / the same ]</b>. So when you start to watch television, before you absorb the message of any particular TV show - whether it&apos;s Wheel of Fortune or The - you start to see the world as being shaped like television itself. That&apos;s why Marshall McLuhan said that every time a new medium comes along - a new way for humans to communicate - it has ⑤ <b>[ revealed / buried ]</b> in it a message. It is gently guiding us to see the world according to a new set of ⑥ <b>[ truths / codes ]</b>. The way information gets to you, McLuhan argued, is ⑦ <b>[ more / less ]</b> important than the information itself. TV teaches you that the world is ⑧ <b>[ fast / slow ]</b>; that it&apos;s about surfaces and appearances.</span></div>",
+            "text": "Every time a new medium comes along — whether it's the invention of the printed book, or TV, or SNS — and you start to use it, it's like you are putting on a new kind of ① <b>[ goggles / blindfold ]</b>, with their own special ② <b>[ grayscale / colors ]</b> and ③ <b>[ lenses / filters ]</b>. Each set of goggles you put on makes you see things ④ <b>[ differently / the same ]</b>. So when you start to watch television, before you absorb the message of any particular TV show — whether it's Wheel of Fortune or The — you start to see the world as being shaped like television itself. That's why Marshall McLuhan said that every time a new medium comes along — a new way for humans to communicate — it has ⑤ <b>[ revealed / buried ]</b> in it a message. It is gently guiding us to see the world according to a new set of ⑥ <b>[ truths / codes ]</b>. The way information gets to you, McLuhan argued, is ⑦ <b>[ more / less ]</b> important than the information itself. TV teaches you that the world is ⑧ <b>[ fast / slow ]</b>; that it's about surfaces and appearances.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5073966712210574,
+                0.5145978944633928,
+                0.44767677965294517,
+                0.31688303544835017
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 32,
+            "area": 20939.644,
+            "bbox": [
+                1277.9592643020617,
+                2971.248037676609,
+                1067.0842702568568,
+                19.62323390894835
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5153061549605087,
+                0.8477169864983192,
+                0.43027591542615196,
+                0.0055986402022677175
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 33,
+            "area": 10660.185,
+            "bbox": [
+                1795.9273758804961,
+                367.1637896674604,
+                566.8172459385701,
+                18.807092960773787
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"33\">지시문을 입력해주세요.</span></div>",
+            "text": "13",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.724164264467942,
+                0.10475429091796301,
+                0.22855534110426212,
+                0.005365789717767129
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 13,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 34,
+            "area": 1630503.027,
+            "bbox": [
+                1255.9735065266918,
+                402.0912480231831,
+                1109.4574529508513,
+                1469.639978506179
+            ],
+            "html": "<div class=\"contents question\"><span class=\"34\">While social media attention is potentially an instrument to achieve ends like ① <b>[ ordinary / elite ]</b> celebrity, some content creators desire ② <b>[ ordinary / elite ]</b> fame as a social end in itself. Not unlike reality television stars, social media celebrities are often criticized for not having ③ <b>[ shortcomings / skills ]</b> and talents associated with traditional, elite celebrity, such as acting or singing ability. This criticism highlights the fact that digital content creators face ④ <b>[ minimal / real ]</b> barriers to crossing over to the sphere of elite celebrity. However, the criticism also ⑤ <b>[ misses / captures ]</b> the point that the phenomenon of ordinary celebrity reconstructs the meaning of fame. The elite celebrity is symbolized by the metaphor of the star, characterized by ⑥ <b>[ transparency / mystery ]</b> and ⑦ <b>[ hierarchical distance / closeness ]</b> and associated with naturalized qualities of ⑧ <b>[ talent and class / mediocrity and accessibility ]</b>. The ordinary celebrity attracts attention through regular and frequent interactions with other ordinary people. Achieving ordinary fame as a social media celebrity is like ⑨ <b>[ doing well / failing ]</b> at a game, because in this sphere, fame is nothing more nor less than relatively ⑩ <b>[ high / low ]</b> scores on attention scales, the metrics of subscribers, followers, Likes, or clicks built into social media applications.</span></div>",
+            "text": "While social media attention is potentially an instrument to achieve ends like ① <b>[ ordinary / elite ]</b> celebrity, some content creators desire ② <b>[ ordinary / elite ]</b> fame as a social end in itself. Not unlike reality television stars, social media celebrities are often criticized for not having ③ <b>[ shortcomings / skills ]</b> and talents associated with traditional, elite celebrity, such as acting or singing ability. This criticism highlights the fact that digital content creators face ④ <b>[ minimal / real ]</b> barriers to crossing over to the sphere of elite celebrity. However, the criticism also ⑤ <b>[ misses / captures ]</b> the point that the phenomenon of ordinary celebrity reconstructs the meaning of fame. The elite celebrity is symbolized by the metaphor of the star, characterized by ⑥ <b>[ transparency / mystery ]</b> and ⑦ <b>[ hierarchical distance / closeness ]</b> and associated with naturalized qualities of ⑧ <b>[ talent and class / mediocrity and accessibility ]</b>. The ordinary celebrity attracts attention through regular and frequent interactions with other ordinary people. Achieving ordinary fame as a social media celebrity is like ⑨ <b>[ doing well / failing ]</b> at a game, because in this sphere, fame is nothing more nor less than relatively ⑩ <b>[ high / low ]</b> scores on attention scales, the metrics of subscribers, followers, Likes, or clicks built into social media applications.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5064409300510854,
+                0.11471932896524482,
+                0.4473618761898594,
+                0.41929813937408816
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 35,
+            "area": 15733.273,
+            "bbox": [
+                1265.1762462183156,
+                1895.7974537198018,
+                1104.4757959618087,
+                14.24501424501409
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5101517121848047,
+                0.5408837243137808,
+                0.4453531435329874,
+                0.00406419807275723
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 36,
+            "area": 11938.709,
+            "bbox": [
+                1790.8704703220603,
+                1950.1875081098563,
+                576.1919451383408,
+                20.72002072002101
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"36\">지시문을 입력해주세요.</span></div>",
+            "text": "13",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.722125189645992,
+                0.5564015715006723,
+                0.23233546174933095,
+                0.005911560833101573
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 13,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 37,
+            "area": 1293512.722,
+            "bbox": [
+                1258.6598441851684,
+                1991.4696443841935,
+                1106.771115292374,
+                1168.7264911337993
+            ],
+            "html": "<div class=\"contents question\"><span class=\"37\">Why do we have the ① <b>[ clarity / illusion ]</b> that cramming for an exam is the best learning strategy? Because we are unable to ② <b>[ differentiate / unify ]</b> between the various sections of our memory. Immediately after reading our textbook or our class notes, information is ③ <b>[ fully present / partially absent ]</b> in our mind. It sits in our ④ <b>[ unconscious / conscious ]</b> working memory, in an active form. We feel as if we know it, because it is present in our short-term storage space ... but this short-term section has nothing to do with the ⑤ <b>[ long-term / short-term ]</b> memory that we will need in order to ⑥ <b>[ forget / recall ]</b> the same information a few days later. After a few seconds or minutes, working memory already starts ⑦ <b>[ disappearing / consolidating ]</b>, and after a few days, the effect becomes ⑧ <b>[ enormous / negligible ]</b>: unless you ⑨ <b>[ ignore / retest ]</b> your knowledge, memory ⑩ <b>[ vanishes / persists ]</b>. To get information into long-term memory, it is essential to study the material, then test yourself, rather than spend all your time studying.</span></div>",
+            "text": "Why do we have the ① <b>[ clarity / illusion ]</b> that cramming for an exam is the best learning strategy? Because we are unable to ② <b>[ differentiate / unify ]</b> between the various sections of our memory. Immediately after reading our textbook or our class notes, information is ③ <b>[ fully present / partially absent ]</b> in our mind. It sits in our ④ <b>[ unconscious / conscious ]</b> working memory, in an active form. We feel as if we know it, because it is present in our short-term storage space ... but this short-term section has nothing to do with the ⑤ <b>[ long-term / short-term ]</b> memory that we will need in order to ⑥ <b>[ forget / recall ]</b> the same information a few days later. After a few seconds or minutes, working memory already starts ⑦ <b>[ disappearing / consolidating ]</b>, and after a few days, the effect becomes ⑧ <b>[ enormous / negligible ]</b>: unless you ⑨ <b>[ ignore / retest ]</b> your knowledge, memory ⑩ <b>[ vanishes / persists ]</b>. To get information into long-term memory, it is essential to study the material, then test yourself, rather than spend all your time studying.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5075241307198259,
+                0.5681796417643918,
+                0.4462786755211185,
+                0.33344550388981437
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 38,
+            "area": 15415.606,
+            "bbox": [
+                1256.4392833506013,
+                3213.1440055924504,
+                1102.6012356903843,
+                13.981125480600895
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5066287432865327,
+                0.9167315279864338,
+                0.4445972724558001,
+                0.003988908838973151
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 39,
+            "area": 45284.711,
+            "bbox": [
+                120.0575913037203,
+                302.87488797079595,
+                1081.6079123306088,
+                41.86795491143306
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"39\">지시문을 입력해주세요.</span></div>",
+            "text": "13",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.04841031907408077,
+                0.08641223622561939,
+                0.43613222271395513,
+                0.011945208248625695
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 13,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 40,
+            "area": 1411637.236,
+            "bbox": [
+                120.06000000000006,
+                404.3199999999998,
+                1094.48,
+                1289.7789237318984
+            ],
+            "html": "<div class=\"contents question\"><span class=\"40\">The discovery of mirror neurons has ① <b>[ profoundly changed / minimally maintained ]</b> the way we think of a fundamental human capacity, learning by observation. As children, we learn a lot by ② <b>[ ignoring / observing ]</b> what our parents and friends do. Newborns, in the first week of life, have an inborn tendency to ③ <b>[ stick out / retract ]</b> their tongue if their parents ④ <b>[ stick out / hide ]</b> theirs. Such imitation is not ⑤ <b>[ perfect / flawed ]</b>. You may not see the tongue ⑥ <b>[ stick out / retract ]</b> each time you stick yours out at your newborn, but if you do it many times, the tongue will come out ⑦ <b>[ more / less ]</b> often than if you do something ⑧ <b>[ different / similar ]</b>. Babies ⑨ <b>[ babble / remain silent ]</b> and later start to ⑩ <b>[ ignore / imitate ]</b> the sounds their parents produce. Later still, they play with vacuum cleaners and hammers in ⑪ <b>[ imitation of / contrast to ]</b> their parents. Our modern cultures, in which we write, speak, read, build spaceships and go to school, can work only because we are ⑫ <b>[ free / restricted ]</b> to the behavior we are born with or learn by ⑬ <b>[ trial and error / direct instruction ]</b>. We can learn a lot by simply ⑭ <b>[ ignoring / watching ]</b> others.</span></div>",
+            "text": "The discovery of mirror neurons has ① <b>[ profoundly changed / minimally maintained ]</b> the way we think of a fundamental human capacity, learning by observation. As children, we learn a lot by ② <b>[ ignoring / observing ]</b> what our parents and friends do. Newborns, in the first week of life, have an inborn tendency to ③ <b>[ stick out / retract ]</b> their tongue if their parents ④ <b>[ stick out / hide ]</b> theirs. Such imitation is not ⑤ <b>[ perfect / flawed ]</b>. You may not see the tongue ⑥ <b>[ stick out / retract ]</b> each time you stick yours out at your newborn, but if you do it many times, the tongue will come out ⑦ <b>[ more / less ]</b> often than if you do something ⑧ <b>[ different / similar ]</b>. Babies ⑨ <b>[ babble / remain silent ]</b> and later start to ⑩ <b>[ ignore / imitate ]</b> the sounds their parents produce. Later still, they play with vacuum cleaners and hammers in ⑪ <b>[ imitation of / contrast to ]</b> their parents. Our modern cultures, in which we write, speak, read, build spaceships and go to school, can work only because we are ⑫ <b>[ free / restricted ]</b> to the behavior we are born with or learn by ⑬ <b>[ trial and error / direct instruction ]</b>. We can learn a lot by simply ⑭ <b>[ ignoring / watching ]</b> others.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.048411290322580666,
+                0.11535520684736086,
+                0.4413225806451613,
+                0.3679825745312121
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 41,
+            "area": 37664.688,
+            "bbox": [
+                115.86345080622038,
+                1794.0182052010696,
+                1113.7986240071145,
+                33.816425120773374
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.046719133389605,
+                0.5118454223112895,
+                0.44911234838996555,
+                0.009648052816197824
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 42,
+            "area": 36358.398,
+            "bbox": [
+                130.3492710606481,
+                1898.6880924796528,
+                1075.1697699953074,
+                33.81642512077292
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"42\">지시문을 입력해주세요.</span></div>",
+            "text": "13",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.05256018994380972,
+                0.5417084429328539,
+                0.433536197578753,
+                0.009648052816197695
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 13,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 43,
+            "area": 1210821.74,
+            "bbox": [
+                119.08252197387105,
+                1996.9167559257075,
+                1096.0937325850366,
+                1104.6698872785828
+            ],
+            "html": "<div class=\"contents question\"><span class=\"43\">Have you ever been ① <b>[ unsurprised / surprised ]</b> to hear a recording of your own voice? You might have thought, &quot;Is that really what my voice sounds like?&quot; Maybe your accent is more ② <b>[ subtle / pronounced ]</b> in the recording than you realized, or your voice is ③ <b>[ higher / lower ]</b> than it seems to your own ears. This is, of course, quite a ④ <b>[ rare / common ]</b> experience. The explanation is actually fairly ⑤ <b>[ simple / complex ]</b>. There are two pathways through which we ⑥ <b>[ ignore / perceive ]</b> our own voice when we speak. One is the route through which we perceive most external sounds, like waves that travel from the air through the outer, middle, and inner ear. But because our vocal cords ⑦ <b>[ vibrate / remain still ]</b> when we speak, there is a second internal path. Vibrations are conducted through our bones and stimulate our inner ears ⑧ <b>[ indirectly / directly ]</b>. Lower frequencies are ⑨ <b>[ diminished / emphasized ]</b> along this pathway, making your voice sound deeper and richer to yourself than it may sound to other people.</span></div>",
+            "text": "Have you ever been ① <b>[ unsurprised / surprised ]</b> to hear a recording of your own voice? You might have thought, \"Is that really what my voice sounds like?\" Maybe your accent is more ② <b>[ subtle / pronounced ]</b> in the recording than you realized, or your voice is ③ <b>[ higher / lower ]</b> than it seems to your own ears. This is, of course, quite a ④ <b>[ rare / common ]</b> experience. The explanation is actually fairly ⑤ <b>[ simple / complex ]</b>. There are two pathways through which we ⑥ <b>[ ignore / perceive ]</b> our own voice when we speak. One is the route through which we perceive most external sounds, like waves that travel from the air through the outer, middle, and inner ear. But because our vocal cords ⑦ <b>[ vibrate / remain still ]</b> when we speak, there is a second internal path. Vibrations are conducted through our bones and stimulate our inner ears ⑧ <b>[ indirectly / directly ]</b>. Lower frequencies are ⑨ <b>[ diminished / emphasized ]</b> along this pathway, making your voice sound deeper and richer to yourself than it may sound to other people.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.04801714595720607,
+                0.5697337392084758,
+                0.44197327926815994,
+                0.3151697253291249
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 44,
+            "area": 39002.08,
+            "bbox": [
+                117.47298639004566,
+                3167.6091874877043,
+                1100.9223393365126,
+                35.426731078904595
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.04736813967340551,
+                0.9037401390835105,
+                0.4439202981195615,
+                0.010107483902683194
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 45,
+            "area": 40357.614,
+            "bbox": [
+                1266.6813932413174,
+                296.4336641382679,
+                1089.6555902497353,
+                37.03703703703701
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"45\">지시문을 입력해주세요.</span></div>",
+            "text": "13",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5107586263069829,
+                0.084574511879677,
+                0.43937725413295775,
+                0.010566914989168905
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 13,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 46,
+            "area": 1470189.758,
+            "bbox": [
+                1268.29,
+                405.93000000000075,
+                1096.0900000000001,
+                1341.3038694208662
+            ],
+            "html": "<div class=\"contents question\"><span class=\"46\">Biologists distinguish two kinds of ① <b>[ similarity / dissimilarity ]</b>. &quot;Analogous&quot; traits are those that have a common function but arose on different branches of the evolutionary tree and are, in an important sense, not &quot;the same&quot; organ. The wings of birds and the wings of bees are both used for ② <b>[ landing / flight ]</b> and are similar in some ways because anything used for flight has to be built in those ways, but they arose ③ <b>[ dependently / independently ]</b> in evolution and have nothing in common beyond their use in flight. &quot;Homologous&quot; traits, in contrast, may or may not have a common function, but they ④ <b>[ descended / ascended ]</b> from a common ancestor and hence have some common structure that indicates their being &quot;the same&quot; organ. The wing of a bat and the front leg of a horse have very ⑤ <b>[ similar / different ]</b> functions, but they are all modifications of the forelimb of the ancestor of all mammals. As a result, they share ⑥ <b>[ functional / nonfunctional ]</b> traits like the number of bones and the ways they are connected. To distinguish analogy from homology, biologists usually look at the overall architecture of the organs and focus on their most ⑦ <b>[ useless / useful ]</b> properties.</span></div>",
+            "text": "Biologists distinguish two kinds of ① <b>[ similarity / dissimilarity ]</b>. \"Analogous\" traits are those that have a common function but arose on different branches of the evolutionary tree and are, in an important sense, not \"the same\" organ. The wings of birds and the wings of bees are both used for ② <b>[ landing / flight ]</b> and are similar in some ways because anything used for flight has to be built in those ways, but they arose ③ <b>[ dependently / independently ]</b> in evolution and have nothing in common beyond their use in flight. \"Homologous\" traits, in contrast, may or may not have a common function, but they ④ <b>[ descended / ascended ]</b> from a common ancestor and hence have some common structure that indicates their being \"the same\" organ. The wing of a bat and the front leg of a horse have very ⑤ <b>[ similar / different ]</b> functions, but they are all modifications of the forelimb of the ancestor of all mammals. As a result, they share ⑥ <b>[ functional / nonfunctional ]</b> traits like the number of bones and the ways they are connected. To distinguish analogy from homology, biologists usually look at the overall architecture of the organs and focus on their most ⑦ <b>[ useless / useful ]</b> properties.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5114072580645161,
+                0.1158145506419403,
+                0.44197177419354844,
+                0.38268298699596753
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 47,
+            "area": 39334.37,
+            "bbox": [
+                1262.1633630667302,
+                1837.553840392184,
+                1103.9846623831727,
+                35.629453681710174
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5089368399462622,
+                0.5242664309250168,
+                0.4451551057996664,
+                0.010165322020459394
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 48,
+            "area": 22767.375,
+            "bbox": [
+                642.2081124166161,
+                350.3935693684675,
+                556.0931405631486,
+                40.94165813715455
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"48\">지시문을 입력해주세요.</span></div>",
+            "text": "13",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.2589548840389581,
+                0.09996963462723753,
+                0.22423110506578572,
+                0.01168092956837505
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 13,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 49,
+            "area": 1599079.981,
+            "bbox": [
+                115.11000000000001,
+                413.5099999999993,
+                1098.54,
+                1455.6411059514364
+            ],
+            "html": "<div class=\"contents question\"><span class=\"49\">Seawater contains an ① <b>[ scarcity / abundance ]</b> of dissolved oxygen that all marine animals ② <b>[ breathe / suffocate ]</b> to stay alive. It has long been established in physics that cold water holds more dissolved oxygen than warm water does-this is one reason that cold polar seas are full of life while tropical oceans are blue, clear, and relatively poorly ③ <b>[ popular / populated ]</b> with living creatures. Thus, as global warming raises the temperature of marine waters, it is self-evident that the amount of dissolved oxygen will ④ <b>[ decrease / increase ]</b>. This is a ⑤ <b>[ worrisome / reassuring ]</b> and potentially ⑥ <b>[ beneficial / disastrous ]</b> consequence if allowed to continue to an ⑦ <b>[ ecosystem-threatening / ecosystem-supporting ]</b> level. Now scientists have analyzed data indicating that the amount of dissolved oxygen in the oceans has been ⑧ <b>[ increasing / declining ]</b> for more than half a century. The data show that ocean oxygen levels have been ⑨ <b>[ falling / rising ]</b> more rapidly than the corresponding rise in water temperature. ⑩ <b>[ Falling / Rising ]</b> oxygen levels in water have the potential to impact the habitats of marine organisms worldwide, and in recent years, this has led to ⑪ <b>[ more / less ]</b> frequent anoxic events that ⑫ <b>[ preserved / killed ]</b> or displaced populations of fish, crabs, and many other organisms.</span></div>",
+            "text": "Seawater contains an ① <b>[ scarcity / abundance ]</b> of dissolved oxygen that all marine animals ② <b>[ breathe / suffocate ]</b> to stay alive. It has long been established in physics that cold water holds more dissolved oxygen than warm water does&mdash;this is one reason that cold polar seas are full of life while tropical oceans are blue, clear, and relatively poorly ③ <b>[ popular / populated ]</b> with living creatures. Thus, as global warming raises the temperature of marine waters, it is self-evident that the amount of dissolved oxygen will ④ <b>[ decrease / increase ]</b>. This is a ⑤ <b>[ worrisome / reassuring ]</b> and potentially ⑥ <b>[ beneficial / disastrous ]</b> consequence if allowed to continue to an ⑦ <b>[ ecosystem-threatening / ecosystem-supporting ]</b> level. Now scientists have analyzed data indicating that the amount of dissolved oxygen in the oceans has been ⑧ <b>[ increasing / declining ]</b> for more than half a century. The data show that ocean oxygen levels have been ⑨ <b>[ falling / rising ]</b> more rapidly than the corresponding rise in water temperature. ⑩ <b>[ Falling / Rising ]</b> oxygen levels in water have the potential to impact the habitats of marine organisms worldwide, and in recent years, this has led to ⑪ <b>[ more / less ]</b> frequent anoxic events that ⑫ <b>[ preserved / killed ]</b> or displaced populations of fish, crabs, and many other organisms.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.046415322580645166,
+                0.1179771754636232,
+                0.4429596774193548,
+                0.41530416717587343
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 50,
+            "area": 15200.364,
+            "bbox": [
+                109.06859631496684,
+                1972.3998883231898,
+                1113.8066373292836,
+                13.647219379051649
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.04397927270764792,
+                0.5627389125030499,
+                0.44911557956825954,
+                0.003893643189458388
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 51,
+            "area": 21846.036,
+            "bbox": [
+                641.52,
+                2004.81,
+                557.76,
+                39.16744770632499
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"51\">지시문을 입력해주세요.</span></div>",
+            "text": "13",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.2586774193548387,
+                0.5719857346647647,
+                0.2249032258064516,
+                0.011174735436897287
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 13,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 52,
+            "area": 1124788.614,
+            "bbox": [
+                121.28575457388797,
+                2062.81,
+                1091.6356400502013,
+                1030.37
+            ],
+            "html": "<div class=\"contents question\"><span class=\"52\">Capuchins-New World monkeys that live in ① <b>[ small / large ]</b> social groups-will, in captivity, trade with people all day long, especially if food is involved. &quot;I give you this rock, and you give me a treat to eat.&quot; If you put two monkeys in cages next to each other and offer them both slices of cucumber for the rocks they already have, they will happily eat the cucumbers. If, however, you give one monkey grapes instead-grapes being universally preferred to cucumbers-the monkey that is still receiving cucumbers will begin to ② <b>[ reject / accept ]</b> them back at the experimenter. Even though she is still getting &quot;paid&quot; the same amount for her effort of sourcing rocks, and so her particular situation has not changed, the comparison to another makes the situation feel ③ <b>[ unfair / fair ]</b>. Furthermore, she is now willing to abandon all gains-the cucumbers themselves-to communicate her ④ <b>[ pleasure / displeasure ]</b> to the experimenter.</span></div>",
+            "text": "Capuchins&mdash;New World monkeys that live in ① <b>[ small / large ]</b> social groups&mdash;will, in captivity, trade with people all day long, especially if food is involved. \"I give you this rock, and you give me a treat to eat.\" If you put two monkeys in cages next to each other and offer them both slices of cucumber for the rocks they already have, they will happily eat the cucumbers. If, however, you give one monkey grapes instead&mdash;grapes being universally preferred to cucumbers&mdash;the monkey that is still receiving cucumbers will begin to ② <b>[ reject / accept ]</b> them back at the experimenter. Even though she is still getting \"paid\" the same amount for her effort of sourcing rocks, and so her particular situation has not changed, the comparison to another makes the situation feel ③ <b>[ unfair / fair ]</b>. Furthermore, she is now willing to abandon all gains&mdash;the cucumbers themselves&mdash;to communicate her ④ <b>[ pleasure / displeasure ]</b> to the experimenter.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.04890554619914837,
+                0.5885335235378031,
+                0.44017566131056507,
+                0.2939714693295292
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 53,
+            "area": 17048.615,
+            "bbox": [
+                111.66399986739145,
+                3211.205695369308,
+                1110.433096247677,
+                15.35312180143228
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.045025806398141716,
+                0.9161785150839681,
+                0.44775528074503107,
+                0.0043803485881404505
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 54,
+            "area": 21334.774,
+            "bbox": [
+                1857.1750542689717,
+                352.0155330801696,
+                481.0171016003753,
+                44.3534629819174
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"54\">지시문을 입력해주세요.</span></div>",
+            "text": "13",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.748860908979424,
+                0.10043239174897849,
+                0.19395850870982875,
+                0.01265434036573963
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 13,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 55,
+            "area": 2260478.383,
+            "bbox": [
+                1265.29,
+                411.72,
+                1095.08,
+                2064.21301041052
+            ],
+            "html": "<div class=\"contents question\"><span class=\"55\">Higher education has grown from an ① <b>[ elite / mass ]</b> to a ② <b>[ mass / elite ]</b> system across the world. In Europe and the USA, ③ <b>[ decreased / increased ]</b> rates of participation occurred in the decades after the Second World War. Between 2000 and 2014, rates of participation in higher education almost ④ <b>[ halved / doubled ]</b> from 19% to 34% across the world among the members of the population in the school-leaving age category (typically 18-23). The dramatic ⑤ <b>[ expansion / contraction ]</b> of higher education has been marked by a ⑥ <b>[ narrower / wider ]</b> range of institutions of higher learning and a ⑦ <b>[ more / less ]</b> diverse demographic of students. Changes from an elite system to a mass higher education system are associated with ⑧ <b>[ political / personal ]</b> needs to build a specialized workforce for the economy. In theory, the expansion of higher education to develop a highly skilled workforce should ⑨ <b>[ diminish / enhance ]</b> the role of examinations in the selection and control of students, initiating approaches to assessment that enable lifelong learning: assessment for learning and a focus on feedback for development. In reality, socio-political changes to expand higher education have set up a &apos;field of contradictions&apos; for assessment in higher education. Mass higher education requires inefficient approaches to assessment, such as ⑩ <b>[ ungraded / examinations ]</b> and multiple-choice quizzes, with ⑪ <b>[ minimalist / rich ]</b>, ⑫ <b>[ impersonal / personal ]</b>, or ⑬ <b>[ personalized / standardized ]</b> feedback, often causing students to focus more on ⑭ <b>[ grades / feedback ]</b> than on ⑮ <b>[ feedback / grades ]</b>. In contrast, the relatively ⑯ <b>[ large / small ]</b> numbers of students in elite systems in the past allowed for ⑰ <b>[ distant / closer ]</b> relationships between students and their teachers, with formative feedback shaping the characters, academic skills, and even the academic of students.</span></div>",
+            "text": "Higher education has grown from an ① <b>[ elite / mass ]</b> to a ② <b>[ mass / elite ]</b> system across the world. In Europe and the USA, ③ <b>[ decreased / increased ]</b> rates of participation occurred in the decades after the Second World War. Between 2000 and 2014, rates of participation in higher education almost ④ <b>[ halved / doubled ]</b> from 19% to 34% across the world among the members of the population in the school-leaving age category (typically 18-23). The dramatic ⑤ <b>[ expansion / contraction ]</b> of higher education has been marked by a ⑥ <b>[ narrower / wider ]</b> range of institutions of higher learning and a ⑦ <b>[ more / less ]</b> diverse demographic of students. Changes from an elite system to a mass higher education system are associated with ⑧ <b>[ political / personal ]</b> needs to build a specialized workforce for the economy. In theory, the expansion of higher education to develop a highly skilled workforce should ⑨ <b>[ diminish / enhance ]</b> the role of examinations in the selection and control of students, initiating approaches to assessment that enable lifelong learning: assessment for learning and a focus on feedback for development. In reality, socio-political changes to expand higher education have set up a 'field of contradictions' for assessment in higher education. Mass higher education requires inefficient approaches to assessment, such as ⑩ <b>[ ungraded / examinations ]</b> and multiple-choice quizzes, with ⑪ <b>[ minimalist / rich ]</b>, ⑫ <b>[ impersonal / personal ]</b>, or ⑬ <b>[ personalized / standardized ]</b> feedback, often causing students to focus more on ⑭ <b>[ grades / feedback ]</b> than on ⑮ <b>[ feedback / grades ]</b>. In contrast, the relatively ⑯ <b>[ large / small ]</b> numbers of students in elite systems in the past allowed for ⑰ <b>[ distant / closer ]</b> relationships between students and their teachers, with formative feedback shaping the characters, academic skills, and even the academic of students. ",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5101975806451613,
+                0.11746647646219686,
+                0.44156451612903225,
+                0.588933811814699
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 56,
+            "area": 20933.221,
+            "bbox": [
+                1255.0456744977207,
+                2622.261071843588,
+                1115.5503859711255,
+                18.764926646195818
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5060668042329519,
+                0.74814866529061,
+                0.44981870402061513,
+                0.005353759385505226
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 57,
+            "area": 2139934.338,
+            "bbox": [
+                91.99698885101338,
+                297.7537610550405,
+                724.3445853205214,
+                2954.3043208234812
+            ],
+            "html": "",
+            "text": "1) 18 번\n\n1. express\n2. concern\n3. recent\n4. traditional\n5. replaced\n6. difficulty\n7. accessing\n8. relied\n9. reopening\n10. prompt\n11. positive\n2) 19번\n12. focused\n13. fell\n14. approached\n15. found\n16. beating\n17. began\n18. silently\n19. breathing\n20. closed\n21. appeared\n22. calm\n23. revived\n24. opened\n25. breath\n3) 20번\n26. stressful\n27. limit\n28. pressured\n29. show them off\n30. expectations\n31. live up to\n32. false\n33. driven perfectionist\n34. drop-out\n35. worse\n4) 21 번\n36. helplessness\n37. depression\n38. resolved\n39. struggle\n40. negative\n41. negative\n42. weak\n43. higher\n44. negative\n45. positive\n46. presence\n47. beneficial\n48. winners\n49. psychic\n50. power\n5) 21 번",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.037095560020569913,
+                0.08495114438089602,
+                0.2920744295647264,
+                0.8428828304774554
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 9,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 58,
+            "area": 2047095.219,
+            "bbox": [
+                844.6678987371419,
+                289.6597766144282,
+                691.9716429598278,
+                2958.3513130437877
+            ],
+            "html": "",
+            "text": "1. helplessness\n2. depression\n3. resolved\n4. struggle\n5. negative\n6. negative\n7. weak\n8. higher\n9. negative\n10. positive\n11. presence\n12. beneficial\n13. winners\n14. psychic\n15. power\n6) 23 번\n16. accessibility\n17. disadvantage\n18. inclusiveness\n19. difficulties\n20. widespread\n21. quality\n22. unclear\n23. communication\n24. interpersonal\n25. capabilities\n26. positive\n27. translate\n28. non-native\n29. improve\n7) 24번\n30. efficient\n31. sequesters\n32. thousands\n33. fertilizing\n34. increases\n35. engineers\n36. over\n37. economic incentives\n38. return\n39. nature-based\n40. restoration\n41. slow down\n8) 29 번\n42. fascinating\n43. biased\n44. prejudiced\n45. disallows\n46. conflict\n47. profound\n48. less\n9) 30번\n49. calming\n50. removing\n51. motivates\n52. safer\n53. convert",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.34059189465207335,
+                0.08264187635219064,
+                0.2790208237741241,
+                0.8440374644918082
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 9,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 59,
+            "area": 2262908.231,
+            "bbox": [
+                1564.97,
+                285.6127843941226,
+                760.76,
+                2974.5362940813857
+            ],
+            "html": "",
+            "text": "6. more\n7. support\n8. greener\n9. many\n10. smaller\n11. walk\n12. drive\n10) 31 번\n13. greatest\n14. misunderstood\n15. understand\n16. unfamiliarity\n17. new\n18. great\n19. ideas\n20. renowned\n21. overshadowed\n22. good\n23. mediocre\n24. lesser\n25. original\n11) 32번\n26. goggles\n27. colors\n28. lenses\n29. differently\n30. revealed\n31. truths\n32. more\n33. fast\n12) 33 번\n34. vital\n35. careful\n36. essentialism\n37. absent\n38. no\n39. essences\n40. fruitlessly\n41. wrong\n42. luminiferous ether\n43. black cat\n44. dark\n45. exist\n13) 34 번\n46. elite\n47. ordinary\n48. skills\n49. real\n50. misses\n51. mystery\n52. hierarchical distance\n53. talent and class\n54. doing well\n55. high\n14) 35 번",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.6310362903225807,
+                0.08148724233783812,
+                0.306758064516129,
+                0.8486551480973996
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 9,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 60,
+            "area": 1487346.072,
+            "bbox": [
+                82.73355489198096,
+                283.88253227196833,
+                501.93575883794574,
+                2963.219986120749
+            ],
+            "html": "",
+            "text": "1. illusion\n2. differentiate\n3. fully present\n4. conscious\n5. long-term\n6. recall\n7. disappearing\n8. enormous\n9. retest\n10. vanishes\n15) 36번\n11. profoundly changed\n12. observing\n13. stick out\n14. stick out\n15. perfect\n16. stick out\n17. more\n18. different\n19. babble\n20. imitate\n21. imitation of\n22. free\n23. trial and error\n24. watching\n16) 37 번\n25. surprised\n26. pronounced\n27. higher\n28. common\n29. simple\n30. perceive\n31. vibrate\n32. directly\n33. emphasized\n17) 38 번\n34. similarity\n35. flight\n36. independently\n37. descended\n38. different\n39. nonfunctional\n40. useful\n18) 39번\n41. abundance\n42. breathe\n43. populated\n44. decrease\n45. worrisome\n46. disastrous\n47. ecosystem-threatening\n48. declining\n49. falling\n50. Rising\n51. more\n52. killed",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.0333603043919278,
+                0.08099358980655302,
+                0.20239345114433296,
+                0.8454265295636945
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 9,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 61,
+            "area": 1268567.03,
+            "bbox": [
+                820.6000000000006,
+                341.7100000000005,
+                437.1700000000001,
+                2901.770545807282
+            ],
+            "html": "",
+            "text": "19) 40 번\n\n1. large\n2. reject\n3. unfair\n4. displeasure\n20) 41~42번\n5. elite\n6. mass\n7. increased\n8. doubled\n9. expansion\n10. wider\n11. more\n12. political\n13. enhance\n14. examinations\n15. minimalist\n16. impersonal\n17. standardized\n18. grades\n19. feedback\n20. small\n21. closer",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.3308870967741938,
+                0.09749215406562069,
+                0.17627822580645164,
+                0.8278945922417352
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 9,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": -1,
+            "area": 1202355.878,
+            "bbox": [
+                74.30021838309176,
+                407.0566502463055,
+                1169.2370932294705,
+                1028.3251231527095
+            ],
+            "html": "<div class=\"answer\">① express     ② concern    ③ recent    ④ traditional    ⑤ replaced    ⑥ difficulty    ⑦ accessing    ⑧ relied    ⑨ reopening    ⑩ prompt    ⑪ positive</div>",
+            "text": "① express     ② concern    ③ recent    ④ traditional    ⑤ replaced    ⑥ difficulty    ⑦ accessing    ⑧ relied    ⑨ reopening    ⑩ prompt    ⑪ positive",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.02995976547705313,
+                0.11613599151107146,
+                0.47146656985059293,
+                0.293388052254696
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -2,
+            "area": 1202355.878,
+            "bbox": [
+                74.30021838309176,
+                407.0566502463055,
+                1169.2370932294705,
+                1028.3251231527095
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--2\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.02995976547705313,
+                0.11613599151107146,
+                0.47146656985059293,
+                0.293388052254696
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -3,
+            "area": 1211071.348,
+            "bbox": [
+                80.45409782114189,
+                1878.7315270935962,
+                1156.929334353371,
+                1046.7980295566501
+            ],
+            "html": "<div class=\"answer\">① focused    ② fell    ③ approached    ④ found    ⑤ beating    ⑥ began    ⑦ silently    ⑧ breathing    ⑨ closed    ⑩ appeared    ⑪ calm    ⑫ revived    ⑬ opened    ⑭ breath</div>",
+            "text": "① focused    ② fell    ③ approached    ④ found    ⑤ beating    ⑥ began    ⑦ silently    ⑧ breathing    ⑨ closed    ⑩ appeared    ⑪ calm    ⑫ revived    ⑬ opened    ⑭ breath",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.032441168476266886,
+                0.5360147010252772,
+                0.4665037638521657,
+                0.2986584963071755
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -4,
+            "area": 1211071.348,
+            "bbox": [
+                80.45409782114189,
+                1878.7315270935962,
+                1156.929334353371,
+                1046.7980295566501
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--4\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.032441168476266886,
+                0.5360147010252772,
+                0.4665037638521657,
+                0.2986584963071755
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -5,
+            "area": 1205766.279,
+            "bbox": [
+                1261.998949926712,
+                407.05665024630537,
+                1138.467696039222,
+                1059.1133004926114
+            ],
+            "html": "<div class=\"answer\">① stressful    ② limit    ③ pressured    ④ show them off    ⑤ expectations    ⑥ live up to    ⑦ false    ⑧ driven perfectionist    ⑨ drop-out    ⑩ worse</div>",
+            "text": "① stressful    ② limit    ③ pressured    ④ show them off    ⑤ expectations    ⑥ live up to    ⑦ false    ⑧ driven perfectionist    ⑨ drop-out    ⑩ worse",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5088705443252871,
+                0.11613599151107143,
+                0.45905955485452493,
+                0.3021721256754954
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -6,
+            "area": 1205766.279,
+            "bbox": [
+                1261.998949926712,
+                407.05665024630537,
+                1138.467696039222,
+                1059.1133004926114
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--6\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5088705443252871,
+                0.11613599151107143,
+                0.45905955485452493,
+                0.3021721256754954
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -7,
+            "area": 1165523.545,
+            "bbox": [
+                1255.8450704886625,
+                1875.036931719099,
+                1120.0060577250717,
+                1040.6403940886694
+            ],
+            "html": "<div class=\"answer\">① helplessness    ② depression    ③ resolved    ④ struggle    ⑤ negative    ⑥ negative    ⑦ weak    ⑧ higher    ⑨ negative    ⑩ positive    ⑪ presence    ⑫ beneficial    ⑬ winners    ⑭ psychic    ⑮ power</div>",
+            "text": "① helplessness    ② depression    ③ resolved    ④ struggle    ⑤ negative    ⑥ negative    ⑦ weak    ⑧ higher    ⑨ negative    ⑩ positive    ⑪ presence    ⑫ beneficial    ⑬ winners    ⑭ psychic    ⑮ power",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5063891413260736,
+                0.5349606081937515,
+                0.4516153458568838,
+                0.2969016816230155
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -8,
+            "area": 1165523.545,
+            "bbox": [
+                1255.8450704886625,
+                1875.036931719099,
+                1120.0060577250717,
+                1040.6403940886694
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--8\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5063891413260736,
+                0.5349606081937515,
+                0.4516153458568838,
+                0.2969016816230155
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -9,
+            "area": 1405369.609,
+            "bbox": [
+                117.23000000000002,
+                411.87999999999965,
+                1098.18,
+                1279.7261003680665
+            ],
+            "html": "<div class=\"answer\">① contributed    ② Fear    ③ anger    ④ positive    ⑤ attentive    ⑥ threatening    ⑦ face    ⑧ avoid    ⑨ remember    ⑩ avoid    ⑪ activate    ⑫ survive    ⑬ evolved</div>",
+            "text": "① contributed    ② Fear    ③ anger    ④ positive    ⑤ attentive    ⑥ threatening    ⑦ face    ⑧ avoid    ⑨ remember    ⑩ avoid    ⑪ activate    ⑫ survive    ⑬ evolved",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.04727016129032259,
+                0.11751212553494997,
+                0.4428145161290323,
+                0.36511443662427
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -10,
+            "area": 1405369.609,
+            "bbox": [
+                117.23000000000002,
+                411.87999999999965,
+                1098.18,
+                1279.7261003680665
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--10\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.04727016129032259,
+                0.11751212553494997,
+                0.4428145161290323,
+                0.36511443662427
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -11,
+            "area": 1544731.312,
+            "bbox": [
+                117.23000000000002,
+                1809.96,
+                1096.53,
+                1408.7451434837076
+            ],
+            "html": "<div class=\"answer\">① accessibility    ② disadvantage    ③ inclusiveness    ④ difficulties    ⑤ widespread    ⑥ quality    ⑦ unclear    ⑧ communication    ⑨ interpersonal    ⑩ capabilities    ⑪ positive    ⑫ translate    ⑬ non-native    ⑭ improve</div>",
+            "text": "① accessibility    ② disadvantage    ③ inclusiveness    ④ difficulties    ⑤ widespread    ⑥ quality    ⑦ unclear    ⑧ communication    ⑨ interpersonal    ⑩ capabilities    ⑪ positive    ⑫ translate    ⑬ non-native    ⑭ improve",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.04727016129032259,
+                0.5163937232524964,
+                0.4421491935483871,
+                0.4019244346601163
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -12,
+            "area": 1544731.312,
+            "bbox": [
+                117.23000000000002,
+                1809.96,
+                1096.53,
+                1408.7451434837076
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--12\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.04727016129032259,
+                0.5163937232524964,
+                0.4421491935483871,
+                0.4019244346601163
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -13,
+            "area": 1481564.859,
+            "bbox": [
+                1252.98,
+                408.6699999999988,
+                1106.42,
+                1339.06189269254
+            ],
+            "html": "<div class=\"answer\">① efficient    ② sequesters    ③ thousands    ④ fertilizing    ⑤ increases    ⑥ engineers    ⑦ over    ⑧ economic incentives    ⑨ return    ⑩ nature-based    ⑪ restoration    ⑫ slow down</div>",
+            "text": "① efficient    ② sequesters    ③ thousands    ④ fertilizing    ⑤ increases    ⑥ engineers    ⑦ over    ⑧ economic incentives    ⑨ return    ⑩ nature-based    ⑪ restoration    ⑫ slow down",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.505233870967742,
+                0.11659629101283847,
+                0.44613709677419355,
+                0.3820433360035777
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -14,
+            "area": 1481564.859,
+            "bbox": [
+                1252.98,
+                408.6699999999988,
+                1106.42,
+                1339.06189269254
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--14\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.505233870967742,
+                0.11659629101283847,
+                0.44613709677419355,
+                0.3820433360035777
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -15,
+            "area": 1334502.003,
+            "bbox": [
+                100.0391503365804,
+                403.7956404982982,
+                1125.930829278375,
+                1185.2433281004705
+            ],
+            "html": "<div class=\"answer\">① fascinating    ② biased    ③ prejudiced    ④ disallows    ⑤ conflict    ⑥ profound    ⑦ less</div>",
+            "text": "① fascinating    ② biased    ③ prejudiced    ④ disallows    ⑤ conflict    ⑥ profound    ⑦ less",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.040338367071201774,
+                0.11520560356584827,
+                0.4540043666445061,
+                0.33815786821696736
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -16,
+            "area": 1334502.003,
+            "bbox": [
+                100.0391503365804,
+                403.7956404982982,
+                1125.930829278375,
+                1185.2433281004705
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--16\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.040338367071201774,
+                0.11520560356584827,
+                0.4540043666445061,
+                0.33815786821696736
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -17,
+            "area": 1467068.427,
+            "bbox": [
+                103.96225427134834,
+                1802.9322182063042,
+                1125.9308292783753,
+                1302.9827315541597
+            ],
+            "html": "<div class=\"answer\">① calming    ② removing    ③ motivates    ④ safer    ⑤ convert    ⑥ more    ⑦ support    ⑧ greener    ⑨ many    ⑩ smaller    ⑪ walk    ⑫ drive</div>",
+            "text": "① calming    ② removing    ③ motivates    ④ safer    ⑤ convert    ⑥ more    ⑦ support    ⑧ greener    ⑨ many    ⑩ smaller    ⑪ walk    ⑫ drive",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.04192026381909207,
+                0.5143886499875333,
+                0.45400436664450616,
+                0.3717497094305734
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -18,
+            "area": 1467068.427,
+            "bbox": [
+                103.96225427134834,
+                1802.9322182063042,
+                1125.9308292783753,
+                1302.9827315541597
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--18\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.04192026381909207,
+                0.5143886499875333,
+                0.45400436664450616,
+                0.3717497094305734
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -19,
+            "area": 1386635.559,
+            "bbox": [
+                1254.4206406934545,
+                396.67974882260626,
+                1118.0846214088397,
+                1240.1883830455263
+            ],
+            "html": "<div class=\"answer\">① greatest    ② misunderstood    ③ understand    ④ unfamiliarity    ⑤ new    ⑥ great    ⑦ ideas    ⑧ renowned    ⑨ overshadowed    ⑩ good    ⑪ mediocre    ⑫ lesser    ⑬ original</div>",
+            "text": "① greatest    ② misunderstood    ③ understand    ④ unfamiliarity    ⑤ new    ⑥ great    ⑦ ideas    ⑧ renowned    ⑨ overshadowed    ⑩ good    ⑪ mediocre    ⑫ lesser    ⑬ original",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5058147744731671,
+                0.11317539196080065,
+                0.45084057314872567,
+                0.35383406078331703
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -20,
+            "area": 1386635.559,
+            "bbox": [
+                1254.4206406934545,
+                396.67974882260626,
+                1118.0846214088397,
+                1240.1883830455263
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--20\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5058147744731671,
+                0.11317539196080065,
+                0.45084057314872567,
+                0.35383406078331703
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -21,
+            "area": 1233114.094,
+            "bbox": [
+                1258.3437446282223,
+                1803.6656200941916,
+                1110.238413539304,
+                1110.6750392464673
+            ],
+            "html": "<div class=\"answer\">① goggles    ② colors    ③ lenses    ④ differently    ⑤ revealed    ⑥ truths    ⑦ more    ⑧ fast</div>",
+            "text": "① goggles    ② colors    ③ lenses    ④ differently    ⑤ revealed    ⑥ truths    ⑦ more    ⑧ fast",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5073966712210574,
+                0.5145978944633928,
+                0.44767677965294517,
+                0.31688303544835017
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -22,
+            "area": 1233114.094,
+            "bbox": [
+                1258.3437446282223,
+                1803.6656200941916,
+                1110.238413539304,
+                1110.6750392464673
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--22\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5073966712210574,
+                0.5145978944633928,
+                0.44767677965294517,
+                0.31688303544835017
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -23,
+            "area": 1630503.027,
+            "bbox": [
+                1255.9735065266918,
+                402.0912480231831,
+                1109.4574529508513,
+                1469.639978506179
+            ],
+            "html": "<div class=\"answer\">① elite    ② ordinary    ③ skills    ④ real    ⑤ misses    ⑥ mystery    ⑦ hierarchical distance    ⑧ talent and class    ⑨ doing well    ⑩ high</div>",
+            "text": "① elite    ② ordinary    ③ skills    ④ real    ⑤ misses    ⑥ mystery    ⑦ hierarchical distance    ⑧ talent and class    ⑨ doing well    ⑩ high",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5064409300510854,
+                0.11471932896524482,
+                0.4473618761898594,
+                0.41929813937408816
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -24,
+            "area": 1630503.027,
+            "bbox": [
+                1255.9735065266918,
+                402.0912480231831,
+                1109.4574529508513,
+                1469.639978506179
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--24\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5064409300510854,
+                0.11471932896524482,
+                0.4473618761898594,
+                0.41929813937408816
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -25,
+            "area": 1293512.722,
+            "bbox": [
+                1258.6598441851684,
+                1991.4696443841935,
+                1106.771115292374,
+                1168.7264911337993
+            ],
+            "html": "<div class=\"answer\">① illusion    ② differentiate    ③ fully present    ④ conscious    ⑤ long-term    ⑥ recall    ⑦ disappearing    ⑧ enormous    ⑨ retest    ⑩ vanishes</div>",
+            "text": "① illusion    ② differentiate    ③ fully present    ④ conscious    ⑤ long-term    ⑥ recall    ⑦ disappearing    ⑧ enormous    ⑨ retest    ⑩ vanishes",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5075241307198259,
+                0.5681796417643918,
+                0.4462786755211185,
+                0.33344550388981437
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -26,
+            "area": 1293512.722,
+            "bbox": [
+                1258.6598441851684,
+                1991.4696443841935,
+                1106.771115292374,
+                1168.7264911337993
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--26\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5075241307198259,
+                0.5681796417643918,
+                0.4462786755211185,
+                0.33344550388981437
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -27,
+            "area": 1411637.236,
+            "bbox": [
+                120.06000000000006,
+                404.3199999999998,
+                1094.48,
+                1289.7789237318984
+            ],
+            "html": "<div class=\"answer\">① profoundly changed    ② observing    ③ stick out    ④ stick out    ⑤ perfect    ⑥ stick out    ⑦ more    ⑧ different    ⑨ babble    ⑩ imitate    ⑪ imitation of    ⑫ free    ⑬ trial and error    ⑭ watching</div>",
+            "text": "① profoundly changed    ② observing    ③ stick out    ④ stick out    ⑤ perfect    ⑥ stick out    ⑦ more    ⑧ different    ⑨ babble    ⑩ imitate    ⑪ imitation of    ⑫ free    ⑬ trial and error    ⑭ watching",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.048411290322580666,
+                0.11535520684736086,
+                0.4413225806451613,
+                0.3679825745312121
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -28,
+            "area": 1411637.236,
+            "bbox": [
+                120.06000000000006,
+                404.3199999999998,
+                1094.48,
+                1289.7789237318984
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--28\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.048411290322580666,
+                0.11535520684736086,
+                0.4413225806451613,
+                0.3679825745312121
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -29,
+            "area": 1210821.74,
+            "bbox": [
+                119.08252197387105,
+                1996.9167559257075,
+                1096.0937325850366,
+                1104.6698872785828
+            ],
+            "html": "<div class=\"answer\">① surprised    ② pronounced    ③ higher    ④ common    ⑤ simple    ⑥ perceive    ⑦ vibrate    ⑧ directly    ⑨ emphasized</div>",
+            "text": "① surprised    ② pronounced    ③ higher    ④ common    ⑤ simple    ⑥ perceive    ⑦ vibrate    ⑧ directly    ⑨ emphasized",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.04801714595720607,
+                0.5697337392084758,
+                0.44197327926815994,
+                0.3151697253291249
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -30,
+            "area": 1210821.74,
+            "bbox": [
+                119.08252197387105,
+                1996.9167559257075,
+                1096.0937325850366,
+                1104.6698872785828
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--30\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.04801714595720607,
+                0.5697337392084758,
+                0.44197327926815994,
+                0.3151697253291249
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -31,
+            "area": 1470189.758,
+            "bbox": [
+                1268.29,
+                405.93000000000075,
+                1096.0900000000001,
+                1341.3038694208662
+            ],
+            "html": "<div class=\"answer\">① similarity    ② flight    ③ independently    ④ descended    ⑤ different    ⑥ nonfunctional    ⑦ useful</div>",
+            "text": "① similarity    ② flight    ③ independently    ④ descended    ⑤ different    ⑥ nonfunctional    ⑦ useful",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5114072580645161,
+                0.1158145506419403,
+                0.44197177419354844,
+                0.38268298699596753
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -32,
+            "area": 1470189.758,
+            "bbox": [
+                1268.29,
+                405.93000000000075,
+                1096.0900000000001,
+                1341.3038694208662
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--32\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5114072580645161,
+                0.1158145506419403,
+                0.44197177419354844,
+                0.38268298699596753
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -33,
+            "area": 1599079.981,
+            "bbox": [
+                115.11000000000001,
+                413.5099999999993,
+                1098.54,
+                1455.6411059514364
+            ],
+            "html": "<div class=\"answer\">① abundance    ② breathe    ③ populated    ④ decrease    ⑤ worrisome    ⑥ disastrous    ⑦ ecosystem-threatening    ⑧ declining    ⑨ falling    ⑩ Rising    ⑪ more    ⑫ killed</div>",
+            "text": "① abundance    ② breathe    ③ populated    ④ decrease    ⑤ worrisome    ⑥ disastrous    ⑦ ecosystem-threatening    ⑧ declining    ⑨ falling    ⑩ Rising    ⑪ more    ⑫ killed",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.046415322580645166,
+                0.1179771754636232,
+                0.4429596774193548,
+                0.41530416717587343
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -34,
+            "area": 1599079.981,
+            "bbox": [
+                115.11000000000001,
+                413.5099999999993,
+                1098.54,
+                1455.6411059514364
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--34\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.046415322580645166,
+                0.1179771754636232,
+                0.4429596774193548,
+                0.41530416717587343
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -35,
+            "area": 1124788.614,
+            "bbox": [
+                121.28575457388797,
+                2062.81,
+                1091.6356400502013,
+                1030.37
+            ],
+            "html": "<div class=\"answer\">① large    ② reject    ③ unfair    ④ displeasure</div>",
+            "text": "① large    ② reject    ③ unfair    ④ displeasure",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.04890554619914837,
+                0.5885335235378031,
+                0.44017566131056507,
+                0.2939714693295292
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -36,
+            "area": 1124788.614,
+            "bbox": [
+                121.28575457388797,
+                2062.81,
+                1091.6356400502013,
+                1030.37
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--36\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.04890554619914837,
+                0.5885335235378031,
+                0.44017566131056507,
+                0.2939714693295292
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -37,
+            "area": 2260478.383,
+            "bbox": [
+                1265.29,
+                411.72,
+                1095.08,
+                2064.21301041052
+            ],
+            "html": "<div class=\"answer\">① elite    ② mass    ③ increased    ④ doubled    ⑤ expansion    ⑥ wider    ⑦ more    ⑧ political    ⑨ enhance    ⑩ examinations    ⑪ minimalist    ⑫ impersonal    ⑬ standardized    ⑭ grades    ⑮ feedback    ⑯ small    ⑰ closer</div>",
+            "text": "① elite    ② mass    ③ increased    ④ doubled    ⑤ expansion    ⑥ wider    ⑦ more    ⑧ political    ⑨ enhance    ⑩ examinations    ⑪ minimalist    ⑫ impersonal    ⑬ standardized    ⑭ grades    ⑮ feedback    ⑯ small    ⑰ closer",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5101975806451613,
+                0.11746647646219686,
+                0.44156451612903225,
+                0.588933811814699
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -38,
+            "area": 2260478.383,
+            "bbox": [
+                1265.29,
+                411.72,
+                1095.08,
+                2064.21301041052
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--38\">&nbsp;</span></div>",
+            "text": "&nbsp;",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5101975806451613,
+                0.11746647646219686,
+                0.44156451612903225,
+                0.588933811814699
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        }
+    ]
+}

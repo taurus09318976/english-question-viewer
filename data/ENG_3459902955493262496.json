@@ -1,0 +1,3766 @@
+{
+    "info": {
+        "html_url": "",
+        "provider": "crowdworks"
+    },
+    "items": [
+        {
+            "id": 1,
+            "imageIds": [
+                0
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -1
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    0,
+                    1,
+                    2,
+                    3
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -2
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "imageIds": [
+                0
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -3
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -4
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "imageIds": [
+                1
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -5
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    8,
+                    9,
+                    10,
+                    11
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -6
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "imageIds": [
+                1
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -7
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    12,
+                    13,
+                    14,
+                    15
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -8
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "imageIds": [
+                2
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -9
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    16,
+                    17,
+                    18,
+                    19
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -10
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "imageIds": [
+                2
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -11
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    20,
+                    21,
+                    22,
+                    23
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -12
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "imageIds": [
+                3
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -13
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    24,
+                    25,
+                    26,
+                    27
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -14
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "imageIds": [
+                3
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -15
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    28,
+                    29,
+                    30,
+                    31
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -16
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "imageIds": [
+                4
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -17
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    32,
+                    33,
+                    34,
+                    35
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -18
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "imageIds": [
+                4
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -19
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    36,
+                    37,
+                    38,
+                    39
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -20
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "imageIds": [
+                5
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -21
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    40,
+                    41,
+                    42,
+                    43
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -22
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "imageIds": [
+                5
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -23
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    44,
+                    45,
+                    46,
+                    47
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -24
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "imageIds": [
+                6
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -25
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    48,
+                    49,
+                    50,
+                    51
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -26
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "imageIds": [
+                6
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -27
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    52,
+                    53,
+                    54,
+                    55
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -28
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "imageIds": [
+                7
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -29
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    56,
+                    57,
+                    58,
+                    59
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -30
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "imageIds": [
+                7
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -31
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    60,
+                    61,
+                    62,
+                    63
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -32
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "imageIds": [
+                8
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -33
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    64,
+                    65,
+                    66,
+                    67
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -34
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "imageIds": [
+                8
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -35
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    68,
+                    69,
+                    70,
+                    71
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -36
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "imageIds": [
+                9
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -37
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    72,
+                    73,
+                    74,
+                    75
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -38
+                ]
+            }
+        }
+    ],
+    "images": [
+        {
+            "id": 0,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3459902955493262496/ENG_3459902955493262496_PAGE_0000.png",
+            "file_name": "ENG_3459902955493262496_PAGE_0000.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 1,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3459902955493262496/ENG_3459902955493262496_PAGE_0001.png",
+            "file_name": "ENG_3459902955493262496_PAGE_0001.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 2,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3459902955493262496/ENG_3459902955493262496_PAGE_0002.png",
+            "file_name": "ENG_3459902955493262496_PAGE_0002.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 3,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3459902955493262496/ENG_3459902955493262496_PAGE_0003.png",
+            "file_name": "ENG_3459902955493262496_PAGE_0003.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 4,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3459902955493262496/ENG_3459902955493262496_PAGE_0004.png",
+            "file_name": "ENG_3459902955493262496_PAGE_0004.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 5,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3459902955493262496/ENG_3459902955493262496_PAGE_0005.png",
+            "file_name": "ENG_3459902955493262496_PAGE_0005.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 6,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3459902955493262496/ENG_3459902955493262496_PAGE_0006.png",
+            "file_name": "ENG_3459902955493262496_PAGE_0006.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 7,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3459902955493262496/ENG_3459902955493262496_PAGE_0007.png",
+            "file_name": "ENG_3459902955493262496_PAGE_0007.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 8,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3459902955493262496/ENG_3459902955493262496_PAGE_0008.png",
+            "file_name": "ENG_3459902955493262496_PAGE_0008.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 9,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3459902955493262496/ENG_3459902955493262496_PAGE_0009.png",
+            "file_name": "ENG_3459902955493262496_PAGE_0009.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 10,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3459902955493262496/ENG_3459902955493262496_PAGE_0010.png",
+            "file_name": "ENG_3459902955493262496_PAGE_0010.png",
+            "page_type": "정답지",
+            "bboxCheckStatus": true
+        }
+    ],
+    "licenses": [],
+    "categories": [
+        {
+            "id": 0,
+            "name": "[공통] 발문",
+            "objectColor": "#FF9700",
+            "supercategory": "layout"
+        },
+        {
+            "id": 1,
+            "name": "[그룹] 공통 본문",
+            "objectColor": "#875000",
+            "supercategory": "layout"
+        },
+        {
+            "id": 2,
+            "name": "[단일] 지시문",
+            "objectColor": "#FF0000",
+            "supercategory": "layout"
+        },
+        {
+            "id": 3,
+            "name": "[단일] 본문",
+            "objectColor": "#B62828",
+            "supercategory": "layout"
+        },
+        {
+            "id": 4,
+            "name": "[공통] 보기",
+            "objectColor": "#2E00FF",
+            "supercategory": "layout"
+        },
+        {
+            "id": 5,
+            "name": "[공통] 조건",
+            "objectColor": "#00DE22",
+            "supercategory": "layout"
+        },
+        {
+            "id": 6,
+            "name": "[답안] 객관식",
+            "objectColor": "#BD00FF",
+            "supercategory": "layout"
+        },
+        {
+            "id": 7,
+            "name": "[답안] 주관식",
+            "objectColor": "#FF00A2",
+            "supercategory": "layout"
+        },
+        {
+            "id": 8,
+            "name": "[답안] 공백 선지",
+            "objectColor": "#6A7500",
+            "supercategory": "layout"
+        },
+        {
+            "id": 9,
+            "name": "[정답] 정답/해설",
+            "objectColor": "#DE00CA",
+            "supercategory": "layout"
+        },
+        {
+            "id": 10,
+            "name": "[공통] 도표",
+            "objectColor": "#00D8FF",
+            "supercategory": "layout"
+        },
+        {
+            "id": 11,
+            "name": "[공통] 그림",
+            "objectColor": "#005C6D",
+            "supercategory": "layout"
+        },
+        {
+            "id": 12,
+            "name": "[그룹] 공백 지시문",
+            "objectColor": "#C6AC62",
+            "supercategory": "layout"
+        },
+        {
+            "id": 13,
+            "name": "[단일] 공백 지시문",
+            "objectColor": "#FFCBA5",
+            "supercategory": "layout"
+        },
+        {
+            "id": 14,
+            "name": "[각주] 단어",
+            "objectColor": "#00FFD5",
+            "supercategory": "layout"
+        },
+        {
+            "id": 99,
+            "name": "[그룹] 문항 구분",
+            "objectColor": "#7A3245",
+            "supercategory": "layout"
+        },
+        {
+            "id": 100,
+            "name": "[단일] 문항 구분",
+            "objectColor": "#32517A",
+            "supercategory": "layout"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "area": 40801.931,
+            "bbox": [
+                337.97872394017423,
+                383.50317883128054,
+                554.8382995029622,
+                73.53841799732089
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"0\">다음 글의 제목으로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 제목으로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1362817435242638,
+                0.10941602819722697,
+                0.22372512076732345,
+                0.020981003708222794
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1,
+            "area": 1014984.708,
+            "bbox": [
+                376.57837827338324,
+                553.2956548718628,
+                802.5326489510602,
+                1264.7269976096597
+            ],
+            "html": "<div class=\"contents question\"><span class=\"1\">Truth is essential for progress and the development of knowledge, as it serves as the foundation upon which reliable and accurate understanding is built. However, one of the greatest threats to the accumulation of knowledge can now be found on social media platforms. As social media becomes a primary source of information for millions, its unregulated nature allows misinformation to spread rapidly. Social media users may unknowingly participate in creating and circulating misinformation, which can influence elections, cause violence, and create widespread panic, as seen in various global incidents. As creators and consumers, it is our responsibility to take on a greater role in the enhancement of fact-checking protocols in order to ensure accuracy. It is critical that participants safeguard the reliability of information, supporting a more informed and rational public community.</span></div>",
+            "text": "Truth is essential for progress and the development of knowledge, as it serves as the foundation upon which reliable and accurate understanding is built. However, one of the greatest threats to the accumulation of knowledge can now be found on social media platforms. As social media becomes a primary source of information for millions, its unregulated nature allows misinformation to spread rapidly. Social media users may unknowingly participate in creating and circulating misinformation, which can influence elections, cause violence, and create widespread panic, as seen in various global incidents. As creators and consumers, it is our responsibility to take on a greater role in the enhancement of fact-checking protocols in order to ensure accuracy. It is critical that participants safeguard the reliability of information, supporting a more informed and rational public community.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1518461202715255,
+                0.15785896002050293,
+                0.3236018745770404,
+                0.3608350920426989
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2,
+            "area": 279045.112,
+            "bbox": [
+                357.3560393763519,
+                1894.0866431129577,
+                828.9633649344782,
+                336.61935297595505
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"2\">① The Impact of Social Media on Knowledge <br>② The Role of Truth in Social Progress <br>③ Preventing Misinformation on Social Media <br>④ The Dangers of Misinformation in Society <br>⑤ The Future of Reliable Knowledge Platforms</span></div>",
+            "text": "① The Impact of Social Media on Knowledge \n② The Role of Truth in Social Progress \n③ Preventing Misinformation on Social Media \n④ The Dangers of Misinformation in Society \n⑤ The Future of Reliable Knowledge Platforms",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1440951771678838,
+                0.5403956185771635,
+                0.33425942134454767,
+                0.09603975833836093
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3,
+            "area": 6977.46,
+            "bbox": [
+                355.7539814709735,
+                2299.149768411445,
+                813.2729158277414,
+                8.579482099687084
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14344918607700544,
+                0.6559628440546206,
+                0.3279326273498957,
+                0.002447783765959225
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4,
+            "area": 32777.08,
+            "bbox": [
+                1273.5443893561537,
+                396.4423764079904,
+                546.68820508353,
+                59.955711180354854
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"4\">다음 글의 제목으로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 제목으로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.513525963450062,
+                0.11310766801939813,
+                0.2204387923723911,
+                0.017105766385265293
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5,
+            "area": 1034203.26,
+            "bbox": [
+                1301.6534376930185,
+                549.4951210923483,
+                811.4778715637003,
+                1274.4688380454472
+            ],
+            "html": "<div class=\"contents question\"><span class=\"5\">Around the turn of the twentieth century, anthropologists trained in the natural sciences began to reimagine what a science of humanity should look like and how social scientists ought to go about studying cultural groups. Some of those anthropologists insisted that one should at least spend significant time actually observing and talking to the people studied. Early ethnographers such as Franz Boas and Alfred Cort Haddon typically traveled to the remote locations where the people in question lived and spent a few weeks to a few months there. They sought out a local Western host who was familiar with the people and the area (such as a colonial official, missionary, or businessman) and found accommodations through them. Although they did at times venture into the community without a guide, they generally did not spend significant time with the local people. Thus, their observations were primarily conducted from their verandas.</span></div>",
+            "text": "Around the turn of the twentieth century, anthropologists trained in the natural sciences began to reimagine what a science of humanity should look like and how social scientists ought to go about studying cultural groups. Some of those anthropologists insisted that one should at least spend significant time actually observing and talking to the people studied. Early ethnographers such as Franz Boas and Alfred Cort Haddon typically traveled to the remote locations where the people in question lived and spent a few weeks to a few months there. They sought out a local Western host who was familiar with the people and the area (such as a colonial official, missionary, or businessman) and found accommodations through them. Although they did at times venture into the community without a guide, they generally did not spend significant time with the local people. Thus, their observations were primarily conducted from their verandas.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5248602571342816,
+                0.1567746422517399,
+                0.3272088191789114,
+                0.3636145044352203
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6,
+            "area": 309770.7,
+            "bbox": [
+                1300.0504057371834,
+                1893.7727019069152,
+                840.4748431337532,
+                368.5662964872872
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"6\">① The Evolution of Anthropological Fieldwork <br>② Early Challenges in Social Science Research <br>③ Colonial Influences on Ethnographic Studies <br>④ The Role of Verandas in Cultural Observation <br>⑤ Franz Boas and Alfred Haddon: A New Approach</span></div>",
+            "text": "① The Evolution of Anthropological Fieldwork \n② Early Challenges in Social Science Research \n③ Colonial Influences on Ethnographic Studies \n④ The Role of Verandas in Cultural Observation \n⑤ Franz Boas and Alfred Haddon: A New Approach",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5242138732811223,
+                0.5403060490461955,
+                0.3389011464249005,
+                0.10515443551705769
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7,
+            "area": 5216.148,
+            "bbox": [
+                1313.7227975415624,
+                2321.8741090924877,
+                803.1564620679694,
+                6.494560290524532
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5297269344925655,
+                0.6624462508109809,
+                0.32385341212418123,
+                0.0018529415950141318
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8,
+            "area": 28880.359,
+            "bbox": [
+                347.6210605194651,
+                400.1726255545355,
+                540.37492148968,
+                53.445038552652534
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"8\">다음 글의 제목으로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 제목으로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14016978246752626,
+                0.11417193311113709,
+                0.21789311350390322,
+                0.01524822783242583
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9,
+            "area": 980330.348,
+            "bbox": [
+                365.3126702896417,
+                549.6865189504916,
+                814.471911898721,
+                1203.6392332543696
+            ],
+            "html": "<div class=\"contents question\"><span class=\"9\">Even though there is good reason to consider a dog a sentient being capable of making choices and plans - so that we might suppose &apos;it could have conceived of acting otherwise&apos; - we&apos;re unlikely to think it is wicked and immoral for attacking a child. Moral responsibility is not some universal concept like entropy or temperature - something that applies equally, and can be measured similarly, everywhere in the cosmos. It is a notion developed specifically for human use, no more or less than languages are. While sentience and volition are aspects of mind and agency, morals are cultural tools developed to influence social behaviour: to cultivate the desirable and discourage the harmful. They are learnt, not given at birth. It&apos;s possible, indeed likely, that we are born with a predisposition to cooperate with others - but only within human society do we come to understand this as moral behaviour.</span></div>",
+            "text": "Even though there is good reason to consider a dog a sentient being capable of making choices and plans — so that we might suppose 'it could have conceived of acting otherwise' — we're unlikely to think it is wicked and immoral for attacking a child. Moral responsibility is not some universal concept like entropy or temperature — something that applies equally, and can be measured similarly, everywhere in the cosmos. It is a notion developed specifically for human use, no more or less than languages are. While sentience and volition are aspects of mind and agency, morals are cultural tools developed to influence social behaviour: to cultivate the desirable and discourage the harmful. They are learnt, not given at birth. It's possible, indeed likely, that we are born with a predisposition to cooperate with others — but only within human society do we come to understand this as moral behaviour.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14730349608453294,
+                0.15682924934393486,
+                0.3284160935075488,
+                0.34340634329653913
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10,
+            "area": 250719.596,
+            "bbox": [
+                349.01109803275904,
+                1843.5295678569182,
+                844.4100421520056,
+                296.9168808480699
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"10\">① The Cultural Roots of Moral Responsibility<br>② The Difference Between Morality and Sentience<br>③ Why Morals Are Learned, Not Innate<br>④ The Limits of Animal Moral Understanding<br>⑤ The Role of Cooperation in Human Morality</span></div>",
+            "text": "① The Cultural Roots of Moral Responsibility\n② The Difference Between Morality and Sentience\n③ Why Morals Are Learned, Not Innate\n④ The Limits of Animal Moral Understanding\n⑤ The Role of Cooperation in Human Morality",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1407302814648222,
+                0.5259713460362107,
+                0.3404879202225829,
+                0.08471237684681025
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11,
+            "area": 30868.789,
+            "bbox": [
+                349.19271041391994,
+                2187.9732141531513,
+                846.4411069051105,
+                36.46891562232122
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1408035122636774,
+                0.6242434277184454,
+                0.3413068979456091,
+                0.010404826140462545
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12,
+            "area": 32377.414,
+            "bbox": [
+                1275.5011729425878,
+                399.51203726097253,
+                544.1407115818567,
+                59.5019149627355
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"12\">다음 글의 제목으로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 제목으로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5143149890897531,
+                0.11398346284193225,
+                0.2194115772507487,
+                0.01697629528180756
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13,
+            "area": 1070838.917,
+            "bbox": [
+                1301.955368973171,
+                552.0258812676566,
+                807.6846459662311,
+                1325.8131403892114
+            ],
+            "html": "<div class=\"contents question\"><span class=\"13\">It is much more natural to be surprised by unusual phenomena like eclipses than ordinary phenomena like falling bodies or the succession of night into day and day into night. Many cultures invented gods to explain these eclipses that shocked, frightened, or surprised them; but very few imagined a god of falling bodies - to which they were so accustomed that they did not even notice them. But the reason for eclipses is ultimately the same as that of the succession of night and day: the movement of celestial bodies, which itself is based on the Newtonian law of attraction and how it explains why things fall when we let them go. For the physicist, understanding the ordinary, the habitual, and the frequent thus allows us to account for the frightening and the singular. As such, it was thus necessary to ask &quot;Why do things fall?&quot; and to have Newton&apos;s response to understand a broad range of much more bizarre phenomena occurring at every level of the universe.</span></div>",
+            "text": "It is much more natural to be surprised by unusual phenomena like eclipses than ordinary phenomena like falling bodies or the succession of night into day and day into night. Many cultures invented gods to explain these eclipses that shocked, frightened, or surprised them; but very few imagined a god of falling bodies — to which they were so accustomed that they did not even notice them. But the reason for eclipses is ultimately the same as that of the succession of night and day: the movement of celestial bodies, which itself is based on the Newtonian law of attraction and how it explains why things fall when we let them go. For the physicist, understanding the ordinary, the habitual, and the frequent thus allows us to account for the frightening and the singular. As such, it was thus necessary to ask \"Why do things fall?\" and to have Newton's response to understand a broad range of much more bizarre phenomena occurring at every level of the universe.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5249820036182141,
+                0.1574966850977622,
+                0.32567929272831897,
+                0.3782633781424284
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14,
+            "area": 514455.453,
+            "bbox": [
+                1277.0943460993844,
+                1962.7778850141706,
+                864.5998743834884,
+                595.0214292195321
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"14\">① The Connection Between Ordinary and Extraordinary Phenomena<br>② The Scientific Explanation Behind Eclipses and Gravity<br>③ Why We Fear Uncommon Events but Ignore Common Ones<br>④ Newton&apos;s Law of Attraction and Its Broader Implications<br>⑤ The Role of Celestial Movements in Natural Events</span></div>",
+            "text": "① The Connection Between Ordinary and Extraordinary Phenomena\n② The Scientific Explanation Behind Eclipses and Gravity\n③ Why We Fear Uncommon Events but Ignore Common Ones\n④ Newton's Law of Attraction and Its Broader Implications\n⑤ The Role of Celestial Movements in Natural Events",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5149573976207196,
+                0.5599936904462683,
+                0.34862898160624534,
+                0.16976360320100775
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15,
+            "area": 33303.957,
+            "bbox": [
+                1275.5680862500824,
+                2610.396008115021,
+                867.5541503880038,
+                38.38833223402253
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.51434197026213,
+                0.7447634830570673,
+                0.3498202219306467,
+                0.010952448568907997
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16,
+            "area": 26416.342,
+            "bbox": [
+                347.28952520952976,
+                404.8944887923092,
+                540.8924548157318,
+                48.838437170010536
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"16\">다음 글의 제목으로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 제목으로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1400360988748104,
+                0.11551911235158607,
+                0.21810179629666604,
+                0.013933933572042949
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17,
+            "area": 1041061.143,
+            "bbox": [
+                352.71902065401673,
+                533.9221219800214,
+                838.4762722384974,
+                1241.6107382550326
+            ],
+            "html": "<div class=\"contents question\"><span class=\"17\">There are good reasons why open-office plans have gained currency, but open offices may not be the plan of choice for all times. Instead, the right plan seems to be building a culture of change. Overly rigid habits and conventions, no matter how well-considered or well-intentioned, threaten innovation. The crucial take-away from analyzing office plans over time is that the answers keep changing. It might seem that there is a straight line of progress, but it&apos;s a myth. Surveying office spaces from the past eighty years, one can see a cycle that repeats. Comparing the offices of the 1940s with contemporary office spaces shows that they have circled back around to essentially the same style, via a period in the 1980s when partitions and cubicles were more the norm. The technologies and colors may differ, but the 1940s and 2000s plans are alike, right down to the pillars running down the middle.</span></div>",
+            "text": "There are good reasons why open-office plans have gained currency, but open offices may not be the plan of choice for all times. Instead, the right plan seems to be building a culture of change. Overly rigid habits and conventions, no matter how well-considered or well-intentioned, threaten innovation. The crucial take-away from analyzing office plans over time is that the answers keep changing. It might seem that there is a straight line of progress, but it's a myth. Surveying office spaces from the past eighty years, one can see a cycle that repeats. Comparing the offices of the 1940s with contemporary office spaces shows that they have circled back around to essentially the same style, via a period in the 1980s when partitions and cubicles were more the norm. The technologies and colors may differ, but the 1940s and 2000s plans are alike, right down to the pillars running down the middle.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.142225411554039,
+                0.15233156119258814,
+                0.33809527106391024,
+                0.35423986826106496
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18,
+            "area": 362292.404,
+            "bbox": [
+                363.8987042838633,
+                1842.0791409589883,
+                841.2711931459592,
+                430.6487695749438
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"18\">① The Evolution and Repetition of Office Design<br>② Why Open-Office Plans Are a Lasting Trend<br>③ The Impact of Technology on Modern Office Layouts<br>④ Innovation in Office Spaces: A Look into the Future<br>⑤ How Office Designs Reflect Corporate Culture</span></div>",
+            "text": "① The Evolution and Repetition of Office Design\n② Why Open-Office Plans Are a Lasting Trend\n③ The Impact of Technology on Modern Office Layouts\n④ Innovation in Office Spaces: A Look into the Future\n⑤ How Office Designs Reflect Corporate Culture",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14673334850155778,
+                0.525557529517543,
+                0.33922225530079,
+                0.12286698133379281
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19,
+            "area": 5631.909,
+            "bbox": [
+                367.2670451192548,
+                2367.380929705261,
+                785.0880699975442,
+                7.173601147776026
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14809155045131242,
+                0.6754296518417293,
+                0.3165677701603001,
+                0.0020466765043583527
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20,
+            "area": 27764.031,
+            "bbox": [
+                1280.73,
+                405.16,
+                539.3168470905962,
+                51.48000000000002
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"20\">다음 글의 제목으로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 제목으로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5164233870967742,
+                0.11559486447931527,
+                0.21746647060104685,
+                0.014687589158345227
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21,
+            "area": 1024804.333,
+            "bbox": [
+                1292.908980247379,
+                532.9511650985729,
+                832.886430423574,
+                1230.425055928412
+            ],
+            "html": "<div class=\"contents question\"><span class=\"21\">György Kepes was an artist and educator born in Selyp, Hungary in 1906. He studied painting at the Royal Academy of Fine Arts in Budapest, Hungary. Then, he studied design and film in Berlin, Germany. He went to the United States in 1937, and about a decade later, he started teaching visual design at the Massachusetts Institute of Technology (MIT). He founded the Center for Advanced Visual Studies at MIT to form a community composed of artists and scientists. His exhibition in 1951 titled The New Landscape became the basis of his book The New Landscape in Art and Science, which was published several years later. In the book, he presented images that were not previously available, captured by the latest scientific devices. In 1995, a museum to house his works was established in Eger, Hungary. He was a great pioneer in connecting art and technology.</span></div>",
+            "text": "György Kepes was an artist and educator born in Selyp, Hungary in 1906. He studied painting at the Royal Academy of Fine Arts in Budapest, Hungary. Then, he studied design and film in Berlin, Germany. He went to the United States in 1937, and about a decade later, he started teaching visual design at the Massachusetts Institute of Technology (MIT). He founded the Center for Advanced Visual Studies at MIT to form a community composed of artists and scientists. His exhibition in 1951 titled The New Landscape became the basis of his book The New Landscape in Art and Science, which was published several years later. In the book, he presented images that were not previously available, captured by the latest scientific devices. In 1995, a museum to house his works was established in Eger, Hungary. He was a great pioneer in connecting art and technology.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5213342662287819,
+                0.15205454068432894,
+                0.3358413025901508,
+                0.3510485180965512
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22,
+            "area": 417784.402,
+            "bbox": [
+                1295.7039011548407,
+                1832.5741548280128,
+                844.066114053421,
+                494.9664429530201
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"22\">① György Kepes: A Pioneer of Art and Technology<br>② The Role of Science in Visual Design<br>③ The History of the Center for Advanced Visual Studies<br>④ The Influence of MIT on Modern Art<br>⑤ György Kepes and His Early Art Studies in Europe</span></div>",
+            "text": "① György Kepes: A Pioneer of Art and Technology\n② The Role of Science in Visual Design\n③ The History of the Center for Advanced Visual Studies\n④ The Influence of MIT on Modern Art\n⑤ György Kepes and His Early Art Studies in Europe",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5224612504656615,
+                0.5228456932462233,
+                0.34034923953766977,
+                0.14121724477974895
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23,
+            "area": 6635.592,
+            "bbox": [
+                1312.4734265996105,
+                2426.973941931941,
+                790.962616811649,
+                8.389261744966461
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5292231558869397,
+                0.6924319377837207,
+                0.31893653903695524,
+                0.002393512623385581
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 24,
+            "area": 36093.445,
+            "bbox": [
+                335.8902232035138,
+                392.7569593147749,
+                561.8546235466122,
+                64.23982869379012
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"24\">다음 글의 제목으로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 제목으로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.13543960613044911,
+                0.1120561938130599,
+                0.22655428368815006,
+                0.01832805383560346
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 25,
+            "area": 1136427.89,
+            "bbox": [
+                362.6452052771621,
+                542.6498929336186,
+                813.3514550389052,
+                1397.2162740899362
+            ],
+            "html": "<div class=\"contents question\"><span class=\"25\">Victorian England is characterised by the full development of the Industrial Revolution. England became the first industrial nation in the world and, by 1850, the first nation to have more people employed in industry than in agriculture. Expanding trade coincided with the growth of the Empire and brought great wealth to Britain, but this wealth was not evenly distributed. Many enterprising individuals (the &apos;self-made men&apos;) rose from humble origins to positions of wealth and influence, but large sections of the working class were forced into the overcrowded slums of large cities where they worked long hours for low wages in unhealthy conditions. The manufacturing towns of the north of England provided some of the worst examples and inspired such socially conscious novels as Kingsley&apos;s Alton Locke, Gaskell&apos;s Mary Barton, and Dickens&apos;s Hard Times. In the south there was London, already the largest city in the world, showing all the crime, evil, and misery which result from overpopulation and unplanned growth.</span></div>",
+            "text": "Victorian England is characterised by the full development of the Industrial Revolution. England became the first industrial nation in the world and, by 1850, the first nation to have more people employed in industry than in agriculture. Expanding trade coincided with the growth of the Empire and brought great wealth to Britain, but this wealth was not evenly distributed. Many enterprising individuals (the 'self-made men') rose from humble origins to positions of wealth and influence, but large sections of the working class were forced into the overcrowded slums of large cities where they worked long hours for low wages in unhealthy conditions. The manufacturing towns of the north of England provided some of the worst examples and inspired such socially conscious novels as Kingsley's Alton Locke, Gaskell's Mary Barton, and Dickens's Hard Times. In the south there was London, already the largest city in the world, showing all the crime, evil, and misery which result from overpopulation and unplanned growth.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1462279053536944,
+                0.15482165276280133,
+                0.3279642963866553,
+                0.3986351709243755
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 26,
+            "area": 518370.616,
+            "bbox": [
+                367.9962016918918,
+                2009.4593147751602,
+                834.7554406978236,
+                620.9850107066377
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"26\">① The Impact of Industrialization on Victorian England<br>② Social Novels and Their Influence on the Working Class<br>③ London: The World&apos;s Largest City and Its Challenges<br>④ The Wealth and Poverty of the Victorian Empire<br>⑤ The Development of Trade and Empire in Victorian England</span></div>",
+            "text": "① The Impact of Industrialization on Victorian England\n② Social Novels and Their Influence on the Working Class\n③ London: The World's Largest City and Its Challenges\n④ The Wealth and Poverty of the Victorian Empire\n⑤ The Development of Trade and Empire in Victorian England",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14838556519834348,
+                0.5733122153424137,
+                0.33659493576525146,
+                0.17717118707750004
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 27,
+            "area": 16958.19,
+            "bbox": [
+                389.4001873508103,
+                2710.744111349036,
+                791.9474693799868,
+                21.4132762312629
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15701620457693966,
+                0.7733934697144182,
+                0.3193336570080592,
+                0.006109351278534351
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 28,
+            "area": 33085.658,
+            "bbox": [
+                1272.3145957812008,
+                392.7569593147749,
+                561.8546235466122,
+                58.88650963597428
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"28\">다음 글의 제목으로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 제목으로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5130300789440325,
+                0.1120561938130599,
+                0.22655428368815006,
+                0.016800716015969837
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 29,
+            "area": 1240927.006,
+            "bbox": [
+                1299.0695778548493,
+                537.2965738758028,
+                813.351455038905,
+                1525.6959314775152
+            ],
+            "html": "<div class=\"contents question\"><span class=\"29\">We all like to think of ourselves as rational actors, careful and considered in our thinking, capable of sound and reliable judgments. We might believe that we generally consider different points of view and make informed decisions. We are, in fact, &quot;predictably irrational,&quot; as psychologist Dan Ariely titled his book on the topic. All of us engage in automatic, reflexive thinking, typically taking the easier path and conserving mental effort. Although we each may have the subjective impression that we are careful thinkers, we often make snap judgments or no real judgments at all. In addition, numerous biases inhibit or override reflective, deliberative thought; intuitive theories can also interfere with acceptance of accurate scientific explanations. Understanding more about how our minds work and how biases may operate can make us each less subject to fallacious reasoning, more rational, and more aware of the problems in others&apos; thinking. Learning to understand the built-in limitations of our mental processes can also help us improve our ability to inform others more effectively.</span></div>",
+            "text": "We all like to think of ourselves as rational actors, careful and considered in our thinking, capable of sound and reliable judgments. We might believe that we generally consider different points of view and make informed decisions. We are, in fact, \"predictably irrational,\" as psychologist Dan Ariely titled his book on the topic. All of us engage in automatic, reflexive thinking, typically taking the easier path and conserving mental effort. Although we each may have the subjective impression that we are careful thinkers, we often make snap judgments or no real judgments at all. In addition, numerous biases inhibit or override reflective, deliberative thought; intuitive theories can also interfere with acceptance of accurate scientific explanations. Understanding more about how our minds work and how biases may operate can make us each less subject to fallacious reasoning, more rational, and more aware of the problems in others' thinking. Learning to understand the built-in limitations of our mental processes can also help us improve our ability to inform others more effectively.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5238183781672779,
+                0.1532943149431677,
+                0.32796429638665525,
+                0.4352912785955821
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 30,
+            "area": 310317.688,
+            "bbox": [
+                1299.0695778548493,
+                2132.5856531049244,
+                840.1064371125535,
+                369.37901498929295
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"30\">① The Role of Bias in Human Thinking<br>② Understanding the Limits of Rationality<br>③ How Intuition Shapes Our Decisions<br>④ Overcoming Irrational Judgments in Daily Life<br>⑤ The Impact of Reflexive Thinking on Scientific Beliefs</span></div>",
+            "text": "① The Role of Bias in Human Thinking\n② Understanding the Limits of Rationality\n③ How Intuition Shapes Our Decisions\n④ Overcoming Irrational Judgments in Daily Life\n⑤ The Impact of Reflexive Thinking on Scientific Beliefs",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5238183781672779,
+                0.608440985193987,
+                0.3387525956099006,
+                0.10538630955471981
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 31,
+            "area": 17072.772,
+            "bbox": [
+                1309.7715706843082,
+                2560.8511777301924,
+                797.2984657947163,
+                21.4132762312629
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5281336978565759,
+                0.7306280107646769,
+                0.3214913168527082,
+                0.006109351278534351
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 32,
+            "area": 31760.198,
+            "bbox": [
+                345.54070477713753,
+                402.12706827889974,
+                541.7519880455006,
+                58.62497779356892
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"32\">다음 글의 제목으로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 제목으로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.13933092934561997,
+                0.11472954872436512,
+                0.21844838227641156,
+                0.016726099227837066
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 33,
+            "area": 1032478.289,
+            "bbox": [
+                368.1246966462859,
+                545.2573748135247,
+                812.7687006842841,
+                1270.3224028658037
+            ],
+            "html": "<div class=\"contents question\"><span class=\"33\">There has been a lot of discussion on why moths are attracted to light. The consensus seems to hold that moths are not so much attracted to lights as they are trapped by them. The light becomes a sensory overload that disorients the insects and sends them into a holding pattern. A hypothesis called the Mach band theory suggests that moths see a dark area around a light source and head for it to escape the light. Another theory suggests that moths perceive the light coming from a source as a diffuse halo with a dark spot in the center. The moths, attempting to escape the light, fly toward that imagined &quot;portal,&quot; bringing them closer to the source. As they approach the light, their reference point changes and they circle the light hopelessly trying to reach the portal. Everyone is familiar with moths circling their porch lights. Their flight appears to have no purpose, but they are, it is believed, trying to escape the pull of the light.</span></div>",
+            "text": "There has been a lot of discussion on why moths are attracted to light. The consensus seems to hold that moths are not so much attracted to lights as they are trapped by them. The light becomes a sensory overload that disorients the insects and sends them into a holding pattern. A hypothesis called the Mach band theory suggests that moths see a dark area around a light source and head for it to escape the light. Another theory suggests that moths perceive the light coming from a source as a diffuse halo with a dark spot in the center. The moths, attempting to escape the light, fly toward that imagined \"portal,\" bringing them closer to the source. As they approach the light, their reference point changes and they circle the light hopelessly trying to reach the portal. Everyone is familiar with moths circling their porch lights. Their flight appears to have no purpose, but they are, it is believed, trying to escape the pull of the light.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.148437377679954,
+                0.155565584825542,
+                0.32772931479205003,
+                0.36243149867783275
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 34,
+            "area": 356720.828,
+            "bbox": [
+                368.6317731200605,
+                1906.2005553552503,
+                840.159640477121,
+                424.5869603837273
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"34\">① The Mysteries of Moth Behavior Around Light<br>② The Science Behind Moth Attraction to Light<br>③ Why Moths Are Drawn to Artificial Light<br>④ Escaping the Light: The Moth&apos;s Endless Struggle<br>⑤ Mach Band Theory: Explaining Moth Flight Patterns</span></div>",
+            "text": "① The Mysteries of Moth Behavior Around Light\n② The Science Behind Moth Attraction to Light\n③ Why Moths Are Drawn to Artificial Light\n④ Escaping the Light: The Moth's Endless Struggle\n⑤ Mach Band Theory: Explaining Moth Flight Patterns",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1486418440000244,
+                0.5438517989601285,
+                0.3387740485794843,
+                0.12113750652888082
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 35,
+            "area": 11002.024,
+            "bbox": [
+                310.41491828698827,
+                2452.9297021124685,
+                896.1148916531033,
+                12.277470841006107
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.12516730576088236,
+                0.6998372901890066,
+                0.3613366498601223,
+                0.003502844747790615
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 36,
+            "area": 28005.129,
+            "bbox": [
+                1277.1487486981966,
+                405.01456446216184,
+                547.8234137710058,
+                51.1207235548564
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"36\">다음 글의 제목으로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 제목으로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5149793341524986,
+                0.11555337074526728,
+                0.22089653781088944,
+                0.014585085179702252
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 37,
+            "area": 1143124.552,
+            "bbox": [
+                1307.63021167456,
+                550.0079922183796,
+                796.2378118568067,
+                1435.65720584183
+            ],
+            "html": "<div class=\"contents question\"><span class=\"37\">One of the factors determining the use of technologies of communication will be the kinds of investments made in equipment and personnel; who makes them, and what they expect in return. There is no guarantee that the investment will necessarily be in forms of communication that are most appropriate for the majority of people. Because the ownership of investment funds tends to be in the hands of commercial organisations, the modernisation of communications infrastructure only takes place on the basis of potential profitability. Take, for example, the installation of fibre-optic communications cable across the African continent. A number of African nations are involved in the development but its operational structures will be oriented to those who can pay for access. Many states that might wish to use it for education and information may not only find it too expensive but also simply unavailable to them. There can be no doubt that the development has been led by investment opportunity rather than community demand.</span></div>",
+            "text": "One of the factors determining the use of technologies of communication will be the kinds of investments made in equipment and personnel; who makes them, and what they expect in return. There is no guarantee that the investment will necessarily be in forms of communication that are most appropriate for the majority of people. Because the ownership of investment funds tends to be in the hands of commercial organisations, the modernisation of communications infrastructure only takes place on the basis of potential profitability. Take, for example, the installation of fibre-optic communications cable across the African continent. A number of African nations are involved in the development but its operational structures will be oriented to those who can pay for access. Many states that might wish to use it for education and information may not only find it too expensive but also simply unavailable to them. There can be no doubt that the development has been led by investment opportunity rather than community demand.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5272702466429677,
+                0.15692096782264753,
+                0.3210636338132285,
+                0.4096026264883966
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 38,
+            "area": 526127.765,
+            "bbox": [
+                1285.5890265712576,
+                2082.426824823404,
+                867.8716634425402,
+                606.2276109120967
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"38\">① The Influence of Investment on Communication Technologies<br>② Profitability Versus Accessibility in Communication Infrastructure<br>③ Challenges in Expanding Communication Technologies in Africa<br>④ How Commercial Interests Shape Communication Advances<br>⑤ The Role of Fiber-Optic Networks in Africa&apos;s Educational Development</span></div>",
+            "text": "① The Influence of Investment on Communication Technologies\n② Profitability Versus Accessibility in Communication Infrastructure\n③ Challenges in Expanding Communication Technologies in Africa\n④ How Commercial Interests Shape Communication Advances\n⑤ The Role of Fiber-Optic Networks in Africa's Educational Development",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5183826720045394,
+                0.5941303351849939,
+                0.3499482513881211,
+                0.17296080197206753
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 39,
+            "area": 15824.83,
+            "bbox": [
+                1292.4586351671014,
+                2796.698909078075,
+                859.2882522700993,
+                18.416206261509615
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5211526754706054,
+                0.7979169498082952,
+                0.3464871984960078,
+                0.005254267121686053
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 40,
+            "area": 32550.083,
+            "bbox": [
+                344.43054328157564,
+                400.09402301854436,
+                546.8341508645044,
+                59.524597677421355
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"40\">다음 글의 제목으로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 제목으로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1388832835812805,
+                0.1141495072806118,
+                0.22049764147762274,
+                0.016982766812388403
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 41,
+            "area": 1056249.519,
+            "bbox": [
+                355.52999999999975,
+                534.3500000000001,
+                836.56,
+                1262.6105945800778
+            ],
+            "html": "<div class=\"contents question\"><span class=\"41\">City quality is so crucial for optional activities that the extent of staying activities can often be used as a measuring stick for the quality of the city as well as of its space. Many pedestrians in a city are not necessarily an indication of good city quality - many people walking around can often be a sign of insufficient transit options or long distances between the various functions in the city. Conversely, it can be claimed that a city in which many people are not walking often indicates good city quality. In a city like Rome, it is the large number of people standing or sitting in squares rather than walking that is conspicuous. And it&apos;s not due to necessity but rather that the city quality is so inviting. It is hard to keep moving in city space with so many temptations to stay. In contrast are many new quarters and complexes that many people walk through but rarely stop or stay in.</span></div>",
+            "text": "City quality is so crucial for optional activities that the extent of staying activities can often be used as a measuring stick for the quality of the city as well as of its space. Many pedestrians in a city are not necessarily an indication of good city quality — many people walking around can often be a sign of insufficient transit options or long distances between the various functions in the city. Conversely, it can be claimed that a city in which many people are not walking often indicates good city quality. In a city like Rome, it is the large number of people standing or sitting in squares rather than walking that is conspicuous. And it's not due to necessity but rather that the city quality is so inviting. It is hard to keep moving in city space with so many temptations to stay. In contrast are many new quarters and complexes that many people walk through but rarely stop or stay in.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14335887096774183,
+                0.15245363766048506,
+                0.33732258064516124,
+                0.3602312680684958
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 42,
+            "area": 442982.851,
+            "bbox": [
+                378.74106840814176,
+                1844.6124559123664,
+                826.8903728691205,
+                535.7213790967926
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"42\">① The Relationship Between City Quality and Pedestrian Activity<br>② Walking and Transit Systems: Indicators of City Development<br>③ How Pedestrian Behavior Reflects Urban Design<br>④ The Role of Public Squares in Defining City Life<br>⑤ Factors That Influence Staying Activities in Urban Areas</span></div>",
+            "text": "① The Relationship Between City Quality and Pedestrian Activity\n② Walking and Transit Systems: Indicators of City Development\n③ How Pedestrian Behavior Reflects Urban Design\n④ The Role of Public Squares in Defining City Life\n⑤ Factors That Influence Staying Activities in Urban Areas",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15271817274521846,
+                0.5262803012588777,
+                0.333423537447226,
+                0.15284490131149575
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 43,
+            "area": 21263.354,
+            "bbox": [
+                356.53672879033275,
+                2443.3692752499846,
+                851.8313817955673,
+                24.96192805827286
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14376480999610192,
+                0.6971096363052738,
+                0.3434803958853094,
+                0.007121805437453027
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 44,
+            "area": 29551.441,
+            "bbox": [
+                1276.8279300202037,
+                402.38524882205263,
+                546.1640180636934,
+                54.10726470344963
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"44\">다음 글의 제목으로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 제목으로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5148499717823402,
+                0.11480320936435168,
+                0.22022742663858608,
+                0.015437165393280921
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 45,
+            "area": 1215548.265,
+            "bbox": [
+                1286.38,
+                531.1599999999996,
+                838.4000000000001,
+                1449.842873692909
+            ],
+            "html": "<div class=\"contents question\"><span class=\"45\">That people need other people is hardly news, but for Rousseau this dependence extended far beyond companionship or even love, into the very process of becoming human. Rousseau believed that people are not born but made, every individual a bundle of potentials whose realization requires the active involvement of other people. Self-development is a social process. Self-sufficiency is an impossible fantasy. Much of the time Rousseau wished passionately that it were not: Robinson Crusoe was a favorite book, and he yearned to be free from the pains and uncertainties of social life. But his writings document with extraordinary clarity the shaping of the individual by his emotional attachments. &quot;Our sweetest existence is relative and collective, and our true self is not entirely within us.&quot; And it is kindness - which Rousseau analyzed under the rubric of pitié, which translates as &quot;pity&quot; but is much closer to &quot;sympathy&quot; as Hume and Smith defined it - that is the key to this collective existence.</span></div>",
+            "text": "That people need other people is hardly news, but for Rousseau this dependence extended far beyond companionship or even love, into the very process of becoming human. Rousseau believed that people are not born but made, every individual a bundle of potentials whose realization requires the active involvement of other people. Self-development is a social process. Self-sufficiency is an impossible fantasy. Much of the time Rousseau wished passionately that it were not: Robinson Crusoe was a favorite book, and he yearned to be free from the pains and uncertainties of social life. But his writings document with extraordinary clarity the shaping of the individual by his emotional attachments. \"Our sweetest existence is relative and collective, and our true self is not entirely within us.\" And it is kindness — which Rousseau analyzed under the rubric of pitié, which translates as \"pity\" but is much closer to \"sympathy\" as Hume and Smith defined it — that is the key to this collective existence.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5187016129032258,
+                0.1515435092724678,
+                0.3380645161290323,
+                0.4136498926370639
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 46,
+            "area": 500867.653,
+            "bbox": [
+                1308.8008407159361,
+                2021.8811489148356,
+                830.7274511654966,
+                602.9265700229134
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"46\">① Rousseau&apos;s View on Human Dependency and Social Life<br>② The Role of Sympathy in Rousseau&apos;s Philosophy<br>③ Self-Sufficiency and its Illusions in Social Development<br>④ Rousseau&apos;s Critique of Solitude and Individualism<br>⑤ How Emotional Attachments Shape Human Identity</span></div>",
+            "text": "① Rousseau's View on Human Dependency and Social Life\n② The Role of Sympathy in Rousseau's Philosophy\n③ Self-Sufficiency and its Illusions in Social Development\n④ Rousseau's Critique of Solitude and Individualism\n⑤ How Emotional Attachments Shape Human Identity",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5277422744822323,
+                0.5768562479072284,
+                0.33497074643770025,
+                0.17201899287386974
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 47,
+            "area": 19892.95,
+            "bbox": [
+                1278.7070470947297,
+                2687.9281109931712,
+                863.3426166846962,
+                23.041779746098655
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5156076802801329,
+                0.76688391183828,
+                0.3481220228567323,
+                0.00657397424995682
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 48,
+            "area": 36936.4,
+            "bbox": [
+                335.4819836744416,
+                391.6695895249801,
+                553.9011398889652,
+                66.68410173587728
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"48\">다음 글의 제목으로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 제목으로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.13527499341711355,
+                0.11174595992153498,
+                0.22334723382619565,
+                0.019025421322646868
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 49,
+            "area": 1051635.08,
+            "bbox": [
+                368.8186263529442,
+                535.2968855714852,
+                810.336852800523,
+                1297.7752107059196
+            ],
+            "html": "<div class=\"contents question\"><span class=\"49\">The best dealers offer a much broader service than merely having their goods on display and &apos;selling from stock&apos;. Once they know the needs of a particular collector they can actively seek specific items to fill gaps in the collection. Because it is their business, to which they devote themselves full-time, they will inevitably have a much wider network than any non-professional collector can ever develop. As a matter of course they can enquire about the availability of pieces from dealers in other cities and, most crucially in some categories, from overseas. They will be routinely informed of news of all auctions and important private sales, and should be well-enough connected to hear occasionally of items which are not yet quite on sale but might be available for a certain price. In turn, they can circulate their own contacts with &apos;want-lists&apos; of desired items or subjects, multiplying their client collectors&apos; chances of expanding their collections.</span></div>",
+            "text": "The best dealers offer a much broader service than merely having their goods on display and 'selling from stock'. Once they know the needs of a particular collector they can actively seek specific items to fill gaps in the collection. Because it is their business, to which they devote themselves full-time, they will inevitably have a much wider network than any non-professional collector can ever develop. As a matter of course they can enquire about the availability of pieces from dealers in other cities and, most crucially in some categories, from overseas. They will be routinely informed of news of all auctions and important private sales, and should be well-enough connected to hear occasionally of items which are not yet quite on sale but might be available for a certain price. In turn, they can circulate their own contacts with 'want-lists' of desired items or subjects, multiplying their client collectors' chances of expanding their collections.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14871718804554201,
+                0.15272379046262058,
+                0.3267487309679528,
+                0.37026396881766604
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 50,
+            "area": 514682.689,
+            "bbox": [
+                368.8186263529442,
+                1897.1914248695948,
+                853.930923995488,
+                602.7216887665836
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"50\">① The Role of Dealers in Expanding a Collector&apos;s Network<br>② The Advantages of Professional Dealers in Art Collection<br>③ How to Build a Successful Collection with Professional Help<br>④ The Importance of Auctions and Private Sales for Collectors<br>⑤ Networking Tips for Collectors Seeking Rare Items</span></div>",
+            "text": "① The Role of Dealers in Expanding a Collector's Network\n② The Advantages of Professional Dealers in Art Collection\n③ How to Build a Successful Collection with Professional Help\n④ The Importance of Auctions and Private Sales for Collectors\n⑤ Networking Tips for Collectors Seeking Rare Items",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14871718804554201,
+                0.5412814336289857,
+                0.3443269854820516,
+                0.17196053887776994
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 51,
+            "area": 20125.603,
+            "bbox": [
+                343.1750550617881,
+                2558.3329534196087,
+                871.8814238992975,
+                23.082958293188312
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.13837703833136616,
+                0.7299095444849097,
+                0.3515650902819748,
+                0.006585722765531615
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 52,
+            "area": 35022.495,
+            "bbox": [
+                1274.0608768791155,
+                391.618096019809,
+                546.2080685016188,
+                64.11932859218967
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"52\">다음 글의 제목으로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 제목으로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5137342245480304,
+                0.11173126847926076,
+                0.22024518891194306,
+                0.01829367434869891
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 53,
+            "area": 1185042.832,
+            "bbox": [
+                1294.5757339120403,
+                544.6495488453631,
+                846.2378526081409,
+                1400.3661364534235
+            ],
+            "html": "<div class=\"contents question\"><span class=\"53\">If learning were simply a matter of accumulating lists of facts, then it shouldn&apos;t make any difference if we are presented with information that is just a little bit beyond what we already know or totally new information. Each fact would simply be stored separately. According to connectionist theory, however, our knowledge is organized into patterns of activity, and each time we learn something new we have to modify the old patterns so as to keep the old material while adding the new information. The adjustments are clearly smallest when the new information is only slightly new - when it is compatible with what we already know, so that the old patterns need only a little bit of adjustment to accommodate the new knowledge. If we are trying to understand something totally new, however, we need to make larger adjustments to the units of the patterns we already have, which requires changing the strengths of large numbers of connections in our brain, and this is a difficult, tiring process.</span></div>",
+            "text": "If learning were simply a matter of accumulating lists of facts, then it shouldn't make any difference if we are presented with information that is just a little bit beyond what we already know or totally new information. Each fact would simply be stored separately. According to connectionist theory, however, our knowledge is organized into patterns of activity, and each time we learn something new we have to modify the old patterns so as to keep the old material while adding the new information. The adjustments are clearly smallest when the new information is only slightly new — when it is compatible with what we already know, so that the old patterns need only a little bit of adjustment to accommodate the new knowledge. If we are trying to understand something totally new, however, we need to make larger adjustments to the units of the patterns we already have, which requires changing the strengths of large numbers of connections in our brain, and this is a difficult, tiring process.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5220063443193711,
+                0.15539216800153013,
+                0.34122494056779873,
+                0.3995338477755844
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 54,
+            "area": 384622.626,
+            "bbox": [
+                1304.8331624285026,
+                2014.2645601783515,
+                871.8814238992975,
+                441.1409807142654
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"54\">① The Process of Adjusting to New Knowledge<br>② How Connectionist Theory Explains Learning<br>③ The Brain&apos;s Challenge in Learning New Concepts<br>④ Why Learning is More than Memorizing Facts<br>⑤ The Difficulty of Retaining Old and New Knowledge</span></div>",
+            "text": "① The Process of Adjusting to New Knowledge\n② How Connectionist Theory Explains Learning\n③ The Brain's Challenge in Learning New Concepts\n④ Why Learning is More than Memorizing Facts\n⑤ The Difficulty of Retaining Old and New Knowledge",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5261424042050414,
+                0.5746831840737094,
+                0.3515650902819748,
+                0.12586047951904863
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 55,
+            "area": 15791.363,
+            "bbox": [
+                1281.7539482664624,
+                2521.8046591380107,
+                879.5744952866435,
+                17.953412005812424
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5168362694622832,
+                0.719487777214839,
+                0.3546671351962272,
+                0.005122228817635499
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 56,
+            "area": 20970.236,
+            "bbox": [
+                351.0399999999999,
+                409.94999999999993,
+                537.45,
+                39.018022343639586
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"56\">다음 글의 제목으로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 제목으로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14154838709677417,
+                0.11696148359486445,
+                0.21671370967741937,
+                0.011132103379069782
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 57,
+            "area": 886055.277,
+            "bbox": [
+                380.23000000000013,
+                564.119999999999,
+                791.9500000000002,
+                1118.8272955743214
+            ],
+            "html": "<div class=\"contents question\"><span class=\"57\">The generally close connection between health and what animals want exists because wanting to obtain the right things and wanting to avoid the wrong ones are major ways in which animals keep themselves healthy. Animals have evolved many different ways of maintaining their health and then regaining it again once it has been damaged, such as an ability to heal wounds when they are injured and an amazingly complex immune system for warding off infection. Animals are equally good, however, at dealing with injury and disease before they even happen. They have evolved a complex set of mechanisms for anticipating and avoiding danger altogether. They can take pre-emptive action so that the worst never happens. They start to want things that will be necessary for their health and survival not for now but for some time in the future.</span></div>",
+            "text": "The generally close connection between health and what animals want exists because wanting to obtain the right things and wanting to avoid the wrong ones are major ways in which animals keep themselves healthy. Animals have evolved many different ways of maintaining their health and then regaining it again once it has been damaged, such as an ability to heal wounds when they are injured and an amazingly complex immune system for warding off infection. Animals are equally good, however, at dealing with injury and disease before they even happen. They have evolved a complex set of mechanisms for anticipating and avoiding danger altogether. They can take pre-emptive action so that the worst never happens. They start to want things that will be necessary for their health and survival not for now but for some time in the future.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15331854838709683,
+                0.16094721825962882,
+                0.3193346774193549,
+                0.31920892883718155
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 58,
+            "area": 428555.472,
+            "bbox": [
+                379.57467946121875,
+                1794,
+                820.5944900776178,
+                522.25
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"58\">① How Animals Anticipate and Prevent Health Risks<br>② The Role of Desire in Animal Health and Survival<br>③ Evolutionary Strategies for Animal Survival<br>④ The Importance of an Immune System in Animals<br>⑤ Why Animals Develop Pre-emptive Survival Mechanisms</span></div>",
+            "text": "① How Animals Anticipate and Prevent Health Risks\n\n② The Role of Desire in Animal Health and Survival\n\n③ Evolutionary Strategies for Animal Survival\n\n④ The Importance of an Immune System in Animals\n\n⑤ Why Animals Develop Pre-emptive Survival Mechanisms",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1530543062343624,
+                0.5118402282453638,
+                0.3308848750312975,
+                0.14900142653352355
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 59,
+            "area": 19335.107,
+            "bbox": [
+                365.0848471875811,
+                2359.1195864324523,
+                825.9957808730053,
+                23.408239700373997
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14721163193047623,
+                0.6730726352161062,
+                0.3330628148681473,
+                0.006678527731918402
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 60,
+            "area": 19640.594,
+            "bbox": [
+                1288.2800000000002,
+                411.87,
+                533.9200000000001,
+                36.78564916843567
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"60\">다음 글의 제목으로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 제목으로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.519467741935484,
+                0.11750927246790299,
+                0.21529032258064518,
+                0.010495192344774798
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 61,
+            "area": 1090692.237,
+            "bbox": [
+                1309.44,
+                559.7200000000001,
+                797.7199999999998,
+                1367.2619931399631
+            ],
+            "html": "<div class=\"contents question\"><span class=\"61\">People involved in the conception and engineering of robots designed to perceive and act know how fundamental is the ability to discriminate oneself from other entities in the environment. Without such an ability, no goal-oriented action would be possible. Imagine that you have to build a robot able to search for blocks scattered in a room in order to pile them. Even this simple task would require that your machine be able to discriminate between stimulation that originates from its own machinery and stimulation that originates from the blocks in the environment. Suppose that you equip your robot with an artificial eye and an artificial arm to detect, grab, and pile the blocks. To be successful, your machine will have to have some built-in system enabling it to discriminate between the detection of a block and the detection of its own arm. If not, the robot might endlessly chase itself rather than the blocks. Your robot would engage in circular, self-centered acts that would drive it away from the target or external goal.</span></div>",
+            "text": "People involved in the conception and engineering of robots designed to perceive and act know how fundamental is the ability to discriminate oneself from other entities in the environment. Without such an ability, no goal-oriented action would be possible. Imagine that you have to build a robot able to search for blocks scattered in a room in order to pile them. Even this simple task would require that your machine be able to discriminate between stimulation that originates from its own machinery and stimulation that originates from the blocks in the environment. Suppose that you equip your robot with an artificial eye and an artificial arm to detect, grab, and pile the blocks. To be successful, your machine will have to have some built-in system enabling it to discriminate between the detection of a block and the detection of its own arm. If not, the robot might endlessly chase itself rather than the blocks. Your robot would engage in circular, self-centered acts that would drive it away from the target or external goal.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.528,
+                0.15969186875891586,
+                0.32166129032258056,
+                0.39008901373465427
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 62,
+            "area": 382588.642,
+            "bbox": [
+                1312.757060370491,
+                2032.8219127499071,
+                821.3159180918553,
+                465.8239700374527
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"62\">① The Importance of Self-Recognition in Robot Design<br>② How Robots Detect and Interact with Their Environment<br>③ Challenges in Designing Goal-Oriented Robots<br>④ Avoiding Self-Interference in Robotic Operations<br>⑤ The Role of Sensory Perception in Robotic Functions</span></div>",
+            "text": "① The Importance of Self-Recognition in Robot Design\n\n② How Robots Detect and Interact with Their Environment\n\n③ Challenges in Designing Goal-Oriented Robots\n\n④ Avoiding Self-Interference in Robotic Operations\n\n⑤ The Role of Sensory Perception in Robotic Functions",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5293375243429399,
+                0.5799777211839964,
+                0.33117577342413523,
+                0.13290270186517908
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 63,
+            "area": 15555.724,
+            "bbox": [
+                1298.7174720270405,
+                2540.038903834995,
+                830.6756436541555,
+                18.726591760299016
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5236764000109034,
+                0.7246901294821669,
+                0.33494985631215946,
+                0.005342822185534669
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 64,
+            "area": 19703.214,
+            "bbox": [
+                353.4702723346153,
+                410.62553655391025,
+                534.1609277670132,
+                36.8862884762147
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"64\">다음 글의 제목으로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 제목으로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1425283356187965,
+                0.11715421870297012,
+                0.21538747087379562,
+                0.010523905414041284
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 65,
+            "area": 1317676.483,
+            "bbox": [
+                362.2696878984335,
+                536.6193090454409,
+                818.1457520510872,
+                1610.5644743656144
+            ],
+            "html": "<div class=\"contents question\"><span class=\"65\">To decide whether and how to intervene in ecosystems, protected area managers normally need a reasonably clear idea of what future ecosystems would be like if they did not intervene. Management practices usually involve defining a more desirable future condition and implementing management actions designed to push or guide ecosystems toward that condition. Managers need confidence in the likely outcomes of their interventions. This traditional and inherently logical approach requires a high degree of predictive ability, and predictions must be developed at appropriate spatial and temporal scales, often localized and near-term. Unfortunately, at the scales, accuracy, and precision most useful to protected area management, the future not only promises to be unprecedented, but it also promises to be unpredictable. To illustrate this, consider the uncertainties involved in predicting climatic changes, how ecosystems are likely to respond to climatic changes, and the likely efficacy of actions that might be taken to counter adverse effects of climatic changes. Comparable uncertainties surround the nature and magnitude of future changes in other ecosystem stressors.</span></div>",
+            "text": "To decide whether and how to intervene in ecosystems, protected area managers normally need a reasonably clear idea of what future ecosystems would be like if they did not intervene. Management practices usually involve defining a more desirable future condition and implementing management actions designed to push or guide ecosystems toward that condition. Managers need confidence in the likely outcomes of their interventions. This traditional and inherently logical approach requires a high degree of predictive ability, and predictions must be developed at appropriate spatial and temporal scales, often localized and near-term. Unfortunately, at the scales, accuracy, and precision most useful to protected area management, the future not only promises to be unprecedented, but it also promises to be unpredictable. To illustrate this, consider the uncertainties involved in predicting climatic changes, how ecosystems are likely to respond to climatic changes, and the likely efficacy of actions that might be taken to counter adverse effects of climatic changes. Comparable uncertainties surround the nature and magnitude of future changes in other ecosystem stressors.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14607648705581996,
+                0.15310108674620282,
+                0.32989748066576097,
+                0.45950484290031796
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 66,
+            "area": 476678.823,
+            "bbox": [
+                381.58479508346704,
+                2213.0112580491987,
+                817.0442273707733,
+                583.4186284544521
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"66\">① The Challenges of Predicting Ecosystem Changes for Management<br>② The Role of Management Practices in Future Ecosystem Preservation<br>③ How Climatic Changes Impact Ecosystem Management<br>④ The Importance of Accurate Predictions in Environmental Conservation<br>⑤ Managing Uncertainties in Protected Area Ecosystems</span></div>",
+            "text": "① The Challenges of Predicting Ecosystem Changes for Management\n② The Role of Management Practices in Future Ecosystem Preservation\n③ How Climatic Changes Impact Ecosystem Management\n④ The Importance of Accurate Predictions in Environmental Conservation\n⑤ Managing Uncertainties in Protected Area Ecosystems",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15386483672720444,
+                0.6313869495147499,
+                0.32945331748821505,
+                0.16645324634934439
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 67,
+            "area": 11592.673,
+            "bbox": [
+                360.0983597512626,
+                2860.2796874676046,
+                849.4530798134555,
+                13.647219379051421
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1452009515126059,
+                0.8160569721733537,
+                0.3425214031505869,
+                0.0038936431894583227
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 68,
+            "area": 19248.376,
+            "bbox": [
+                1284.603518905666,
+                410.6038089278574,
+                537.3046589181497,
+                35.823950870010265
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"68\">다음 글의 제목으로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 제목으로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.517985289881317,
+                0.11714801966557986,
+                0.2166551044024797,
+                0.010220813372328177
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 69,
+            "area": 1309202.679,
+            "bbox": [
+                1299.5126063873374,
+                539.4402268215474,
+                818.1457520510869,
+                1600.2071465561883
+            ],
+            "html": "<div class=\"contents question\"><span class=\"69\">Human speech differs from the cries of other species in many ways. One very important distinction is that all other animals use one call for one message as the general principle of communication. This means that the number of possible messages is very restricted. If a new message is to be included in the system, a new sound has to be introduced, too. After the first few tens of sounds it becomes difficult to invent new distinctive sounds, and also to remember them for the next time they are needed. Human speech builds on the principle of combining a restricted number of sounds into an unlimited number of messages. In a typical human language there are something like thirty or forty distinctive speech sounds. These sounds can be combined into chains to form a literally unlimited number of words. Even a small child, who can communicate by only one word at a time, uses a system for communication that is infinitely superior to any system utilized by any other animal. In animal cries, each call represents a different message, which limits the number of possible messages, whereas human language creates an unlimited number of messages using a finite set of distinctive sounds.</span></div>",
+            "text": "Human speech differs from the cries of other species in many ways. One very important distinction is that all other animals use one call for one message as the general principle of communication. This means that the number of possible messages is very restricted. If a new message is to be included in the system, a new sound has to be introduced, too. After the first few tens of sounds it becomes difficult to invent new distinctive sounds, and also to remember them for the next time they are needed. Human speech builds on the principle of combining a restricted number of sounds into an unlimited number of messages. In a typical human language there are something like thirty or forty distinctive speech sounds. These sounds can be combined into chains to form a literally unlimited number of words. Even a small child, who can communicate by only one word at a time, uses a system for communication that is infinitely superior to any system utilized by any other animal. In animal cries, each call represents a different message, which limits the number of possible messages, whereas human language creates an unlimited number of messages using a finite set of distinctive sounds.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5239970187045715,
+                0.15390591350115476,
+                0.32989748066576086,
+                0.4565498278334346
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 70,
+            "area": 323398.9,
+            "bbox": [
+                1315.5372729675842,
+                2213.388119674267,
+                813.6327692189129,
+                397.4752644148757
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"70\">① The Uniqueness of Human Speech<br>② The Evolution of Animal Communication<br>③ How Humans Develop Language<br>④ Differences Between Human and Animal Sounds<br>⑤ The Power of Limited Sounds in Human Communication</span></div>",
+            "text": "① The Uniqueness of Human Speech\n② The Evolution of Animal Communication\n③ How Humans Develop Language\n④ Differences Between Human and Animal Sounds\n⑤ The Power of Limited Sounds in Human Communication",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5304585778095098,
+                0.6314944706631289,
+                0.3280777295237552,
+                0.11340235789297452
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 71,
+            "area": 13276.715,
+            "bbox": [
+                1275.3005470503517,
+                2675.687676139637,
+                864.7566970774737,
+                15.35312180143319
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5142340915525612,
+                0.7633916337060306,
+                0.34869221656349747,
+                0.004380348588140711
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 72,
+            "area": 29343.558,
+            "bbox": [
+                345.51774608780084,
+                402.1136589952836,
+                542.2117047055265,
+                54.118268215417004
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"72\">다음 글의 제목으로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 제목으로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.13932167180959712,
+                0.1147257229658441,
+                0.2186337518973897,
+                0.015440304769020544
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 73,
+            "area": 1532966.461,
+            "bbox": [
+                352.7190206540166,
+                537.2579415358754,
+                844.0661140534206,
+                1816.1687050727342
+            ],
+            "html": "<div class=\"contents question\"><span class=\"73\">People are correct when they feel that the written poetry of literate societies and the oral poetry of non-literate ones differ considerably from the everyday language spoken in the community. Listeners not only accept the strange use of words, rearrangement of word order, assonance, alliteration, rhythm, rhyme, compression of thought, and so on-they actually expect to find these things in poetry and they are disappointed when poetry does not sound &quot;poetic.&quot; But those who regard poetry as a different category of language altogether are deaf to the true achievements of the poet. Rather, the poet artfully manipulates the same raw materials of his language as are used in everyday speech; his skill is to find new possibilities in the resources already in the language. In much the same way that people living at the seashore become so accustomed to the sound of waves that they no longer hear it, most of us have become insensitive to the flood tide of words, millions of them every day, that hit our eardrums. One function of poetry is to depict the world with a fresh perception-to make it strange-so that we will listen to language once again. But the successful poet never departs so far into the strange world of language that none of his listeners can follow him. He still remains the communicator, the man of speech.</span></div>",
+            "text": "People are correct when they feel that the written poetry of literate societies and the oral poetry of non-literate ones differ considerably from the everyday language spoken in the community. Listeners not only accept the strange use of words, rearrangement of word order, assonance, alliteration, rhythm, rhyme, compression of thought, and so on—they actually expect to find these things in poetry and they are disappointed when poetry does not sound \"poetic.\" But those who regard poetry as a different category of language altogether are deaf to the true achievements of the poet. Rather, the poet artfully manipulates the same raw materials of his language as are used in everyday speech; his skill is to find new possibilities in the resources already in the language. In much the same way that people living at the seashore become so accustomed to the sound of waves that they no longer hear it, most of us have become insensitive to the flood tide of words, millions of them every day, that hit our eardrums. One function of poetry is to depict the world with a fresh perception—to make it strange—so that we will listen to language once again. But the successful poet never departs so far into the strange world of language that none of his listeners can follow him. He still remains the communicator, the man of speech.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14222541155403895,
+                0.15328329287756787,
+                0.3403492395376696,
+                0.5181651084372993
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 74,
+            "area": 517560.577,
+            "bbox": [
+                1304.0886638772254,
+                391.1825878104452,
+                841.2711931459589,
+                615.2125279642057
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"74\">① The Role of Poetic Language in Everyday Speech<br>② How Poets Transform Ordinary Language into Art<br>③ The Difference Between Oral and Written Poetry<br>④ The Importance of Rhythm and Rhyme in Poetry<br>⑤ How Poetry Enhances Our Perception of Language</span></div>",
+            "text": "① The Role of Poetic Language in Everyday Speech\n② How Poets Transform Ordinary Language into Art\n③ The Difference Between Oral and Written Poetry\n④ The Importance of Rhythm and Rhyme in Poetry\n⑤ How Poetry Enhances Our Perception of Language",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5258422031763006,
+                0.1116070150671741,
+                0.33922225530078987,
+                0.17552425904827554
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 75,
+            "area": 7216.687,
+            "bbox": [
+                1318.7249067929147,
+                1099.416016055426,
+                804.8048936732816,
+                8.967001434720487
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5317439140294011,
+                0.3136707606434882,
+                0.3245181022876136,
+                0.0025583456304480705
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 76,
+            "area": 2406845.29,
+            "bbox": [
+                330.22999999999985,
+                501.89999999999986,
+                890.53,
+                2702.7110710421175
+            ],
+            "html": "",
+            "text": "1) (3), 이 글은 주로 소셜 미디어에서 잘못된 정보의 부정적인 영향을 다루며, 잘못된 정보 확산을 막기 위 한 사실 확인 프로토콜의 강화 필요성을 강조하고 있 습니다.\n2) (1), 이 글은 초기 인류학자들이 현장 연구에 접근 하는 방식의 변화를 다루며, 연구 대상 그룹과의 직접 적인 관찰과 상호작용으로의 전환을 강조합니다.\n3) (1), 이 글은 도덕적 책임이 인간 사회를 위해 개발 된 개념이며, 보편적이지 않음을 설명하며, 그 문화적 기원과 학습된 본질을 강조합니다.\n4) (1), 이 글은 낙하와 같은 일상적인 현상을 이해하 는 것이, 식과 같은 더 특별한 현상을 동일한 과학적 원리를 통해 설명하는 데 도움이 된다는 것을 강조합 니다.\n5) (1), 이 글은 사무실 디자인이 시간이 지나도 반복 되는 주기를 설명하며, 서로 다른 시대의 사무실 레이 아웃이 기술과 미학의 변화에도 불구하고 유사한 스타 일을 유지한다는 점을 강조합니다.\n6) (1), 이 글은 예술과 기술을 연결한 선구자로서 György Kepes의 기여를 강조하며, MIT에서의 활동 과 예술과 과학의 관계에 관한 그의 책에 중점을 둡니 다.\n7) (1), 이 글은 빅토리아 시대의 영국에서 산업 혁명 이 미친 광범위한 영향을 다루며, 부의 증대와 함께 노 동 계층이 직면한 심각한 문제에 중점을 둡니다.\n8) (2), 이 글은 인간 합리성의 한계에 중점을 두며, 편 견과 반사적 사고가 우리가 건전한 판단을 내리는 것 을 어떻게 방해하는지 설명합니다.\n9) (2), 이 글은 나방이 빛에 끌리는 이유에 대한 다양 한 과학적 이론을 탐구하며, 나방이 빛에 직접 끌리기 보다는 감각 과부하로 인해 갇히게 된다는 점에 중점 을 둡니다.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.13315725806451606,
+                0.14319543509272464,
+                0.35908467741935485,
+                0.7711015894556683
+            ],
+            "image_id": 10,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 9,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 77,
+            "area": 2568657.231,
+            "bbox": [
+                1269.3399999999997,
+                400.1200000000001,
+                904.4099999999999,
+                2840.1468699186607
+            ],
+            "html": "",
+            "text": "10) (1), 이 글은 상업적 이익에 의해 주도된 투자가 통신 기술의 개발과 사용을 형성하는 데 중요한 역할 을 한다는 점을 설명합니다.\n11) (1), 이 글은 도시의 질이 보행자의 수가 아니라 유 혹적인 공간에서 머무는 사람들의 수에 반영된다는 점 을 설명하며, 보행자 행동과 도시 질 사이의 연관성을 강조합니다.\n12) (1), 이 글은 인간 발달이 사회적 상호작용에 의존 한다는 루소의 신념을 강조하며, 개인의 정체성과 발달 을 형성하는 데 있어 타인의 중요성을 다룹니다.\n13) (2), 이 글은 전문 딜러들이 더 넓은 네트워크와 독점적인 아이템에 대한 접근을 제공하여, 수집가들이 컬렉션을 확장하는 데 도움을 준다는 점에 중점을 둡 니다.\n14) (2), 이 글은 학습을 연결주의 이론을 통해 설명하 며, 새로운 정보를 통합할 때 기존 지식 패턴을 수정하 는 과정을 강조합니다.\n15) (2), 이 글은 동물들이 특정 것에 대한 욕구가 건 강을 유지하고 개선하는 데 어떻게 도움이 되는지 설 명하며, 동물의 욕구와 생존 사이의 연관성을 강조합니 다.\n16) (1), 이 글은 로봇이 환경 내에서 자신과 외부 물 체를 구별하는 능력의 중요성을 강조하며, 목표 지향적 인 작업을 위해 자기 인식이 필수적임을 강조합니다.\n17) (1), 이 글은 보호 구역에서의 효과적인 관리 관행 을 위해 필수적인 미래 생태계 변화를 예측하는 데 있 어 겪는 어려움과 불확실성에 중점을 둡니다.\n18) (1), 이 글은 인간의 언어가 동물의 의사소통과 어 떻게 다른지를 강조하며, 제한된 수의 소리를 사용하여 무한한 메시지를 만들어내는 인간 언어의 독특한 특성 을 설명합니다.\n19) (2), 이 글은 시인이 일상 언어를 어떻게 예술로 변형하는지, 동일한 언어를 사용하되 이를 능숙하게 다 루어 새로운 가능성을 창출하는 방식에 중점을 둡니다.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5118306451612902,
+                0.11415691868758919,
+                0.36468145161290316,
+                0.810312944341986
+            ],
+            "image_id": 10,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 9,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": -1,
+            "area": 279045.112,
+            "bbox": [
+                357.3560393763519,
+                1894.0866431129577,
+                828.9633649344782,
+                336.61935297595505
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1440951771678838,
+                0.5403956185771635,
+                0.33425942134454767,
+                0.09603975833836093
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -2,
+            "area": 279045.112,
+            "bbox": [
+                357.3560393763519,
+                1894.0866431129577,
+                828.9633649344782,
+                336.61935297595505
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--2\">이 글은 주로 소셜 미디어에서 잘못된 정보의 부정적인 영향을 다루며, 잘못된 정보 확산을 막기 위한 사실 확인 프로토콜의 강화 필요성을 강조하고 있습니다.</span></div>",
+            "text": "이 글은 주로 소셜 미디어에서 잘못된 정보의 부정적인 영향을 다루며, 잘못된 정보 확산을 막기 위한 사실 확인 프로토콜의 강화 필요성을 강조하고 있습니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1440951771678838,
+                0.5403956185771635,
+                0.33425942134454767,
+                0.09603975833836093
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -3,
+            "area": 309770.7,
+            "bbox": [
+                1300.0504057371834,
+                1893.7727019069152,
+                840.4748431337532,
+                368.5662964872872
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5242138732811223,
+                0.5403060490461955,
+                0.3389011464249005,
+                0.10515443551705769
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -4,
+            "area": 309770.7,
+            "bbox": [
+                1300.0504057371834,
+                1893.7727019069152,
+                840.4748431337532,
+                368.5662964872872
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--4\">이 글은 초기 인류학자들이 현장 연구에 접근하는 방식의 변화를 다루며, 연구 대상 그룹과의 직접적인 관찰과 상호작용으로의 전환을 강조합니다.</span></div>",
+            "text": "이 글은 초기 인류학자들이 현장 연구에 접근하는 방식의 변화를 다루며, 연구 대상 그룹과의 직접적인 관찰과 상호작용으로의 전환을 강조합니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5242138732811223,
+                0.5403060490461955,
+                0.3389011464249005,
+                0.10515443551705769
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -5,
+            "area": 250719.596,
+            "bbox": [
+                349.01109803275904,
+                1843.5295678569182,
+                844.4100421520056,
+                296.9168808480699
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1407302814648222,
+                0.5259713460362107,
+                0.3404879202225829,
+                0.08471237684681025
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -6,
+            "area": 250719.596,
+            "bbox": [
+                349.01109803275904,
+                1843.5295678569182,
+                844.4100421520056,
+                296.9168808480699
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--6\">이 글은 도덕적 책임이 인간 사회를 위해 개발된 개념이며, 보편적이지 않음을 설명하며, 그 문화적 기원과 학습된 본질을 강조합니다.</span></div>",
+            "text": "이 글은 도덕적 책임이 인간 사회를 위해 개발된 개념이며, 보편적이지 않음을 설명하며, 그 문화적 기원과 학습된 본질을 강조합니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1407302814648222,
+                0.5259713460362107,
+                0.3404879202225829,
+                0.08471237684681025
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -7,
+            "area": 514455.453,
+            "bbox": [
+                1277.0943460993844,
+                1962.7778850141706,
+                864.5998743834884,
+                595.0214292195321
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5149573976207196,
+                0.5599936904462683,
+                0.34862898160624534,
+                0.16976360320100775
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -8,
+            "area": 514455.453,
+            "bbox": [
+                1277.0943460993844,
+                1962.7778850141706,
+                864.5998743834884,
+                595.0214292195321
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--8\">이 글은 낙하와 같은 일상적인 현상을 이해하는 것이, 식과 같은 더 특별한 현상을 동일한 과학적 원리를 통해 설명하는 데 도움이 된다는 것을 강조합니다.</span></div>",
+            "text": "이 글은 낙하와 같은 일상적인 현상을 이해하는 것이, 식과 같은 더 특별한 현상을 동일한 과학적 원리를 통해 설명하는 데 도움이 된다는 것을 강조합니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5149573976207196,
+                0.5599936904462683,
+                0.34862898160624534,
+                0.16976360320100775
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -9,
+            "area": 362292.404,
+            "bbox": [
+                363.8987042838633,
+                1842.0791409589883,
+                841.2711931459592,
+                430.6487695749438
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14673334850155778,
+                0.525557529517543,
+                0.33922225530079,
+                0.12286698133379281
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -10,
+            "area": 362292.404,
+            "bbox": [
+                363.8987042838633,
+                1842.0791409589883,
+                841.2711931459592,
+                430.6487695749438
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--10\">이 글은 사무실 디자인이 시간이 지나도 반복되는 주기를 설명하며, 서로 다른 시대의 사무실 레이아웃이 기술과 미학의 변화에도 불구하고 유사한 스타일을 유지한다는 점을 강조합니다.</span></div>",
+            "text": "이 글은 사무실 디자인이 시간이 지나도 반복되는 주기를 설명하며, 서로 다른 시대의 사무실 레이아웃이 기술과 미학의 변화에도 불구하고 유사한 스타일을 유지한다는 점을 강조합니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14673334850155778,
+                0.525557529517543,
+                0.33922225530079,
+                0.12286698133379281
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -11,
+            "area": 417784.402,
+            "bbox": [
+                1295.7039011548407,
+                1832.5741548280128,
+                844.066114053421,
+                494.9664429530201
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5224612504656615,
+                0.5228456932462233,
+                0.34034923953766977,
+                0.14121724477974895
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -12,
+            "area": 417784.402,
+            "bbox": [
+                1295.7039011548407,
+                1832.5741548280128,
+                844.066114053421,
+                494.9664429530201
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--12\">이 글은 예술과 기술을 연결한 선구자로서 György Kepes의 기여를 강조하며, MIT에서의 활동과 예술과 과학의 관계에 관한 그의 책에 중점을 둡니다.</span></div>",
+            "text": "이 글은 예술과 기술을 연결한 선구자로서 György Kepes의 기여를 강조하며, MIT에서의 활동과 예술과 과학의 관계에 관한 그의 책에 중점을 둡니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5224612504656615,
+                0.5228456932462233,
+                0.34034923953766977,
+                0.14121724477974895
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -13,
+            "area": 518370.616,
+            "bbox": [
+                367.9962016918918,
+                2009.4593147751602,
+                834.7554406978236,
+                620.9850107066377
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14838556519834348,
+                0.5733122153424137,
+                0.33659493576525146,
+                0.17717118707750004
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -14,
+            "area": 518370.616,
+            "bbox": [
+                367.9962016918918,
+                2009.4593147751602,
+                834.7554406978236,
+                620.9850107066377
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--14\">이 글은 빅토리아 시대의 영국에서 산업 혁명이 미친 광범위한 영향을 다루며, 부의 증대와 함께 노동 계층이 직면한 심각한 문제에 중점을 둡니다.</span></div>",
+            "text": "이 글은 빅토리아 시대의 영국에서 산업 혁명이 미친 광범위한 영향을 다루며, 부의 증대와 함께 노동 계층이 직면한 심각한 문제에 중점을 둡니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14838556519834348,
+                0.5733122153424137,
+                0.33659493576525146,
+                0.17717118707750004
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -15,
+            "area": 310317.688,
+            "bbox": [
+                1299.0695778548493,
+                2132.5856531049244,
+                840.1064371125535,
+                369.37901498929295
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5238183781672779,
+                0.608440985193987,
+                0.3387525956099006,
+                0.10538630955471981
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -16,
+            "area": 310317.688,
+            "bbox": [
+                1299.0695778548493,
+                2132.5856531049244,
+                840.1064371125535,
+                369.37901498929295
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--16\">이 글은 인간 합리성의 한계에 중점을 두며, 편견과 반사적 사고가 우리가 건전한 판단을 내리는 것을 어떻게 방해하는지 설명합니다.</span></div>",
+            "text": "이 글은 인간 합리성의 한계에 중점을 두며, 편견과 반사적 사고가 우리가 건전한 판단을 내리는 것을 어떻게 방해하는지 설명합니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5238183781672779,
+                0.608440985193987,
+                0.3387525956099006,
+                0.10538630955471981
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -17,
+            "area": 356720.828,
+            "bbox": [
+                368.6317731200605,
+                1906.2005553552503,
+                840.159640477121,
+                424.5869603837273
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1486418440000244,
+                0.5438517989601285,
+                0.3387740485794843,
+                0.12113750652888082
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -18,
+            "area": 356720.828,
+            "bbox": [
+                368.6317731200605,
+                1906.2005553552503,
+                840.159640477121,
+                424.5869603837273
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--18\">이 글은 나방이 빛에 끌리는 이유에 대한 다양한 과학적 이론을 탐구하며, 나방이 빛에 직접 끌리기 보다는 감각 과부하로 인해 갇히게 된다는 점에 중점 을 둡니다.</span></div>",
+            "text": "이 글은 나방이 빛에 끌리는 이유에 대한 다양한 과학적 이론을 탐구하며, 나방이 빛에 직접 끌리기 보다는 감각 과부하로 인해 갇히게 된다는 점에 중점 을 둡니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1486418440000244,
+                0.5438517989601285,
+                0.3387740485794843,
+                0.12113750652888082
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -19,
+            "area": 526127.765,
+            "bbox": [
+                1285.5890265712576,
+                2082.426824823404,
+                867.8716634425402,
+                606.2276109120967
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5183826720045394,
+                0.5941303351849939,
+                0.3499482513881211,
+                0.17296080197206753
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -20,
+            "area": 526127.765,
+            "bbox": [
+                1285.5890265712576,
+                2082.426824823404,
+                867.8716634425402,
+                606.2276109120967
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--20\">이 글은 상업적 이익에 의해 주도된 투자가 통신 기술의 개발과 사용을 형성하는 데 중요한 역할을 한다는 점을 설명합니다.</span></div>",
+            "text": "이 글은 상업적 이익에 의해 주도된 투자가 통신 기술의 개발과 사용을 형성하는 데 중요한 역할을 한다는 점을 설명합니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5183826720045394,
+                0.5941303351849939,
+                0.3499482513881211,
+                0.17296080197206753
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -21,
+            "area": 442982.851,
+            "bbox": [
+                378.74106840814176,
+                1844.6124559123664,
+                826.8903728691205,
+                535.7213790967926
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15271817274521846,
+                0.5262803012588777,
+                0.333423537447226,
+                0.15284490131149575
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -22,
+            "area": 442982.851,
+            "bbox": [
+                378.74106840814176,
+                1844.6124559123664,
+                826.8903728691205,
+                535.7213790967926
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--22\">이 글은 도시의 질이 보행자의 수가 아니라 유혹적인 공간에서 머무는 사람들의 수에 반영된다는 점을 설명하며, 보행자 행동과 도시 질 사이의 연관성을 강조합니다.</span></div>",
+            "text": "이 글은 도시의 질이 보행자의 수가 아니라 유혹적인 공간에서 머무는 사람들의 수에 반영된다는 점을 설명하며, 보행자 행동과 도시 질 사이의 연관성을 강조합니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15271817274521846,
+                0.5262803012588777,
+                0.333423537447226,
+                0.15284490131149575
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -23,
+            "area": 500867.653,
+            "bbox": [
+                1308.8008407159361,
+                2021.8811489148356,
+                830.7274511654966,
+                602.9265700229134
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5277422744822323,
+                0.5768562479072284,
+                0.33497074643770025,
+                0.17201899287386974
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -24,
+            "area": 500867.653,
+            "bbox": [
+                1308.8008407159361,
+                2021.8811489148356,
+                830.7274511654966,
+                602.9265700229134
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--24\">이 글은 인간 발달이 사회적 상호작용에 의존한다는 루소의 신념을 강조하며, 개인의 정체성과 발달을 형성하는 데 있어 타인의 중요성을 다룹니다.</span></div>",
+            "text": "이 글은 인간 발달이 사회적 상호작용에 의존한다는 루소의 신념을 강조하며, 개인의 정체성과 발달을 형성하는 데 있어 타인의 중요성을 다룹니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5277422744822323,
+                0.5768562479072284,
+                0.33497074643770025,
+                0.17201899287386974
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -25,
+            "area": 514682.689,
+            "bbox": [
+                368.8186263529442,
+                1897.1914248695948,
+                853.930923995488,
+                602.7216887665836
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14871718804554201,
+                0.5412814336289857,
+                0.3443269854820516,
+                0.17196053887776994
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -26,
+            "area": 514682.689,
+            "bbox": [
+                368.8186263529442,
+                1897.1914248695948,
+                853.930923995488,
+                602.7216887665836
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--26\">이 글은 전문 딜러들이 더 넓은 네트워크와 독점적인 아이템에 대한 접근을 제공하여, 수집가들이 컬렉션을 확장하는 데 도움을 준다는 점에 중점을 둡니다.</span></div>",
+            "text": "이 글은 전문 딜러들이 더 넓은 네트워크와 독점적인 아이템에 대한 접근을 제공하여, 수집가들이 컬렉션을 확장하는 데 도움을 준다는 점에 중점을 둡니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14871718804554201,
+                0.5412814336289857,
+                0.3443269854820516,
+                0.17196053887776994
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -27,
+            "area": 384622.626,
+            "bbox": [
+                1304.8331624285026,
+                2014.2645601783515,
+                871.8814238992975,
+                441.1409807142654
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5261424042050414,
+                0.5746831840737094,
+                0.3515650902819748,
+                0.12586047951904863
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -28,
+            "area": 384622.626,
+            "bbox": [
+                1304.8331624285026,
+                2014.2645601783515,
+                871.8814238992975,
+                441.1409807142654
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--28\">이 글은 학습을 연결주의 이론을 통해 설명하며, 새로운 정보를 통합할 때 기존 지식 패턴을 수정하는 과정을 강조합니다.</span></div>",
+            "text": "이 글은 학습을 연결주의 이론을 통해 설명하며, 새로운 정보를 통합할 때 기존 지식 패턴을 수정하는 과정을 강조합니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5261424042050414,
+                0.5746831840737094,
+                0.3515650902819748,
+                0.12586047951904863
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -29,
+            "area": 428555.472,
+            "bbox": [
+                379.57467946121875,
+                1794,
+                820.5944900776178,
+                522.25
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1530543062343624,
+                0.5118402282453638,
+                0.3308848750312975,
+                0.14900142653352355
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -30,
+            "area": 428555.472,
+            "bbox": [
+                379.57467946121875,
+                1794,
+                820.5944900776178,
+                522.25
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--30\">이 글은 동물들이 특정 것에 대한 욕구가 건강을 유지하고 개선하는 데 어떻게 도움이 되는지 설명하며, 동물의 욕구와 생존 사이의 연관성을 강조합니다.</span></div>",
+            "text": "이 글은 동물들이 특정 것에 대한 욕구가 건강을 유지하고 개선하는 데 어떻게 도움이 되는지 설명하며, 동물의 욕구와 생존 사이의 연관성을 강조합니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1530543062343624,
+                0.5118402282453638,
+                0.3308848750312975,
+                0.14900142653352355
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -31,
+            "area": 382588.642,
+            "bbox": [
+                1312.757060370491,
+                2032.8219127499071,
+                821.3159180918553,
+                465.8239700374527
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5293375243429399,
+                0.5799777211839964,
+                0.33117577342413523,
+                0.13290270186517908
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -32,
+            "area": 382588.642,
+            "bbox": [
+                1312.757060370491,
+                2032.8219127499071,
+                821.3159180918553,
+                465.8239700374527
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--32\">이 글은 로봇이 환경 내에서 자신과 외부 물체를 구별하는 능력의 중요성을 강조하며, 목표 지향적인 작업을 위해 자기 인식이 필수적임을 강조합니다.</span></div>",
+            "text": "이 글은 로봇이 환경 내에서 자신과 외부 물체를 구별하는 능력의 중요성을 강조하며, 목표 지향적인 작업을 위해 자기 인식이 필수적임을 강조합니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5293375243429399,
+                0.5799777211839964,
+                0.33117577342413523,
+                0.13290270186517908
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -33,
+            "area": 476678.823,
+            "bbox": [
+                381.58479508346704,
+                2213.0112580491987,
+                817.0442273707733,
+                583.4186284544521
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15386483672720444,
+                0.6313869495147499,
+                0.32945331748821505,
+                0.16645324634934439
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -34,
+            "area": 476678.823,
+            "bbox": [
+                381.58479508346704,
+                2213.0112580491987,
+                817.0442273707733,
+                583.4186284544521
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--34\">이 글은 보호 구역에서의 효과적인 관리 관행을 위해 필수적인 미래 생태계 변화를 예측하는 데 있어 겪는 어려움과 불확실성에 중점을 둡니다.</span></div>",
+            "text": "이 글은 보호 구역에서의 효과적인 관리 관행을 위해 필수적인 미래 생태계 변화를 예측하는 데 있어 겪는 어려움과 불확실성에 중점을 둡니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15386483672720444,
+                0.6313869495147499,
+                0.32945331748821505,
+                0.16645324634934439
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -35,
+            "area": 323398.9,
+            "bbox": [
+                1315.5372729675842,
+                2213.388119674267,
+                813.6327692189129,
+                397.4752644148757
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5304585778095098,
+                0.6314944706631289,
+                0.3280777295237552,
+                0.11340235789297452
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -36,
+            "area": 323398.9,
+            "bbox": [
+                1315.5372729675842,
+                2213.388119674267,
+                813.6327692189129,
+                397.4752644148757
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--36\">이 글은 인간의 언어가 동물의 의사소통과 어떻게 다른지를 강조하며, 제한된 수의 소리를 사용하여 무한한 메시지를 만들어내는 인간 언어의 독특한 특성을 설명합니다.</span></div>",
+            "text": "이 글은 인간의 언어가 동물의 의사소통과 어떻게 다른지를 강조하며, 제한된 수의 소리를 사용하여 무한한 메시지를 만들어내는 인간 언어의 독특한 특성을 설명합니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5304585778095098,
+                0.6314944706631289,
+                0.3280777295237552,
+                0.11340235789297452
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -37,
+            "area": 517560.577,
+            "bbox": [
+                1304.0886638772254,
+                391.1825878104452,
+                841.2711931459589,
+                615.2125279642057
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5258422031763006,
+                0.1116070150671741,
+                0.33922225530078987,
+                0.17552425904827554
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -38,
+            "area": 517560.577,
+            "bbox": [
+                1304.0886638772254,
+                391.1825878104452,
+                841.2711931459589,
+                615.2125279642057
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--38\">이 글은 시인이 일상 언어를 어떻게 예술로 변형하는지, 동일한 언어를 사용하되 이를 능숙하게 다루어 새로운 가능성을 창출하는 방식에 중점을 둡니다.</span></div>",
+            "text": "이 글은 시인이 일상 언어를 어떻게 예술로 변형하는지, 동일한 언어를 사용하되 이를 능숙하게 다루어 새로운 가능성을 창출하는 방식에 중점을 둡니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5258422031763006,
+                0.1116070150671741,
+                0.33922225530078987,
+                0.17552425904827554
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "category_id": 9
+        }
+    ]
+}

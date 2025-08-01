@@ -1,0 +1,3766 @@
+{
+    "info": {
+        "html_url": "",
+        "provider": "crowdworks"
+    },
+    "items": [
+        {
+            "id": 1,
+            "imageIds": [
+                0
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -1
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    0,
+                    1,
+                    2,
+                    3
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -2
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "imageIds": [
+                0
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -3
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -4
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "imageIds": [
+                1
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -5
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    8,
+                    9,
+                    10,
+                    11
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -6
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "imageIds": [
+                1
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -7
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    12,
+                    13,
+                    14,
+                    15
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -8
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "imageIds": [
+                2
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -9
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    16,
+                    17,
+                    18,
+                    19
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -10
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "imageIds": [
+                2
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -11
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    20,
+                    21,
+                    22,
+                    23
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -12
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "imageIds": [
+                3
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -13
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    24,
+                    25,
+                    26,
+                    27
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -14
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "imageIds": [
+                3
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -15
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    28,
+                    29,
+                    30,
+                    31
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -16
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "imageIds": [
+                4
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -17
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    32,
+                    33,
+                    34,
+                    35
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -18
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "imageIds": [
+                4
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -19
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    36,
+                    37,
+                    38,
+                    39
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -20
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "imageIds": [
+                5
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -21
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    40,
+                    41,
+                    42,
+                    43
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -22
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "imageIds": [
+                5
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -23
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    44,
+                    45,
+                    46,
+                    47
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -24
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "imageIds": [
+                6
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -25
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    48,
+                    49,
+                    50,
+                    51
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -26
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "imageIds": [
+                6
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -27
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    52,
+                    53,
+                    54,
+                    55
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -28
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "imageIds": [
+                7
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -29
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    56,
+                    57,
+                    58,
+                    59
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -30
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "imageIds": [
+                7
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -31
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    60,
+                    61,
+                    62,
+                    63
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -32
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "imageIds": [
+                8
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -33
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    64,
+                    65,
+                    66,
+                    67
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -34
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "imageIds": [
+                8
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -35
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    68,
+                    69,
+                    70,
+                    71
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -36
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "imageIds": [
+                9
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -37
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    72,
+                    73,
+                    74,
+                    75
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -38
+                ]
+            }
+        }
+    ],
+    "images": [
+        {
+            "id": 0,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3459837182087267486/ENG_3459837182087267486_PAGE_0000.png",
+            "file_name": "ENG_3459837182087267486_PAGE_0000.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 1,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3459837182087267486/ENG_3459837182087267486_PAGE_0001.png",
+            "file_name": "ENG_3459837182087267486_PAGE_0001.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 2,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3459837182087267486/ENG_3459837182087267486_PAGE_0002.png",
+            "file_name": "ENG_3459837182087267486_PAGE_0002.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 3,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3459837182087267486/ENG_3459837182087267486_PAGE_0003.png",
+            "file_name": "ENG_3459837182087267486_PAGE_0003.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 4,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3459837182087267486/ENG_3459837182087267486_PAGE_0004.png",
+            "file_name": "ENG_3459837182087267486_PAGE_0004.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 5,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3459837182087267486/ENG_3459837182087267486_PAGE_0005.png",
+            "file_name": "ENG_3459837182087267486_PAGE_0005.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 6,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3459837182087267486/ENG_3459837182087267486_PAGE_0006.png",
+            "file_name": "ENG_3459837182087267486_PAGE_0006.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 7,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3459837182087267486/ENG_3459837182087267486_PAGE_0007.png",
+            "file_name": "ENG_3459837182087267486_PAGE_0007.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 8,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3459837182087267486/ENG_3459837182087267486_PAGE_0008.png",
+            "file_name": "ENG_3459837182087267486_PAGE_0008.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 9,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3459837182087267486/ENG_3459837182087267486_PAGE_0009.png",
+            "file_name": "ENG_3459837182087267486_PAGE_0009.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 10,
+            "width": 2480,
+            "height": 3505,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3459837182087267486/ENG_3459837182087267486_PAGE_0010.png",
+            "file_name": "ENG_3459837182087267486_PAGE_0010.png",
+            "page_type": "정답지",
+            "bboxCheckStatus": true
+        }
+    ],
+    "licenses": [],
+    "categories": [
+        {
+            "id": 0,
+            "name": "[공통] 발문",
+            "objectColor": "#FF9700",
+            "supercategory": "layout"
+        },
+        {
+            "id": 1,
+            "name": "[그룹] 공통 본문",
+            "objectColor": "#875000",
+            "supercategory": "layout"
+        },
+        {
+            "id": 2,
+            "name": "[단일] 지시문",
+            "objectColor": "#FF0000",
+            "supercategory": "layout"
+        },
+        {
+            "id": 3,
+            "name": "[단일] 본문",
+            "objectColor": "#B62828",
+            "supercategory": "layout"
+        },
+        {
+            "id": 4,
+            "name": "[공통] 보기",
+            "objectColor": "#2E00FF",
+            "supercategory": "layout"
+        },
+        {
+            "id": 5,
+            "name": "[공통] 조건",
+            "objectColor": "#00DE22",
+            "supercategory": "layout"
+        },
+        {
+            "id": 6,
+            "name": "[답안] 객관식",
+            "objectColor": "#BD00FF",
+            "supercategory": "layout"
+        },
+        {
+            "id": 7,
+            "name": "[답안] 주관식",
+            "objectColor": "#FF00A2",
+            "supercategory": "layout"
+        },
+        {
+            "id": 8,
+            "name": "[답안] 공백 선지",
+            "objectColor": "#6A7500",
+            "supercategory": "layout"
+        },
+        {
+            "id": 9,
+            "name": "[정답] 정답/해설",
+            "objectColor": "#DE00CA",
+            "supercategory": "layout"
+        },
+        {
+            "id": 10,
+            "name": "[공통] 도표",
+            "objectColor": "#00D8FF",
+            "supercategory": "layout"
+        },
+        {
+            "id": 11,
+            "name": "[공통] 그림",
+            "objectColor": "#005C6D",
+            "supercategory": "layout"
+        },
+        {
+            "id": 12,
+            "name": "[그룹] 공백 지시문",
+            "objectColor": "#C6AC62",
+            "supercategory": "layout"
+        },
+        {
+            "id": 13,
+            "name": "[단일] 공백 지시문",
+            "objectColor": "#FFCBA5",
+            "supercategory": "layout"
+        },
+        {
+            "id": 14,
+            "name": "[각주] 단어",
+            "objectColor": "#00FFD5",
+            "supercategory": "layout"
+        },
+        {
+            "id": 99,
+            "name": "[그룹] 문항 구분",
+            "objectColor": "#7A3245",
+            "supercategory": "layout"
+        },
+        {
+            "id": 100,
+            "name": "[단일] 문항 구분",
+            "objectColor": "#32517A",
+            "supercategory": "layout"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "area": 34874.686,
+            "bbox": [
+                345.64300109279276,
+                400.11826553514993,
+                545.3044600982582,
+                63.95452122934802
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"0\">다음 글의 내용과 일치하지 <u>않는</u> 것은?</span></div>",
+            "text": "다음 글의 내용과 일치하지 <u>않는</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1393721778599971,
+                0.11415642383313836,
+                0.21988083068478154,
+                0.01824665370309501
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1,
+            "area": 815809.309,
+            "bbox": [
+                370.87984478419844,
+                554.9423428293494,
+                804.5032562705458,
+                1014.0534582529624
+            ],
+            "html": "<div class=\"contents question\"><span class=\"1\">Merely convincing your children that worry is senseless and that they would be more content if they didn&apos;t worry isn&apos;t going to stop them from worrying. For some reason, young people seem to believe that worry is a fact of life over which they have little or no control. Consequently, they don&apos;t even try to stop. Therefore, you need to convince them that worry, like guilt and fear, is nothing more than an emotion, and like all emotions, is subject to the power of the will. Tell them that they can eliminate worry from their lives by simply refusing to attend to it. Explain to them that if they refuse to act worried regardless of how they feel, they will eventually stop feeling worried and will begin to experience the contentment that accompanies a worry-free life.</span></div>",
+            "text": "Merely convincing your children that worry is senseless and that they would be more content if they didn't worry isn't going to stop them from worrying. For some reason, young people seem to believe that worry is a fact of life over which they have little or no control. Consequently, they don't even try to stop. Therefore, you need to convince them that worry, like guilt and fear, is nothing more than an emotion, and like all emotions, is subject to the power of the will. Tell them that they can eliminate worry from their lives by simply refusing to attend to it. Explain to them that if they refuse to act worried regardless of how they feel, they will eventually stop feeling worried and will begin to experience the contentment that accompanies a worry-free life.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14954832450975744,
+                0.15832877113533506,
+                0.3243964743026394,
+                0.2893162505714586
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2,
+            "area": 483217.605,
+            "bbox": [
+                370.87984478419855,
+                1647.637229176442,
+                843.0753302013253,
+                573.1606503168914
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"2\">① Young people believe that they have little control over worry.<br>② Convincing children that worry is unnecessary will eliminate their worry.<br>③ Worry, like guilt and fear, is an emotion subject to the will.<br>④ Refusing to act worried can lead to a worry-free life.<br>⑤ Contentment comes with the absence of worry.</span></div>",
+            "text": "① Young people believe that they have little control over worry.\n② Convincing children that worry is unnecessary will eliminate their worry.\n③ Worry, like guilt and fear, is an emotion subject to the will.\n④ Refusing to act worried can lead to a worry-free life.\n⑤ Contentment comes with the absence of worry.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14954832450975747,
+                0.47008194840982653,
+                0.33994972991988925,
+                0.16352657640995474
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3,
+            "area": 20949.06,
+            "bbox": [
+                347.2415576699925,
+                2369.4429097605894,
+                853.1504790395986,
+                24.554941682013123
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14001675712499698,
+                0.6760179485764877,
+                0.344012289935322,
+                0.00700568949558149
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4,
+            "area": 29370.856,
+            "bbox": [
+                1272.0338259010514,
+                402.3616446558777,
+                546.5128314414098,
+                53.74229912177219
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"4\">다음 글의 내용과 일치하지 <u>않는</u> 것은?</span></div>",
+            "text": "다음 글의 내용과 일치하지 <u>않는</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.512916865282682,
+                0.11479647493748293,
+                0.22036807719411688,
+                0.015333038265840853
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5,
+            "area": 1038225.456,
+            "bbox": [
+                1296.6096191229087,
+                545.1230729122665,
+                815.5238488221969,
+                1273.0779829154037
+            ],
+            "html": "<div class=\"contents question\"><span class=\"5\">In today&apos;s information age, in many companies and on many teams, the objective is no longer error prevention and replicability. On the contrary, it&apos;s creativity, speed, and keenness. In the industrial era, the goal was to minimize variation. But in creative companies today, maximizing variation is more essential. In these situations, the biggest risk isn&apos;t making a mistake or losing consistency; it&apos;s failing to attract top talent, to invent new products, or to change direction quickly when the environment shifts. Consistency and repeatability are more likely to suppress fresh thinking than to bring your company profit. A lot of little mistakes, while sometimes painful, help the organization learn quickly and are a critical part of the innovation cycle. In these situations, rules and process are no longer the best answer. A symphony isn&apos;t what you&apos;re going for. Leave the conductor and the sheet music behind. Build a jazz band instead.</span></div>",
+            "text": "In today's information age, in many companies and on many teams, the objective is no longer error prevention and replicability. On the contrary, it's creativity, speed, and keenness. In the industrial era, the goal was to minimize variation. But in creative companies today, maximizing variation is more essential. In these situations, the biggest risk isn't making a mistake or losing consistency; it's failing to attract top talent, to invent new products, or to change direction quickly when the environment shifts. Consistency and repeatability are more likely to suppress fresh thinking than to bring your company profit. A lot of little mistakes, while sometimes painful, help the organization learn quickly and are a critical part of the innovation cycle. In these situations, rules and process are no longer the best answer. A symphony isn't what you're going for. Leave the conductor and the sheet music behind. Build a jazz band instead.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5228264593237535,
+                0.15552726759265806,
+                0.3288402616218536,
+                0.363217684141342
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6,
+            "area": 534962.91,
+            "bbox": [
+                1303.9512935077976,
+                1887.1891427801506,
+                857.9220007409074,
+                623.5565819861436
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"6\">① In today&apos;s information age, creativity is more valued than error prevention.<br>② Consistency can sometimes hinder fresh thinking in creative companies.<br>③ A symphony-like approach is ideal for modern companies seeking innovation.<br>④ Little mistakes play a critical role in the innovation cycle.<br>⑤ In the industrial era, minimizing variation was a primary goal.</span></div>",
+            "text": "① In today's information age, creativity is more valued than error prevention.\n② Consistency can sometimes hinder fresh thinking in creative companies.\n③ A symphony-like approach is ideal for modern companies seeking innovation.\n④ Little mistakes play a critical role in the innovation cycle.\n⑤ In the industrial era, minimizing variation was a primary goal.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5257868118983055,
+                0.5384277154864909,
+                0.34593629062133363,
+                0.17790487360517648
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7,
+            "area": 30067.176,
+            "bbox": [
+                1298.5964083976023,
+                2660.418978059416,
+                816.3238396565939,
+                36.83241252302014
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5236275840312913,
+                0.7590353717715881,
+                0.3291628385712072,
+                0.010508534243372366
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8,
+            "area": 27752.069,
+            "bbox": [
+                349.5559729680886,
+                401.3219217783211,
+                535.5035574297638,
+                51.82424851593106
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"8\">다음 글의 내용과 일치하지 <u>않는</u> 것은?</span></div>",
+            "text": "다음 글의 내용과 일치하지 <u>않는</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14094998910003573,
+                0.1144998350294782,
+                0.2159288538023241,
+                0.01478580556802598
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9,
+            "area": 1052780.2,
+            "bbox": [
+                372.0999362221311,
+                552.9545522790132,
+                800.8973800337427,
+                1314.5007415804298
+            ],
+            "html": "<div class=\"contents question\"><span class=\"9\">Any new or threatening situation may require us to make decisions and this requires information. So important is communication during a disaster that normal social barriers are often lowered. We will talk to strangers in a way we would never consider normally. Even relatively low grade disruption of our life such as a fire drill or a very late train seems to give us the permission to break normal etiquette and talk to strangers. The more important an event to a particular public, the more detailed and urgent the requirement for news becomes. Without an authoritative source of facts, whether that is a newspaper or trusted broadcast station, rumours often run riot. Rumours start because people believe their group to be in danger and so, although the rumour is unproven, feel they should pass it on. For example, if a worker heard that their employer&apos;s business was doing badly and people were going to be made redundant, they would pass that information on to colleagues.</span></div>",
+            "text": "Any new or threatening situation may require us to make decisions and this requires information. So important is communication during a disaster that normal social barriers are often lowered. We will talk to strangers in a way we would never consider normally. Even relatively low grade disruption of our life such as a fire drill or a very late train seems to give us the permission to break normal etiquette and talk to strangers. The more important an event to a particular public, the more detailed and urgent the requirement for news becomes. Without an authoritative source of facts, whether that is a newspaper or trusted broadcast station, rumours often run riot. Rumours start because people believe their group to be in danger and so, although the rumour is unproven, feel they should pass it on. For example, if a worker heard that their employer's business was doing badly and people were going to be made redundant, they would pass that information on to colleagues.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15004029686376252,
+                0.1577616411637698,
+                0.3229424919490898,
+                0.37503587491595713
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10,
+            "area": 506044.609,
+            "bbox": [
+                350.3066751948694,
+                1966.563044782586,
+                850.4592222323562,
+                595.0251291183586
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"10\">① In a disaster, communication is so crucial that normal social barriers are often lowered.<br>② People often talk to strangers during minor disruptions like fire drills.<br>③ The more critical an event, the less detailed the news needs to be.<br>④ Rumours can spread when there is no trusted source of information.<br>⑤ People tend to spread unproven information when they feel their group is in danger.</span></div>",
+            "text": "① In a disaster, communication is so crucial that normal social barriers are often lowered.\n② People often talk to strangers during minor disruptions like fire drills.\n③ The more critical an event, the less detailed the news needs to be.\n④ Rumours can spread when there is no trusted source of information.\n⑤ People tend to spread unproven information when they feel their group is in danger.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14125269161083442,
+                0.5610736219065866,
+                0.3429271057388533,
+                0.16976465880694966
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11,
+            "area": 31113.78,
+            "bbox": [
+                350.18767508885446,
+                2613.424806029917,
+                853.1588934678492,
+                36.46891562232213
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14120470769711874,
+                0.7456276194093914,
+                0.3440156828499392,
+                0.010404826140462804
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12,
+            "area": 29522.144,
+            "bbox": [
+                1277.8746149169147,
+                401.3347868201337,
+                540.37492148968,
+                54.632706076044826
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"12\">다음 글의 내용과 일치하지 <u>않는</u> 것은?</span></div>",
+            "text": "다음 글의 내용과 일치하지 <u>않는</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5152720221439172,
+                0.11450350551216368,
+                0.21789311350390322,
+                0.015587077339813075
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13,
+            "area": 1147004.934,
+            "bbox": [
+                1308.7426349056605,
+                553.3679863082426,
+                800.8973800337417,
+                1432.1496891917595
+            ],
+            "html": "<div class=\"contents question\"><span class=\"13\">People seem to recognize that the arts are cultural activities that draw on (or react against) certain cultural traditions, certain shared understanding, and certain values and ideas that are characteristic of the time and place in which the art is created. In the case of science, however, opinions differ. Some scientists, like the great biologist J. B. S. Haldane, see science in a similar light - as a historical activity that occurs in a particular time and place, and that needs to be understood within that context. Others, however, see science as a purely &quot;objective&quot; pursuit, uninfluenced by the cultural viewpoint and values of those who create it. In describing this view of science, philosopher Hugh Lacey speaks of the belief that there is an underlying order of the world which is simply there to be discovered - the world of pure &quot;fact&quot; stripped of any link with value. The aim of science according to this view is to represent this world of pure &quot;fact&quot;, independently of any relationship it might bear contingently to human practices and experiences.</span></div>",
+            "text": "People seem to recognize that the arts are cultural activities that draw on (or react against) certain cultural traditions, certain shared understanding, and certain values and ideas that are characteristic of the time and place in which the art is created. In the case of science, however, opinions differ. Some scientists, like the great biologist J. B. S. Haldane, see science in a similar light — as a historical activity that occurs in a particular time and place, and that needs to be understood within that context. Others, however, see science as a purely \"objective\" pursuit, uninfluenced by the cultural viewpoint and values of those who create it. In describing this view of science, philosopher Hugh Lacey speaks of the belief that there is an underlying order of the world which is simply there to be discovered — the world of pure \"fact\" stripped of any link with value. The aim of science according to this view is to represent this world of pure \"fact\", independently of any relationship it might bear contingently to human practices and experiences.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5277188043974438,
+                0.15787959666426324,
+                0.32294249194908936,
+                0.40860190847125805
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14,
+            "area": 517205.288,
+            "bbox": [
+                1280.4320128740176,
+                2071.345524745929,
+                853.5744574786283,
+                605.9287309608421
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"14\">① The arts are recognized as cultural activities influenced by time and place.<br>② J. B. S. Haldane views science as an activity shaped by historical context.<br>③ Some scientists believe science is unaffected by cultural values.<br>④ Hugh Lacey describes science as a pursuit closely linked to human values and practices.<br>⑤ Science, in some views, seeks to represent pure &quot;fact&quot; independent of human experience.</span></div>",
+            "text": "① The arts are recognized as cultural activities influenced by time and place.\n② J. B. S. Haldane views science as an activity shaped by historical context.\n③ Some scientists believe science is unaffected by cultural values.\n④ Hugh Lacey describes science as a pursuit closely linked to human values and practices.\n⑤ Science, in some views, seeks to represent pure \"fact\" independent of human experience.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5163032309975877,
+                0.590968765976014,
+                0.34418324898331787,
+                0.17287552951807195
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15,
+            "area": 33683.416,
+            "bbox": [
+                1279.285752276632,
+                2727.9424517806524,
+                856.0379448518804,
+                39.34804053987318
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5158410291438031,
+                0.7783002715494015,
+                0.3451765906660808,
+                0.011226259783130722
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16,
+            "area": 42869.995,
+            "bbox": [
+                321.8232697152539,
+                384.6750274411126,
+                566.1298406686492,
+                75.72467021151152
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"16\">다음 글의 내용과 일치하지 <u>않는</u> 것은?</span></div>",
+            "text": "다음 글의 내용과 일치하지 <u>않는</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1297674474658282,
+                0.1097503644625143,
+                0.22827816155993919,
+                0.02160475612311313
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17,
+            "area": 1275137.945,
+            "bbox": [
+                359.7588317384808,
+                542.3755440624019,
+                812.1438183995762,
+                1570.0888392378479
+            ],
+            "html": "<div class=\"contents question\"><span class=\"17\">Mental development consists of individuals increasingly mastering social codes and signals themselves, which they can master only in social situations with the support of more competent individuals, typically adults. In this sense, mental development consists of internalizing social patterns and gradually becoming a responsible actor among other responsible actors. In Denmark, the age of criminal responsibility is 15 years, which means that we then say that people have developed sufficient mental maturity to be accountable for their actions at this point. And at the age of 18 people are given the right to vote and are thereby formally included in the basic democratic process. I do not know whether these age boundaries are optimal, but it is clear that mental development takes place at different rates for different individuals, and depends especially on the social and family environment they have been given. Therefore, having formal limits for responsibility from a specific age that apply to everyone is a somewhat questionable practice. But the question, of course, is whether it can be done any differently.</span></div>",
+            "text": "Mental development consists of individuals increasingly mastering social codes and signals themselves, which they can master only in social situations with the support of more competent individuals, typically adults. In this sense, mental development consists of internalizing social patterns and gradually becoming a responsible actor among other responsible actors. In Denmark, the age of criminal responsibility is 15 years, which means that we then say that people have developed sufficient mental maturity to be accountable for their actions at this point. And at the age of 18 people are given the right to vote and are thereby formally included in the basic democratic process. I do not know whether these age boundaries are optimal, but it is clear that mental development takes place at different rates for different individuals, and depends especially on the social and family environment they have been given. Therefore, having formal limits for responsibility from a specific age that apply to everyone is a somewhat questionable practice. But the question, of course, is whether it can be done any differently.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14506404505583903,
+                0.15474337919041423,
+                0.32747734612886137,
+                0.4479568728210693
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18,
+            "area": 456792.312,
+            "bbox": [
+                372.09581872786305,
+                2198.8311305536113,
+                832.3621515977139,
+                548.7903445493534
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"18\">① Mental development involves mastering social codes with adult support.  <br>② In Denmark, people can vote at the age of 18. <br>③ The age of criminal responsibility in Denmark is set at 15. <br>④ Mental development occurs at the same rate for all individuals. <br>⑤ Formal age limits for responsibility may be a questionable practice.</span></div>",
+            "text": "① Mental development involves mastering social codes with adult support.  \n② In Denmark, people can vote at the age of 18. \n③ The age of criminal responsibility in Denmark is set at 15. \n④ Mental development occurs at the same rate for all individuals. \n⑤ Formal age limits for responsibility may be a questionable practice.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15003863658381575,
+                0.6273412640666509,
+                0.33562989983778785,
+                0.15657356477870285
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19,
+            "area": 12626.381,
+            "bbox": [
+                384.6942465307522,
+                2825.8013706378206,
+                792.4511694887781,
+                15.93332389941952
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15511864779465814,
+                0.8062200772147847,
+                0.31953676189063634,
+                0.0045458841367816034
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20,
+            "area": 27714.158,
+            "bbox": [
+                1275.1097067724227,
+                404.4701095092719,
+                543.9817355985117,
+                50.94685401305543
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"20\">다음 글의 내용과 일치하지 <u>않는</u> 것은?</span></div>",
+            "text": "다음 글의 내용과 일치하지 <u>않는</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5141571398275898,
+                0.11539803409679654,
+                0.21934747403165794,
+                0.014535479033682006
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21,
+            "area": 969621.101,
+            "bbox": [
+                1304.0562300551474,
+                551.0609478980263,
+                800.129856588931,
+                1211.8296707134382
+            ],
+            "html": "<div class=\"contents question\"><span class=\"21\">Born in the English city of Liverpool, Charles Elton studied zoology under Julian Huxley at Oxford University from 1918 to 1922. After graduating, he began teaching as a part-time instructor and had a long and distinguished teaching career at Oxford from 1922 to 1967. After a series of arctic expeditions with Huxley, he worked with a fur-collecting and trading company as a biological consultant, and examined the company&apos;s records to study animal populations. In 1927, he wrote his first and most important book, Animal Ecology, in which he demonstrated the nature of food chains and cycles. In 1932, he helped establish the Bureau of Animal Population at Oxford. In the same year he became the editor of the new Journal of Animal Ecology. Throughout his career, Elton wrote six books and played a major role in shaping the modern science of ecology.</span></div>",
+            "text": "Born in the English city of Liverpool, Charles Elton studied zoology under Julian Huxley at Oxford University from 1918 to 1922. After graduating, he began teaching as a part-time instructor and had a long and distinguished teaching career at Oxford from 1922 to 1967. After a series of arctic expeditions with Huxley, he worked with a fur—collecting and trading company as a biological consultant, and examined the company's records to study animal populations. In 1927, he wrote his first and most important book, Animal Ecology, in which he demonstrated the nature of food chains and cycles. In 1932, he helped establish the Bureau of Animal Population at Oxford. In the same year he became the editor of the new Journal of Animal Ecology. Throughout his career, Elton wrote six books and played a major role in shaping the modern science of ecology.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5258291250222369,
+                0.15722138313781062,
+                0.32263300668908507,
+                0.34574313001809936
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22,
+            "area": 528204.087,
+            "bbox": [
+                1296.8478529687607,
+                1839.8589132017983,
+                848.1857038315095,
+                622.7458030055172
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"22\">① Charles Elton studied zoology under Julian Huxley at Oxford University.  <br>② He worked as a biological consultant for a fur-collecting company. <br>③ His book Animal Ecology was published in 1927. <br>④ Elton worked as a full-time professor at Oxford until 1967. <br>⑤ He played a significant role in shaping modern ecology.</span></div>",
+            "text": "① Charles Elton studied zoology under Julian Huxley at Oxford University.  \n② He worked as a biological consultant for a fur-collecting company. \n③ His book Animal Ecology was published in 1927. \n④ Elton worked as a full-time professor at Oxford until 1967. \n⑤ He played a significant role in shaping modern ecology.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5229225213583713,
+                0.5249240836524389,
+                0.34201036444818933,
+                0.17767355292596784
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23,
+            "area": 11889.748,
+            "bbox": [
+                1296.8478529687607,
+                2538.371355660148,
+                824.1577802102204,
+                14.426543698968999
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5229225213583713,
+                0.7242143668074602,
+                0.3323216855686372,
+                0.004115989643072467
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 24,
+            "area": 33468.4,
+            "bbox": [
+                334.43999754302274,
+                398.4659810729109,
+                555.5754425316136,
+                60.240963855421626
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"24\">다음 글의 내용과 일치하지 <u>않는</u> 것은?</span></div>",
+            "text": "다음 글의 내용과 일치하지 <u>않는</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.13485483771896078,
+                0.11368501599797742,
+                0.2240223558595216,
+                0.01718715088599761
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 25,
+            "area": 1060650.094,
+            "bbox": [
+                361.8100000000001,
+                538.12,
+                823.78,
+                1287.5404765668509
+            ],
+            "html": "<div class=\"contents question\"><span class=\"25\">One well-known shift took place when the accepted view - that the Earth was the center of the universe - changed to one where we understood that we are only inhabitants on one planet orbiting the Sun. With each person who grasped the solar system view, it became easier for the next person to do so. So it is with the notion that the world revolves around the human economy. This is slowly being replaced by the view that the economy is a part of the larger system of material flows that connect all living things. When this perspective shifts into place, it will be obvious that our economic well-being requires that we account for, and respond to, factors of ecological health. Unfortunately we do not have a century or two to make the change. By clarifying the nature of the old and new perspectives, and by identifying actions on which we might cooperate to move the process along, we can help accelerate the shift.</span></div>",
+            "text": "One well-known shift took place when the accepted view — that the Earth was the center of the universe — changed to one where we understood that we are only inhabitants on one planet orbiting the Sun. With each person who grasped the solar system view, it became easier for the next person to do so. So it is with the notion that the world revolves around the human economy. This is slowly being replaced by the view that the economy is a part of the larger system of material flows that connect all living things. When this perspective shifts into place, it will be obvious that our economic well-being requires that we account for, and respond to, factors of ecological health. Unfortunately we do not have a century or two to make the change. By clarifying the nature of the old and new perspectives, and by identifying actions on which we might cooperate to move the process along, we can help accelerate the shift.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14589112903225812,
+                0.15352924393723252,
+                0.3321693548387097,
+                0.3673439305468904
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 26,
+            "area": 613977.065,
+            "bbox": [
+                370.2743898755764,
+                1897.8008037084933,
+                838.2121666191354,
+                732.4840764331207
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"26\">① The view of the Earth as the center of the universe was replaced by the solar system model.<br>② Understanding the solar system model made it easier for others to accept.<br>③ The view that the human economy is central is slowly being replaced by an ecological perspective.<br>④ The shift to a new perspective will require several centuries.<br>⑤ Cooperation can help accelerate the shift to the new perspective.</span></div>",
+            "text": "​① The view of the Earth as the center of the universe was replaced by the solar system model.\n② Understanding the solar system model made it easier for others to accept.\n③ The view that the human economy is central is slowly being replaced by an ecological perspective.\n④ The shift to a new perspective will require several centuries.\n⑤ Cooperation can help accelerate the shift to the new perspective.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14930418946595822,
+                0.5414552934974303,
+                0.3379887768625546,
+                0.20898261809789462
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 27,
+            "area": 39703.855,
+            "bbox": [
+                372.247958805534,
+                2700.8493754870196,
+                831.134032586175,
+                47.77070063694191
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15009998338932823,
+                0.7705704352316747,
+                0.3351346905589415,
+                0.013629301180297265
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 28,
+            "area": 25352.21,
+            "bbox": [
+                1277.376980030535,
+                402.94787320911655,
+                544.6251199478195,
+                46.54983570646215
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"28\">다음 글의 내용과 일치하지 <u>않는</u> 것은?</span></div>",
+            "text": "다음 글의 내용과 일치하지 <u>않는</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5150713629155382,
+                0.114963729874213,
+                0.21960690320476592,
+                0.013280980230089058
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 29,
+            "area": 1285462.68,
+            "bbox": [
+                1296.5300000000002,
+                545.3400000000006,
+                818.31,
+                1570.8749495005163
+            ],
+            "html": "<div class=\"contents question\"><span class=\"29\">The first human beings probably evolved in tropical regions where survival was possible without clothing. It is likely that they had very dark skin because light skin would have given little protection against the burning rays of the sun. There is a debate about whether these people spread into other parts of the world or, instead, whether people developed independently in various parts of the world. Whichever the case, it is believed that in time they became capable of spreading out from Africa, eventually to most of the world. This was probably because their physical characteristics changed. For instance, early hominids probably did not walk upright, but when they developed that ability, they could travel more efficiently. More important, perhaps, was their development of tool making. With tools, they could hunt other animals, so they could consume more protein and fat than their low-energy vegetarian diet would have provided. Not only their bodies but also their brains would have been changed with more energy. The brain needs lots of energy to grow. As their diet expanded, hominids could physically and intellectually expand their territory.</span></div>",
+            "text": "The first human beings probably evolved in tropical regions where survival was possible without clothing. It is likely that they had very dark skin because light skin would have given little protection against the burning rays of the sun. There is a debate about whether these people spread into other parts of the world or, instead, whether people developed independently in various parts of the world. Whichever the case, it is believed that in time they became capable of spreading out from Africa, eventually to most of the world. This was probably because their physical characteristics changed. For instance, early hominids probably did not walk upright, but when they developed that ability, they could travel more efficiently. More important, perhaps, was their development of tool making. With tools, they could hunt other animals, so they could consume more protein and fat than their low-energy vegetarian diet would have provided. Not only their bodies but also their brains would have been changed with more energy. The brain needs lots of energy to grow. As their diet expanded, hominids could physically and intellectually expand their territory.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5227943548387097,
+                0.15558915834522127,
+                0.32996370967741934,
+                0.44818115534964803
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 30,
+            "area": 565827.151,
+            "bbox": [
+                1296.534647566388,
+                2202.5323455844455,
+                853.8846101694455,
+                662.6506024096389
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"30\">① The first human beings likely had dark skin to protect against the sun&apos;s rays.<br>② There is some debate about whether humans spread from Africa or evolved independently in various places.<br>③ Walking upright allowed early hominids to travel more efficiently.<br>④ Early hominids had a diet high in protein and fat from the beginning.<br>⑤ Tool making helped hominids expand their diet and territory.</span></div>",
+            "text": "① The first human beings likely had dark skin to protect against the sun's rays.\n② There is some debate about whether humans spread from Africa or evolved independently in various places.\n③ Walking upright allowed early hominids to travel more efficiently.\n④ Early hominids had a diet high in protein and fat from the beginning.\n⑤ Tool making helped hominids expand their diet and territory.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5227962288574145,
+                0.6283972455305122,
+                0.3443083105521958,
+                0.189058659745974
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 31,
+            "area": 55934.547,
+            "bbox": [
+                1296.5288647835914,
+                2944.0438492657413,
+                851.1373565874255,
+                65.71741511500568
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5227938970901578,
+                0.839955449148571,
+                0.3432005470110587,
+                0.018749619148361107
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 32,
+            "area": 23208.85,
+            "bbox": [
+                354.45109649132644,
+                408.281761469323,
+                532.2922853001746,
+                43.60170350841605
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"32\">다음 글의 내용과 일치하지 <u>않는</u> 것은?</span></div>",
+            "text": "다음 글의 내용과 일치하지 <u>않는</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14292382923037356,
+                0.11648552395701084,
+                0.21463398600813494,
+                0.01243985834762227
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 33,
+            "area": 925194.931,
+            "bbox": [
+                358.3899999999998,
+                537,
+                830.69,
+                1113.7667849402046
+            ],
+            "html": "<div class=\"contents question\"><span class=\"33\">When we get an unfavorable outcome, in some ways the last thing we want to hear is that the process was fair. As outraging as the combination of an unfavorable outcome and an unfair process is, this combination also brings with it a consolation prize: the possibility of attributing the bad outcome to something other than ourselves. We may reassure ourselves by believing that our bad outcome had little to do with us and everything to do with the unfair process. If the process is fair, however, we cannot nearly as easily externalize the outcome; we got what we got &quot;fair and square.&quot; When the process is fair we believe that our outcome is deserved, which is another way of saying that there must have been something about ourselves (what we did or who we are) that caused the outcome.</span></div>",
+            "text": "When we get an unfavorable outcome, in some ways the last thing we want to hear is that the process was fair. As outraging as the combination of an unfavorable outcome and an unfair process is, this combination also brings with it a consolation prize: the possibility of attributing the bad outcome to something other than ourselves. We may reassure ourselves by believing that our bad outcome had little to do with us and everything to do with the unfair process. If the process is fair, however, we cannot nearly as easily externalize the outcome; we got what we got \"fair and square.\" When the process is fair we believe that our outcome is deserved, which is another way of saying that there must have been something about ourselves (what we did or who we are) that caused the outcome.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14451209677419347,
+                0.15320970042796006,
+                0.33495564516129034,
+                0.31776513122402417
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 34,
+            "area": 524371.857,
+            "bbox": [
+                381.18729219161355,
+                1746.8,
+                815.3434874516522,
+                643.1299999999999
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"34\">① A fair process makes it harder to externalize a bad outcome.<br>② When the process is unfair, people can attribute the outcome to the process, not themselves.<br>③ People prefer hearing that the process was fair when they receive a bad outcome.<br>④ An unfair process allows people to distance themselves from a bad result.<br>⑤ A fair process leads people to believe the outcome is deserved.</span></div>",
+            "text": "① A fair process makes it harder to externalize a bad outcome.\n② When the process is unfair, people can attribute the outcome to the process, not themselves.\n③ People prefer hearing that the process was fair when they receive a bad outcome.\n④ An unfair process allows people to distance themselves from a bad result.\n⑤ A fair process leads people to believe the outcome is deserved.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15370455330306998,
+                0.4983737517831669,
+                0.328767535262763,
+                0.18348930099857344
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 35,
+            "area": 11569.394,
+            "bbox": [
+                358.392630675332,
+                2448.32409504385,
+                847.747350737525,
+                13.647219379051421
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1445131575303758,
+                0.6985232796130812,
+                0.34183360916835687,
+                0.0038936431894583227
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 36,
+            "area": 24904.997,
+            "bbox": [
+                1281.1920607538045,
+                406.36,
+                540.7077039524534,
+                46.06
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"36\">다음 글의 내용과 일치하지 <u>않는</u> 것은?</span></div>",
+            "text": "다음 글의 내용과 일치하지 <u>않는</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5166097019168566,
+                0.11593723252496434,
+                0.21802729998082795,
+                0.013141226818830244
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 37,
+            "area": 1293264.508,
+            "bbox": [
+                1289.7200000000003,
+                532.5999999999997,
+                830.69,
+                1556.8557558188443
+            ],
+            "html": "<div class=\"contents question\"><span class=\"37\">The well-known American ethnologist Alfred Louis Kroeber made a rich and in-depth study of women&apos;s evening dress in the West, stretching back about three centuries and using reproductions of engravings. Having adjusted the dimensions of these plates due to their diverse origins, he was able to analyse the constant elements in fashion features and to come up with a study that was neither intuitive nor approximate, but precise, mathematical and statistical. He reduced women&apos;s clothing to a certain number of features: length and size of the skirt, size and depth of the neckline, height of the waistline. He demonstrated unambiguously that fashion is a profoundly regular phenomenon which is not located at the level of annual variations but on the scale of history. For practically 300 years, women&apos;s dress was subject to a very precise periodic cycle: forms reach the furthest point in their variations every fifty years. If, at any one moment, skirts are at their longest, fifty years later they will be at their shortest; thus skirts become long again fifty years after being short and a hundred years after being long.</span></div>",
+            "text": "The well-known American ethnologist Alfred Louis Kroeber made a rich and in-depth study of women's evening dress in the West, stretching back about three centuries and using reproductions of engravings. Having adjusted the dimensions of these plates due to their diverse origins, he was able to analyse the constant elements in fashion features and to come up with a study that was neither intuitive nor approximate, but precise, mathematical and statistical. He reduced women's clothing to a certain number of features: length and size of the skirt, size and depth of the neckline, height of the waistline. He demonstrated unambiguously that fashion is a profoundly regular phenomenon which is not located at the level of annual variations but on the scale of history. For practically 300 years, women's dress was subject to a very precise periodic cycle: forms reach the furthest point in their variations every fifty years. If, at any one moment, skirts are at their longest, fifty years later they will be at their shortest; thus skirts become long again fifty years after being short and a hundred years after being long.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5200483870967743,
+                0.1519543509272467,
+                0.33495564516129034,
+                0.4441813853976731
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 38,
+            "area": 526805.842,
+            "bbox": [
+                1313.0500000000002,
+                2152.53,
+                816.9685679569579,
+                644.8299999999999
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"38\">① Alfred Louis Kroeber studied women&apos;s evening dress using engravings from the past 300 years.<br>② Kroeber analyzed fashion features mathematically and statistically.<br>③ Women&apos;s clothing features like skirt length and waistline height were part of Kroeber&apos;s study.<br>④ Kroeber found that fashion changes unpredictably every year.<br>⑤ According to Kroeber, skirt lengths alternate between long and short every fifty years.</span></div>",
+            "text": "① Alfred Louis Kroeber studied women's evening dress using engravings from the past 300 years.\n② Kroeber analyzed fashion features mathematically and statistically.\n③ Women's clothing features like skirt length and waistline height were part of Kroeber's study.\n④ Kroeber found that fashion changes unpredictably every year.\n⑤ According to Kroeber, skirt lengths alternate between long and short every fifty years.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5294556451612904,
+                0.6141312410841655,
+                0.3294228096600637,
+                0.1839743223965763
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 39,
+            "area": 10326.906,
+            "bbox": [
+                1280.6407308068985,
+                2861.6120263418934,
+                864.804641496831,
+                11.941316956670562
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5163873914543946,
+                0.8164370973871308,
+                0.34871154899065765,
+                0.0034069377907761946
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 40,
+            "area": 33718.058,
+            "bbox": [
+                316.8070285819924,
+                397.48901715345386,
+                572.56,
+                58.889999999999986
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"40\">다음 글의 내용과 일치하지 <u>않는</u> 것은?</span></div>",
+            "text": "다음 글의 내용과 일치하지 <u>않는</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.12774476958951309,
+                0.11340628164149896,
+                0.23087096774193547,
+                0.01680171184022824
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 41,
+            "area": 953898.183,
+            "bbox": [
+                367.9962016918918,
+                535.5121307863157,
+                802.6494622094458,
+                1188.4368308351181
+            ],
+            "html": "<div class=\"contents question\"><span class=\"41\">Over the last few centuries, humanity&apos;s collective prosperity has skyrocketed, as technological progress has made us far wealthier than ever before. To share out those riches, almost all societies have settled upon the market mechanism, rewarding people in various ways for the work that they do and the things that they own. But rising inequality, itself often driven by technology, has started to put that mechanism under strain. Today, markets already provide immense rewards to some people but leave many others with very little. And now, technological unemployment threatens to become a more radical version of the same story, taking place in the particular market we rely upon the most: the labor market. As that market begins to break down, more and more people will be in danger of not receiving a share of society&apos;s prosperity at all.</span></div>",
+            "text": "Over the last few centuries, humanity's collective prosperity has skyrocketed, as technological progress has made us far wealthier than ever before. To share out those riches, almost all societies have settled upon the market mechanism, rewarding people in various ways for the work that they do and the things that they own. But rising inequality, itself often driven by technology, has started to put that mechanism under strain. Today, markets already provide immense rewards to some people but leave many others with very little. And now, technological unemployment threatens to become a more radical version of the same story, taking place in the particular market we rely upon the most: the labor market. As that market begins to break down, more and more people will be in danger of not receiving a share of society's prosperity at all.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14838556519834348,
+                0.15278520136556795,
+                0.3236489766973572,
+                0.33906899595866424
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 42,
+            "area": 532893.931,
+            "bbox": [
+                351.9432124477028,
+                1766.77551408396,
+                850.8084299420127,
+                626.3383297644532
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"42\">① Technological progress has greatly increased humanity&apos;s prosperity.<br>② Most societies use the market mechanism to distribute wealth.<br>③ Rising inequality, often driven by technology, is putting strain on the market system.<br>④ Technological unemployment could radically affect the labor market.<br>⑤ The market mechanism has consistently ensured an equal distribution of wealth.</span></div>",
+            "text": "① Technological progress has greatly increased humanity's prosperity.\n② Most societies use the market mechanism to distribute wealth.\n③ Rising inequality, often driven by technology, is putting strain on the market system.\n④ Technological unemployment could radically affect the labor market.\n⑤ The market mechanism has consistently ensured an equal distribution of wealth.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1419125856643963,
+                0.504072899881301,
+                0.34306791529919867,
+                0.1786985248971336
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 43,
+            "area": 25781.032,
+            "bbox": [
+                389.4001873508103,
+                2468.0603106578355,
+                802.6494622094458,
+                32.1199143468948
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15701620457693966,
+                0.7041541542533054,
+                0.3236489766973572,
+                0.009164026917801655
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 44,
+            "area": 36093.445,
+            "bbox": [
+                1272.3145957812008,
+                390.9725162252877,
+                561.8546235466122,
+                64.23982869379012
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"44\">다음 글의 내용과 일치하지 <u>않는</u> 것은?</span></div>",
+            "text": "다음 글의 내용과 일치하지 <u>않는</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5130300789440325,
+                0.1115470802354601,
+                0.22655428368815006,
+                0.01832805383560346
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 45,
+            "area": 953554.436,
+            "bbox": [
+                1299.0695778548493,
+                540.8654498441314,
+                813.351455038905,
+                1172.3768736616698
+            ],
+            "html": "<div class=\"contents question\"><span class=\"45\">It&apos;s often said that those who can&apos;t do, teach. It would be more accurate to say that those who can do, can&apos;t teach the basics. A great deal of expert knowledge is implicit, not explicit. The further you progress toward mastery, the less conscious awareness you often have of the fundamentals. Experiments show that skilled golfers and wine aficionados have a hard time describing their putting and tasting techniques - even asking them to explain their approaches is enough to interfere with their performance, so they often stay on autopilot. When I first saw an elite diver do four and a half somersaults, I asked how he managed to spin so fast. His answer: &quot;Just go up in a ball.&quot; Experts often have an intuitive understanding of a route, but they struggle to clearly express all the steps to take. Their brain dump is partially filled with garbage.</span></div>",
+            "text": "It's often said that those who can't do, teach. It would be more accurate to say that those who can do, can't teach the basics. A great deal of expert knowledge is implicit, not explicit. The further you progress toward mastery, the less conscious awareness you often have of the fundamentals. Experiments show that skilled golfers and wine aficionados have a hard time describing their putting and tasting techniques — even asking them to explain their approaches is enough to interfere with their performance, so they often stay on autopilot. When I first saw an elite diver do four and a half somersaults, I asked how he managed to spin so fast. His answer: \"Just go up in a ball.\" Experts often have an intuitive understanding of a route, but they struggle to clearly express all the steps to take. Their brain dump is partially filled with garbage.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5238183781672779,
+                0.15431253918520155,
+                0.32796429638665525,
+                0.33448698249976316
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 46,
+            "area": 513901.904,
+            "bbox": [
+                1293.7185814401191,
+                1777.4821521995918,
+                834.7554406978234,
+                615.6316916488213
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"46\">① Expert knowledge is often implicit rather than explicit.<br>② The further one progresses toward mastery, the less aware they are of the basics.<br>③ Skilled performers can struggle to describe their techniques.<br>④ Elite performers can always clearly explain how they perform complex tasks.<br>⑤ Asking experts to explain their techniques can sometimes interfere with their performance.</span></div>",
+            "text": "① Expert knowledge is often implicit rather than explicit.\n② The further one progresses toward mastery, the less aware they are of the basics.\n③ Skilled performers can struggle to describe their techniques.\n④ Elite performers can always clearly explain how they perform complex tasks.\n⑤ Asking experts to explain their techniques can sometimes interfere with their performance.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5216607183226287,
+                0.5071275755205683,
+                0.33659493576525135,
+                0.17564384925786627
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 47,
+            "area": 16041.531,
+            "bbox": [
+                1341.877549172686,
+                2460.9225536158556,
+                749.1394980621494,
+                21.4132762312629
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5410796569244701,
+                0.702117704312655,
+                0.3020723782508667,
+                0.006109351278534351
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 48,
+            "area": 28773.794,
+            "bbox": [
+                350.95135473704227,
+                402.7823065491747,
+                536.892843510333,
+                53.593179049939124
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"48\">다음 글의 내용과 일치하지 <u>않는</u> 것은?</span></div>",
+            "text": "다음 글의 내용과 일치하지 <u>않는</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14151264303912994,
+                0.11491649259605555,
+                0.21648904980255365,
+                0.015290493309540406
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 49,
+            "area": 1014464.923,
+            "bbox": [
+                373.4100000000001,
+                549.1099999999999,
+                801.55,
+                1265.6289971319513
+            ],
+            "html": "<div class=\"contents question\"><span class=\"49\">Minimal processing can be one of the best ways to keep original flavors and taste, without any need to add artificial flavoring or additives, or too much salt. This would also be the efficient way to keep most nutrients, especially the most sensitive ones such as many vitamins and anti-oxidants. Milling of cereals is one of the most harsh processes which dramatically affect nutrient content. While grains are naturally very rich in micronutrients, anti-oxidants and fiber (i.e. in wholemeal flour or flakes), milling usually removes the vast majority of minerals, vitamins and fibers to raise white flour. Such a spoilage of key nutrients and fiber is no longer acceptable in the context of a sustainable diet aiming at an optimal nutrient density and health protection. In contrast, fermentation of various foodstuffs or germination of grains are traditional, locally accessible, low-energy and highly nutritious processes of sounded interest.</span></div>",
+            "text": "Minimal processing can be one of the best ways to keep original flavors and taste, without any need to add artificial flavoring or additives, or too much salt. This would also be the efficient way to keep most nutrients, especially the most sensitive ones such as many vitamins and anti-oxidants. Milling of cereals is one of the most harsh processes which dramatically affect nutrient content. While grains are naturally very rich in micronutrients, anti-oxidants and fiber (i.e. in wholemeal flour or flakes), milling usually removes the vast majority of minerals, vitamins and fibers to raise white flour. Such a spoilage of key nutrients and fiber is no longer acceptable in the context of a sustainable diet aiming at an optimal nutrient density and health protection. In contrast, fermentation of various foodstuffs or germination of grains are traditional, locally accessible, low-energy and highly nutritious processes of sounded interest.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1505685483870968,
+                0.1566647646219686,
+                0.3232056451612903,
+                0.3610924385540517
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 50,
+            "area": 597161.028,
+            "bbox": [
+                381.4368221373966,
+                1903.3816425120772,
+                824.082218918559,
+                724.6376811594205
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"50\">① Minimal processing helps preserve original flavors and nutrients without adding artificial ingredients.<br>② Milling of cereals greatly reduces the nutrient content, including vitamins and fiber.<br>③ Fermentation and germination are energy-intensive methods for processing food.<br>④ White flour lacks the minerals and fibers found in wholemeal flour.<br>⑤ A sustainable diet requires minimizing the loss of key nutrients during food processing.</span></div>",
+            "text": "① Minimal processing helps preserve original flavors and nutrients without adding artificial ingredients.\n② Milling of cereals greatly reduces the nutrient content, including vitamins and fiber.\n③ Fermentation and germination are energy-intensive methods for processing food.\n④ White flour lacks the minerals and fibers found in wholemeal flour.\n⑤ A sustainable diet requires minimizing the loss of key nutrients during food processing.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15380517021669216,
+                0.5430475442259849,
+                0.3322912173058705,
+                0.20674398891852225
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 51,
+            "area": 24632.892,
+            "bbox": [
+                363.7319307153182,
+                2697.2624798711754,
+                849.8347882597639,
+                28.985507246376983
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14666610109488637,
+                0.7695470698633882,
+                0.342675317846679,
+                0.008269759556740936
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 52,
+            "area": 23730.992,
+            "bbox": [
+                1281.717387755055,
+                408.50512821726045,
+                538.4298517683985,
+                44.07443682664058
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"52\">다음 글의 내용과 일치하지 <u>않는</u> 것은?</span></div>",
+            "text": "다음 글의 내용과 일치하지 <u>않는</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5168215273205866,
+                0.11654925198780612,
+                0.2171088111969349,
+                0.012574732332850379
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 53,
+            "area": 1159278.354,
+            "bbox": [
+                1304.8641627880245,
+                547.3242528907097,
+                800.0921101572674,
+                1448.9311163895488
+            ],
+            "html": "<div class=\"contents question\"><span class=\"53\">It would seem obvious that the more competent someone is, the more we will like that person. By &quot;competence,&quot; I mean a cluster of qualities: smartness, the ability to get things done, wise decisions, etc. We stand a better chance of doing well at our life tasks if we surround ourselves with people who know what they&apos;re doing and have a lot to teach us. But the research evidence is paradoxical: In problem-solving groups, the participants who are considered the most competent and have the best ideas tend not to be the ones who are best liked. Why? One possibility is that, although we like to be around competent people, those who are too competent make us uncomfortable. They may seem unapproachable, distant, superhuman - and make us look bad (and feel worse) by comparison. If this were true, we might like people more if they reveal some evidence of fallibility. For example, if your friend is a brilliant mathematician, superb athlete, and gourmet cook, you might like him or her better if, every once in a while, they screwed up.</span></div>",
+            "text": "It would seem obvious that the more competent someone is, the more we will like that person. By \"competence,\" I mean a cluster of qualities: smartness, the ability to get things done, wise decisions, etc. We stand a better chance of doing well at our life tasks if we surround ourselves with people who know what they're doing and have a lot to teach us. But the research evidence is paradoxical: In problem-solving groups, the participants who are considered the most competent and have the best ideas tend not to be the ones who are best liked. Why? One possibility is that, although we like to be around competent people, those who are too competent make us uncomfortable. They may seem unapproachable, distant, superhuman — and make us look bad (and feel worse) by comparison. If this were true, we might like people more if they reveal some evidence of fallibility. For example, if your friend is a brilliant mathematician, superb athlete, and gourmet cook, you might like him or her better if, every once in a while, they screwed up.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5261549043500099,
+                0.15615527899877593,
+                0.32261778635373684,
+                0.4133897621653492
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 54,
+            "area": 596839.153,
+            "bbox": [
+                1314.3948954805578,
+                2078.7787684410637,
+                823.8337157999163,
+                724.465558194775
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"54\">① Competence is defined as a combination of qualities such as intelligence and the ability to make wise decisions.<br>② People tend to like those who are highly competent more than those who are not.<br>③ Research shows that the most competent people in problem-solving groups are not always the most liked.<br>④ People may feel uncomfortable around those who are too competent.<br>⑤ Showing some evidence of fallibility can make highly competent people more likable.</span></div>",
+            "text": "① Competence is defined as a combination of qualities such as intelligence and the ability to make wise decisions.\n② People tend to like those who are highly competent more than those who are not.\n③ Research shows that the most competent people in problem-solving groups are not always the most liked.\n④ People may feel uncomfortable around those who are too competent.\n⑤ Showing some evidence of fallibility can make highly competent people more likable.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5299979417260313,
+                0.5930895202399611,
+                0.3321910144354501,
+                0.20669488108267475
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 55,
+            "area": 20682.921,
+            "bbox": [
+                1288.1988436506979,
+                2872.770529488489,
+                856.2729305950645,
+                24.154589371980364
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5194350176010879,
+                0.8196206931493549,
+                0.34527134298188084,
+                0.0068914662972839845
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 56,
+            "area": 25496.213,
+            "bbox": [
+                347.2875079265351,
+                408.2351221927977,
+                541.0862941332871,
+                47.1204188481675
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"56\">다음 글의 내용과 일치하지 <u>않는</u> 것은?</span></div>",
+            "text": "다음 글의 내용과 일치하지 <u>않는</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14003528545424804,
+                0.11647221745871546,
+                0.2181799573118093,
+                0.013443771426010699
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 57,
+            "area": 1119894.275,
+            "bbox": [
+                370.71,
+                550.3399999999999,
+                810.8599999999999,
+                1381.1191516589638
+            ],
+            "html": "<div class=\"contents question\"><span class=\"57\">A computational algorithm that takes input data and generates some output from it doesn&apos;t really embody any notion of meaning. Certainly, such a computation does not generally have as its purpose its own survival and well-being. It does not, in general, assign value to the inputs. Compare, for example, a computer algorithm with the waggle dance of the honeybee, by which means a foraging bee conveys to others in the hive information about the source of food (such as nectar) it has located. The &quot;dance&quot; - a series of stylized movements on the comb - shows the bees how far away the food is and in which direction. But this input does not simply program other bees to go out and look for it. Rather, they evaluate this information, comparing it with their own knowledge of the surroundings. Some bees might not bother to make the journey, considering it not worthwhile. The input, such as it is, is processed in the light of the organism&apos;s own internal states and history; there is nothing prescriptive about its effects.</span></div>",
+            "text": "A computational algorithm that takes input data and generates some output from it doesn't really embody any notion of meaning. Certainly, such a computation does not generally have as its purpose its own survival and well-being. It does not, in general, assign value to the inputs. Compare, for example, a computer algorithm with the waggle dance of the honeybee, by which means a foraging bee conveys to others in the hive information about the source of food (such as nectar) it has located. The \"dance\" — a series of stylized movements on the comb — shows the bees how far away the food is and in which direction. But this input does not simply program other bees to go out and look for it. Rather, they evaluate this information, comparing it with their own knowledge of the surroundings. Some bees might not bother to make the journey, considering it not worthwhile. The input, such as it is, is processed in the light of the organism's own internal states and history; there is nothing prescriptive about its effects.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1494798387096774,
+                0.15701569186875888,
+                0.3269596774193548,
+                0.3940425539683206
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 58,
+            "area": 649062.876,
+            "bbox": [
+                372.48147351831034,
+                2024.3880173620967,
+                833.8757684332861,
+                778.368794326241
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"58\">① A computational algorithm does not inherently have any notion of meaning.<br>② Computations do not typically have the purpose of ensuring their own survival and well-being.<br>③ The waggle dance of the honeybee conveys information about the location of food.<br>④ Bees always respond to the information provided by the waggle dance without evaluation.<br>⑤ Bees evaluate the information from the waggle dance based on their internal states and past experiences.</span></div>",
+            "text": "① A computational algorithm does not inherently have any notion of meaning.\n② Computations do not typically have the purpose of ensuring their own survival and well-being.\n③ The waggle dance of the honeybee conveys information about the location of food.\n④ Bees always respond to the information provided by the waggle dance without evaluation.\n⑤ Bees evaluate the information from the waggle dance based on their internal states and past experiences.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15019414254770577,
+                0.5775714742830518,
+                0.3362402292069702,
+                0.22207383575641682
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 59,
+            "area": 11903.363,
+            "bbox": [
+                367.7912750121156,
+                2869.799913310195,
+                839.1870790602495,
+                14.184397163120593
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14830293347262724,
+                0.8187731564365749,
+                0.33838188671784253,
+                0.004046903612873208
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 60,
+            "area": 25935.017,
+            "bbox": [
+                1279.5662659742013,
+                405.744479969243,
+                541.753683950288,
+                47.87234042553183
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"60\">다음 글의 내용과 일치하지 <u>않는</u> 것은?</span></div>",
+            "text": "다음 글의 내용과 일치하지 <u>않는</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5159541395057263,
+                0.11576162053330756,
+                0.21844906610898707,
+                0.013658299693447028
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 61,
+            "area": 975448.064,
+            "bbox": [
+                1306.12,
+                553.7099999999996,
+                805.5500000000002,
+                1210.9093965742122
+            ],
+            "html": "<div class=\"contents question\"><span class=\"61\">There are deep similarities between viral contagion and behavioral contagion. For example, people in close or extended proximity to others infected by a virus are themselves more likely to become infected, just as people are more likely to drink excessively when they spend more time in the company of heavy drinkers. But there are also important differences between the two types of contagion. One is that visibility promotes behavioral contagion but inhibits the spread of infectious diseases. Solar panels that are visible from the street, for instance, are more likely to stimulate neighboring installations. In contrast, we try to avoid others who are visibly ill. Another important difference is that whereas viral contagion is almost always a bad thing, behavioral contagion is sometimes negative - as in the case of smoking - but sometimes positive, as in the case of solar installations.</span></div>",
+            "text": "There are deep similarities between viral contagion and behavioral contagion. For example, people in close or extended proximity to others infected by a virus are themselves more likely to become infected, just as people are more likely to drink excessively when they spend more time in the company of heavy drinkers. But there are also important differences between the two types of contagion. One is that visibility promotes behavioral contagion but inhibits the spread of infectious diseases. Solar panels that are visible from the street, for instance, are more likely to stimulate neighboring installations. In contrast, we try to avoid others who are visibly ill. Another important difference is that whereas viral contagion is almost always a bad thing, behavioral contagion is sometimes negative — as in the case of smoking — but sometimes positive, as in the case of solar installations.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5266612903225806,
+                0.15797717546362328,
+                0.32481854838709684,
+                0.3454805696360092
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 62,
+            "area": 544723.247,
+            "bbox": [
+                1306.1228191090208,
+                1842.7206219326877,
+                830.3348946819774,
+                656.0283687943261
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"62\">① Viral contagion and behavioral contagion share some similarities.<br>② People in close proximity to those infected by a virus are more likely to become infected.<br>③ Visibility inhibits both viral and behavioral contagion.<br>④ Behavioral contagion can be positive, while viral contagion is almost always negative.<br>⑤ People tend to avoid those who are visibly ill, but visible behaviors can promote behavioral contagion.</span></div>",
+            "text": "① Viral contagion and behavioral contagion share some similarities.\n② People in close proximity to those infected by a virus are more likely to become infected.\n③ Visibility inhibits both viral and behavioral contagion.\n④ Behavioral contagion can be positive, while viral contagion is almost always negative.\n⑤ People tend to avoid those who are visibly ill, but visible behaviors can promote behavioral contagion.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.526662427060089,
+                0.5257405483402818,
+                0.3348124575330554,
+                0.18716929209538546
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 63,
+            "area": 10459.389,
+            "bbox": [
+                1293.729760979439,
+                2564.0294586329105,
+                842.7279528115591,
+                12.411347517730064
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5216652262013868,
+                0.7315347956156664,
+                0.3398096583917577,
+                0.003541040661263927
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 64,
+            "area": 30045.836,
+            "bbox": [
+                342.0500000000001,
+                404.74,
+                546.089356109891,
+                55.01999999999998
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"64\">다음 글의 내용과 일치하지 <u>않는</u> 것은?</span></div>",
+            "text": "다음 글의 내용과 일치하지 <u>않는</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.13792338709677424,
+                0.1154750356633381,
+                0.22019732101205283,
+                0.01569757489300998
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 65,
+            "area": 1045047.972,
+            "bbox": [
+                368.24905936735433,
+                537.5733500757112,
+                811.2350241215005,
+                1288.2185079494495
+            ],
+            "html": "<div class=\"contents question\"><span class=\"65\">Sleep is clearly about more than just resting. One curious fact is that animals that are hibernating also have periods of sleep. It comes as a surprise to most of us, but hibernation and sleep are not the same thing at all, at least not from a neurological and metabolic perspective. Hibernating is more like being anesthetized: the subject is unconscious but not actually asleep. So a hibernating animal needs to get a few hours of conventional sleep each day within the larger unconsciousness. A further surprise to most of us is that bears, the most famous of wintry sleepers, don&apos;t actually hibernate. Real hibernation involves profound unconsciousness and a dramatic fall in body temperature - often to around 32 degrees Fahrenheit. By this definition, bears don&apos;t hibernate, because their body temperature stays near normal and they are easily awakened. Their winter sleeps are more accurately called a state of torpor.</span></div>",
+            "text": "Sleep is clearly about more than just resting. One curious fact is that animals that are hibernating also have periods of sleep. It comes as a surprise to most of us, but hibernation and sleep are not the same thing at all, at least not from a neurological and metabolic perspective. Hibernating is more like being anesthetized: the subject is unconscious but not actually asleep. So a hibernating animal needs to get a few hours of conventional sleep each day within the larger unconsciousness. A further surprise to most of us is that bears, the most famous of wintry sleepers, don't actually hibernate. Real hibernation involves profound unconsciousness and a dramatic fall in body temperature — often to around 32 degrees Fahrenheit. By this definition, bears don't hibernate, because their body temperature stays near normal and they are easily awakened. Their winter sleeps are more accurately called a state of torpor.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14848752393844933,
+                0.15337328104870507,
+                0.32711089682318567,
+                0.36753737744634796
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 66,
+            "area": 503732.434,
+            "bbox": [
+                368.24905936735445,
+                1906.9454418415698,
+                837.7326505375293,
+                601.3045250713412
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"66\">① Hibernating animals also experience periods of conventional sleep.<br>② Hibernation and sleep are not the same from a neurological and metabolic perspective.<br>③ Bears are commonly believed to hibernate, but they actually do not.<br>④ Bears experience a dramatic drop in body temperature during their winter sleep.<br>⑤ A hibernating animal is unconscious but not truly asleep.</span></div>",
+            "text": "① Hibernating animals also experience periods of conventional sleep.\n② Hibernation and sleep are not the same from a neurological and metabolic perspective.\n③ Bears are commonly believed to hibernate, but they actually do not.\n④ Bears experience a dramatic drop in body temperature during their winter sleep.\n⑤ A hibernating animal is unconscious but not truly asleep.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14848752393844938,
+                0.5440643200689215,
+                0.33779542360384246,
+                0.17155621257384915
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 67,
+            "area": 42801.092,
+            "bbox": [
+                367.8455219883563,
+                2585.8333336068117,
+                829.1998311103755,
+                51.61734342739146
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1483248072533695,
+                0.7377555873343258,
+                0.33435477060902236,
+                0.01472677415902752
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 68,
+            "area": 34579.206,
+            "bbox": [
+                1277.9500000000003,
+                396.93,
+                542.7594699734677,
+                63.70999999999998
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"68\">다음 글의 내용과 일치하지 <u>않는</u> 것은?</span></div>",
+            "text": "다음 글의 내용과 일치하지 <u>않는</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5153024193548388,
+                0.11324679029957205,
+                0.2188546249893015,
+                0.01817689015691868
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 69,
+            "area": 1349335.972,
+            "bbox": [
+                1294.610377215197,
+                543.2244414021751,
+                819.2874108772842,
+                1646.9629025682834
+            ],
+            "html": "<div class=\"contents question\"><span class=\"69\">The concern about how we appear to others can be seen in children, though work by the psychologist Ervin Staub suggests that the effect may vary with age. In a study where children heard another child in distress, young children (kindergarten through second grade) were more likely to help the child in distress when with another child than when alone. But for older children - in fourth and sixth grade - the effect reversed: they were less likely to help a child in distress when they were with a peer than when they were alone. Staub suggested that younger children might feel more comfortable acting when they have the company of a peer, whereas older children might feel more concern about being judged by their peers and fear feeling embarrassed by overreacting. Staub noted that &quot;older children seemed to discuss the distress sounds less and to react to them less openly than younger children.&quot; In other words, the older children were deliberately putting on a poker face in front of their peers. The study suggests that, contrary to younger children, older children are less likely to help those in distress in the presence of others because they care more about how they are evaluated.</span></div>",
+            "text": "The concern about how we appear to others can be seen in children, though work by the psychologist Ervin Staub suggests that the effect may vary with age. In a study where children heard another child in distress, young children (kindergarten through second grade) were more likely to help the child in distress when with another child than when alone. But for older children — in fourth and sixth grade — the effect reversed: they were less likely to help a child in distress when they were with a peer than when they were alone. Staub suggested that younger children might feel more comfortable acting when they have the company of a peer, whereas older children might feel more concern about being judged by their peers and fear feeling embarrassed by overreacting. Staub noted that \"older children seemed to discuss the distress sounds less and to react to them less openly than younger children.\" In other words, the older children were deliberately putting on a poker face in front of their peers. The study suggests that, contrary to younger children, older children are less likely to help those in distress in the presence of others because they care more about how they are evaluated.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5220203133932246,
+                0.15498557529305995,
+                0.33035782696664684,
+                0.4698895585073562
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 70,
+            "area": 619650.359,
+            "bbox": [
+                1282.4139158051994,
+                2255.12182409889,
+                853.9338934268217,
+                725.6420709335507
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"70\">① Younger children were more likely to help a child in distress when with another child than when alone.<br>② Older children were less likely to help a child in distress when with peers than when alone.<br>③ Younger children discuss distress sounds less and react less openly than older children.<br>④ Older children may fear being judged by their peers if they overreact to a situation.<br>⑤ Older children were more concerned with how they are evaluated by their peers than younger children.</span></div>",
+            "text": "① Younger children were more likely to help a child in distress when with another child than when alone.\n② Older children were less likely to help a child in distress when with peers than when alone.\n③ Younger children discuss distress sounds less and react less openly than older children.\n④ Older children may fear being judged by their peers if they overreact to a situation.\n⑤ Older children were more concerned with how they are evaluated by their peers than younger children.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5171023854053224,
+                0.6434013763477575,
+                0.34432818283339583,
+                0.2070305480552213
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 71,
+            "area": 31779.285,
+            "bbox": [
+                1276.2681217477952,
+                3052.8551419122723,
+                866.1620637384226,
+                36.68976763147111
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.51462424264024,
+                0.8710000404885228,
+                0.3492588966687188,
+                0.010467836699421145
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 72,
+            "area": 35346.704,
+            "bbox": [
+                338.0500000000004,
+                391.94999999999993,
+                551.258643152015,
+                64.12
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"72\">다음 글의 내용과 일치하지 <u>않는</u> 것은?</span></div>",
+            "text": "다음 글의 내용과 일치하지 <u>않는</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.13631048387096792,
+                0.11182596291012836,
+                0.22228171094839314,
+                0.018293865905848788
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 73,
+            "area": 1754653.642,
+            "bbox": [
+                361.12999999999965,
+                542.1400000000001,
+                828.29,
+                2118.4049576647185
+            ],
+            "html": "<div class=\"contents question\"><span class=\"73\">What makes questioning authority so hard? The difficulties start in childhood, when parents - the first and most powerful authority figures - show children &quot;the way things are.&quot; This is a necessary element of learning language and socialization, and certainly most things learned in early childhood are noncontroversial: the English alphabet starts with A and ends with Z , the numbers 1 through 10 come before the numbers 11 through 20, and so on. Children, however, will spontaneously question things that are quite obvious to adults and even to older kids. The word &quot;why?&quot; becomes a challenge, as in, &quot;Why is the sky blue?&quot; Answers such as &quot;because it just is&quot; or &quot;because I say so&quot; tell children that they must unquestioningly accept what authorities say &quot;just because,&quot; and children who persist in their questioning are likely to find themselves dismissed or yelled at for &quot;bothering&quot; adults with &quot;meaningless&quot; or &quot;unimportant&quot; questions. But these questions are in fact perfectly reasonable. Why is the sky blue? Many adults do not themselves know the answer. And who says the sky&apos;s color needs to be called &quot;blue,&quot; anyway? How do we know that what one person calls &quot;blue&quot; is the same color that another calls &quot;blue&quot;? The scientific answers come from physics, but those are not the answers that children are seeking. They are trying to understand the world, and no matter how irritating the repeated questions may become to stressed and time-pressed parents, it is important to take them seriously to encourage kids to question authority to think for themselves.</span></div>",
+            "text": "What makes questioning authority so hard? The difficulties start in childhood, when parents — the first and most powerful authority figures — show children \"the way things are.\" This is a necessary element of learning language and socialization, and certainly most things learned in early childhood are noncontroversial: the English alphabet starts with A and ends with Z , the numbers 1 through 10 come before the numbers 11 through 20, and so on. Children, however, will spontaneously question things that are quite obvious to adults and even to older kids. The word \"why?\" becomes a challenge, as in, \"Why is the sky blue?\" Answers such as \"because it just is\" or \"because I say so\" tell children that they must unquestioningly accept what authorities say \"just because,\" and children who persist in their questioning are likely to find themselves dismissed or yelled at for \"bothering\" adults with \"meaningless\" or \"unimportant\" questions. But these questions are in fact perfectly reasonable. Why is the sky blue? Many adults do not themselves know the answer. And who says the sky's color needs to be called \"blue,\" anyway? How do we know that what one person calls \"blue\" is the same color that another calls \"blue\"? The scientific answers come from physics, but those are not the answers that children are seeking. They are trying to understand the world, and no matter how irritating the repeated questions may become to stressed and time-pressed parents, it is important to take them seriously to encourage kids to question authority to think for themselves.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14561693548387084,
+                0.15467617689015695,
+                0.33398790322580646,
+                0.6043951377074803
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 74,
+            "area": 549428.949,
+            "bbox": [
+                1294.5636419378543,
+                393.3794317648834,
+                900.0893523195682,
+                610.4160081976461
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"74\">① Children are likely to question things that are obvious to adults.<br>② Parents&apos; responses like &quot;because it just is&quot; discourage children from questioning authority.<br>③ Children&apos;s repeated questions about the world should be taken seriously.<br>④ Children are primarily interested in the scientific explanations to their questions.<br>⑤ Parents are often the first and most powerful authority figures in a child&apos;s life.</span></div>",
+            "text": "① Children are likely to question things that are obvious to adults.\n② Parents' responses like \"because it just is\" discourage children from questioning authority.\n③ Children's repeated questions about the world should be taken seriously.\n④ Children are primarily interested in the scientific explanations to their questions.\n⑤ Parents are often the first and most powerful authority figures in a child's life.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5220014685233283,
+                0.11223378937657158,
+                0.36293925496756785,
+                0.17415577979961372
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 75,
+            "area": 13456.53,
+            "bbox": [
+                1297.1279990669698,
+                1059.365537787538,
+                874.4457810284123,
+                15.388638862125617
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5230354834947458,
+                0.30224409066691527,
+                0.35259910525339205,
+                0.004390481843687765
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 76,
+            "area": 2719503.3,
+            "bbox": [
+                310.5143497856957,
+                212.76692442861167,
+                930.7220928699442,
+                2921.9283830610325
+            ],
+            "html": "",
+            "text": "내용 일치\n\nAnswers\n1) (2), 글에 따르면 걱정이 무의미하다는 것을 단순히 설득하는 것만으로는 걱정을 멈추게 하지 못한다고 언 급하였으므로, (2)번이 글의 내용과 일치하지 않습니다.\n2) (3), 글에서는 교향악단과 같은 규칙과 절차가 더 이상 현대 창의적인 기업에서 적합하지 않다고 하며, 대신 재즈 밴드와 같은 유연한 접근 방식을 제안하고 있습니다. 따라서 (3)번이 글의 내용과 일치하지 않습니 다.\n3) (3), 글에서는 사건이 더 중요할수록 뉴스에 대한 요구가 더 상세하고 긴급해진다고 언급하고 있으므로, (3)번은 글의 내용과 일치하지 않습니다.\n4) (4), 글에서 Hugh Lacey는 과학이 인간의 가치와 관습과 관계없이 순수한 '사실'을 탐구하는 것으로 설명 하고 있으므로, (4)번은 글의 내용과 일치하지 않습니 다.\n5) (4), 글에서는 정신 발달이 개인마다 다른 속도로 이루어진다고 언급하고 있으므로, (4)번은 글의 내용과 일치하지 않습니다.\n6) (4), 글에 따르면 Elton은 Oxford에서 파트타임 강 사로서 활동했다고 나와 있으므로, (4)번은 글의 내용과 일치하지 않습니다.\n7) (4), 글에서는 이 전환을 위해 몇 세기를 기다릴 수 없다고 언급하고 있으므로, (4)번은 글의 내용과 일치하 지 않습니다.\n8) (4), 글에 따르면, 초기 인류는 도구를 개발한 후에 야 더 많은 단백질과 지방을 섭취할 수 있었기 때문에, (4)번은 글의 내용과 일치하지 않습니다.\n9) (3), 글에서는 나쁜 결과를 받았을 때 사람들이 공 정한 절차였다는 말을 듣고 싶어하지 않는다고 언급하 므로, (3)번은 글의 내용과 일치하지 않습니다.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.12520739910713535,
+                0.060703830079489776,
+                0.3752911664798162,
+                0.8336457583626341
+            ],
+            "image_id": 10,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 9,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 77,
+            "area": 2884825.387,
+            "bbox": [
+                1253.3762960409001,
+                216.81391664891794,
+                991.4213597962437,
+                2909.7874064001135
+            ],
+            "html": "",
+            "text": "10) (4), 글에서는 패션이 매년 예측할 수 없이 변하는 것이 아니라, 긴 주기에 걸쳐 규칙적으로 변한다고 언 급하고 있으므로, (4)번은 글의 내용과 일치하지 않습니 다.\n11) (5), 글에서는 시장 메커니즘이 일부 사람들에게는 막대한 보상을 주지만, 많은 다른 사람들에게는 거의 주지 않는다고 언급하고 있으므로, (5)번은 글의 내용과 일치하지 않습니다.\n12) (4), 글에서는 전문가들이 복잡한 작업을 수행하는 방법을 명확하게 설명하는 데 어려움을 겪는다고 언급 하고 있으므로, (4)번은 글의 내용과 일치하지 않습니 다.\n13) (3), 글에서는 발효와 발아가 에너지를 적게 사용 하는 전통적이고 영양가가 높은 방법이라고 언급하고 있으므로, (3)번은 글의 내용과 일치하지 않습니다.\n14) (2), 글에서는 매우 유능한 사람이 반드시 더 호감 을 받는 것이 아니라고 언급하고 있으므로, (2)번은 글 의 내용과 일치하지 않습니다.\n15) (4), 글에서는 벌들이 waggle dance로 얻은 정보 를 그들의 내부 상태와 과거 경험을 바탕으로 평가한 다고 언급하므로, (4)번은 글의 내용과 일치하지 않습니 다.\n16) (3), 글에서는 가시성이 행동 전염을 촉진하지만, 바이러스 전염은 억제한다고 언급하고 있으므로, (3)번 은 글의 내용과 일치하지 않습니다.\n17) (4), 글에 따르면, 곰의 체온은 겨울잠 동안 거의 정상 상태로 유지된다고 언급하고 있으므로, (4)번은 글 의 내용과 일치하지 않습니다.\n18) (3), 글에서는 나이가 많은 아이들이 고통 소리에 대해 덜 논의하고 덜 공개적으로 반응한다고 언급하고 있으므로, (3)번은 글의 내용과 일치하지 않습니다.\n19) (4), 글에 따르면, 아이들은 과학적 설명보다는 세 상을 이해하려는 질문을 한다고 언급하고 있으므로, (4) 번은 글의 내용과 일치하지 않습니다.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5053936677584274,
+                0.06185846409384249,
+                0.399766677337195,
+                0.8301818563195759
+            ],
+            "image_id": 10,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 9,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": -1,
+            "area": 483217.605,
+            "bbox": [
+                370.87984478419855,
+                1647.637229176442,
+                843.0753302013253,
+                573.1606503168914
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14954832450975747,
+                0.47008194840982653,
+                0.33994972991988925,
+                0.16352657640995474
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -2,
+            "area": 483217.605,
+            "bbox": [
+                370.87984478419855,
+                1647.637229176442,
+                843.0753302013253,
+                573.1606503168914
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--2\">글에 따르면 걱정이 무의미하다는 것을 단순히 설득하는 것만으로는 걱정을 멈추게 하지 못한다고 언급하였으므로, ②번이 글의 내용과 일치하지 않습니다.</span></div>",
+            "text": "글에 따르면 걱정이 무의미하다는 것을 단순히 설득하는 것만으로는 걱정을 멈추게 하지 못한다고 언급하였으므로, ②번이 글의 내용과 일치하지 않습니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14954832450975747,
+                0.47008194840982653,
+                0.33994972991988925,
+                0.16352657640995474
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -3,
+            "area": 534962.91,
+            "bbox": [
+                1303.9512935077976,
+                1887.1891427801506,
+                857.9220007409074,
+                623.5565819861436
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5257868118983055,
+                0.5384277154864909,
+                0.34593629062133363,
+                0.17790487360517648
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -4,
+            "area": 534962.91,
+            "bbox": [
+                1303.9512935077976,
+                1887.1891427801506,
+                857.9220007409074,
+                623.5565819861436
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--4\">글에서는 교향악단과 같은 규칙과 절차가 더 이상 현대 창의적인 기업에서 적합하지 않다고 하며, 대신 재즈 밴드와 같은 유연한 접근 방식을 제안하고 있습니다. 따라서 ③번이 글의 내용과 일치하지 않습니 다.</span></div>",
+            "text": "글에서는 교향악단과 같은 규칙과 절차가 더 이상 현대 창의적인 기업에서 적합하지 않다고 하며, 대신 재즈 밴드와 같은 유연한 접근 방식을 제안하고 있습니다. 따라서 ③번이 글의 내용과 일치하지 않습니 다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5257868118983055,
+                0.5384277154864909,
+                0.34593629062133363,
+                0.17790487360517648
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -5,
+            "area": 506044.609,
+            "bbox": [
+                350.3066751948694,
+                1966.563044782586,
+                850.4592222323562,
+                595.0251291183586
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14125269161083442,
+                0.5610736219065866,
+                0.3429271057388533,
+                0.16976465880694966
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -6,
+            "area": 506044.609,
+            "bbox": [
+                350.3066751948694,
+                1966.563044782586,
+                850.4592222323562,
+                595.0251291183586
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--6\">글에서는 사건이 더 중요할수록 뉴스에 대한 요구가 더 상세하고 긴급해진다고 언급하고 있으므로, ③번은 글의 내용과 일치하지 않습니다.</span></div>",
+            "text": "글에서는 사건이 더 중요할수록 뉴스에 대한 요구가 더 상세하고 긴급해진다고 언급하고 있으므로, ③번은 글의 내용과 일치하지 않습니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14125269161083442,
+                0.5610736219065866,
+                0.3429271057388533,
+                0.16976465880694966
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -7,
+            "area": 517205.288,
+            "bbox": [
+                1280.4320128740176,
+                2071.345524745929,
+                853.5744574786283,
+                605.9287309608421
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5163032309975877,
+                0.590968765976014,
+                0.34418324898331787,
+                0.17287552951807195
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -8,
+            "area": 517205.288,
+            "bbox": [
+                1280.4320128740176,
+                2071.345524745929,
+                853.5744574786283,
+                605.9287309608421
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--8\">글에서 Hugh Lacey는 과학이 인간의 가치와 관습과 관계없이 순수한 &apos;사실&apos;을 탐구하는 것으로 설명하고 있으므로, ④번은 글의 내용과 일치하지 않습니다.</span></div>",
+            "text": "글에서 Hugh Lacey는 과학이 인간의 가치와 관습과 관계없이 순수한 &apos;사실&apos;을 탐구하는 것으로 설명하고 있으므로, ④번은 글의 내용과 일치하지 않습니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5163032309975877,
+                0.590968765976014,
+                0.34418324898331787,
+                0.17287552951807195
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -9,
+            "area": 456792.312,
+            "bbox": [
+                372.09581872786305,
+                2198.8311305536113,
+                832.3621515977139,
+                548.7903445493534
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15003863658381575,
+                0.6273412640666509,
+                0.33562989983778785,
+                0.15657356477870285
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -10,
+            "area": 456792.312,
+            "bbox": [
+                372.09581872786305,
+                2198.8311305536113,
+                832.3621515977139,
+                548.7903445493534
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--10\">글에서는 정신 발달이 개인마다 다른 속도로 이루어진다고 언급하고 있으므로, ④번은 글의 내용과 일치하지 않습니다.</span></div>",
+            "text": "글에서는 정신 발달이 개인마다 다른 속도로 이루어진다고 언급하고 있으므로, ④번은 글의 내용과 일치하지 않습니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15003863658381575,
+                0.6273412640666509,
+                0.33562989983778785,
+                0.15657356477870285
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -11,
+            "area": 528204.087,
+            "bbox": [
+                1296.8478529687607,
+                1839.8589132017983,
+                848.1857038315095,
+                622.7458030055172
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5229225213583713,
+                0.5249240836524389,
+                0.34201036444818933,
+                0.17767355292596784
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -12,
+            "area": 528204.087,
+            "bbox": [
+                1296.8478529687607,
+                1839.8589132017983,
+                848.1857038315095,
+                622.7458030055172
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--12\">글에 따르면 Elton은 Oxford에서 파트타임 강사로서 활동했다고 나와 있으므로, ④번은 글의 내용과 일치하지 않습니다.</span></div>",
+            "text": "글에 따르면 Elton은 Oxford에서 파트타임 강사로서 활동했다고 나와 있으므로, ④번은 글의 내용과 일치하지 않습니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5229225213583713,
+                0.5249240836524389,
+                0.34201036444818933,
+                0.17767355292596784
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -13,
+            "area": 613977.065,
+            "bbox": [
+                370.2743898755764,
+                1897.8008037084933,
+                838.2121666191354,
+                732.4840764331207
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14930418946595822,
+                0.5414552934974303,
+                0.3379887768625546,
+                0.20898261809789462
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -14,
+            "area": 613977.065,
+            "bbox": [
+                370.2743898755764,
+                1897.8008037084933,
+                838.2121666191354,
+                732.4840764331207
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--14\">글에서는 이 전환을 위해 몇 세기를 기다릴 수 없다고 언급하고 있으므로, ④번은 글의 내용과 일치하지 않습니다.</span></div>",
+            "text": "글에서는 이 전환을 위해 몇 세기를 기다릴 수 없다고 언급하고 있으므로, ④번은 글의 내용과 일치하지 않습니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14930418946595822,
+                0.5414552934974303,
+                0.3379887768625546,
+                0.20898261809789462
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -15,
+            "area": 565827.151,
+            "bbox": [
+                1296.534647566388,
+                2202.5323455844455,
+                853.8846101694455,
+                662.6506024096389
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5227962288574145,
+                0.6283972455305122,
+                0.3443083105521958,
+                0.189058659745974
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -16,
+            "area": 565827.151,
+            "bbox": [
+                1296.534647566388,
+                2202.5323455844455,
+                853.8846101694455,
+                662.6506024096389
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--16\">글에 따르면, 초기 인류는 도구를 개발한 후에야 더 많은 단백질과 지방을 섭취할 수 있었기 때문에, ④번은 글의 내용과 일치하지 않습니다.</span></div>",
+            "text": "글에 따르면, 초기 인류는 도구를 개발한 후에야 더 많은 단백질과 지방을 섭취할 수 있었기 때문에, ④번은 글의 내용과 일치하지 않습니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5227962288574145,
+                0.6283972455305122,
+                0.3443083105521958,
+                0.189058659745974
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -17,
+            "area": 524371.857,
+            "bbox": [
+                381.18729219161355,
+                1746.8,
+                815.3434874516522,
+                643.1299999999999
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15370455330306998,
+                0.4983737517831669,
+                0.328767535262763,
+                0.18348930099857344
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -18,
+            "area": 524371.857,
+            "bbox": [
+                381.18729219161355,
+                1746.8,
+                815.3434874516522,
+                643.1299999999999
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--18\">글에서는 나쁜 결과를 받았을 때 사람들이 공정한 절차였다는 말을 듣고 싶어하지 않는다고 언급하므로, ③번은 글의 내용과 일치하지 않습니다.</span></div>",
+            "text": "글에서는 나쁜 결과를 받았을 때 사람들이 공정한 절차였다는 말을 듣고 싶어하지 않는다고 언급하므로, ③번은 글의 내용과 일치하지 않습니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15370455330306998,
+                0.4983737517831669,
+                0.328767535262763,
+                0.18348930099857344
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -19,
+            "area": 526805.842,
+            "bbox": [
+                1313.0500000000002,
+                2152.53,
+                816.9685679569579,
+                644.8299999999999
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5294556451612904,
+                0.6141312410841655,
+                0.3294228096600637,
+                0.1839743223965763
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -20,
+            "area": 526805.842,
+            "bbox": [
+                1313.0500000000002,
+                2152.53,
+                816.9685679569579,
+                644.8299999999999
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--20\">글에서는 패션이 매년 예측할 수 없이 변하는 것이 아니라, 긴 주기에 걸쳐 규칙적으로 변한다고 언급하고 있으므로, ④번은 글의 내용과 일치하지 않습니다.</span></div>",
+            "text": "글에서는 패션이 매년 예측할 수 없이 변하는 것이 아니라, 긴 주기에 걸쳐 규칙적으로 변한다고 언급하고 있으므로, ④번은 글의 내용과 일치하지 않습니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5294556451612904,
+                0.6141312410841655,
+                0.3294228096600637,
+                0.1839743223965763
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -21,
+            "area": 532893.931,
+            "bbox": [
+                351.9432124477028,
+                1766.77551408396,
+                850.8084299420127,
+                626.3383297644532
+            ],
+            "html": "<div class=\"answer\">⑤</div>",
+            "text": "⑤",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1419125856643963,
+                0.504072899881301,
+                0.34306791529919867,
+                0.1786985248971336
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -22,
+            "area": 532893.931,
+            "bbox": [
+                351.9432124477028,
+                1766.77551408396,
+                850.8084299420127,
+                626.3383297644532
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--22\">글에서는 시장 메커니즘이 일부 사람들에게는 막대한 보상을 주지만, 많은 다른 사람들에게는 거의 주지 않는다고 언급하고 있으므로, ⑤번은 글의 내용과 일치하지 않습니다.</span></div>",
+            "text": "글에서는 시장 메커니즘이 일부 사람들에게는 막대한 보상을 주지만, 많은 다른 사람들에게는 거의 주지 않는다고 언급하고 있으므로, ⑤번은 글의 내용과 일치하지 않습니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.1419125856643963,
+                0.504072899881301,
+                0.34306791529919867,
+                0.1786985248971336
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -23,
+            "area": 513901.904,
+            "bbox": [
+                1293.7185814401191,
+                1777.4821521995918,
+                834.7554406978234,
+                615.6316916488213
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5216607183226287,
+                0.5071275755205683,
+                0.33659493576525135,
+                0.17564384925786627
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -24,
+            "area": 513901.904,
+            "bbox": [
+                1293.7185814401191,
+                1777.4821521995918,
+                834.7554406978234,
+                615.6316916488213
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--24\">글에서는 전문가들이 복잡한 작업을 수행하는 방법을 명확하게 설명하는 데 어려움을 겪는다고 언급하고 있으므로, ④번은 글의 내용과 일치하지 않습니다.</span></div>",
+            "text": "글에서는 전문가들이 복잡한 작업을 수행하는 방법을 명확하게 설명하는 데 어려움을 겪는다고 언급하고 있으므로, ④번은 글의 내용과 일치하지 않습니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5216607183226287,
+                0.5071275755205683,
+                0.33659493576525135,
+                0.17564384925786627
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -25,
+            "area": 597161.028,
+            "bbox": [
+                381.4368221373966,
+                1903.3816425120772,
+                824.082218918559,
+                724.6376811594205
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15380517021669216,
+                0.5430475442259849,
+                0.3322912173058705,
+                0.20674398891852225
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -26,
+            "area": 597161.028,
+            "bbox": [
+                381.4368221373966,
+                1903.3816425120772,
+                824.082218918559,
+                724.6376811594205
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--26\">글에서는 발효와 발아가 에너지를 적게 사용하는 전통적이고 영양가가 높은 방법이라고 언급하고 있으므로, ③번은 글의 내용과 일치하지 않습니다.</span></div>",
+            "text": "글에서는 발효와 발아가 에너지를 적게 사용하는 전통적이고 영양가가 높은 방법이라고 언급하고 있으므로, ③번은 글의 내용과 일치하지 않습니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15380517021669216,
+                0.5430475442259849,
+                0.3322912173058705,
+                0.20674398891852225
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -27,
+            "area": 596839.153,
+            "bbox": [
+                1314.3948954805578,
+                2078.7787684410637,
+                823.8337157999163,
+                724.465558194775
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5299979417260313,
+                0.5930895202399611,
+                0.3321910144354501,
+                0.20669488108267475
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -28,
+            "area": 596839.153,
+            "bbox": [
+                1314.3948954805578,
+                2078.7787684410637,
+                823.8337157999163,
+                724.465558194775
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--28\">글에서는 매우 유능한 사람이 반드시 더 호감을 받는 것이 아니라고 언급하고 있으므로, ②번은 글의 내용과 일치하지 않습니다.</span></div>",
+            "text": "글에서는 매우 유능한 사람이 반드시 더 호감을 받는 것이 아니라고 언급하고 있으므로, ②번은 글의 내용과 일치하지 않습니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5299979417260313,
+                0.5930895202399611,
+                0.3321910144354501,
+                0.20669488108267475
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -29,
+            "area": 649062.876,
+            "bbox": [
+                372.48147351831034,
+                2024.3880173620967,
+                833.8757684332861,
+                778.368794326241
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15019414254770577,
+                0.5775714742830518,
+                0.3362402292069702,
+                0.22207383575641682
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -30,
+            "area": 649062.876,
+            "bbox": [
+                372.48147351831034,
+                2024.3880173620967,
+                833.8757684332861,
+                778.368794326241
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--30\">글에서는 벌들이 waggle dance로 얻은 정보를 그들의 내부 상태와 과거 경험을 바탕으로 평가한다고 언급하므로, ④번은 글의 내용과 일치하지 않습니다.</span></div>",
+            "text": "글에서는 벌들이 waggle dance로 얻은 정보를 그들의 내부 상태와 과거 경험을 바탕으로 평가한다고 언급하므로, ④번은 글의 내용과 일치하지 않습니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.15019414254770577,
+                0.5775714742830518,
+                0.3362402292069702,
+                0.22207383575641682
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -31,
+            "area": 544723.247,
+            "bbox": [
+                1306.1228191090208,
+                1842.7206219326877,
+                830.3348946819774,
+                656.0283687943261
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.526662427060089,
+                0.5257405483402818,
+                0.3348124575330554,
+                0.18716929209538546
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -32,
+            "area": 544723.247,
+            "bbox": [
+                1306.1228191090208,
+                1842.7206219326877,
+                830.3348946819774,
+                656.0283687943261
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--32\">글에서는 가시성이 행동 전염을 촉진하지만, 바이러스 전염은 억제한다고 언급하고 있으므로, ③번은 글의 내용과 일치하지 않습니다.</span></div>",
+            "text": "글에서는 가시성이 행동 전염을 촉진하지만, 바이러스 전염은 억제한다고 언급하고 있으므로, ③번은 글의 내용과 일치하지 않습니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.526662427060089,
+                0.5257405483402818,
+                0.3348124575330554,
+                0.18716929209538546
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -33,
+            "area": 503732.434,
+            "bbox": [
+                368.24905936735445,
+                1906.9454418415698,
+                837.7326505375293,
+                601.3045250713412
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14848752393844938,
+                0.5440643200689215,
+                0.33779542360384246,
+                0.17155621257384915
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -34,
+            "area": 503732.434,
+            "bbox": [
+                368.24905936735445,
+                1906.9454418415698,
+                837.7326505375293,
+                601.3045250713412
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--34\">글에 따르면, 곰의 체온은 겨울잠 동안 거의 정상 상태로 유지된다고 언급하고 있으므로, ④번은 글의 내용과 일치하지 않습니다</span></div>",
+            "text": "글에 따르면, 곰의 체온은 겨울잠 동안 거의 정상 상태로 유지된다고 언급하고 있으므로, ④번은 글의 내용과 일치하지 않습니다",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.14848752393844938,
+                0.5440643200689215,
+                0.33779542360384246,
+                0.17155621257384915
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -35,
+            "area": 619650.359,
+            "bbox": [
+                1282.4139158051994,
+                2255.12182409889,
+                853.9338934268217,
+                725.6420709335507
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5171023854053224,
+                0.6434013763477575,
+                0.34432818283339583,
+                0.2070305480552213
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -36,
+            "area": 619650.359,
+            "bbox": [
+                1282.4139158051994,
+                2255.12182409889,
+                853.9338934268217,
+                725.6420709335507
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--36\">글에서는 나이가 많은 아이들이 고통 소리에 대해 덜 논의하고 덜 공개적으로 반응한다고 언급하고 있으므로, ③번은 글의 내용과 일치하지 않습니다.</span></div>",
+            "text": "글에서는 나이가 많은 아이들이 고통 소리에 대해 덜 논의하고 덜 공개적으로 반응한다고 언급하고 있으므로, ③번은 글의 내용과 일치하지 않습니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5171023854053224,
+                0.6434013763477575,
+                0.34432818283339583,
+                0.2070305480552213
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -37,
+            "area": 549428.949,
+            "bbox": [
+                1294.5636419378543,
+                393.3794317648834,
+                900.0893523195682,
+                610.4160081976461
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5220014685233283,
+                0.11223378937657158,
+                0.36293925496756785,
+                0.17415577979961372
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -38,
+            "area": 549428.949,
+            "bbox": [
+                1294.5636419378543,
+                393.3794317648834,
+                900.0893523195682,
+                610.4160081976461
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--38\">글에 따르면, 아이들은 과학적 설명보다는 세상을 이해하려는 질문을 한다고 언급하고 있으므로, ④번은 글의 내용과 일치하지 않습니다.</span></div>",
+            "text": "글에 따르면, 아이들은 과학적 설명보다는 세상을 이해하려는 질문을 한다고 언급하고 있으므로, ④번은 글의 내용과 일치하지 않습니다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5220014685233283,
+                0.11223378937657158,
+                0.36293925496756785,
+                0.17415577979961372
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "category_id": 9
+        }
+    ]
+}

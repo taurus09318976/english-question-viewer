@@ -1,0 +1,4322 @@
+{
+    "info": {
+        "html_url": "",
+        "provider": "crowdworks"
+    },
+    "items": [
+        {
+            "id": 1,
+            "imageIds": [
+                0
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -1
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    0,
+                    1,
+                    2,
+                    3
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -2
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "imageIds": [
+                0
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -3
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    4,
+                    5,
+                    6
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -4
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "imageIds": [
+                1
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -5
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -6
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "imageIds": [
+                1
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -7
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    14,
+                    15,
+                    16,
+                    17
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -8
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "imageIds": [
+                2
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -9
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    18,
+                    19,
+                    20,
+                    21
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -10
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "imageIds": [
+                2
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -11
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    22,
+                    23,
+                    24,
+                    25
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -12
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "imageIds": [
+                3
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -13
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    26,
+                    27,
+                    28,
+                    29,
+                    30
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -14
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "imageIds": [
+                3
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -15
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    31,
+                    32,
+                    33
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -16
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "imageIds": [
+                4
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -17
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    34,
+                    35,
+                    36,
+                    37,
+                    38,
+                    39,
+                    40,
+                    41
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -18
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "imageIds": [
+                4
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -19
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    42,
+                    43,
+                    44,
+                    45,
+                    46
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -20
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "imageIds": [
+                5
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -21
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    47,
+                    48,
+                    49
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -22
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "imageIds": [
+                5
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -23
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    50,
+                    51,
+                    52,
+                    53
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -24
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "imageIds": [
+                6
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -25
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    54,
+                    55,
+                    56,
+                    57,
+                    58
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -26
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "imageIds": [
+                6
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -27
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    59,
+                    60,
+                    61
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -28
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "imageIds": [
+                7
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -29
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    62,
+                    63,
+                    64,
+                    65,
+                    66,
+                    67,
+                    68,
+                    69
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -30
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "imageIds": [
+                7
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -31
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    70,
+                    71,
+                    72,
+                    73,
+                    74
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -32
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "imageIds": [
+                8
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -33
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    75,
+                    76,
+                    77,
+                    78
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -34
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "imageIds": [
+                8
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -35
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    79,
+                    80,
+                    81,
+                    82,
+                    83
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -36
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "imageIds": [
+                9
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -37
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    84,
+                    85,
+                    86,
+                    87
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -38
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "imageIds": [
+                9
+            ],
+            "answerType": "choice",
+            "sourceInfo": {},
+            "workerMemo": "",
+            "itemTypeInfo": {},
+            "textHtmlCheck": true,
+            "answerAreaInfo": {
+                "annotationIds": [
+                    -39
+                ]
+            },
+            "passageAreaInfo": {
+                "annotationIds": []
+            },
+            "questionAreaInfo": {
+                "annotationIds": [
+                    88,
+                    89,
+                    90,
+                    91
+                ]
+            },
+            "explanationAreaInfo": {
+                "annotationIds": [
+                    -40
+                ]
+            }
+        }
+    ],
+    "images": [
+        {
+            "id": 0,
+            "width": 2481,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3484532690886067597/ENG_3484532690886067597_PAGE_0001.png",
+            "file_name": "ENG_3484532690886067597_PAGE_0001.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 1,
+            "width": 2481,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3484532690886067597/ENG_3484532690886067597_PAGE_0002.png",
+            "file_name": "ENG_3484532690886067597_PAGE_0002.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 2,
+            "width": 2481,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3484532690886067597/ENG_3484532690886067597_PAGE_0003.png",
+            "file_name": "ENG_3484532690886067597_PAGE_0003.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 3,
+            "width": 2481,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3484532690886067597/ENG_3484532690886067597_PAGE_0004.png",
+            "file_name": "ENG_3484532690886067597_PAGE_0004.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 4,
+            "width": 2481,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3484532690886067597/ENG_3484532690886067597_PAGE_0005.png",
+            "file_name": "ENG_3484532690886067597_PAGE_0005.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 5,
+            "width": 2481,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3484532690886067597/ENG_3484532690886067597_PAGE_0006.png",
+            "file_name": "ENG_3484532690886067597_PAGE_0006.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 6,
+            "width": 2481,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3484532690886067597/ENG_3484532690886067597_PAGE_0007.png",
+            "file_name": "ENG_3484532690886067597_PAGE_0007.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 7,
+            "width": 2481,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3484532690886067597/ENG_3484532690886067597_PAGE_0008.png",
+            "file_name": "ENG_3484532690886067597_PAGE_0008.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 8,
+            "width": 2481,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3484532690886067597/ENG_3484532690886067597_PAGE_0009.png",
+            "file_name": "ENG_3484532690886067597_PAGE_0009.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 9,
+            "width": 2481,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3484532690886067597/ENG_3484532690886067597_PAGE_0010.png",
+            "file_name": "ENG_3484532690886067597_PAGE_0010.png",
+            "page_type": "일반문제",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 10,
+            "width": 2481,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3484532690886067597/ENG_3484532690886067597_PAGE_0013.png",
+            "file_name": "ENG_3484532690886067597_PAGE_0013.png",
+            "page_type": "정답지",
+            "bboxCheckStatus": true
+        },
+        {
+            "id": 11,
+            "width": 2481,
+            "height": 3509,
+            "file_url": "https://static.v2.solvook.com/ml/png_data/ENG_3484532690886067597/ENG_3484532690886067597_PAGE_0014.png",
+            "file_name": "ENG_3484532690886067597_PAGE_0014.png",
+            "page_type": "정답지",
+            "bboxCheckStatus": true
+        }
+    ],
+    "licenses": [],
+    "categories": [
+        {
+            "id": 0,
+            "name": "[공통] 발문",
+            "objectColor": "#FF9700",
+            "supercategory": "layout"
+        },
+        {
+            "id": 1,
+            "name": "[그룹] 공통 본문",
+            "objectColor": "#875000",
+            "supercategory": "layout"
+        },
+        {
+            "id": 2,
+            "name": "[단일] 지시문",
+            "objectColor": "#FF0000",
+            "supercategory": "layout"
+        },
+        {
+            "id": 3,
+            "name": "[단일] 본문",
+            "objectColor": "#B62828",
+            "supercategory": "layout"
+        },
+        {
+            "id": 4,
+            "name": "[공통] 보기",
+            "objectColor": "#2E00FF",
+            "supercategory": "layout"
+        },
+        {
+            "id": 5,
+            "name": "[공통] 조건",
+            "objectColor": "#00DE22",
+            "supercategory": "layout"
+        },
+        {
+            "id": 6,
+            "name": "[답안] 객관식",
+            "objectColor": "#BD00FF",
+            "supercategory": "layout"
+        },
+        {
+            "id": 7,
+            "name": "[답안] 주관식",
+            "objectColor": "#FF00A2",
+            "supercategory": "layout"
+        },
+        {
+            "id": 8,
+            "name": "[답안] 공백 선지",
+            "objectColor": "#6A7500",
+            "supercategory": "layout"
+        },
+        {
+            "id": 9,
+            "name": "[정답] 정답/해설",
+            "objectColor": "#DE00CA",
+            "supercategory": "layout"
+        },
+        {
+            "id": 10,
+            "name": "[공통] 도표",
+            "objectColor": "#00D8FF",
+            "supercategory": "layout"
+        },
+        {
+            "id": 11,
+            "name": "[공통] 그림",
+            "objectColor": "#005C6D",
+            "supercategory": "layout"
+        },
+        {
+            "id": 12,
+            "name": "[그룹] 공백 지시문",
+            "objectColor": "#C6AC62",
+            "supercategory": "layout"
+        },
+        {
+            "id": 13,
+            "name": "[단일] 공백 지시문",
+            "objectColor": "#FFCBA5",
+            "supercategory": "layout"
+        },
+        {
+            "id": 14,
+            "name": "[각주] 단어",
+            "objectColor": "#00FFD5",
+            "supercategory": "layout"
+        },
+        {
+            "id": 99,
+            "name": "[그룹] 문항 구분",
+            "objectColor": "#7A3245",
+            "supercategory": "layout"
+        },
+        {
+            "id": 100,
+            "name": "[단일] 문항 구분",
+            "objectColor": "#32517A",
+            "supercategory": "layout"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "area": 30840.047,
+            "bbox": [
+                221.7700000000001,
+                411.82,
+                652.699417710979,
+                47.25
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"0\">다음 글의 제목으로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 제목으로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.08938734381297868,
+                0.11736107153035052,
+                0.263079168767021,
+                0.013465374750641208
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1,
+            "area": 939766.876,
+            "bbox": [
+                174.09715317855864,
+                478.49149269291615,
+                1017.1787375525051,
+                923.8955175749759
+            ],
+            "html": "<div class=\"contents question\"><span class=\"1\">It is a week before the internship program starts. I am writing to bring your attention to a matter that requires immediate consideration regarding the issue my department has. As the coordinator, it is becoming apparent to me that the budget, previously approved by your department, needs some adjustments in order to meet the emerging modifications. Since my department has hired three more interns than planned initially, the most expensive need is for additional funding to cover their wages, training costs, and materials. I kindly request an additional budget allocation for these expenses. Please refer to the attachment for details. Thank you for your attention.</span></div>",
+            "text": "It is a week before the internship program starts. I am writing to bring your attention to a matter that requires immediate consideration regarding the issue my department has. As the coordinator, it is becoming apparent to me that the budget, previously approved by your department, needs some adjustments in order to meet the emerging modifications. Since my department has hired three more interns than planned initially, the most expensive need is for additional funding to cover their wages, training costs, and materials. I kindly request an additional budget allocation for these expenses. Please refer to the attachment for details. Thank you for your attention.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07017216976161171,
+                0.1363612119387051,
+                0.40998739925534267,
+                0.2632931084568184
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2,
+            "area": 471594.997,
+            "bbox": [
+                182.157206566455,
+                1446.920361268119,
+                1015.5667268749257,
+                464.3663334408259
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"2\">① Request for Funds to Recruit New Staff<br>② Permanent Expansion of the Internship Program<br>③ Budget Adjustment Needed for Unplanned Intern Hires<br>④ New Training Materials for the Internship Program<br>⑤ Tightening the Purse Strings: Reducing Intern Wages to Meet Budget Needs</span></div>",
+            "text": "① Request for Funds to Recruit New Staff\n② Permanent Expansion of the Internship Program\n③ Budget Adjustment Needed for Unplanned Intern Hires\n④ New Training Materials for the Internship Program\n⑤ Tightening the Purse Strings: Reducing Intern Wages to Meet Budget Needs",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07342088132464933,
+                0.41234550050388113,
+                0.4093376569427351,
+                0.13233580320342717
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3,
+            "area": 29137.932,
+            "bbox": [
+                173.800411750163,
+                2003.2799384283865,
+                1025.0523399896522,
+                28.425798862968122
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07005256418789318,
+                0.5708976741032734,
+                0.4131609592864378,
+                0.008100826122247969
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4,
+            "area": 123356.311,
+            "bbox": [
+                1282.7799999999997,
+                404.3719788471734,
+                1022.0100000000002,
+                120.69971069220651
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"4\">다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 <u>않은</u> 것은?</span></div>",
+            "text": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 <u>않은</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5170415155179362,
+                0.11523852346741904,
+                0.4119347037484886,
+                0.034397181730466374
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5,
+            "area": 1209690.346,
+            "bbox": [
+                1283.810057584729,
+                537.8417848254434,
+                1020.7065933809238,
+                1185.1499286054254
+            ],
+            "html": "<div class=\"contents question\"><span class=\"5\">Katie approached the hotel front desk to check-in but an unexpected event ① <u>unfolded</u>. The receptionist couldn&apos;t find her reservation under the name &apos;Katie&apos;. &quot;I&apos;m sorry, but I can&apos;t seem to locate a reservation under that name,&quot; the receptionist said. &quot;No way, I ② <u>definitely</u> made a reservation on the phone,&quot; Katie said, puzzled. The receptionist asked, &quot;Can you tell me your phone number?&quot; and Katie told it to him, thinking &apos;What happened? Did I make a mistake?&apos; &quot;Just a moment,&quot; the receptionist said, typing ③ <u>deliberately</u> on the keyboard. &quot;I found it! It seems there was a small misspelling. Your reservation is under &apos;K-A-T-Y&apos;,&quot; the receptionist explained. With a sense of ease, Katie watched her reservation ④ <u>disappearing</u> on the screen. With her heart slowing to a gentle rhythm, she proceeded with her check-in, thinking that a simple ⑤ <u>misspelling</u> might have ruined her plans.</span></div>",
+            "text": "Katie approached the hotel front desk to check-in but an unexpected event ① <u>unfolded</u>. The receptionist couldn't find her reservation under the name 'Katie'. \"I'm sorry, but I can't seem to locate a reservation under that name,\" the receptionist said. \"No way, I ② <u>definitely</u> made a reservation on the phone,\" Katie said, puzzled. The receptionist asked, \"Can you tell me your phone number?\" and Katie told it to him, thinking 'What happened? Did I make a mistake?' \"Just a moment,\" the receptionist said, typing ③ <u>deliberately</u> on the keyboard. \"I found it! It seems there was a small misspelling. Your reservation is under 'K-A-T-Y',\" the receptionist explained. With a sense of ease, Katie watched her reservation ④ <u>disappearing</u> on the screen. With her heart slowing to a gentle rhythm, she proceeded with her check-in, thinking that a simple ⑤ <u>misspelling</u> might have ruined her plans.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5174566939075893,
+                0.15327494580377413,
+                0.4114093484002111,
+                0.3377457761770947
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6,
+            "area": 36073.111,
+            "bbox": [
+                1282.720549822879,
+                1816.6046640072507,
+                1020.2471002321404,
+                35.35722994391631
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5170175533344938,
+                0.5176986788279426,
+                0.41122414358409526,
+                0.010076155583903195
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7,
+            "area": 66872.514,
+            "bbox": [
+                230.0658850213964,
+                402.60351151885357,
+                964.9407330222126,
+                69.30219793517023
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"7\">주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?</span></div>",
+            "text": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.09273111044796309,
+                0.11473454303757583,
+                0.38893217775986,
+                0.01974984267174985
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8,
+            "area": 261462.833,
+            "bbox": [
+                178.73925028617236,
+                488.73217338670975,
+                1008.5683725471524,
+                259.2415552389705
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"8\">To be mathematically literate means to be able to think critically about societal issues on which mathematics has bearing so as to make informed decisions about how to solve these problems.</span></div>",
+            "text": "To be mathematically literate means to be able to think critically about societal issues on which mathematics has bearing so as to make informed decisions about how to solve these problems.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07204322865222586,
+                0.13927961624015667,
+                0.40651687728623637,
+                0.07387904110543474
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9,
+            "area": 465485.919,
+            "bbox": [
+                178.73925028617236,
+                817.2759265608505,
+                1018.8336994941972,
+                456.88115675778965
+            ],
+            "html": "<div class=\"contents question\"><span class=\"9\">(A) Navigating our world means being able to quantify, measure, estimate, classify, compare, find patterns, conjecture, justify, prove, and generalize within critical thinking and when using critical thinking. Therefore, making decisions, even qualitatively, is not possible without using mathematics and critical thinking.</span></div>",
+            "text": "(A) Navigating our world means being able to quantify, measure, estimate, classify, compare, find patterns, conjecture, justify, prove, and generalize within critical thinking and when using critical thinking. Therefore, making decisions, even qualitatively, is not possible without using mathematics and critical thinking.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07204322865222586,
+                0.23290850001734126,
+                0.4106544536453838,
+                0.1302026665026474
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10,
+            "area": 395227.622,
+            "bbox": [
+                181.30558202293355,
+                1286.9908236770048,
+                1026.5326947044807,
+                385.0122107509462
+            ],
+            "html": "<div class=\"contents question\"><span class=\"10\">(B) Thus, teaching mathematics should be done in interaction with critical thinking along with a decision-making process. They can be developed into the mathematical context, so that there is no excuse to not explicitly support students to develop them.</span></div>",
+            "text": "(B) Thus, teaching mathematics should be done in interaction with critical thinking along with a decision-making process. They can be developed into the mathematical context, so that there is no excuse to not explicitly support students to develop them.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07307762274201271,
+                0.36676854479253485,
+                0.41375763591474435,
+                0.1097213481763882
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11,
+            "area": 279294.186,
+            "bbox": [
+                171.0402550758887,
+                1679.70327864297,
+                1026.5326947044814,
+                272.07529559733507
+            ],
+            "html": "<div class=\"contents question\"><span class=\"11\">(C) Dealing with such complex problems through interdisciplinary approaches, mirroring real-world problems requires innovative ways of planning and organizing mathematical teaching methods.</span></div>",
+            "text": "(C) Dealing with such complex problems through interdisciplinary approaches, mirroring real-world problems requires innovative ways of planning and organizing mathematical teaching methods.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06894004638286526,
+                0.4786843199324508,
+                0.4137576359147446,
+                0.07753641937798092
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12,
+            "area": 175138.534,
+            "bbox": [
+                165.90759160236638,
+                1990.2797953153993,
+                1003.43570907363,
+                174.53886887376234
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"12\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50%;\">① (A) - (C) - (B)</td></tr><tr><td style=\"width: 50%;\">② (B) - (A) - (C)</td></tr><tr><td style=\"width: 50%;\">③ (B) - (C) - (A)</td></tr><tr><td style=\"width: 50%;\">④ (C) - (A) - (B)</td></tr><tr><td style=\"width: 50%;\">⑤ (C) - (B) - (A)</td></tr></tbody></table></span></div>",
+            "text": "① (A) - (C) - (B)\n② (B) - (A) - (C)\n③ (B) - (C) - (A)\n④ (C) - (A) - (B)\n⑤ (C) - (B) - (A)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06687125820329157,
+                0.5671928741280705,
+                0.40444808910666263,
+                0.049740344506629335
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13,
+            "area": 12779.026,
+            "bbox": [
+                168.47392333912757,
+                2243.817468126512,
+                995.7367138633465,
+                12.833740358364594
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06790565229307842,
+                0.63944641439912,
+                0.4013449068373021,
+                0.0036573782725461937
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14,
+            "area": 50523.264,
+            "bbox": [
+                1343.878061346267,
+                413.72609302368113,
+                757.0678623445544,
+                66.73544986349731
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"14\">다음 빈칸에 들어갈 말로 가장 적절한 것은?</span></div>",
+            "text": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5416679005829371,
+                0.11790427273402142,
+                0.3051462564871239,
+                0.019018367017240613
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15,
+            "area": 1241423.136,
+            "bbox": [
+                1292.5514266110429,
+                493.2952832455434,
+                1003.4357090736296,
+                1237.1725705463732
+            ],
+            "html": "<div class=\"contents question\"><span class=\"15\">Imagine that your usually stingy friend delights in buying you a Christmas present after taking a generosity booster. How would you feel? Undoubtedly, there is something praiseworthy about the action. You&apos;d be pleased to receive the gift. You&apos;d say &apos;thank you&apos;, and mean it. But his change of heart is not entirely satisfying. According to Zagzebski, an American philosopher, he is not really generous. When we praise someone&apos;s character, we use words for various virtues: &apos;generous&apos;, &apos;kind&apos;, &apos;courageous&apos;, etc. A person who gives one gift isn&apos;t generous. Instead, generosity is a stable part of a person&apos;s &apos;moral identity&apos;, an emotional habit that is part of who you are. Thus virtues, as opposed to nontypical impulse, are __________. They are part of who you are, as they are part of how your character was formed. Instant virtue is therefore impossible. Popping a pill cannot make you a better person.</span></div>",
+            "text": "Imagine that your usually stingy friend delights in buying you a Christmas present after taking a generosity booster. How would you feel? Undoubtedly, there is something praiseworthy about the action. You'd be pleased to receive the gift. You'd say 'thank you', and mean it. But his change of heart is not entirely satisfying. According to Zagzebski, an American philosopher, he is not really generous. When we praise someone's character, we use words for various virtues: 'generous', 'kind', 'courageous', etc. A person who gives one gift isn't generous. Instead, generosity is a stable part of a person's 'moral identity', an emotional habit that is part of who you are. Thus virtues, as opposed to nontypical impulse, are __________. They are part of who you are, as they are part of how your character was formed. Instant virtue is therefore impossible. Popping a pill cannot make you a better person.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5209800187871999,
+                0.14058001802380832,
+                0.40444808910666247,
+                0.35257126547346057
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16,
+            "area": 299681.345,
+            "bbox": [
+                1292.5514266110429,
+                1784.3695632970494,
+                864.8537952885247,
+                346.5109896758513
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"16\">① a reflection of how others view us<br>② the result of your personal history<br>③ enduring qualities determined by genes<br>④ temporary feelings that can come and go<br>⑤ qualities influenced by your surroundings</span></div>",
+            "text": "① a reflection of how others view us\n② the result of your personal history\n③ enduring qualities determined by genes\n④ temporary feelings that can come and go\n⑤ qualities influenced by your surroundings",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5209800187871999,
+                0.5085122722419634,
+                0.34859080825817196,
+                0.09874921335874931
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17,
+            "area": 17936.747,
+            "bbox": [
+                1289.9850948742815,
+                2194.47890764568,
+                998.3030456001079,
+                17.96723650171043
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5199456246974129,
+                0.6253858385995098,
+                0.402379300927089,
+                0.005120329581564671
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18,
+            "area": 52034.119,
+            "bbox": [
+                230.5600635453476,
+                405.30113456475885,
+                791.3522299388553,
+                65.75342465753425
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"18\">다음 글의 밑줄 친 부분 중, 어법상 <u>틀린</u> 것은?</span></div>",
+            "text": "다음 글의 밑줄 친 부분 중, 어법상 <u>틀린</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.09293029566519452,
+                0.11550331563543997,
+                0.3189650261744681,
+                0.01873850802437568
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19,
+            "area": 1312151.046,
+            "bbox": [
+                181.27168936230464,
+                484.20525251478034,
+                1010.4116707523792,
+                1298.6301369863015
+            ],
+            "html": "<div class=\"contents question\"><span class=\"19\">To determine the mass of my bowling ball, I might put it onto a balance and compare it with a known mass, such as a number of metal cubes each weighing 1, 10, or 100 grams. Things get ① <u>much more</u> complicated if I want to know the mass of a distant star. How do I measure it? We can roughly say that ② <u>measuring</u> the mass of a star involves various theories. If we want to measure the mass of a binary star, we first determine a center of mass between the two stars, then their distance from that center ③ <u>where</u> we can then use, together with a value for the period and a certain instance of Kepler&apos;s Third Law, to calculate the mass. In other words, in order to &quot;measure&quot; the star mass, we measure other quantities and use those values, together with certain equations, ④ <u>to calculate</u> the mass. Measurement is not a simple and unmediated estimation of independently existing properties, but a determination of certain magnitudes before the background of a number of ⑤ <u>accepted</u> theories.</span></div>",
+            "text": "To determine the mass of my bowling ball, I might put it onto a balance and compare it with a known mass, such as a number of metal cubes each weighing 1, 10, or 100 grams. Things get ① <u>much more</u> complicated if I want to know the mass of a distant star. How do I measure it? We can roughly say that ② <u>measuring</u> the mass of a star involves various theories. If we want to measure the mass of a binary star, we first determine a center of mass between the two stars, then their distance from that center ③ <u>where</u> we can then use, together with a value for the period and a certain instance of Kepler's Third Law, to calculate the mass. In other words, in order to \"measure\" the star mass, we measure other quantities and use those values, together with certain equations, ④ <u>to calculate</u> the mass. Measurement is not a simple and unmediated estimation of independently existing properties, but a determination of certain magnitudes before the background of a number of ⑤ <u>accepted</u> theories.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07306396185502001,
+                0.13798952764741532,
+                0.4072598431085769,
+                0.37008553348141965
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20,
+            "area": 15004.071,
+            "bbox": [
+                908.1172419081289,
+                1788.2318296895678,
+                273.824301016905,
+                54.79452054794524
+            ],
+            "html": "<div class=\"footnote\"><span>* binary star: 쌍성</span></div>",
+            "text": "*binary star: 쌍성",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.3660287149972305,
+                0.5096129466199966,
+                0.11036852116763603,
+                0.015615423353646407
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 14,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21,
+            "area": 52454.233,
+            "bbox": [
+                178.53344635213568,
+                1965.7826852889516,
+                1007.67342774221,
+                52.054794520548285
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07196027664334369,
+                0.5602116515500004,
+                0.40615615789690046,
+                0.014834652185964173
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22,
+            "area": 133281.165,
+            "bbox": [
+                1275.0088608925264,
+                400.07079475120975,
+                1035.0558578439002,
+                128.76712328767132
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"22\">글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?</span></div>",
+            "text": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5139092546926749,
+                0.11401276567432594,
+                0.41719301001366393,
+                0.03669624488106906
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23,
+            "area": 126304.272,
+            "bbox": [
+                1296.9148049738787,
+                541.9885904289174,
+                1002.1969417218716,
+                126.02739726027403
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"23\">She says that our attempts to escape being miserable are in fact making us even more miserable.</span></div>",
+            "text": "She says that our attempts to escape being miserable are in fact making us even more miserable.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5227387363860857,
+                0.15445670858618335,
+                0.40394878747354757,
+                0.03591547371338673
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 24,
+            "area": 1309045.943,
+            "bbox": [
+                1291.44,
+                736.51,
+                1004.94,
+                1302.6110440461991
+            ],
+            "html": "<div class=\"contents question\"><span class=\"24\">Based on discoveries in neuroscience, pain and pleasure are formed and processed in the same area of the brain. Our bodies constantly strive for homeostasis, which is defined as the balance of bodily functions. Without the body&apos;s effective compensatory mechanisms, which may cushion potential highs and lows, we would not be capable of surviving. (①) Pleasure and pain are like two sides of the same coin; they seem to work together and are heavily reliant on one another and keep balance. (②) If you imagine pleasure and pain as the two opposite points on a scale, you can easily understand that as one of the two points rises, the other must correspondingly fall. (③) We&apos;ve all heard the expression, &quot;No pain, no gain.&quot; (④) Well, according to psychiatrist Dr. Anna Lembke, there may be some truth to these words. (⑤) This is because pain is actually an essential component of our ability to maintain a neutral state, and allowing it will in turn reset our internal scale back to balance.</span></div>",
+            "text": "Based on discoveries in neuroscience, pain and pleasure are formed and processed in the same area of the brain. Our bodies constantly strive for homeostasis, which is defined as the balance of bodily functions. Without the body's effective compensatory mechanisms, which may cushion potential highs and lows, we would not be capable of surviving. (①) Pleasure and pain are like two sides of the same coin; they seem to work together and are heavily reliant on one another and keep balance. (②) If you imagine pleasure and pain as the two opposite points on a scale, you can easily understand that as one of the two points rises, the other must correspondingly fall. (③) We've all heard the expression, \"No pain, no gain.\" (④) Well, according to psychiatrist Dr. Anna Lembke, there may be some truth to these words. (⑤) This is because pain is actually an essential component of our ability to maintain a neutral state, and allowing it will in turn reset our internal scale back to balance.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5205320435308344,
+                0.20989170703904245,
+                0.40505441354292626,
+                0.37122001825198037
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 25,
+            "area": 44412.051,
+            "bbox": [
+                1286.4926396769433,
+                2113.1799513902743,
+                1013.1499137625478,
+                43.83561643835583
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5185379442470549,
+                0.6022171420319961,
+                0.4083635283202531,
+                0.012492338682917022
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 26,
+            "area": 112797.059,
+            "bbox": [
+                174.08832638022375,
+                427.6627496295539,
+                1024.462703756008,
+                110.10362694300522
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"26\">다음 글의 내용을 <u>한 문장</u>으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 내용을 <u>한 문장</u>으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07016861200331469,
+                0.12187596170691191,
+                0.41292329857154697,
+                0.031377494141637284
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 27,
+            "area": 1327330.758,
+            "bbox": [
+                178.66983858413505,
+                547.5870339362549,
+                1015.9815680412139,
+                1306.4516129032254
+            ],
+            "html": "<div class=\"contents question\"><span class=\"27\">Manufacturers masterfully sow seeds of doubt about the adequacy of our current devices. Suddenly, the phone that was your lifeline a year ago is now a museum piece, unable to keep pace with your digital demands. And thus, the itch to upgrade begins, often before there&apos;s a genuine need. This cycle isn&apos;t just confined to our digital companions. It spills over into almost every aspect of consumer electronics, from the self-driving car to the smart fridge. Every product seems to be on an unstoppable march towards the next version, the next generation that promises to revolutionize your life. What&apos;s fascinating, or perhaps disturbing, is the utter efficacy of this cycle in shaping our desires. It&apos;s not so much that we want the newest device; we&apos;re led to believe we need it. The distinction between want and need blurs, shifting our financial priorities in favor of staying current with trends. For all the logical arguments against this ceaseless upgrading, the temptation remains compelling.</span></div>",
+            "text": "Manufacturers masterfully sow seeds of doubt about the adequacy of our current devices. Suddenly, the phone that was your lifeline a year ago is now a museum piece, unable to keep pace with your digital demands. And thus, the itch to upgrade begins, often before there's a genuine need. This cycle isn't just confined to our digital companions. It spills over into almost every aspect of consumer electronics, from the self-driving car to the smart fridge. Every product seems to be on an unstoppable march towards the next version, the next generation that promises to revolutionize your life. What's fascinating, or perhaps disturbing, is the utter efficacy of this cycle in shaping our desires. It's not so much that we want the newest device; we're led to believe we need it. The distinction between want and need blurs, shifting our financial priorities in favor of staying current with trends. For all the logical arguments against this ceaseless upgrading, the temptation remains compelling.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07201525134386741,
+                0.15605216128134936,
+                0.4095048641842861,
+                0.372314509234319
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 28,
+            "area": 401651.444,
+            "bbox": [
+                178.48240954283722,
+                1934.6462113180125,
+                1012.0908627356949,
+                396.85314685314665
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"28\">Manufacturers skillfully create doubt about the adequacy of our devices, fueling a relentless cycle of upgrades that ______(A)______ the line between wants and needs, ultimately shaping consumer desires and financial priorities despite the ______(B)______ of genuine necessity.</span></div>",
+            "text": "Manufacturers skillfully create doubt about the adequacy of our devices, fueling a relentless cycle of upgrades that ______(A)______ the line between wants and needs, ultimately shaping consumer desires and financial priorities despite the ______(B)______ of genuine necessity.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07193970557953938,
+                0.5513383332339734,
+                0.40793666373869203,
+                0.11309579562643107
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 29,
+            "area": 272009.275,
+            "bbox": [
+                187.22239972190198,
+                2343.7371204089222,
+                723.6711868265588,
+                375.87412587412564
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"29\"><table style=\"width: 100%; text-align: center;\"><tbody><tr><td style=\"width: 12%;\"></td><td style=\"width: 44%;\">(A)</td><td style=\"width: 44%;\">(B)</td></tr><tr><td style=\"width: 12%;\">①</td><td style=\"width: 44%;\">highlights</td><td style=\"width: 44%;\">elimination</td></tr><tr><td style=\"width: 12%;\">②</td><td style=\"width: 44%;\">enforces</td><td style=\"width: 44%;\">absence</td></tr><tr><td style=\"width: 12%;\">③</td><td style=\"width: 44%;\">blurs</td><td style=\"width: 44%;\">presence</td></tr><tr><td style=\"width: 12%;\">④</td><td style=\"width: 44%;\">obscures</td><td style=\"width: 44%;\">lack</td></tr><tr><td style=\"width: 12%;\">⑤</td><td style=\"width: 44%;\">eliminates</td><td style=\"width: 44%;\">doubt</td></tr></tbody></table></span></div>",
+            "text": "(A)&&(B)\n① highlights&&elimination\n② enforces&&absence\n③ blurs&&presence\n④ obscures&&lack\n⑤ eliminates&&doubt",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07546247469645384,
+                0.6679216644083563,
+                0.29168528288051543,
+                0.107117163258514
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 30,
+            "area": 10799.694,
+            "bbox": [
+                169.75003073693665,
+                2779.5134418957114,
+                1029.5708430938241,
+                10.489510489510394
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06842000432766492,
+                0.7921098438004307,
+                0.4149822019725208,
+                0.0029893161839585052
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 31,
+            "area": 113691.249,
+            "bbox": [
+                1282.7619178655193,
+                426.17869070382227,
+                1020.5772573447969,
+                111.39896373056996
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"31\">다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 <u>않은</u> 것은?</span></div>",
+            "text": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 <u>않은</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5170342272734862,
+                0.12145303240348312,
+                0.41135721779314666,
+                0.03174664113153889
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 32,
+            "area": 1498431.199,
+            "bbox": [
+                1291.4232594718812,
+                546.8936633038264,
+                997.1670945589697,
+                1502.6881720430101
+            ],
+            "html": "<div class=\"contents question\"><span class=\"32\">Conditioned Place Preference is a way of finding out what animals want. Researchers train them to associate one place with an experience such as food or a loud noise and another place with something completely ① <u>indifferent</u>, usually where nothing happens. The two places are made obviously different to make it as easy as possible for the animal to associate each place with what happened to it there. The animal&apos;s preference for being in one place or another is ② <u>measured</u> both before and after its experiences in the two places. If there is a shift in where the animal chooses to spend its time for the reward, this suggests that it liked the experience and is trying to repeat it. Conversely, if it now avoids the place the stimulus ③ <u>appeared</u> and starts to prefer the place it did not experience it, then this suggests that it found the stimulus unpleasant. For example, mice with cancer show a ④ <u>preference</u> for the place where they have been given morphine, a drug used to relieve pain, rather than where they have received saline whereas healthy mice ⑤ <u>developed</u> no such preference. This suggests that the mice with cancer wanted the morphine.</span></div>",
+            "text": "Conditioned Place Preference is a way of finding out what animals want. Researchers train them to associate one place with an experience such as food or a loud noise and another place with something completely ① <u>indifferent</u>, usually where nothing happens. The two places are made obviously different to make it as easy as possible for the animal to associate each place with what happened to it there. The animal's preference for being in one place or another is ② <u>measured</u> both before and after its experiences in the two places. If there is a shift in where the animal chooses to spend its time for the reward, this suggests that it liked the experience and is trying to repeat it. Conversely, if it now avoids the place the stimulus ③ <u>appeared</u> and starts to prefer the place it did not experience it, then this suggests that it found the stimulus unpleasant. For example, mice with cancer show a ④ <u>preference</u> for the place where they have been given morphine, a drug used to relieve pain, rather than where they have received saline whereas healthy mice ⑤ <u>developed</u> no such preference. This suggests that the mice with cancer wanted the morphine.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5205252960386462,
+                0.15585456349496335,
+                0.4019214407734662,
+                0.4282382935431776
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 33,
+            "area": 16117.031,
+            "bbox": [
+                1286.7274315270265,
+                2101.7098148941714,
+                1024.3268489863854,
+                15.734265734266046
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5186325802204863,
+                0.5989483656010748,
+                0.41286854050237215,
+                0.004483974275937887
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 34,
+            "area": 59081.234,
+            "bbox": [
+                228.47514416438662,
+                421.7614284904055,
+                961.3497315224965,
+                61.456546401731714
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"34\">주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?</span></div>",
+            "text": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.0920899412190192,
+                0.12019419449712325,
+                0.38748477691354155,
+                0.017513977315968002
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 35,
+            "area": 211339.236,
+            "bbox": [
+                175.40200537106654,
+                497.17982481296576,
+                1018.9155837094725,
+                207.41584410584483
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"35\">Near the equator, many species of bird breed all year round. But in temperate and polar regions, the breeding seasons of birds are often sharply defined.</span></div>",
+            "text": "Near the equator, many species of bird breed all year round. But in temperate and polar regions, the breeding seasons of birds are often sharply defined.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.0706981077674593,
+                0.14168704041406832,
+                0.41068745816584945,
+                0.059109673441392084
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 36,
+            "area": 512512.756,
+            "bbox": [
+                190.50518841756548,
+                773.3768446313202,
+                992.0515193555505,
+                516.6190931895578
+            ],
+            "html": "<div class=\"contents question\"><span class=\"36\">(A) This is because their reproductive system shrinks, which helps flying birds save weight. The main exception to this rule are nomadic desert species. These can initiate their breeding cycle within days of rain. It&apos;s for making the most of the sudden breeding opportunity. Also, different species divide the breeding season up in different ways. Most seabirds raise a single brood.</span></div>",
+            "text": "(A) This is because their reproductive system shrinks, which helps flying birds save weight. The main exception to this rule are nomadic desert species. These can initiate their breeding cycle within days of rain. It's for making the most of the sudden breeding opportunity. Also, different species divide the breeding season up in different ways. Most seabirds raise a single brood.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07678564627874465,
+                0.22039807484506133,
+                0.39985954024810577,
+                0.14722687181235616
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 37,
+            "area": 318177.064,
+            "bbox": [
+                190.0725918981684,
+                1302.0838982344537,
+                992.0515193555502,
+                320.72635153403803
+            ],
+            "html": "<div class=\"contents question\"><span class=\"37\">(B) In warm regions, however, songbirds may raise several families in a few months. In an exceptionally good year, a pair of House Sparrows, a kind of songbird, can raise successive broods through a marathon reproductive effort.</span></div>",
+            "text": "(B) In warm regions, however, songbirds may raise several families in a few months. In an exceptionally good year, a pair of House Sparrows, a kind of songbird, can raise successive broods through a marathon reproductive effort.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07661128250631537,
+                0.3710697914603744,
+                0.3998595402481057,
+                0.09140106911770819
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 38,
+            "area": 320082.316,
+            "bbox": [
+                191.43320667701857,
+                1638.266673022076,
+                992.0515193555503,
+                322.6468686090918
+            ],
+            "html": "<div class=\"contents question\"><span class=\"38\">(C) They are triggered mainly by changes in day length. If all goes well, the outcome is that birds raise their young when the food supply is at its peak. Most birds are not simply reluctant to breed at other times but they are also physically incapable of doing so.</span></div>",
+            "text": "(C) They are triggered mainly by changes in day length. If all goes well, the outcome is that birds raise their young when the food supply is at its peak. Most birds are not simply reluctant to breed at other times but they are also physically incapable of doing so.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07715969636316751,
+                0.46687565489372357,
+                0.3998595402481057,
+                0.0919483809088321
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 39,
+            "area": 32340.546,
+            "bbox": [
+                532.1543846502559,
+                1969.8713953757667,
+                647.4311929219341,
+                49.9520975097887
+            ],
+            "html": "<div class=\"footnote\"><span>* nomadic: 유목성의<br>** brood: 함께 태어난 새끼들</span></div>",
+            "text": "*nomadic: 유목성의\n**brood: 함께 태어난 새끼들",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.214491892241135,
+                0.5613768581863114,
+                0.26095574079884487,
+                0.01423542248782807
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 14,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 40,
+            "area": 126885.353,
+            "bbox": [
+                190.40406972907567,
+                2086.7030000286286,
+                957.5120080433649,
+                132.51567817873365
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"40\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50%;\">① (A) - (C) - (B)</td></tr><tr><td style=\"width: 50%;\">② (B) - (A) - (C)</td></tr><tr><td style=\"width: 50%;\">③ (B) - (C) - (A)</td></tr><tr><td style=\"width: 50%;\">④ (C) - (A) - (B)</td></tr><tr><td style=\"width: 50%;\">⑤ (C) - (B) - (A)</td></tr></tbody></table></span></div>",
+            "text": "① (A) - (C) - (B)\n② (B) - (A) - (C)\n③ (B) - (C) - (A)\n④ (C) - (A) - (B)\n⑤ (C) - (B) - (A)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07674488904839809,
+                0.5946717013475715,
+                0.385937931496721,
+                0.0377645135875559
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 41,
+            "area": 24959.905,
+            "bbox": [
+                188.11184667816292,
+                2290.7321457150947,
+                999.7269663138138,
+                24.966721975703877
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07582097810486212,
+                0.6528162284739512,
+                0.4029532310817468,
+                0.007115053284612105
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 42,
+            "area": 129097.142,
+            "bbox": [
+                1277.4460906628933,
+                418.48,
+                1034.1836244183646,
+                124.83000000000004
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"42\">다음 글의 내용을 <u>한 문장</u>으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 내용을 <u>한 문장</u>으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5148916125203117,
+                0.11925904816186948,
+                0.4168414447474263,
+                0.03557423767455117
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 43,
+            "area": 1400255.954,
+            "bbox": [
+                1286.5,
+                553.1099999999999,
+                1015.0799999999999,
+                1379.4537903676496
+            ],
+            "html": "<div class=\"contents question\"><span class=\"43\">One factor that may hinder creativity is unawareness of the resources required in each activity in students&apos; learning. Often students are unable to identify the resources they need to perform the task required of them. Different resources may be compulsory for specific learning tasks, and recognizing them may simplify the activity&apos;s performance. For example, it may be that students desire to conduct some experiments in their projects. There must be a prior investigation of whether the students will have access to the laboratory, equipment, and chemicals required for the experiment. It means preparation is vital for the students to succeed, and it may be about human and financial resources such as laboratory technicians, money to purchase chemicals, and equipment for their learning where applicable. Even if some of the resources required for a task may not be available, identifying them in advance may help students&apos; creativity. It may even lead to changing the topic, finding alternative resources, and other means.</span></div>",
+            "text": "One factor that may hinder creativity is unawareness of the resources required in each activity in students' learning. Often students are unable to identify the resources they need to perform the task required of them. Different resources may be compulsory for specific learning tasks, and recognizing them may simplify the activity's performance. For example, it may be that students desire to conduct some experiments in their projects. There must be a prior investigation of whether the students will have access to the laboratory, equipment, and chemicals required for the experiment. It means preparation is vital for the students to succeed, and it may be about human and financial resources such as laboratory technicians, money to purchase chemicals, and equipment for their learning where applicable. Even if some of the resources required for a task may not be available, identifying them in advance may help students' creativity. It may even lead to changing the topic, finding alternative resources, and other means.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5185409109230149,
+                0.15762610430322027,
+                0.4091414752116082,
+                0.3931187775342404
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 44,
+            "area": 404724.145,
+            "bbox": [
+                1288.8527924651378,
+                2004.9260502507336,
+                1013.1589984907744,
+                399.46755161125657
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"44\">A lack of ______(A)______ about necessary resources can hinder students&apos; creativity, but identifying these resources in advance can aid in task performance, lead to better preparation, and encourage creative alternatives when certain resources are ______(B)______.</span></div>",
+            "text": "A lack of ______(A)______ about necessary resources can hinder students' creativity, but identifying these resources in advance can aid in task performance, lead to better preparation, and encourage creative alternatives when certain resources are ______(B)______.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5194892351733728,
+                0.5713667854804029,
+                0.40836719004061844,
+                0.11384085255379213
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 45,
+            "area": 282382.036,
+            "bbox": [
+                1293.7000000000003,
+                2462.4080604152696,
+                729.1700000000001,
+                387.265021807033
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"45\"><table style=\"width: 100%; text-align: center;\"><tbody><tr><td style=\"width: 12%;\"></td><td style=\"width: 44%;\">(A)</td><td style=\"width: 44%;\">(B)</td></tr><tr><td style=\"width: 12%;\">①</td><td style=\"width: 44%;\">unawareness</td><td style=\"width: 44%;\">inaccessible</td></tr><tr><td style=\"width: 12%;\">②</td><td style=\"width: 44%;\">knowledge</td><td style=\"width: 44%;\">irrelevant</td></tr><tr><td style=\"width: 12%;\">③</td><td style=\"width: 44%;\">awareness</td><td style=\"width: 44%;\">unavailable</td></tr><tr><td style=\"width: 12%;\">④</td><td style=\"width: 44%;\">understanding</td><td style=\"width: 44%;\">identifiable</td></tr><tr><td style=\"width: 12%;\">⑤</td><td style=\"width: 44%;\">assistance</td><td style=\"width: 44%;\">identical</td></tr></tbody></table></span></div>",
+            "text": "(A)&&(B)\n① unawareness&&inaccessible\n② knowledge&&irrelevant\n③ awareness&&unavailable\n④ understanding&&identifiable\n⑤ assistance&&identical\n",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5214429665457478,
+                0.701740684073887,
+                0.2939016525594519,
+                0.11036335759676062
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 46,
+            "area": 29465.216,
+            "bbox": [
+                1286.3228098742895,
+                2918.2645112090695,
+                1022.8223110843635,
+                28.807756125811466
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5184694920895967,
+                0.8316513283582415,
+                0.412262116519292,
+                0.008209676866859921
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 47,
+            "area": 45429.145,
+            "bbox": [
+                247.5497929071896,
+                414.17286482915114,
+                790.5637792043947,
+                57.464237681868156
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"47\">다음 글의 밑줄 친 부분 중, 어법상 <u>틀린</u> 것은?</span></div>",
+            "text": "다음 글의 밑줄 친 부분 중, 어법상 <u>틀린</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.09977823172397808,
+                0.1180315944226706,
+                0.31864723063458067,
+                0.016376243283518995
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 48,
+            "area": 1291455.716,
+            "bbox": [
+                187.62000000000006,
+                492.25107488906656,
+                996.31,
+                1296.2388373129052
+            ],
+            "html": "<div class=\"contents question\"><span class=\"48\">All translators feel some pressure from the community of readers for ① <u>whom</u> they are doing their work. And all translators arrive at their interpretations in dialogue with other people. The English poet Alexander Pope had pretty good Greek, but when he set about translating Homer&apos;s Iliad in the early 18th century he was not on his own. He had Greek commentaries ② <u>to refer to</u>, and translations that had already ③ <u>done</u> in English, Latin, and French - and of course he had dictionaries. Translators always draw on more than one source text. Even when the scene of translation consists of just one person with a pen, paper, and the book that ④ <u>is being translated</u>, or even when it is just one person translating orally for another, that person&apos;s linguistic knowledge arises from lots of other texts and other conversations. And then his or her idea of the translation&apos;s purpose ⑤ <u>will be influenced</u> by the expectations of the person or people it is for. In both these senses every translation is a crowd translation.</span></div>",
+            "text": "All translators feel some pressure from the community of readers for ① <u>whom</u> they are doing their work. And all translators arrive at their interpretations in dialogue with other people. The English poet Alexander Pope had pretty good Greek, but when he set about translating Homer's Iliad in the early 18th century he was not on his own. He had Greek commentaries ② <u>to refer to</u>, and translations that had already ③ <u>done</u> in English, Latin, and French — and of course he had dictionaries. Translators always draw on more than one source text. Even when the scene of translation consists of just one person with a pen, paper, and the book that ④ <u>is being translated</u>, or even when it is just one person translating orally for another, that person's linguistic knowledge arises from lots of other texts and other conversations. And then his or her idea of the translation's purpose ⑤ <u>will be influenced</u> by the expectations of the person or people it is for. In both these senses every translation is a crowd translation.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07562273276904477,
+                0.14028243798491494,
+                0.40157597742845624,
+                0.3694040573704489
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 49,
+            "area": 40768.479,
+            "bbox": [
+                181.14763467241391,
+                1850.6196093247102,
+                1007.6337178653027,
+                40.45962129794475
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07301395996469727,
+                0.5273923081575121,
+                0.40614015230362865,
+                0.011530242604144984
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 50,
+            "area": 115656.579,
+            "bbox": [
+                1283.862284196941,
+                411.7829132569558,
+                1024.87,
+                112.85000000000002
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"50\">글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?</span></div>",
+            "text": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5174777445372595,
+                0.11735050249557019,
+                0.4130874647319629,
+                0.03216015958962668
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 51,
+            "area": 314235.582,
+            "bbox": [
+                1301.9670336117883,
+                543.0380558871598,
+                994.8412846771948,
+                315.86503948313
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"51\">Thus, it is worth attempting to collect together these exceptional forms of reading into a single forum, one highlighting the challenges faced by anyone wishing to establish the boundaries where reading begins and ends.</span></div>",
+            "text": "Thus, it is worth attempting to collect together these exceptional forms of reading into a single forum, one highlighting the challenges faced by anyone wishing to establish the boundaries where reading begins and ends.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5247751042369159,
+                0.15475578680169844,
+                0.40098399221168674,
+                0.09001568523315188
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 52,
+            "area": 1221233.738,
+            "bbox": [
+                1297.184142820071,
+                934.8067875490568,
+                994.8412846771948,
+                1227.5664034457996
+            ],
+            "html": "<div class=\"contents question\"><span class=\"52\">Some people argue that there is a single, logically consistent concept known as reading that can be neatly set apart from everything else people do with books. (①) Is reading really that simple? (②) The most productive way to think about reading is as a loosely related set of behaviors that belong together owing to family resemblances, as Ludwig Wittgenstein used the phrase, without having in common a single defining trait. (③) Consequently, efforts to distinguish reading from nonreading are destined to fail because there is no agreement on what qualifies as reading in the first place. (④) The more one tries to figure out where the border lies between reading and not-reading, the more edge cases will be found to stretch the term&apos;s flexible boundaries. (⑤) The attempt moves toward an understanding of reading as a spectrum that is expansive enough to accommodate the distinct reading activities.</span></div>",
+            "text": "Some people argue that there is a single, logically consistent concept known as reading that can be neatly set apart from everything else people do with books. (①) Is reading really that simple? (②) The most productive way to think about reading is as a loosely related set of behaviors that belong together owing to family resemblances, as Ludwig Wittgenstein used the phrase, without having in common a single defining trait. (③) Consequently, efforts to distinguish reading from nonreading are destined to fail because there is no agreement on what qualifies as reading in the first place. (④) The more one tries to figure out where the border lies between reading and not-reading, the more edge cases will be found to stretch the term's flexible boundaries. (⑤) The attempt moves toward an understanding of reading as a spectrum that is expansive enough to accommodate the distinct reading activities.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.522847296582052,
+                0.2664026182812929,
+                0.40098399221168674,
+                0.34983368579247637
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 53,
+            "area": 36824.482,
+            "bbox": [
+                1282.8354704449189,
+                2227.390469085303,
+                1025.9300748233586,
+                35.893754486718535
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5170638736174602,
+                0.6347650239627537,
+                0.41351474196830257,
+                0.010229055140130673
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 54,
+            "area": 116077.428,
+            "bbox": [
+                169.9536746494025,
+                430.453046140241,
+                1039.1453249992037,
+                111.70471102476927
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"54\">다음 글의 내용을 <u>한 문장</u>으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?</span></div>",
+            "text": "다음 글의 내용을 <u>한 문장</u>으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06850208571116587,
+                0.12267114452557452,
+                0.4188413240625569,
+                0.0318337734467852
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 55,
+            "area": 1388789.399,
+            "bbox": [
+                181.27999999999997,
+                550.2500000000003,
+                1016.48,
+                1366.273216040031
+            ],
+            "html": "<div class=\"contents question\"><span class=\"55\">Weber&apos;s law concerns the perception of difference between two stimuli. It suggests that we might not be able to detect a 1-mm difference when we are looking at lines 466 mm and 467 mm in length, but we may be able to detect a 1-mm difference when we are comparing a line 2 mm long with one 3 mm long. Another example of this principle is that we can detect 1 candle when it is lit in an otherwise dark room. But when 1 candle is lit in a room in which 100 candles are already burning, we may not notice the light from this candle. Therefore, the Just-noticeable difference (JND) varies as a function of the strength of the signals. For example, the JND is greater for very loud noises than it is for much more quiet sounds. When a sound is very weak, we can tell that another sound is louder, even if it is barely louder. When a sound is very loud, to tell that another sound is even louder, it has to be much louder. Thus, Weber&apos;s law means that it is harder to distinguish between two samples when those samples are larger or stronger levels of the stimuli.</span></div>",
+            "text": "Weber's law concerns the perception of difference between two stimuli. It suggests that we might not be able to detect a 1-mm difference when we are looking at lines 466 mm and 467 mm in length, but we may be able to detect a 1-mm difference when we are comparing a line 2 mm long with one 3 mm long. Another example of this principle is that we can detect 1 candle when it is lit in an otherwise dark room. But when 1 candle is lit in a room in which 100 candles are already burning, we may not notice the light from this candle. Therefore, the Just-noticeable difference (JND) varies as a function of the strength of the signals. For example, the JND is greater for very loud noises than it is for much more quiet sounds. When a sound is very weak, we can tell that another sound is louder, even if it is barely louder. When a sound is very loud, to tell that another sound is even louder, it has to be much louder. Thus, Weber's law means that it is harder to distinguish between two samples when those samples are larger or stronger levels of the stimuli.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07306731156791615,
+                0.1568110572812768,
+                0.40970576380491736,
+                0.3893625580051385
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 56,
+            "area": 413364.357,
+            "bbox": [
+                178.03763386959366,
+                1999.175727053305,
+                1021.3406543216472,
+                404.7272138578594
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"56\">Weber&apos;s law explains that the ability to ______(A)______ differences between stimuli depends on their relative size or strength, with larger or stronger stimuli requiring greater differences to be noticeable, while smaller or weaker stimuli make ______(B)______ differences easier to detect.</span></div>",
+            "text": "Weber's law explains that the ability to ______(A)______ differences between stimuli depends on their relative size or strength, with larger or stronger stimuli requiring greater differences to be noticeable, while smaller or weaker stimuli make ______(B)______ differences easier to detect.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07176043283740172,
+                0.5697280498869493,
+                0.4116649150832919,
+                0.11533975886516369
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 57,
+            "area": 260360.587,
+            "bbox": [
+                190.9864852714528,
+                2410.378576332891,
+                670.1030600462154,
+                388.5381253035448
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"57\"><table style=\"width: 100%; text-align: center;\"><tbody><tr><td style=\"width: 12%;\"></td><td style=\"width: 44%;\">(A)</td><td style=\"width: 44%;\">(B)</td></tr><tr><td style=\"width: 12%;\">①</td><td style=\"width: 44%;\">contrast</td><td style=\"width: 44%;\">great</td></tr><tr><td style=\"width: 12%;\">②</td><td style=\"width: 44%;\">perceive</td><td style=\"width: 44%;\">minor</td></tr><tr><td style=\"width: 12%;\">③</td><td style=\"width: 44%;\">incorporate</td><td style=\"width: 44%;\">moderate</td></tr><tr><td style=\"width: 12%;\">④</td><td style=\"width: 44%;\">identify</td><td style=\"width: 44%;\">huge</td></tr><tr><td style=\"width: 12%;\">⑤</td><td style=\"width: 44%;\">combine</td><td style=\"width: 44%;\">trivial</td></tr></tbody></table></span></div>",
+            "text": "(A)&&(B)\n① contrast&&great\n② perceive&&minor\n③ incorporate&&moderate\n④ identify&&huge\n⑤ combine&&trivial",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07697963936777623,
+                0.6869132448939559,
+                0.27009393794688247,
+                0.11072616851055708
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 58,
+            "area": 30233.901,
+            "bbox": [
+                171.5632081686639,
+                2844.246149588517,
+                1037.5267185739708,
+                29.14035939776568
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06915082957221438,
+                0.8105574663974114,
+                0.4181889232462599,
+                0.008304462638291729
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 59,
+            "area": 106827.5,
+            "bbox": [
+                1278.3431521944567,
+                430.49933692640155,
+                1031.0522928730416,
+                103.61016674761214
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"59\">다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 <u>않은</u> 것은?</span></div>",
+            "text": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 <u>않은</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5152531850844243,
+                0.1226843365421492,
+                0.4155793199810728,
+                0.029526978269481943
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 60,
+            "area": 1285025.423,
+            "bbox": [
+                1284.8199999999997,
+                542.2000000000013,
+                1022.96,
+                1256.1834510867188
+            ],
+            "html": "<div class=\"contents question\"><span class=\"60\">Any new resource (e.g., a new airport, a new mall) always opens with people benefiting individually by ① <u>sharing</u> a common resource (e.g., the city or state budget). Soon, at some point, the amount of traffic grows too large for the &quot;commons&quot; to support. Traffic jams, overcrowding, and overuse lessen the benefits of the common resource for everyone - the tragedy of the commons! If the new resource cannot be ② <u>expanded</u> or provided with additional space, it becomes a problem, and you cannot solve the problem on your own, in isolation from your fellow drivers or walkers or ③ <u>competing</u> users. The total activity on this new resource keeps increasing, and so does individual activity; but if the dynamic of common use and overuse ④ <u>continues</u> too long, both begin to fall after a peak, leading to a crash. What makes the &quot;tragedy of commons&quot; tragic is the crash dynamic - the destruction or degeneration of the common resource&apos;s ability to ⑤ <u>eliminate</u> itself.</span></div>",
+            "text": "Any new resource (e.g., a new airport, a new mall) always opens with people benefiting individually by ① <u>sharing</u> a common resource (e.g., the city or state budget). Soon, at some point, the amount of traffic grows too large for the \"commons\" to support. Traffic jams, overcrowding, and overuse lessen the benefits of the common resource for everyone — the tragedy of the commons! If the new resource cannot be ② <u>expanded</u> or provided with additional space, it becomes a problem, and you cannot solve the problem on your own, in isolation from your fellow drivers or walkers or ③ <u>competing</u> users. The total activity on this new resource keeps increasing, and so does individual activity; but if the dynamic of common use and overuse ④ <u>continues</u> too long, both begin to fall after a peak, leading to a crash. What makes the \"tragedy of commons\" tragic is the crash dynamic — the destruction or degeneration of the common resource's ability to ⑤ <u>eliminate</u> itself.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5178637646110438,
+                0.1545169563978345,
+                0.41231761386537685,
+                0.3579890142737871
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 61,
+            "area": 26664.949,
+            "bbox": [
+                1280.812332988593,
+                1845.4256765734794,
+                1029.4336864478091,
+                25.90254168690285
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5162484211965308,
+                0.5259121335347618,
+                0.4149269191647759,
+                0.007381744567370434
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 62,
+            "area": 73802.699,
+            "bbox": [
+                248.76629469832682,
+                416.0051086848123,
+                954.6906327327333,
+                77.30535615681941
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"62\">주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?</span></div>",
+            "text": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.10026855892717727,
+                0.1185537499814227,
+                0.38480073870726855,
+                0.022030594516049988
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 63,
+            "area": 392892.295,
+            "bbox": [
+                182.2,
+                495.48000000000013,
+                1012.55,
+                388.02261079834295
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"63\">Theoretically, our brain would have the capacity to store all experiences throughout life, reaching the quality of a DVD. However, this theoretical capacity is offset by the energy demand associated with the process of storing and retrieving information in memory.</span></div>",
+            "text": "Theoretically, our brain would have the capacity to store all experiences throughout life, reaching the quality of a DVD. However, this theoretical capacity is offset by the energy demand associated with the process of storing and retrieving information in memory.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07343812978637645,
+                0.14120262182958113,
+                0.4081217251108424,
+                0.11057925642586006
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 64,
+            "area": 487903.132,
+            "bbox": [
+                159.62340170015,
+                949.9377311960543,
+                1041.2879994139385,
+                468.5573366214551
+            ],
+            "html": "<div class=\"contents question\"><span class=\"64\">(A) This ability to match what we see with general visual memory patterns serves as an effective mechanism for optimizing brain performance and saving energy. The brain, being naturally against unnecessary effort, constantly seeks to simplify and generalize information to facilitate the cognitive process.</span></div>",
+            "text": "(A) This ability to match what we see with general visual memory patterns serves as an effective mechanism for optimizing brain performance and saving energy. The brain, being naturally against unnecessary effort, constantly seeks to simplify and generalize information to facilitate the cognitive process.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06433833200328497,
+                0.2707146569381745,
+                0.4197049574421356,
+                0.13353016147661873
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 65,
+            "area": 344616.725,
+            "bbox": [
+                171.94633660445675,
+                1430.8255240443898,
+                1035.126531961785,
+                332.9223181257705
+            ],
+            "html": "<div class=\"contents question\"><span class=\"65\">(B) As a result, the brain develops efficient strategies, becoming dependent on shortcuts. When we observe a face, the visual image captured by the eyes is highly variable, depending on the point of view, lighting conditions and other contextual factors.</span></div>",
+            "text": "(B) As a result, the brain develops efficient strategies, becoming dependent on shortcuts. When we observe a face, the visual image captured by the eyes is highly variable, depending on the point of view, lighting conditions and other contextual factors.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06930525457656458,
+                0.40775877003259897,
+                0.4172214961554958,
+                0.09487669368075535
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 66,
+            "area": 388378.66,
+            "bbox": [
+                165.7800000000001,
+                1768.6800000000003,
+                1026.4909534105614,
+                378.35565787466066
+            ],
+            "html": "<div class=\"contents question\"><span class=\"66\">(C) Nevertheless, we are able to recognize the face as the same, maintaining the underlying identity. The brain, rather than focusing on the details of visualization, creates and stores general patterns that allow for consistent recognition across diverse circumstances.</span></div>",
+            "text": "(C) Nevertheless, we are able to recognize the face as the same, maintaining the underlying identity. The brain, rather than focusing on the details of visualization, creates and stores general patterns that allow for consistent recognition across diverse circumstances.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06681983071342204,
+                0.5040410373325734,
+                0.41374081153186676,
+                0.10782435391127405
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 67,
+            "area": 37816.776,
+            "bbox": [
+                655.9806622150511,
+                2155.7778271011616,
+                531.5147922466188,
+                71.14905727499081
+            ],
+            "html": "<div class=\"footnote\"><span>* offset: 상쇄하다<br>** retrieve: 상기하다</span></div>",
+            "text": "*offset: 상쇄하다\n\n**retrieve: 상기하다",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.26440171794238254,
+                0.6143567475352413,
+                0.21423409602846383,
+                0.02027616337275315
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 14,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 68,
+            "area": 142585.17,
+            "bbox": [
+                149.4343213504124,
+                2279.0015854553617,
+                1012.6342838523501,
+                140.8061844284921
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"68\"><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50%;\">① (A) - (C) - (B)</td></tr><tr><td style=\"width: 50%;\">② (B) - (A) - (C)</td></tr><tr><td style=\"width: 50%;\">③ (B) - (C) - (A)</td></tr><tr><td style=\"width: 50%;\">④ (C) - (A) - (B)</td></tr><tr><td style=\"width: 50%;\">⑤ (C) - (B) - (A)</td></tr></tbody></table></span></div>",
+            "text": "① (A) - (C) - (B)\n② (B) - (A) - (C)\n③ (B) - (C) - (A)\n④ (C) - (A) - (B)\n⑤ (C) - (B) - (A)",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.0602314878478083,
+                0.649473236094432,
+                0.4081556968369005,
+                0.04012715429709093
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 69,
+            "area": 73580.533,
+            "bbox": [
+                227.39954367383802,
+                2513.439571357097,
+                918.0586503708691,
+                80.1479654747227
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.09165640615632327,
+                0.716283719395012,
+                0.3700357317093386,
+                0.022840685515737445
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 70,
+            "area": 50099.132,
+            "bbox": [
+                1366.3979711401043,
+                422.19000000000005,
+                753.1209782835504,
+                66.52202375042583
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"70\">다음 빈칸에 들어갈 말로 가장 적절한 것은?</span></div>",
+            "text": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5507448493108038,
+                0.12031632943858651,
+                0.30355541244802514,
+                0.018957544528477012
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 71,
+            "area": 1485595.313,
+            "bbox": [
+                1277.96,
+                507.2800000000004,
+                1040.23,
+                1428.141192595968
+            ],
+            "html": "<div class=\"contents question\"><span class=\"71\">Where scientific research is concerned, explanatory tales are expected to adhere closely to experimental data and to illuminate the regular and predictable features of experience. However, this paradigm sometimes conceals the fact that theories are deeply loaded with creative elements that shape the construction of research projects and the interpretations of evidence. Scientific explanations do not just relate a chronology of facts. They construct frameworks for systematically chosen data in order to provide a consistent and meaningful explanation of what is observed. Such constructions lead us to imagine specific kinds of subject matter in particular sorts of relations, and the storylines they inspire will prove more effective for analyzing some features of experience over others. When we neglect the creative contributions of such scientific imagination and treat models and interpretive explanations as straightforward facts - even worse, as facts including all of reality - we can blind ourselves to the limitations of a given model and fail to note its potential for __________.</span></div>",
+            "text": "Where scientific research is concerned, explanatory tales are expected to adhere closely to experimental data and to illuminate the regular and predictable features of experience. However, this paradigm sometimes conceals the fact that theories are deeply loaded with creative elements that shape the construction of research projects and the interpretations of evidence. Scientific explanations do not just relate a chronology of facts. They construct frameworks for systematically chosen data in order to provide a consistent and meaningful explanation of what is observed. Such constructions lead us to imagine specific kinds of subject matter in particular sorts of relations, and the storylines they inspire will prove more effective for analyzing some features of experience over others. When we neglect the creative contributions of such scientific imagination and treat models and interpretive explanations as straightforward facts — even worse, as facts including all of reality — we can blind ourselves to the limitations of a given model and fail to note its potential for __________.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5150987505038291,
+                0.14456540324878894,
+                0.4192785167271262,
+                0.4069937852938068
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 72,
+            "area": 55717.686,
+            "bbox": [
+                1407.6393170906622,
+                1946.640980548098,
+                877.4324312399103,
+                63.5008282716733
+            ],
+            "html": "<div class=\"footnote\"><span>* adhere: 중실하다<br>** illuminate: 밝히다 <br>*** chronology: 연대기</span></div>",
+            "text": "*adhere: 중실하다\n\n**illuminate: 밝히다 \n\n***chronology: 연대기",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5673677215198155,
+                0.55475662027589,
+                0.3536607945344258,
+                0.018096559781041122
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 14,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 73,
+            "area": 561597.625,
+            "bbox": [
+                1281.0104779920837,
+                2058.4457412889064,
+                1084.4182715790123,
+                517.879161528977
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"73\">① replacing creativity with purely objective facts<br>② confirming the accuracy of the scientific model<br>③ misunderstanding a situation to which it ill applies<br>④ providing accurate interpretation of scientific evidence<br>⑤ considering alternative explanations or interpretations</span></div>",
+            "text": "① replacing creativity with purely objective facts\n② confirming the accuracy of the scientific model\n③ misunderstanding a situation to which it ill applies\n④ providing accurate interpretation of scientific evidence\n⑤ considering alternative explanations or interpretations",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5163282861717386,
+                0.5866189060384458,
+                0.4370891864486144,
+                0.14758596794784182
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 74,
+            "area": 24691.454,
+            "bbox": [
+                1379.593957226539,
+                2704.561666392222,
+                800.990768779953,
+                30.826140567201037
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5560636667579762,
+                0.770749976173332,
+                0.3228499672631814,
+                0.008784879044514401
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 75,
+            "area": 39418.388,
+            "bbox": [
+                256.4599999999997,
+                430.35,
+                776.5639912440723,
+                50.75999999999999
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"75\">다음 글의 밑줄 친 부분 중, 어법상 <u>틀린</u> 것은?</span></div>",
+            "text": "다음 글의 밑줄 친 부분 중, 어법상 <u>틀린</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.10336960902861737,
+                0.12264177828441152,
+                0.31300443016689733,
+                0.01446565973211741
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 76,
+            "area": 1510836.115,
+            "bbox": [
+                178.99999999999983,
+                498.7500000000001,
+                1011.74,
+                1493.3047173358204
+            ],
+            "html": "<div class=\"contents question\"><span class=\"76\">We encounter contrary claims about the relation of literature to action. Theorists have maintained that literature encourages solitary reading and reflection as the way ① <u>to engage</u> with the world and thus counters the social and political activities that might produce social change. At best it encourages detachment or appreciation of complexity, and at worst passivity and acceptance of ② <u>what</u> is. But on the other hand, literature has historically been seen as dangerous: it promotes the questioning of authority and social arrangements. Plato banned poets from his ideal republic because they could only do harm, and novels have long ③ <u>been credited</u> with making people dissatisfied with their lives and eager for something new. By promoting identification across divisions of class, gender, and race, books may promote a fellowship ④ <u>what</u> discourages struggle; but they may also produce a keen sense of injustice that makes progressive struggles possible. Historically, works of literature are credited with producing change: Uncle Tom&apos;s Cabin, a best-seller in its day, helped create a revulsion against slavery ⑤ <u>that</u> made possible the American Civil War.</span></div>",
+            "text": "We encounter contrary claims about the relation of literature to action. Theorists have maintained that literature encourages solitary reading and reflection as the way ① <u>to engage</u> with the world and thus counters the social and political activities that might produce social change. At best it encourages detachment or appreciation of complexity, and at worst passivity and acceptance of ② <u>what</u> is. But on the other hand, literature has historically been seen as dangerous: it promotes the questioning of authority and social arrangements. Plato banned poets from his ideal republic because they could only do harm, and novels have long ③ <u>been credited</u> with making people dissatisfied with their lives and eager for something new. By promoting identification across divisions of class, gender, and race, books may promote a fellowship ④ <u>what</u> discourages struggle; but they may also produce a keen sense of injustice that makes progressive struggles possible. Historically, works of literature are credited with producing change: Uncle Tom's Cabin, a best-seller in its day, helped create a revulsion against slavery ⑤ <u>that</u> made possible the American Civil War.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07214832728738405,
+                0.14213451125676835,
+                0.40779524385328497,
+                0.42556418276882885
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 77,
+            "area": 13934.254,
+            "bbox": [
+                904.6199999999994,
+                2010.5699999999997,
+                271.1999528193328,
+                51.38000000000011
+            ],
+            "html": "<div class=\"footnote\"><span>* revulsion: 혐오감</span></div>",
+            "text": "*revulsion: 혐오감",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.36461910519951607,
+                0.5729752066115702,
+                0.10931074277280645,
+                0.014642348247363952
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 14,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 78,
+            "area": 27189.294,
+            "bbox": [
+                165.15999999999974,
+                2213.25,
+                1039.34609178844,
+                26.159999999999854
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06656993147924213,
+                0.6307352522086065,
+                0.41892224578332926,
+                0.007455115417497821
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 79,
+            "area": 114744.513,
+            "bbox": [
+                1278.4699999999998,
+                426.25,
+                1027.7161926208596,
+                111.64999999999998
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"79\">글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?</span></div>",
+            "text": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.515304312777106,
+                0.12147335423197492,
+                0.41423466046789986,
+                0.031818181818181815
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 80,
+            "area": 207897.495,
+            "bbox": [
+                1289.6999999999998,
+                550.9199999999998,
+                1011.0762320825115,
+                205.62
+            ],
+            "html": "<div class=\"example\"><div class=\"example-content\"><span class=\"80\">Hobbes thus describes the state of nature as a circumstance in which man&apos;s life is &quot;solitary, poor, nasty, brutish and short&quot;.</span></div>",
+            "text": "Hobbes thus describes the state of nature as a circumstance in which man's life is \"solitary, poor, nasty, brutish and short\".",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5198307134220072,
+                0.1570019948703334,
+                0.4075277033786826,
+                0.05859789113707609
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 4,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 81,
+            "area": 1323504.513,
+            "bbox": [
+                1288.17,
+                812.9099999999988,
+                1015.4499999999998,
+                1303.367485832655
+            ],
+            "html": "<div class=\"contents question\"><span class=\"81\">According to Hobbes, man is not a being who can act morally in spite of his instinct to protect his existence in the state of nature. (①) Hence, the only place where morality and moral liberty will begin to find an application begins in a place where a sovereign power, namely the state, emerges. (②) It means when people live without a general power to control them all, they are indeed in a state of war. (③) In other words, Hobbes, who accepted that human beings are not social and political beings in the state of nature, believes that without the power human beings in the state of nature are &quot;antisocial and rational based on their selfishness&quot;. (④) Moreover, since society is not a natural phenomenon and there is no natural force bringing people together, what will bring them together as a society is not mutual affection according to Hobbes. (⑤) It is, rather, mutual fear of men&apos;s present and future that assembles them, since the cause of fear is a common drive among people in the state of nature.</span></div>",
+            "text": "According to Hobbes, man is not a being who can act morally in spite of his instinct to protect his existence in the state of nature. (①) Hence, the only place where morality and moral liberty will begin to find an application begins in a place where a sovereign power, namely the state, emerges. (②) It means when people live without a general power to control them all, they are indeed in a state of war. (③) In other words, Hobbes, who accepted that human beings are not social and political beings in the state of nature, believes that without the power human beings in the state of nature are \"antisocial and rational based on their selfishness\". (④) Moreover, since society is not a natural phenomenon and there is no natural force bringing people together, what will bring them together as a society is not mutual affection according to Hobbes. (⑤) It is, rather, mutual fear of men's present and future that assembles them, since the cause of fear is a common drive among people in the state of nature.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5192140266021765,
+                0.2316642918210313,
+                0.40929060862555416,
+                0.37143559014894695
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 82,
+            "area": 10034.147,
+            "bbox": [
+                2047.4900000000007,
+                2131.5,
+                239.93655681718656,
+                41.820000000000164
+            ],
+            "html": "<div class=\"footnote\"><span>* brutish: 잔인한</span></div>",
+            "text": "*brutish: 잔인한",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.8252680370818222,
+                0.6074380165289256,
+                0.09670961580700788,
+                0.011917925334853282
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 14,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 83,
+            "area": 31070.094,
+            "bbox": [
+                1293.35,
+                2320.18,
+                1016.3589842211554,
+                30.570000000000164
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5213018943974204,
+                0.6612083214591051,
+                0.40965698678805135,
+                0.008711883727557755
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 84,
+            "area": 52729.618,
+            "bbox": [
+                253.1085319591856,
+                415.8075121777732,
+                756.4816982582158,
+                69.70375902414736
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"84\">다음 빈칸에 들어갈 말로 가장 적절한 것은?</span></div>",
+            "text": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.10201875532413769,
+                0.11849743863715395,
+                0.30490999526731793,
+                0.01986428014367266
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 85,
+            "area": 1308898.784,
+            "bbox": [
+                183.43258606698146,
+                498.79967197759186,
+                1005.3243621589447,
+                1301.9666417724666
+            ],
+            "html": "<div class=\"contents question\"><span class=\"85\">There is research that supports the idea that cognitive factors influence the phenomenology of the perceived world. Delk and Fillenbaum asked participants to match the color of figures with the color of their background. Some of the figures depicted objects associated with a particular color. These included typically red objects such as an apple, lips, and a symbolic heart. Other objects were presented that are not usually associated with red, such as a mushroom or a bell. However, all the figures were made out of the same red-orange cardboard. Participants then had to match the figure to a background varying from dark to light red. They had to make the background color match the color of the figures. The researchers found that red-associated objects required more red in the background to be judged a match than did the objects that are not associated with the color red. This implies that the cognitive association of objects to color __________.</span></div>",
+            "text": "There is research that supports the idea that cognitive factors influence the phenomenology of the perceived world. Delk and Fillenbaum asked participants to match the color of figures with the color of their background. Some of the figures depicted objects associated with a particular color. These included typically red objects such as an apple, lips, and a symbolic heart. Other objects were presented that are not usually associated with red, such as a mushroom or a bell. However, all the figures were made out of the same red-orange cardboard. Participants then had to match the figure to a background varying from dark to light red. They had to make the background color match the color of the figures. The researchers found that red-associated objects required more red in the background to be judged a match than did the objects that are not associated with the color red. This implies that the cognitive association of objects to color __________.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07393493997056891,
+                0.14214866685026842,
+                0.4052093358157778,
+                0.3710363755407428
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 86,
+            "area": 415896.189,
+            "bbox": [
+                175.96730614995965,
+                1856.4929840337875,
+                1037.673908466039,
+                400.7966143888473
+            ],
+            "html": "<div class=\"choice-set\"><span class=\"86\">① influences how we perceive that color<br>② makes it easier to match colors correctly<br>③ maintains the original perception of any color<br>④ affects the actual color of the objects themselves<br>⑤ ensures different objects are perceived with the same color intensity</span></div>",
+            "text": "① influences how we perceive that color\n② makes it easier to match colors correctly\n③ maintains the original perception of any color\n④ affects the actual color of the objects themselves\n⑤ ensures different objects are perceived with the same color intensity",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07092595975411514,
+                0.5290661111524045,
+                0.4182482500870774,
+                0.11421961082611777
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 6,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 87,
+            "area": 30270.918,
+            "bbox": [
+                156.18578029889636,
+                2428.217825969494,
+                763.2055084627718,
+                39.66286564204256
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06295275304268294,
+                0.6919971005897674,
+                0.30762011626875124,
+                0.011303182001152054
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 88,
+            "area": 130072.342,
+            "bbox": [
+                1268.3900000000003,
+                413.13,
+                1045.0095801819693,
+                124.47000000000003
+            ],
+            "html": "<div class=\"rubric question\"><span class=\"88\">다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 <u>않은</u> 것은?</span></div>",
+            "text": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 <u>않은</u> 것은?",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5112414349052803,
+                0.11773439726417782,
+                0.42120498999676315,
+                0.035471644343117704
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 2,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 89,
+            "area": 1997448.052,
+            "bbox": [
+                1300.9900000000002,
+                553.6000000000003,
+                992.3284692596426,
+                2012.8899999999999
+            ],
+            "html": "<div class=\"contents question\"><span class=\"89\">In each round of genome copying in our body, there is still about a 70 percent chance that at least one pair of chromosomes will have an error. With each round of genome copying, errors accumulate. This is similar to alterations in medieval books. Each time a copy was made by hand, some changes were introduced ① <u>accidentally</u>; as changes stacked up, the copies may have acquired meanings at variance with the original. Similarly, genomes that have undergone more copying processes will have gathered more mistakes. To make things worse, mutations may damage genes ② <u>responsible</u> for error checking and repair of genomes, further accelerating the introduction of mutations. Most genome mutations do not have any noticeable effects. It is just like changing the i for a y in &quot;kingdom&quot; would not distort the word&apos;s readability. But sometimes a mutation to a human gene results in, for example, an eye whose iris is of two ③ <u>indifferent</u> colors. Similarly, almost everyone has birthmarks, which are due to mutations that occurred as our body&apos;s cells multiplied to form skin. If mutations are changes to the genome of one particular cell, how can a patch of cells in an iris or a whole patch of skin, ④ <u>consisting</u> of many individual cells, be affected simultaneously? The answer lies in the cell lineage, the developmental history of a tissue from particular cells through to their fully ⑤ <u>differentiated</u> state. If the mutation occurred early on in the lineage of the developing iris, then all cells in that patch have inherited that change.</span></div>",
+            "text": "In each round of genome copying in our body, there is still about a 70 percent chance that at least one pair of chromosomes will have an error. With each round of genome copying, errors accumulate. This is similar to alterations in medieval books. Each time a copy was made by hand, some changes were introduced ① <u>accidentally</u>; as changes stacked up, the copies may have acquired meanings at variance with the original. Similarly, genomes that have undergone more copying processes will have gathered more mistakes. To make things worse, mutations may damage genes ② <u>responsible</u> for error checking and repair of genomes, further accelerating the introduction of mutations. Most genome mutations do not have any noticeable effects. It is just like changing the i for a y in \"kingdom\" would not distort the word's readability. But sometimes a mutation to a human gene results in, for example, an eye whose iris is of two ③ <u>indifferent</u> colors. Similarly, almost everyone has birthmarks, which are due to mutations that occurred as our body's cells multiplied to form skin. If mutations are changes to the genome of one particular cell, how can a patch of cells in an iris or a whole patch of skin, ④ <u>consisting</u> of many individual cells, be affected simultaneously? The answer lies in the cell lineage, the developmental history of a tissue from particular cells through to their fully ⑤ <u>differentiated</u> state. If the mutation occurred early on in the lineage of the developing iris, then all cells in that patch have inherited that change.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5243812978637648,
+                0.15776574522656034,
+                0.39997116858510384,
+                0.5736363636363636
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 3,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 90,
+            "area": 24655.061,
+            "bbox": [
+                1798.4214747827118,
+                2586.3867088617226,
+                495.19690116245056,
+                49.788399302962716
+            ],
+            "html": "<div class=\"footnote\"><span>* chromosome: 염색체<br>** iris: 홍채</span></div>",
+            "text": "*chromosome: 염색체\n\n**iris: 홍채",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.7248776601300733,
+                0.7370723023259398,
+                0.19959568769143513,
+                0.014188771531194846
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 14,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 91,
+            "area": 20049.569,
+            "bbox": [
+                1300.9940429930548,
+                2755.9873574615767,
+                673.9996698112784,
+                29.747149231531694
+            ],
+            "html": "",
+            "text": "100",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.52438292744581,
+                0.78540534552909,
+                0.27166451826331256,
+                0.008477386500863977
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 100,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 92,
+            "area": 3286511.32,
+            "bbox": [
+                139.7199636591431,
+                302.03734252162985,
+                1085.8118351720755,
+                3026.777949332748
+            ],
+            "html": "",
+            "text": "1\n[정답] (3)\n[해설]\n글은 추가로 인턴을 채용하면서 발생한 비용 문제로 인해 추가 예산 할 당을 요청하는 내용을 다루고 있다. 따라서 제목으로 가장 적절한 것은 (3) 'Budget Adjustment Needed for Unplanned Intern Hires(예상하지 못한 인턴 채용으로 인한 예산 조정 필요)'이다.\n(1) 새로운 직원 채용을 위한 자금 요청\n(2) 인턴십 프로그램의 영구 확장\n(4) 인턴십 프로그램을 위한 새로운 교육 자료\n(5) 예산 충족을 위한 인턴 급여 삭감\n\n2\n[정답] (4) disappearing을 appearing과 같은 단어로 바꿔야 한다.\n3\n(4) (C)-(A)-(B)로 이어지는 것이 자연스럽다.\n\n4\n[정답] (2)\n[해설]\n글은 성품, 즉 덕은 개인의 역사 속에서 형성된 지속적인 특성임을 설 명하고 있다. 따라서 빈칸에 들어갈 말로 가장 적절한 것은 (2) 'the result of your personal history(개인의 역사에서 비롯된 결과)이다.\n(1) 다른 사람들이 우리를 어떻게 보는지에 대한 반영\n(3) 유전적으로 결정된 지속적인 특성\n(4) 일시적인 감정\n(5) 주변 환경에 의해 영향을 받는 특성\n\n5\n[정답] (3) where를 which로 바꿔야 적절하다.\n6\n글의 흐름상 (5)에 들어가는 것이 자연스럽다.\n7\n[정답] (4)\n[해설]\n$\\rightarrow$ 제조업체들은 우리의 장치가 충분하지 않다는 의심을 교묘하게 만 들어 욕구와 필요성의 경계를 흐리게 하며, 진정한 필요성이 없음에도 불구하고 소비자의 욕망과 재정적 우선순위를 형성한다.\n글은 제조업체가 소비자들에게 현재 장치의 적절성에 대한 의문을 심 어주어 끊임없는 업그레이드 욕구를 유발한다고 설명하고 있다. 따라 서 (A)와 (B)에 들어갈 말로 가장 적절한 것은 (4) '흐릿하게 하다 / 없음' 이다.\n(1) 강조하다 ...... 제거\n(2) 강화하다 ...... 부재\n(3) 흐릿하게 하다 ...... 존재\n(5) 제거하다 ...... 의심",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.05631598696458811,
+                0.08607504774056138,
+                0.43765088076262615,
+                0.8625756481427039
+            ],
+            "image_id": 10,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 9,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 93,
+            "area": 3366492.354,
+            "bbox": [
+                1249.8410190216382,
+                310.1411656791472,
+                1118.2241287593015,
+                3010.5703030177137
+            ],
+            "html": "",
+            "text": "8\n[정답] (1) indifferent를 different와 같은 단어로 바꿔야 한다.\n9\n(4) (C)-(A)-(B)로 이어지는 것이 자연스럽다.\n\n10\n[정답] (3)\n[해설]\n$\\rightarrow$ 필요한 자원에 대한 인식 부족은 학생들의 창의성을 저해할 수 있지 만, 이러한 자원을 사전에 파악하면 과제 수행에 도움이 되고, 더 나은 준비를 할 수 있으며, 특정 자원이 이용할 수 없을 때 창의적인 대안을 모색하도록 독려할 수 있다.\n글은 학생들이 학습에 필요한 자원을 미리 파악하는 것이 그들의 창의 력을 돕고, 자원이 부족할 경우 대체 자원을 찾는 방법을 개발할 수 있 다고 설명한다. 따라서 (A)와 (B)에 들어갈 말로 가장 적절한 것은 (3) '인식 / 이용할 수 없는'이다.\n(1) 자각 부족 ...... 접근할 수 없는\n(2) 지식 ...... 관련 없는\n(4) 이해 ...... 식별 가능한\n(5) 도움 ...... 동일한\n\n11\n[정답] (3) done을 been done으로 바꿔야 적절하다.\n12\n글의 흐름상 (5)에 들어가는 것이 자연스럽다.\n13\n[정답] (2)\n[해설]\n$\\rightarrow$ Weber의 법칙은 자극 사이의 차이를 인지하는 능력이 그 크기나 강 도에 따라 달라지며, 더 큰 자극은 더 큰 차이가 필요하지만, 더 작은 자 극은 미세한 차이를 쉽게 감지할 수 있음을 설명한다.\n글은 웨버의 법칙이 더 큰 자극일수록 차이를 인식하기 어렵고, 더 작 은 자극은 차이를 더 쉽게 인식할 수 있음을 설명하고 있다. 따라서 (A) 와 (B)에 들어갈 말로 가장 적절한 것은 (2) '인지하다 / 미세한'이다.\n(1) 대조하다 ...... 큰 (3) 통합하다 ...... 보통의\n(4) 식별하다 ...... 거대한\n(5) 결합하다 ...... 사소한\n\n14\n[정답] (5) eliminate를 regenerate와 같은 단어로 바꿔야 한다.\n15\n(3) (B)-(C)-(A)로 이어지는 것이 자연스럽다.\n\n16\n[정답] (3)\n[해설]",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5037650217741387,
+                0.0883844872268872,
+                0.4507150861585254,
+                0.8579567691700524
+            ],
+            "image_id": 10,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 9,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": 94,
+            "area": 3087372.541,
+            "bbox": [
+                140.54999999999995,
+                356.9500000000003,
+                1052.93,
+                2932.172643409357
+            ],
+            "html": "",
+            "text": "글은 과학 이론이 때로는 창의적인 요소를 포함하며, 이를 무시하면 이 론이 잘못 적용된 상황을 오해할 수 있다고 설명하고 있다. 따라서 빈 칸에 들어갈 말로 가장 적절한 것은 (3) 'misunderstanding a situation to which it ill applies(잘못 적용된 상황을 오해하다)'이다.\n(1) 창의성을 순수한 객관적 사실로 대체하다\n(2) 과학적 모델의 정확성을 확인하다\n(4) 과학적 증거의 정확한 해석을 제공하다\n(5) 대체 설명이나 해석을 고려하다\n\n17\n[정답] (4) what을 that으로 바꿔야 적절하다.\n18\n글의 흐름상 (2)에 들어가는 것이 자연스럽다.\n19\n[정답] (1)\n[해설]\n글은 특정 사물이 색과 연관되었을 때, 그 색을 인식하는 방식에 인지 적 요인이 영향을 미칠 수 있음을 설명하고 있다. 따라서 빈칸에 들어 갈 말로 가장 적절한 것은 (1) 'influences how we perceive that color (우리가 그 색을 인식하는 방식에 영향을 미친다)'이다.\n(2) 색상을 정확하게 맞추는 것을 더 쉽게 만든다\n(3) 모든 색의 원래 인식을 유지한다\n(4) 실제 물체의 색상에 영향을 미친다\n(5) 다른 물체들이 동일한 색상 강도로 인식되도록 한다\n\n20\n[정답] (3) indifferent를 different와 같은 단어로 바꿔야 한다.",
+            "piece": false,
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.05665054413542924,
+                0.10172413793103456,
+                0.42439742039500206,
+                0.8356148884039205
+            ],
+            "image_id": 11,
+            "workInfos": [],
+            "confidence": 0,
+            "category_id": 9,
+            "is_epilogue": false,
+            "question_idx": 0,
+            "segmentation": []
+        },
+        {
+            "id": -1,
+            "area": 471594.997,
+            "bbox": [
+                182.157206566455,
+                1446.920361268119,
+                1015.5667268749257,
+                464.3663334408259
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07342088132464933,
+                0.41234550050388113,
+                0.4093376569427351,
+                0.13233580320342717
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -2,
+            "area": 471594.997,
+            "bbox": [
+                182.157206566455,
+                1446.920361268119,
+                1015.5667268749257,
+                464.3663334408259
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--2\">글은 추가로 인턴을 채용하면서 발생한 비용 문제로 인해 추가 예산 할당을 요청하는 내용을 다루고 있다. 따라서 제목으로 가장 적절한 것은 ③ &apos;Budget Adjustment Needed for Unplanned Intern Hires(예상하지 못한 인턴 채용으로 인한 예산 조정 필요)&apos;이다. ① 새로운 직원 채용을 위한 자금 요청<br>② 인턴십 프로그램의 영구 확장<br>④ 인턴십 프로그램을 위한 새로운 교육 자료<br>⑤ 예산 충족을 위한 인턴 급여 삭감</span></div>",
+            "text": "글은 추가로 인턴을 채용하면서 발생한 비용 문제로 인해 추가 예산 할당을 요청하는 내용을 다루고 있다. 따라서 제목으로 가장 적절한 것은 ③ &apos;Budget Adjustment Needed for Unplanned Intern Hires(예상하지 못한 인턴 채용으로 인한 예산 조정 필요)&apos;이다. ① 새로운 직원 채용을 위한 자금 요청<br>② 인턴십 프로그램의 영구 확장<br>④ 인턴십 프로그램을 위한 새로운 교육 자료<br>⑤ 예산 충족을 위한 인턴 급여 삭감",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07342088132464933,
+                0.41234550050388113,
+                0.4093376569427351,
+                0.13233580320342717
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -3,
+            "area": 1209690.346,
+            "bbox": [
+                1283.810057584729,
+                537.8417848254434,
+                1020.7065933809238,
+                1185.1499286054254
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5174566939075893,
+                0.15327494580377413,
+                0.4114093484002111,
+                0.3377457761770947
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -4,
+            "area": 1209690.346,
+            "bbox": [
+                1283.810057584729,
+                537.8417848254434,
+                1020.7065933809238,
+                1185.1499286054254
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--4\">disappearing을 appearing과 같은 단어로 바꿔야 한다.</span></div>",
+            "text": "disappearing을 appearing과 같은 단어로 바꿔야 한다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5174566939075893,
+                0.15327494580377413,
+                0.4114093484002111,
+                0.3377457761770947
+            ],
+            "image_id": 0,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -5,
+            "area": 175138.534,
+            "bbox": [
+                165.90759160236638,
+                1990.2797953153993,
+                1003.43570907363,
+                174.53886887376234
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06687125820329157,
+                0.5671928741280705,
+                0.40444808910666263,
+                0.049740344506629335
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -6,
+            "area": 175138.534,
+            "bbox": [
+                165.90759160236638,
+                1990.2797953153993,
+                1003.43570907363,
+                174.53886887376234
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--6\">(C) - (A) - (B)로 이어지는 것이 자연스럽다.</span></div>",
+            "text": "(C) - (A) - (B)로 이어지는 것이 자연스럽다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.06687125820329157,
+                0.5671928741280705,
+                0.40444808910666263,
+                0.049740344506629335
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -7,
+            "area": 299681.345,
+            "bbox": [
+                1292.5514266110429,
+                1784.3695632970494,
+                864.8537952885247,
+                346.5109896758513
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5209800187871999,
+                0.5085122722419634,
+                0.34859080825817196,
+                0.09874921335874931
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -8,
+            "area": 299681.345,
+            "bbox": [
+                1292.5514266110429,
+                1784.3695632970494,
+                864.8537952885247,
+                346.5109896758513
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--8\">글은 성품, 즉 덕은 개인의 역사 속에서 형성된 지속적인 특성임을 설명하고 있다. 따라서 빈칸에 들어갈 말로 가장 적절한 것은 ② &apos;the result of your personal history(개인의 역사에서 비롯된 결과)&apos;이다.<br>① 다른 사람들이 우리를 어떻게 보는지에 대한 반영<br>③ 유전적으로 결정된 지속적인 특성<br>④ 일시적인 감정<br>⑤ 주변 환경에 의해 영향을 받는 특성</span></div>",
+            "text": "글은 성품, 즉 덕은 개인의 역사 속에서 형성된 지속적인 특성임을 설명하고 있다. 따라서 빈칸에 들어갈 말로 가장 적절한 것은 ② &apos;the result of your personal history(개인의 역사에서 비롯된 결과)&apos;이다.<br>① 다른 사람들이 우리를 어떻게 보는지에 대한 반영<br>③ 유전적으로 결정된 지속적인 특성<br>④ 일시적인 감정<br>⑤ 주변 환경에 의해 영향을 받는 특성",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5209800187871999,
+                0.5085122722419634,
+                0.34859080825817196,
+                0.09874921335874931
+            ],
+            "image_id": 1,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -9,
+            "area": 1312151.046,
+            "bbox": [
+                181.27168936230464,
+                484.20525251478034,
+                1010.4116707523792,
+                1298.6301369863015
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07306396185502001,
+                0.13798952764741532,
+                0.4072598431085769,
+                0.37008553348141965
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -10,
+            "area": 1312151.046,
+            "bbox": [
+                181.27168936230464,
+                484.20525251478034,
+                1010.4116707523792,
+                1298.6301369863015
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--10\">where를 which로 바꿔야 적절하다.</span></div>",
+            "text": "where를 which로 바꿔야 적절하다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07306396185502001,
+                0.13798952764741532,
+                0.4072598431085769,
+                0.37008553348141965
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -11,
+            "area": 1309045.943,
+            "bbox": [
+                1291.44,
+                736.51,
+                1004.94,
+                1302.6110440461991
+            ],
+            "html": "<div class=\"answer\">⑤</div>",
+            "text": "⑤",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5205320435308344,
+                0.20989170703904245,
+                0.40505441354292626,
+                0.37122001825198037
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -12,
+            "area": 1309045.943,
+            "bbox": [
+                1291.44,
+                736.51,
+                1004.94,
+                1302.6110440461991
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--12\">글의 흐름상 ⑤에 들어가는 것이 자연스럽다.</span></div>",
+            "text": "글의 흐름상 ⑤에 들어가는 것이 자연스럽다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5205320435308344,
+                0.20989170703904245,
+                0.40505441354292626,
+                0.37122001825198037
+            ],
+            "image_id": 2,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -13,
+            "area": 272009.275,
+            "bbox": [
+                187.22239972190198,
+                2343.7371204089222,
+                723.6711868265588,
+                375.87412587412564
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07546247469645384,
+                0.6679216644083563,
+                0.29168528288051543,
+                0.107117163258514
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -14,
+            "area": 272009.275,
+            "bbox": [
+                187.22239972190198,
+                2343.7371204089222,
+                723.6711868265588,
+                375.87412587412564
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--14\">제조업체들은 우리의 장치가 충분하지 않다는 의심을 교묘하게 만들어 욕구와 필요성의 경계를 흐리게 하며, 진정한 필요성이 없음에도 불구하고 소비자의 욕망과 재정적 우선순위를 형성한다.<br>글은 제조업체가 소비자들에게 현재 장치의 적절성에 대한 의문을 심어주어 끊임없는 업그레이드 욕구를 유발한다고 설명하고 있다. 따라서 (A)와 (B)에 들어갈 말로 가장 적절한 것은 ④ &apos;흐릿하게 하다 / 없음&apos;이다.<br>① 강조하다 ...... 제거 <br>② 강화하다 ...... 부재 <br>③ 흐릿하게 하다 ...... 존재 <br>⑤ 제거하다 ...... 의심</span></div>",
+            "text": "제조업체들은 우리의 장치가 충분하지 않다는 의심을 교묘하게 만들어 욕구와 필요성의 경계를 흐리게 하며, 진정한 필요성이 없음에도 불구하고 소비자의 욕망과 재정적 우선순위를 형성한다.<br>글은 제조업체가 소비자들에게 현재 장치의 적절성에 대한 의문을 심어주어 끊임없는 업그레이드 욕구를 유발한다고 설명하고 있다. 따라서 (A)와 (B)에 들어갈 말로 가장 적절한 것은 ④ &apos;흐릿하게 하다 / 없음&apos;이다.<br>① 강조하다 ...... 제거 <br>② 강화하다 ...... 부재 <br>③ 흐릿하게 하다 ...... 존재 <br>⑤ 제거하다 ...... 의심",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07546247469645384,
+                0.6679216644083563,
+                0.29168528288051543,
+                0.107117163258514
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -15,
+            "area": 1498431.199,
+            "bbox": [
+                1291.4232594718812,
+                546.8936633038264,
+                997.1670945589697,
+                1502.6881720430101
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5205252960386462,
+                0.15585456349496335,
+                0.4019214407734662,
+                0.4282382935431776
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -16,
+            "area": 1498431.199,
+            "bbox": [
+                1291.4232594718812,
+                546.8936633038264,
+                997.1670945589697,
+                1502.6881720430101
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--16\">indifferent를 different와 같은 단어로 바꿔야 한다.</span></div>",
+            "text": "indifferent를 different와 같은 단어로 바꿔야 한다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5205252960386462,
+                0.15585456349496335,
+                0.4019214407734662,
+                0.4282382935431776
+            ],
+            "image_id": 3,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -17,
+            "area": 126885.353,
+            "bbox": [
+                190.40406972907567,
+                2086.7030000286286,
+                957.5120080433649,
+                132.51567817873365
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07674488904839809,
+                0.5946717013475715,
+                0.385937931496721,
+                0.0377645135875559
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -18,
+            "area": 126885.353,
+            "bbox": [
+                190.40406972907567,
+                2086.7030000286286,
+                957.5120080433649,
+                132.51567817873365
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--18\">(C) - (A) - (B)로 이어지는 것이 자연스럽다.</span></div>",
+            "text": "(C) - (A) - (B)로 이어지는 것이 자연스럽다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07674488904839809,
+                0.5946717013475715,
+                0.385937931496721,
+                0.0377645135875559
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -19,
+            "area": 282382.036,
+            "bbox": [
+                1293.7000000000003,
+                2462.4080604152696,
+                729.1700000000001,
+                387.265021807033
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5214429665457478,
+                0.701740684073887,
+                0.2939016525594519,
+                0.11036335759676062
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -20,
+            "area": 282382.036,
+            "bbox": [
+                1293.7000000000003,
+                2462.4080604152696,
+                729.1700000000001,
+                387.265021807033
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--20\">[해설]<br>→ 필요한 자원에 대한 인식 부족은 학생들의 창의성을 저해할 수 있지만, 이러한 자원을 사전에 파악하면 과제 수행에 도움이 되고, 더 나은 준비를 할 수 있으며, 특정 자원이 이용할 수 없을 때 창의적인 대안을 모색하도록 독려할 수 있다.<br>글은 학생들이 학습에 필요한 자원을 미리 파악하는 것이 그들의 창의 력을 돕고, 자원이 부족할 경우 대체 자원을 찾는 방법을 개발할 수 있다고 설명한다. 따라서 (A)와 (B)에 들어갈 말로 가장 적절한 것은 ③ &apos;인식 / 이용할 수 없는&apos;이다.<br>① 자각 부족 …… 접근할 수 없는<br>② 지식 …… 관련 없는<br>④ 이해 …… 식별 가능한<br>⑤ 도움 …… 동일한</span></div>",
+            "text": "[해설]<br>→ 필요한 자원에 대한 인식 부족은 학생들의 창의성을 저해할 수 있지만, 이러한 자원을 사전에 파악하면 과제 수행에 도움이 되고, 더 나은 준비를 할 수 있으며, 특정 자원이 이용할 수 없을 때 창의적인 대안을 모색하도록 독려할 수 있다.<br>글은 학생들이 학습에 필요한 자원을 미리 파악하는 것이 그들의 창의 력을 돕고, 자원이 부족할 경우 대체 자원을 찾는 방법을 개발할 수 있다고 설명한다. 따라서 (A)와 (B)에 들어갈 말로 가장 적절한 것은 ③ &apos;인식 / 이용할 수 없는&apos;이다.<br>① 자각 부족 …… 접근할 수 없는<br>② 지식 …… 관련 없는<br>④ 이해 …… 식별 가능한<br>⑤ 도움 …… 동일한",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5214429665457478,
+                0.701740684073887,
+                0.2939016525594519,
+                0.11036335759676062
+            ],
+            "image_id": 4,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -21,
+            "area": 1291455.716,
+            "bbox": [
+                187.62000000000006,
+                492.25107488906656,
+                996.31,
+                1296.2388373129052
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07562273276904477,
+                0.14028243798491494,
+                0.40157597742845624,
+                0.3694040573704489
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -22,
+            "area": 1291455.716,
+            "bbox": [
+                187.62000000000006,
+                492.25107488906656,
+                996.31,
+                1296.2388373129052
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--22\">done을 been done으로 바꿔야 적절하다.</span></div>",
+            "text": "done을 been done으로 바꿔야 적절하다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07562273276904477,
+                0.14028243798491494,
+                0.40157597742845624,
+                0.3694040573704489
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -23,
+            "area": 1221233.738,
+            "bbox": [
+                1297.184142820071,
+                934.8067875490568,
+                994.8412846771948,
+                1227.5664034457996
+            ],
+            "html": "<div class=\"answer\">⑤</div>",
+            "text": "⑤",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.522847296582052,
+                0.2664026182812929,
+                0.40098399221168674,
+                0.34983368579247637
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -24,
+            "area": 1221233.738,
+            "bbox": [
+                1297.184142820071,
+                934.8067875490568,
+                994.8412846771948,
+                1227.5664034457996
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--24\">글의 흐름상 ⑤에 들어가는 것이 자연스럽다.</span></div>",
+            "text": "글의 흐름상 ⑤에 들어가는 것이 자연스럽다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.522847296582052,
+                0.2664026182812929,
+                0.40098399221168674,
+                0.34983368579247637
+            ],
+            "image_id": 5,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -25,
+            "area": 260360.587,
+            "bbox": [
+                190.9864852714528,
+                2410.378576332891,
+                670.1030600462154,
+                388.5381253035448
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07697963936777623,
+                0.6869132448939559,
+                0.27009393794688247,
+                0.11072616851055708
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -26,
+            "area": 260360.587,
+            "bbox": [
+                190.9864852714528,
+                2410.378576332891,
+                670.1030600462154,
+                388.5381253035448
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--26\">[해설] <br>→ Weber의 법칙은 자극 사이의 차이를 인지하는 능력이 그 크기나 강도에 따라 달라지며, 더 큰 자극은 더 큰 차이가 필요하지만, 더 작은 자극은 미세한 차이를 쉽게 감지할 수 있음을 설명한다. <br>글은 웨버의 법칙이 더 큰 자극일수록 차이를 인식하기 어렵고, 더 작은 자극은 차이를 더 쉽게 인식할 수 있음을 설명하고 있다. 따라서 (A)와 (B)에 들어갈 말로 가장 적절한 것은 ② &apos;인지하다 / 미세한&apos;이다. <br>① 대조하다 …… 큰 ③ 통합하다 …… 보통의 ④ 식별하다 …… 거대한 ⑤ 결합하다 …… 사소한</span></div>",
+            "text": "[해설] <br>→ Weber의 법칙은 자극 사이의 차이를 인지하는 능력이 그 크기나 강도에 따라 달라지며, 더 큰 자극은 더 큰 차이가 필요하지만, 더 작은 자극은 미세한 차이를 쉽게 감지할 수 있음을 설명한다. <br>글은 웨버의 법칙이 더 큰 자극일수록 차이를 인식하기 어렵고, 더 작은 자극은 차이를 더 쉽게 인식할 수 있음을 설명하고 있다. 따라서 (A)와 (B)에 들어갈 말로 가장 적절한 것은 ② &apos;인지하다 / 미세한&apos;이다. <br>① 대조하다 …… 큰 ③ 통합하다 …… 보통의 ④ 식별하다 …… 거대한 ⑤ 결합하다 …… 사소한",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07697963936777623,
+                0.6869132448939559,
+                0.27009393794688247,
+                0.11072616851055708
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -27,
+            "area": 1285025.423,
+            "bbox": [
+                1284.8199999999997,
+                542.2000000000013,
+                1022.96,
+                1256.1834510867188
+            ],
+            "html": "<div class=\"answer\">⑤</div>",
+            "text": "⑤",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5178637646110438,
+                0.1545169563978345,
+                0.41231761386537685,
+                0.3579890142737871
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -28,
+            "area": 1285025.423,
+            "bbox": [
+                1284.8199999999997,
+                542.2000000000013,
+                1022.96,
+                1256.1834510867188
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--28\">eliminate를 regenerate와 같은 단어로 바꿔야 한다.</span></div>",
+            "text": "eliminate를 regenerate와 같은 단어로 바꿔야 한다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5178637646110438,
+                0.1545169563978345,
+                0.41231761386537685,
+                0.3579890142737871
+            ],
+            "image_id": 6,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -29,
+            "area": 142585.17,
+            "bbox": [
+                149.4343213504124,
+                2279.0015854553617,
+                1012.6342838523501,
+                140.8061844284921
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.0602314878478083,
+                0.649473236094432,
+                0.4081556968369005,
+                0.04012715429709093
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -30,
+            "area": 142585.17,
+            "bbox": [
+                149.4343213504124,
+                2279.0015854553617,
+                1012.6342838523501,
+                140.8061844284921
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--30\">(B) - (C) - (A)로 이어지는 것이 자연스럽다.</span></div>",
+            "text": "(B) - (C) - (A)로 이어지는 것이 자연스럽다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.0602314878478083,
+                0.649473236094432,
+                0.4081556968369005,
+                0.04012715429709093
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -31,
+            "area": 561597.625,
+            "bbox": [
+                1281.0104779920837,
+                2058.4457412889064,
+                1084.4182715790123,
+                517.879161528977
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5163282861717386,
+                0.5866189060384458,
+                0.4370891864486144,
+                0.14758596794784182
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -32,
+            "area": 561597.625,
+            "bbox": [
+                1281.0104779920837,
+                2058.4457412889064,
+                1084.4182715790123,
+                517.879161528977
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--32\">글은 과학 이론이 때로는 창의적인 요소를 포함하며, 이를 무시하면 이론이 잘못 적용된 상황을 오해할 수 있다고 설명하고 있다. 따라서 빈칸에 들어갈 말로 가장 적절한 것은 ③ &apos;misunderstanding a situation to which it ill applies(잘못 적용된 상황을 오해하다)&apos;이다.<br>① 창의성을 순수한 객관적 사실로 대체하다<br>② 과학적 모델의 정확성을 확인하다<br>④ 과학적 증거의 정확한 해석을 제공하다<br>⑤ 대체 설명이나 해석을 고려하다</span></div>",
+            "text": "글은 과학 이론이 때로는 창의적인 요소를 포함하며, 이를 무시하면 이론이 잘못 적용된 상황을 오해할 수 있다고 설명하고 있다. 따라서 빈칸에 들어갈 말로 가장 적절한 것은 ③ &apos;misunderstanding a situation to which it ill applies(잘못 적용된 상황을 오해하다)&apos;이다.<br>① 창의성을 순수한 객관적 사실로 대체하다<br>② 과학적 모델의 정확성을 확인하다<br>④ 과학적 증거의 정확한 해석을 제공하다<br>⑤ 대체 설명이나 해석을 고려하다",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5163282861717386,
+                0.5866189060384458,
+                0.4370891864486144,
+                0.14758596794784182
+            ],
+            "image_id": 7,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -33,
+            "area": 1510836.115,
+            "bbox": [
+                178.99999999999983,
+                498.7500000000001,
+                1011.74,
+                1493.3047173358204
+            ],
+            "html": "<div class=\"answer\">④</div>",
+            "text": "④",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07214832728738405,
+                0.14213451125676835,
+                0.40779524385328497,
+                0.42556418276882885
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -34,
+            "area": 1510836.115,
+            "bbox": [
+                178.99999999999983,
+                498.7500000000001,
+                1011.74,
+                1493.3047173358204
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--34\">what을 that으로 바꿔야 적절하다.</span></div>",
+            "text": "what을 that으로 바꿔야 적절하다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07214832728738405,
+                0.14213451125676835,
+                0.40779524385328497,
+                0.42556418276882885
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -35,
+            "area": 1323504.513,
+            "bbox": [
+                1288.17,
+                812.9099999999988,
+                1015.4499999999998,
+                1303.367485832655
+            ],
+            "html": "<div class=\"answer\">②</div>",
+            "text": "②",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5192140266021765,
+                0.2316642918210313,
+                0.40929060862555416,
+                0.37143559014894695
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -36,
+            "area": 1323504.513,
+            "bbox": [
+                1288.17,
+                812.9099999999988,
+                1015.4499999999998,
+                1303.367485832655
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--36\">글의 흐름상 ②에 들어가는 것이 자연스럽다.</span></div>",
+            "text": "글의 흐름상 ②에 들어가는 것이 자연스럽다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5192140266021765,
+                0.2316642918210313,
+                0.40929060862555416,
+                0.37143559014894695
+            ],
+            "image_id": 8,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -37,
+            "area": 415896.189,
+            "bbox": [
+                175.96730614995965,
+                1856.4929840337875,
+                1037.673908466039,
+                400.7966143888473
+            ],
+            "html": "<div class=\"answer\">①</div>",
+            "text": "①",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07092595975411514,
+                0.5290661111524045,
+                0.4182482500870774,
+                0.11421961082611777
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -38,
+            "area": 415896.189,
+            "bbox": [
+                175.96730614995965,
+                1856.4929840337875,
+                1037.673908466039,
+                400.7966143888473
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--38\">글은 특정 사물이 색과 연관되었을 때, 그 색을 인식하는 방식에 인지적 요인이 영향을 미칠 수 있음을 설명하고 있다. 따라서 빈칸에 들어 갈 말로 가장 적절한 것은 ① &apos;influences how we perceive that color (우리가 그 색을 인식하는 방식에 영향을 미친다)&apos;이다.<br>② 색상을 정확하게 맞추는 것을 더 쉽게 만든다<br>③ 모든 색의 원래 인식을 유지한다 <br>④ 실제 물체의 색상에 영향을 미친다<br>⑤ 다른 물체들이 동일한 색상 강도로 인식되도록 한다</span></div>",
+            "text": "글은 특정 사물이 색과 연관되었을 때, 그 색을 인식하는 방식에 인지적 요인이 영향을 미칠 수 있음을 설명하고 있다. 따라서 빈칸에 들어 갈 말로 가장 적절한 것은 ① &apos;influences how we perceive that color (우리가 그 색을 인식하는 방식에 영향을 미친다)&apos;이다.<br>② 색상을 정확하게 맞추는 것을 더 쉽게 만든다<br>③ 모든 색의 원래 인식을 유지한다 <br>④ 실제 물체의 색상에 영향을 미친다<br>⑤ 다른 물체들이 동일한 색상 강도로 인식되도록 한다",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.07092595975411514,
+                0.5290661111524045,
+                0.4182482500870774,
+                0.11421961082611777
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -39,
+            "area": 1997448.052,
+            "bbox": [
+                1300.9900000000002,
+                553.6000000000003,
+                992.3284692596426,
+                2012.8899999999999
+            ],
+            "html": "<div class=\"answer\">③</div>",
+            "text": "③",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5243812978637648,
+                0.15776574522656034,
+                0.39997116858510384,
+                0.5736363636363636
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "category_id": 9
+        },
+        {
+            "id": -40,
+            "area": 1997448.052,
+            "bbox": [
+                1300.9900000000002,
+                553.6000000000003,
+                992.3284692596426,
+                2012.8899999999999
+            ],
+            "html": "<div class=\"explanation\"><span class=\"bbox--40\">indifferent를 different와 같은 단어로 바꿔야 한다.</span></div>",
+            "text": "indifferent를 different와 같은 단어로 바꿔야 한다.",
+            "iscrowd": 0,
+            "bbox_rel": [
+                0.5243812978637648,
+                0.15776574522656034,
+                0.39997116858510384,
+                0.5736363636363636
+            ],
+            "image_id": 9,
+            "workInfos": [],
+            "category_id": 9
+        }
+    ]
+}
