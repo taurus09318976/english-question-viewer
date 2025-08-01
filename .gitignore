@@ -1,0 +1,32 @@
+# 대용량 파일 제외
+output/
+
+# 시스템 파일
+.DS_Store
+Thumbs.db
+
+# 에디터 설정
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 로그 파일
+*.log
+npm-debug.log*
+
+# 임시 파일
+*.tmp
+*.temp
+
+# Node.js (필요한 경우)
+node_modules/
+package-lock.json
+yarn.lock
+
+# 환경 설정
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local 
