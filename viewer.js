@@ -178,8 +178,9 @@ class EnglishQuestionViewer {
         let metaInfo = '';
         const itemCount = data.items ? data.items.length : 0;
         const annotationCount = data.annotations ? data.annotations.length : 0;
+        const imageCount = data.images ? data.images.length : 0;
         
-        metaInfo = `문항 수: ${itemCount}개 | 주석 수: ${annotationCount}개`;
+        metaInfo = `문항 수: ${itemCount}개 | 주석 수: ${annotationCount}개 | 페이지 수: ${imageCount}개`;
         if (data.info && data.info.provider) {
             metaInfo += ` | 제공자: ${data.info.provider}`;
         }
@@ -209,9 +210,23 @@ class EnglishQuestionViewer {
             
             const questionHeader = document.createElement('div');
             questionHeader.className = 'question-header';
+            
+            // 이미지 정보 가져오기
+            const imageInfo = this.getImageInfo(item.imageIds, data.images);
+            const imageInfoHtml = imageInfo.length > 0 
+                ? `<div class="image-info" style="margin-top: 5px; font-size: 0.85rem; color: #666;">
+                     📄 ${imageInfo.map(img => img.file_name).join(', ')}
+                   </div>`
+                : '';
+            
             questionHeader.innerHTML = `
-                <span class="question-number">문항 ${item.id || index + 1}</span>
-                <span class="question-type">${item.answerType || 'Unknown'}</span>
+                <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+                    <div>
+                        <span class="question-number">문항 ${item.id || index + 1}</span>
+                        ${imageInfoHtml}
+                    </div>
+                    <span class="question-type">${item.answerType || 'Unknown'}</span>
+                </div>
             `;
             
             questionContainer.appendChild(questionHeader);
@@ -274,6 +289,16 @@ class EnglishQuestionViewer {
     findAnnotation(annotationId, annotations) {
         if (!annotations) return null;
         return annotations.find(ann => ann.id === annotationId);
+    }
+
+    // 이미지 정보 가져오기
+    getImageInfo(imageIds, images) {
+        if (!imageIds || !images || imageIds.length === 0) return [];
+        
+        return imageIds.map(imageId => {
+            const image = images.find(img => img.id === imageId);
+            return image || null;
+        }).filter(img => img !== null);
     }
 
     // Annotation 콘텐츠 생성
@@ -352,8 +377,34 @@ class EnglishQuestionViewer {
             const titleH3 = document.createElement('h3');
             titleH3.textContent = `문항 ${item.id || index + 1}`;
             titleH3.style.color = '#667eea';
-            titleH3.style.marginBottom = '15px';
+            titleH3.style.marginBottom = '10px';
             questionDiv.appendChild(titleH3);
+
+            // 이미지 정보 추가
+            const imageInfo = this.getImageInfo(item.imageIds, data.images);
+            if (imageInfo.length > 0) {
+                const imageInfoDiv = document.createElement('div');
+                imageInfoDiv.style.fontSize = '0.9rem';
+                imageInfoDiv.style.color = '#666';
+                imageInfoDiv.style.marginBottom = '15px';
+                imageInfoDiv.style.padding = '8px';
+                imageInfoDiv.style.backgroundColor = '#f0f4ff';
+                imageInfoDiv.style.borderLeft = '3px solid #667eea';
+                imageInfoDiv.style.borderRadius = '3px';
+                
+                const imageList = imageInfo.map(img => {
+                    const fileName = img.file_name;
+                    const pageType = img.page_type || 'Unknown';
+                    const dimensions = `${img.width}×${img.height}`;
+                    return `📄 <strong>${fileName}</strong> (${pageType}, ${dimensions}px)`;
+                }).join('<br>');
+                
+                imageInfoDiv.innerHTML = `
+                    <strong>📁 원본 이미지:</strong><br>
+                    ${imageList}
+                `;
+                questionDiv.appendChild(imageInfoDiv);
+            }
 
             // 각 영역별로 처리
             const sections = [
